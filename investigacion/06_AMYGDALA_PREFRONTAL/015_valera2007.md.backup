@@ -1,0 +1,1296 @@
+---
+# doi:10.1016/j.biopsych.2006.06.011
+**Autores**: Not specified
+**Año**: 2005
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Not found
+
+## Key Findings
+Discussion
+This meta-analysis provides a quantitative analysis of the
+structural imaging findings for ADHD youth. By conducting
+meta-analyses for each ROI, we demonstrated that the brain
+regions most frequently assessed and showing the largest and
+most significant area or volumetric reductions relative to control
+subjects include cerebellar ROIs, in particular the posterior
+inferior vermis, as well as the splenium of the CC, total and right
+cerebral volume, and right caudate. Regions of interest assessed
+in only two studies but which show large significant differences
+between ADHD and control groups include prefrontal and other
+frontal lobe ROIs, as well as deep frontal white matter.
+We also show that there are ROIs that have been assessed in
+at least three studies but do not show statistically significant
+differences relative to the control subjects. These include left
+cerebral volume, bilateral prefrontal gray and white matter, total
+and all non–splenium regions of the CC, anterior a... (Extracted from Discussion)
+
+## Methodology
+Methods: We searched the MEDLINE and PsycINFO databases through January 2005. Studies must have been written in English, used
+magnetic resonance imaging, and presented the means and standard deviations of regions assessed. Data were extracted by one of the
+authors and veriﬁed independently by another author.
+
+## Results
+Results: Analyses were performed using STATA with metan, metabias, and metainf programs. A meta-analysis including all regions across
+all studies indicated global reductions for ADHD subjects compared with control subjects, standardized mean difference  .408, p  .001.
+Regions most frequently assessed and showing the largest differences included cerebellar regions, the splenium of the corpus callosum,
+total and right cerebral volume, and right caudate. Several frontal regions assessed in only two studies also showed large signiﬁcant
+differences.
+
+## Clinical Significance
+Conclusions: This meta-analysis provides a quantitative analysis of neuroanatomical abnormalities in ADHD and information that can be
+used to guide future studies.
+Key Words: ADHD, cerebellum, corpus callosum, meta-analysis,
+MRI, structural imaging
+A
+ttention-deficit/hyperactivity disorder (ADHD) is charac-
+terized by age inappropriate symptoms of inattention
+and/or hyperactivity or impulsivity which occur for at
+least 6 months in at least two domains of life and begin prior to
+the age of 7 (American Psychiatric Association 1994; Faraone
+2005). It is estimated that ADHD affects approximately 8% to 12%
+of school-aged (6 –12 years) children (Faraone et al. 2003) and
+5% of adults (Faraone and Biederman 2005; Faraone et al. 2006;
+Kessler et al. 2006). Impairments associated with ADHD have
+been found across the life span in areas such as academics
+(Biederman et al. 1993; Seidman et al. 1998), socioeconomic
+status and employment (Borland and Heckman 1976; Murphy
+and Barkley 1996a, 1996b), family life (Murphy and Barkley
+1996a), and mental health, including greater rates of disruptive
+behaviors, oppositional and conduct disorders, and substance
+use disorders (Biederman et al. 1993; McGough et al. 2005).
+There is now a plethora of psychopharmacological, genetic,
+neuropsychological, structural, and functional imaging data that
+provide a strong foundation for a network, or possibly several
+networks, of neurobiological abnormalities resulting in ADHD
+symptomatology. For example, imbalances in the noradrenergic
+and dopaminergic systems are the targets of pharmacological
+treatment of ADHD symptoms (Pliszka 2005). Also, ADHD is a
+highly heritable disorder and several genes have been implicated
+in its etiology (Faraone 2004a; Faraone et al. 2005). Performance
+on neuropsychological tasks has been largely suggestive of
+fronto-subcortical abnormalities, often demonstrating executive
+dysfunctions (Hervey et al. 2004), and as reviewed recently
+(Bush et al. 2005; Seidman et al. 2005), structural and functional
+neuroimaging data show abnormalities throughout the ADHD
+brain. In short, ADHD has been increasingly recognized as a
+neurobiological disorder. In light of these data, increasing our
+understanding of the overall neurobiology, including the neuro-
+anatomical correlates, of ADHD is important. Some studies have
+already demonstrated that structural abnormalities are related to
+functional impairments (Casey et al. 1997; Castellanos et al.
+2002), and other studies have demonstrated that treating biolog-
+ical abnormalities can lead to improvements in such functional
+impairments (Mehta et al. 2004; Turner et al. 2004). Using
+converging data from structural, functional, and other experi-
+mental studies of ADHD will help us pinpoint problematic brain
+regions and focus treatment approaches on regions that appear
+to be most abnormal.
+There are now a number of published structural imaging
+studies assessing volume or area differences of brain regions
+between ADHD and control individuals. Notably, only one of
+these studies includes adults and the rest include children and
+adolescents. Although many of these studies indicate that there
+are significant reductions in ADHD brain regions, there are
+inconsistencies across studies such that one study finds an ADHD
+brain region to be smaller but another study does not (Seidman
+et al. 2005). For example, whereas Semrud-Clikeman et al. (1994)
+found smaller area measurements for the splenium of the corpus
+callosum for ADHD individuals relative to control subjects,
+Giedd et al. (1994) found no splenium differences. Inconsisten-
+cies across studies are also notable for the caudate, with individ-
+ual studies finding either equal (Hill et al. 2003), larger (Mataro
+et al. 1997), or smaller (Hynd et al. 1993) caudate measurements
+in ADHD individuals relative to control subjects. Furthermore, it
+From the Department of Psychiatry (EMV, LJS), Massachusetts General Hos-
+pital and Harvard Medical School, Boston, Massachusetts; Medical Ge-
+netics Research Center and Department of Psychiatry (SVF), SUNY Up-
+state Medical Center, Syracuse, New York; Department of Psychology
+(KEM), Arizona State University, Tempe, Arizona; and Department of
+Psychiatry (LJS), Massachusetts Mental Health Center Public Psychiatry
+Division of the Beth Israel Deaconess Medical Center, Boston, Massachu-
+setts.
+Address reprint requests to Eve M. Valera, Ph.D., Massachusetts General
+Hospital, MGH-Psychiatry, Room 2651, 149 Thirteenth Street, Charles-
+town, MA 02129; E-mail: eve_valera@hms.harvard.edu.
+Received January 4, 2006; revised May 1, 2006; accepted June 5, 2006.
+BIOL PSYCHIATRY 2007;61:1361–1369
+0006-3223/07/$32.00
+doi:10.1016/j.biopsych.2006.06.011
+© 2007 Society of Biological Psychiatry
+is unclear which brain regions may have the greatest differences
+relative to control subjects. More specifically, structural studies
+indicate that the four major lobes (frontal, parietal, occipital, and
+temporal) (Castellanos et al. 2002), caudate (Castellanos et al.
+2002; Filipek et al. 1997), cerebellum (Berquin et al. 1998;
+Castellanos et al. 2001), and regions of the corpus callosum (CC)
+(Giedd et al. 1994; Hynd et al. 1991), among other regions, are
+smaller in ADHD children and adolescents compared with
+control subjects. However, it is unclear whether all of these
+structural reductions are equal in magnitude or whether some
+reductions are larger than others. Given the numerous regions
+within the ADHD brain that have been found to be abnormal
+(e.g., total cerebrum, all four major lobes, cerebellum, caudate,
+globus pallidus, CC), it is important to gain a knowledge of
+which brain regions may be most abnormal (i.e., have greatest
+differences from normal control subjects) to focus research and
+clinical treatment efforts on brain regions that are likely to have
+the greatest impact in terms of understanding or effectively
+treating ADHD symptoms. A meta-analysis can help answer what
+brain regions these may be and help resolve the inconsistencies
+noted above.
+There have been a number of reviews on structural imaging
+findings in ADHD (Durston 2003; Seidman et al. 2005) but there
+have been no meta-analyses. A meta-analysis has advantages
+over qualitative reviews or individual study results because the
+magnitude of differences within each study can be pooled
+across all studies assessing that region while using variables such
+as sample size to weigh the degree to which each study contributes
+to an overall difference score. Therefore, results for regions
+whose findings have been equivocal can be quantitatively com-
+bined to create a weighted best estimate of the true difference
+between groups for that region. Since the results for each region
+are in a common metric (i.e., an effect size), one can then
+compare across regions to determine which ones show the
+greatest differences between groups. Thus, we performed a
+meta-analysis of structural neuroimaging data in ADHD to help
+clarify inconsistent findings and determine which brain regions
+show the most robust structural differences between ADHD and
+control groups. When possible, we also assessed for potential
+sources of heterogeneity (e.g., age) that might be influencing the
+meta-analyses effect sizes.
+Methods and Materials
+We searched the MEDLINE (PubMed) and PsycINFO data-
+bases, using the key words ADHD, attention-deficit/hyperactivity
+disorder, attention deficit disorder, hyperkinetic disorder, neuro-
+imaging, structural imaging, imaging, magnetic resonance imag-
+ing, and MRI. Citations from identified articles were also searched
+for relevant studies. We placed no limit on year of publication
+and the search was completed in January of 2005. To be
+included, studies must have been written in English, used
+magnetic resonance imaging (MRI) (e.g., computed tomography
+scan studies were not included because of the relatively poor
+spatial resolution of the images), and must have presented the
+volume or area means and standard deviations of the regions of
+interest (ROIs) assessed in both the ADHD and control groups.
+Studies were excluded if they: 1) only included structural data
+that was also included in a larger published study; 2) only
+included brain ratios or only assessed structure widths; 3) had
+brain regions delineated by voxel based morphometry (VBM); or
+4) included twins or siblings as the only control group. Also,
+since there was only one study of adults (Hesslinger et al. 2002)
+with a small sample, and all other studies were of children and
+adolescents, this study was not included in the analyses. After
+excluding studies based on these criteria, 21 studies were
+identified as being appropriate for inclusion in the meta-analysis.
+One of these studies (Pineda et al. 2002) provided data for two
+samples of ADHD children resulting in a total of 22 samples for
+which ROIs were compared between ADHD and control groups.
+Data were extracted by one of the authors (K.E.M.) and inde-
+pendently verified by another author (E.M.V.).
+Analyses were performed using STATA, version 8 (Stata
+Corporation, College Station, Texas, 2003) by means of the
+metan, metabias, and metainf programs. Effect sizes for each
+dependent measure in each study were expressed as the stan-
+dardized mean difference (SMD) between the ADHD and control
+area or volume for each region. Standardized mean differences
+were computed using Cohen’s (1988) method as the difference
+between means divided by the pooled standard deviation. We
+did not use Hedge’s correction for small samples because
+Cohen’s d is more widely understood and the samples were
+sufficiently large according to the criteria of Green and Hall
+(1984) (see also Hunter and Schmidt 2004). We used the
+q-statistics to assess heterogeneity among studies for all ROIs in
+every study, as well as for each ROI individually, to determine
+the likelihood that the differences between studies could occur
+by chance alone. The meta-analyses were performed using the
+random effects model of DerSimonian and Laird (1986). Under
+this model, the effects are assumed to have a normal distribution
+with the mean equal to the pooled effect size and a variance
+estimated from the data as a function of the number of studies,
+the q-statistic, and the weight for each study. Studies were
+weighted by the precision of their SMD estimate (which is
+proportional to the study sample size). To determine if the results
+of the meta-analysis were unduly influenced by one study, we
+conducted a sensitivity analysis by recomputing the pooled
+SMD after deleting each study observation of volumetric or
+area differences one at a time. We assessed publication bias
+(i.e., whether the available literature is biased toward exclud-
+ing negative studies) using the method of Egger et al. (1997).
+This method regresses the effect size (the effect size divided
+by its standard error) against the precision of the SMD (the
+inverse of its standard error). We conducted Egger’s tests and
+influence analyses on meta-analyses with at least three studies.
+Finally, when possible (i.e., enough studies were present to
+generate reasonable power), meta-analytic regression (using
+metareg) was used to test whether effect sizes were influenced
+by specific study design features (e.g., age of sample).
+Listed in Table 1 are demographic and other descriptive data
+for each of the 21 studies. Across the 21 studies included in this
+meta-analysis, there were a total of 565 ADHD subjects and 583
+control subjects. The mean and modal Ns across the studies were
+25.7 and 15, respectively, for the ADHD subjects and 27.8 and 15
+for the control subjects. The mean age and age range were 11.0
+(9.08–14.6) for ADHD and 11.3 (9.3–14.8) for control subjects.
+The majority of subjects studied were male. Half (11 of 22) of the
+ADHD samples were 100% male and 10 of the 22 control samples
+were 100% male. Across studies, the mean percentage of male
+ADHD and control subjects was 81.2% and 81.3%, respectively. A
+1.5 Tesla magnet was used in all studies except for those of Hynd
+et al. (1990, 1991, 1993), for which a .6 Tesla magnet was used.
+For ADHD diagnoses, 9 samples used DSM-IV criteria, 12 sam-
+ples used DSM-III-R criteria, and 1 sample used both DSM-IV and
+DSM-III-R criteria. Lyoo et al. (1996) presented two sets of data.
+One included subjects who were diagnosed using DSM-III-R
+1362
+BIOL PSYCHIATRY 2007;61:1361–1369
+E.M. Valera et al.
+www.sobp.org/journal
+criteria via the Diagnostic Interview Schedule for Children
+(DISC-C) (Costello et al. 1985) and another included subjects
+who were diagnosed based on chart review and/or DISC-C
+diagnoses. We only included the sample that included all
+subjects diagnosed via the DISC-C. Ten studies used only
+volumetric measurements, 8 studies used area measurements,
+and 4 studies used both volume and area measurements. With
+the exception of three studies, all area measurements were
+used for the CC, cerebellum, and caudate. Most ADHD and
+control samples were either matched explicitly on or showed
+no statistically significant differences between groups on age,
+sex, and handedness. Almost half of the samples were statis-
+tically matched on full or estimated intelligence quotient (IQ)
+and approximately 25% to 30% of the samples were matched on
+height, weight, or Tanner stage (a measure of physical develop-
+ment). Although several other matching criteria were used, they
+were used less frequently.
+The divisions of the ROIs varied considerably across the 21
+studies. For example, whereas one study (Mostofsky et al. 2002)
+presented data for the total parietal lobe, other studies (Castel-
+lanos et al. 2002; Durston et al. 2004) presented data separately
+for left and right parietal lobe or parietal gray and parietal white.
+Since the divisions used to measure the ROIs are meaningfully
+different between studies, many of them could not be included in
+a meta-analysis to compute an SMD across studies. Nonetheless,
+64 ROIs were assessed enough times (i.e., more than once) to be
+included in the meta-analyses. To present the data in the most
+comprehensive yet meaningful way possible, we ran two sets of
+meta-analyses. One set included ROIs that were assessed in at
+least three studies, and another set included ROIs that were
+assessed in only two studies. We recommend that the meta-
+analyses of ROIs that include data from only two studies be
+interpreted cautiously. However, in an effort to be more inclusive
+and comprehensive, we felt it was important to include data
+for these ROIs. There were 33 ROIs that were assessed in at
+least three studies and 31 ROIs that were assessed in only two
+studies. We used Holm’s (1979) method to correct for multiple
+comparisons.
+There are two different segmentation methods that have been
+used for defining and measuring the different regions of the CC.
+The Witelson (1989) method divides the CC into seven ROIs:
+rostrum, genu, rostral body, anterior midbody, posterior mid-
+body, isthmus, and splenium. The O’Kusky et al. (1988) method
+divides the CC into only five ROIs: genu, rostral body, midbody,
+isthmus/posterior body, and splenium. We therefore chose to
+analyze the CC data in two ways. One way was to conduct
+separate meta-analyses for each CC subsection for each method
+(i.e., measurements created using the Witelson [1989] method
+were not included in the meta-analyses of measurements created
+using the O’Kusky et al. [1988] method). We also conducted
+Table 1. Demographics
+Study and Year
+ADHD
+Control Subjects
+Matching of ADHD
+and Control
+Samplesa
+Magnet
+Strength
+(Tesla)
+Measure
+n
+Mean
+Age
+%
+Male
+Dx System
+n
+Mean
+Age
+%
+Male
+Aylward et al. 1996 
+10 
+11.3 
+100 
+DSM-III-R 
+11 
+10.7 
+100 
+1–3 
+1.5 
+Volume
+Baumgardner et al. 1996 
+13 
+11.3 
+100 
+DSM-III-R 
+27 
+10.8 
+78 
+1, 3 
+1.5 
+Area
+Berquin et al. 1998c 
+46 
+11.7 
+100 
+DSM-III-R 
+47 
+11.8 
+100 
+1–3, 6–8 
+1.5 
+Bothb
+Bussing et al. 2002 
+5 
+10.8 
+75 
+DSM-IV 
+19 
+9.8 
+74 
+1–3, 10–11 
+1.5 
+Volume
+Castellanos et al. 1996 
+57 
+11.7 
+100 
+DSM-III-R 
+55 
+12 
+100 
+1–3, 6–8 
+1.5 
+Both
+Castellanos et al. 2001 
+49–50 
+9.7 
+0 
+DSM-IV 
+49–50 
+10 
+0 
+1–4, 6–8 
+1.5 
+Volume
+Castellanos et al. 2002d 
+152 
+10.0 
+59 
+DSM-IV 
+139 
+10.5 
+60 
+1–2, 12 
+1.5 
+Volume
+Durston et al. 2004 
+30 
+12.1 
+100 
+DSM-IV 
+30 
+10.7 
+100 
+1–7, 13 
+1.5 
+Volume
+Filipek et al. 1997 
+15 
+12.4 
+100 
+DSM-III-R 
+15 
+14.4 
+100 
+1, 3–4 
+1.5 
+Volume
+Giedd et al. 1994 
+18 
+11.9 
+100 
+DSM-III-R 
+18 
+10.5 
+100 
+1, 3, 6–8 
+1.5 
+Area
+Hill et al. 2003 
+23 
+9.4 
+74 
+DSM-IV 
+24 
+9.4 
+67 
+1, 4–5, 9 
+1.5 
+Both
+Hynd et al. 1990 
+10 
+10.1 
+80 
+DSM-III-Re 
+10 
+11.8 
+80 
+1–3, 10 
+.6 
+Area
+Hynd et al. 1991 
+7 
+9.1 
+71 
+DSM-III-Re 
+10 
+11.8 
+80 
+3, 10 
+.6 
+Area
+Hynd et al. 1993 
+11 
+11.1 
+73 
+DSM-III-Re 
+11 
+11.0 
+55 
+1, 3, 10 
+.6 
+Area
+Kates et al. 2002 
+13 
+9.4 
+100 
+DSM-IV 
+13 
+10 
+100 
+1–2, 4 
+1.5 
+Volume
+Lyoo et al. 1996 
+25 
+12.5 
+84 
+DSM-III-R 
+20 
+12.2 
+85 
+1–4 
+1.5 
+Both
+Mataro et al. 1997 
+11 
+14.6 
+73 
+DSM-III-R 
+19 
+14.8 
+84 
+1, 4 
+1.5 
+Area
+Mostofsky et al. 1998 
+12 
+11.3 
+100 
+DSM-III-R or DSM-IV 
+23 
+11.3 
+100 
+1–2, 4 
+1.5 
+Area
+Mostofsky et al. 2002 
+12 
+10.1 
+100 
+DSM-IV 
+12 
+10.2 
+100 
+1–2 
+1.5 
+Volume
+Pineda et al. 2002 Hyp/Inf 
+15 
+9.3 
+47 
+DSM-IV 
+15 
+9.3 
+47 
+1–3, 5, 7–9, 14–15 
+1.5 
+Volume
+Pineda et al. 2002 Inatf 
+15 
+9.3 
+47 
+DSM-IV 
+15 
+9.3 
+47 
+1–3, 5, 7–9, 14–15 
+1.5 
+Volume
+Semrud-Clikeman et al. 1994 
+15 
+13.0 
+100 
+DSM-III-Re 
+15 
+14.5 
+100 
+1–4 
+1.5 
+Area
+ADHD, attention-deﬁcit/hyperactivity disorder; Dx, diagnostic; Hyp/In, combined inattentive and hyperactive sample; Inat, inattentive sample; IQ,
+intelligence quotient; ROI, region of interest.
+aMatching of ADHD and Control Samples  Demographic variables which were either explicitly stated as being matched or were assessed and showed no
+statistically signiﬁcant differences between the ADHD and Control groups: 1  age; 2  sex; 3  handedness; 4  IQ or IQ estimate; 5  SES; 6  Tanner stage;
+7  height; 8  weight; 9  grade; 10  race; 11  poverty; 12  birth weight; 13  education level of mother and father; 14  head circumference; 15 
+encephalic index.
+bBoth  used both volume and area measurements.
+cThe 46 ADHD subjects included in the Berquin et al. 1998 study were previously included in Castellanos et al. 1996. However, since Berquin et al. 1998
+assessed additional ROIs, we have included the additional regions measured by Berquin et al. 1998 in the meta-analysis.
+dCastellanos et al. 2002 mean age is the mean age at initial scan.
+eSubjects met criteria for DSM-III and DSM-III-R ADHD.
+fThe Pineda (2002) study is listed twice, as there are two different samples from this study.
+E.M. Valera et al.
+BIOL PSYCHIATRY 2007;61:1361–1369 1363
+www.sobp.org/journal
+meta-analyses that included both methods (i.e., all measure-
+ments of the splenium were included regardless of whether they
+were made using the O’Kusky et al. [1988] or Witelson [1989]
+method) so that we could maximize the number of studies in a
+single meta-analysis for each region assessed.
+Results
+A meta-analysis including all brain regions measured across
+all studies indicated global reductions for the ADHD subjects
+compared with control subjects, SMD  .408, Z  17.21, p 
+.001, 95% confidence interval (.361–.454). Not surprisingly, there
+was also significant heterogeneity across regions and studies,
+2  437.09, p  .001. Regions of interest that were assessed in
+at least three studies are shown in Tables 2 and 3. Table 2
+presents ROIs that yielded significant SMDs between ADHD and
+control subjects. Table 3 presents ROIs that were assessed in at
+least three reports and failed to yield significant SMDs. Also
+included in those tables are the total Ns across the studies for
+each ROI, the SMD statistics, and the results of the heterogeneity
+and publication bias tests.
+In Table 2, the region assessed most frequently, with eight
+studies, was total cerebral volume. This was followed by regions
+of the CC, caudate, and cerebellum. The SMDs indicate that the
+largest significant differences between ADHD and control indi-
+viduals are for cerebellar ROIs followed by the splenium, right
+and total cerebral volume, and the right caudate. Egger’s tests for
+all ROIs found no evidence for publication bias, and influence
+analysis tests indicated that no single study accounted for the
+significant SMDs in any of the meta-analyses.
+In Table 3, one can see that although other regions of the CC,
+as well as the total CC, are studied as frequently, or almost as
+frequently, as the splenium, they do not show significant differ-
+ences between ADHD and control subjects. Additionally, al-
+though other cerebellar vermal regions have been studied with
+relative frequency, they do not show statistically significant
+differences, as does the posterior inferior region of the vermis.
+We also point out that there are a number of ROIs that have
+medium to large SMDs (according to Cohen’s [1988] character-
+ization of large effect  .80, medium effect  .50, and small
+effect  .20) and p values less than .05 (e.g., bilateral prefrontal
+gray and right globus pallidus) but did not remain significant
+once Holm’s (1979) correction for multiple comparisons was
+applied. Despite medium SMDs for prefrontal white matter, there
+is significant heterogeneity indicating that although there are
+modest differences between ADHD and control groups within
+one or more individual studies, there is also a large degree of
+variability in results across studies for that ROI. Finally, one can
+see evidence of publication bias for bilateral prefrontal white
+matter and left prefrontal gray matter.
+Presented in Table 4 are ROIs that were assessed in only two
+studies and show significant SMDs between the ADHD and
+control subjects. The only ROIs with differences large and
+significant enough to withstand Holm’s (1979) correction for
+multiple comparisons are several frontal ROIs and the cerebellum.
+Notably, although there are only two measurements for each region,
+the frontal SMDs are quite large (all greater than 1.0).
+Table 5 indicates ROIs that were assessed in two studies and
+did not yield significant SMDs. Consistent with the lack of
+significant differences in all non–splenium CC measures using
+the Witelson (1989) method, the non–splenium CC regions using
+the O’Kusky et al. (1988) method do not show significant
+reductions either. Although frontal gray and white matter and
+premotor ROIs show substantial SMDs ranging from .59 to .75,
+they also show statistically significant levels of heterogeneity,
+indicating rather variable results across the two studies in each
+meta-analysis. Due to the lack of power for the meta-analyses in
+this table, we need to interpret these results with caution. For
+example, the measures of intracranial volume, frontal lobe, right
+amygdala, and the splenium using the O’Kusky et al. (1988)
+method failed to remain significant after correction for multiple
+comparisons. Similarly, the right putamen is at trend level signifi-
+cance and gray and white matter have medium-sized SMDs. Given
+that there were only two measures in these meta-analyses, we
+cannot rule out the possibility that the differences would be
+Table 2. Regions of Interest Assessed in at Least Three Studies That Yielded Signiﬁcant SMDs Between ADHD and Control Groups
+Brain Region
+Number
+of
+Studies
+Number of
+Subjects
+Volume or Area Difference
+Heterogeneity Publication Bias Egger’s
+ADHD
+Control
+SMD
+95% CI
+z
+p
+2
+p
+Coef
+p
+Studiesa
+Posterior Inferior Vermis,
+Lobules VIII-X
+5
+135
+163
+.774
+[.534
+1.010]
+6.31
+.001
+1.22
+.874
+.946
+.296
+[3, 4, 6, 11, 18]
+Cerebellar Vermis
+3
+107
+119
+.671
+[.246
+1.100]
+3.10
+.002
+4.42
+.110
+2.520
+.673
+[3, 6, 18]
+Splenium (W)
+4
+81
+77
+.593
+[.272
+.913]
+3.62
+.001
+2.46
+.482
+1.06
+.877
+[10, 11, 16, 22]
+Splenium (Both)
+6
+101
+114
+.592
+[.314
+.871]
+4.18
+.001
+2.53
+.772
+.700
+.747
+[2, 10, 11, 13, 16, 22]
+Total Cerebral Volume (R)
+3
+102
+100
+.500
+[.219
+.780]
+3.49
+.001
+.31
+.858
+.651
+.648
+[5, 8, 9]
+Total Cerebral Volumeb
+8
+251
+256
+.485
+[.199
+.772]
+3.32
+.001
+11.38
+.123
+.405
+.678
+[4, 7, 11, 12, 15, 16, 17, 19]
+Cerebellum (R)
+3
+137
+135
+.463
+[.222
+.704]
+3.77
+.001
+.16
+.925
+1.680
+.158
+[5, 6, 8]
+Cerebellum (L)
+3
+137
+135
+.431
+[.190
+.673]
+3.50
+.001
+2.01
+.366
+5.070
+.457
+[5, 6, 8]
+Caudate (R)
+6
+160
+174
+.344
+[.123
+.565]
+3.05
+.002
+5.04
+.411
+1.680
+.172
+[1, 4, 5, 6, 9, 11]
+Table is organized by size of SMD with the largest difference at the top of the table.
+SMD, standardized mean difference; ADHD, attention-deﬁcit/hyperactivity disorder; CI, conﬁdence interval; Coef, coefﬁcient; W, only includes studies
+which used the Witelson (1989) method for segmenting the corpus callosum; Both; includes studies that used either the Witelson (1989) or O’Kusky et al.
+(1988) method for segmenting the corpus callosum; R, right; L, left; ROI, region of interest.
+aStudies: [1] Aylward et al. 1996, [2] Baumgardner et al. 1996, [3] Berquin et al. 1998, [4] Bussing et al. 2002, [5] Castellanos et al. 1996, [6] Castellanos et al.
+2001, [7] Castellanos et al. 2002, [8] Durston et al. 2004, [9] Filipek et al. 1997, [10] Giedd et al. 1994, [11] Hill et al. 2003, [12] Hynd et al. 1990, [13] Hynd et al. 1991,
+[15] Kates et al. 2002, [16] Lyoo et al. 1996, [17] Mataro et al. 1997, [18] Mostofsky et al. 1998, [19] Mostofsky et al. 2002, [22] Semrud-Clikeman et al. 1994.
+bAlthough not explicitly stated in Castellanos et al. 2002, personal communication with Dr. Castellanos (March 3, 2006) veriﬁed that subjects in the 1996
+and 2001 reports were included in the 2002 report. Therefore, for the total cerebral volume ROI, only the value from the 2002 report was included in analyses
+since the values of the ROIs in the 1996 and 2001 reports were based on smaller samples than that of 2002.
+1364
+BIOL PSYCHIATRY 2007;61:1361–1369
+E.M. Valera et al.
+www.sobp.org/journal
+significant with adequate power. More studies would be needed
+to clarify these results.
+We used meta-analytic regression to assess for the effects of
+certain study design features on the SMDs. We conducted this
+analysis only if the ROI had at least four measurements from
+different studies and had either a significant SMD or had signif-
+icant heterogeneity in the absence of a significant SMD. This
+included total cerebral volume as well as cerebellar, CC, and
+caudate ROIs. We assessed for the effects of mean age (range
+from 9.4 to 14.6), diagnostic system used (i.e., what ADHD
+criteria were used), and IQ. There were no ROIs that showed
+significant effects for any of these variables. We also attempted to
+assess for the effects of either lifetime or current stimulant
+medication status. However, since a number of studies either had
+missing (e.g., Baumgardner et al. 1996; Giedd et al. 1994; Kates et
+al. 2002; Lyoo et al. 1996) or ambiguous data (Hill et al. 2003)
+pertaining to lifetime or current medication history, there were
+insufficient data for most ROIs to even conduct such analyses.
+Table 3. Regions of Interest Assessed in at Least Three Studies That Did Not Yield Signiﬁcant SMDs Between ADHD and Control Groups
+Brain Region
+Number
+of
+Studies
+Number of
+Subjects
+Volume or Area Difference
+Heterogeneity Publication Bias Egger’s
+ADHD
+Control
+SMD
+95% CI
+z
+p
+2
+p
+Coef
+p
+Studiesa
+Total Cerebral Volume (L)
+3
+102
+100
+.375
+[.096
+.653]
+2.64
+.008
+.73
+.695
+.805
+.723
+[5, 8, 9]
+Prefrontal Gray (L)
+3
+55
+55
+.845
+[.154
+1.540]
+2.40
+.017
+5.33
+.070
+5.19
+.002
+[8, 15, 19]
+Prefrontal White (L)
+3
+55
+55
+.681
+[.460
+1.820]
+1.17
+.242
+14.41
+.001
+8.45
+.018
+[8, 15, 19]
+Prefrontal Gray (R)
+3
+55
+55
+.688
+[.110
+1.260]
+2.34
+.020
+3.90
+.142
+3.45
+.470
+[8, 15, 19]
+Prefrontal White (R)
+3
+55
+55
+.577
+[.212
+1.370]
+1.43
+.152
+7.25
+.027
+6.33
+.028
+[8, 15, 19]
+Anterior Vermis, Lobules I–V
+4
+86
+113
+.400
+[.040
+.840]
+1.78
+.075
+5.77
+.124
+1.43
+.636
+[3, 4, 11, 18]
+Posterior Superior Vermis,
+Lobules VI–VII
+4
+86
+113
+.270
+[.327
+.868]
+.89
+.375
+10.45
+.015
+4.16
+.180
+[3, 4, 11, 18]
+Rostrum (W)
+3
+58
+53
+.307
+[.113
+.727]
+1.43
+.152
+2.46
+.292
+5.83
+.632
+[10, 16, 22]
+Genu (Both)
+6
+101
+114
+.243
+[.030
+.517]
+1.74
+.081
+3.39
+.640
+1.67
+.485
+[2, 10, 11, 13, 16, 22]
+Rostral Body (Both)
+5
+78
+90
+.347
+[.112
+.806]
+1.48
+.138
+8.26
+.083
+.56
+.916
+[2, 10, 13, 16, 22]
+Anterior Midbody (W)
+3
+58
+53
+.267
+[.109
+.643]
+1.39
+.164
+1.41
+.495
+6.30
+.380
+[10, 16, 22]
+Posterior Midbody (W)
+3
+58
+53
+.245
+[.332
+.823]
+.83
+.405
+4.58
+.101
+3.57
+.835
+[10, 16, 22]
+Isthmus (Both)
+5
+78
+90
+.356
+[.095
+.807]
+1.55
+.122
+7.93
+.094
+3.27
+.471
+[1, 10, 13, 16, 22]
+Genu (W)
+4
+81
+77
+.186
+[.128
+.500]
+1.16
+.246
+2.31
+.511
+3.91
+.569
+[10, 11, 16, 22]
+Rostral Body (W)
+3
+58
+53
+.372
+[.336
+1.080]
+1.03
+.303
+6.76
+.034
+13.78
+.381
+[10, 16, 22]
+Isthmus (W)
+3
+58
+53
+.367
+[.243
+.977]
+1.18
+.238
+5.06
+.080
+.26
+.990
+[10, 16, 22]
+Corpus Callosum (Both)
+4
+108
+121
+.402
+[.047
+.758]
+2.22
+.027
+4.73
+.193
+3.51
+.095
+[2, 5, 11, 22]
+Corpus Callosum (W)
+3
+95
+94
+.430
+[.055
+.916]
+1.74
+.083
+4.65
+.098
+4.17
+.182
+[5, 11, 22]
+Globus Pallidus (R)
+3
+117
+115
+.568
+[.117
+1.020]
+2.47
+.013
+4.80
+.091
+1.58
+.741
+[1, 5, 6]
+Globus Pallidus (L)
+3
+117
+115
+.479
+[.057
+.901]
+2.22
+.026
+4.25
+.120
+3.50
+.128
+[1, 5, 6]
+Caudate
+4
+190
+193
+.253
+[.188
+.693]
+1.12
+.261
+6.49
+.090
+.94
+.595
+[1, 4, 7, 11]
+Caudate Head (L)
+5
+67
+75
+.189
+[.373
+.750]
+.66
+.510
+10.87
+.028
+12.73
+.268
+[9, 14, 17, 20, 21]
+Caudate Head (R)
+5
+67
+75
+.248
+[.661
+.166]
+1.17
+.240
+6.02
+.198
+1.95
+.878
+[9, 14, 17, 20, 21]
+Caudate (L)
+6
+160
+174
+.286
+[.019
+.591]
+1.84
+.066
+8.14
+.149
+1.32
+.435
+[1, 4, 5, 6, 9, 11]
+SMD, standardized mean difference; ADHD, attention-deﬁcit/hyperactivity disorder; CI, conﬁdence interval; Coef, coefﬁcient; L, left; R, right; W, only
+includes studies which used the Witelson (1989) method for segmenting the corpus callosum; Both, includes studies that used either the Witelson (1989) or
+O’Kusky et al. (1988) method for segmenting the corpus callosum.
+aStudies: [1] Aylward et al. 1996, [2] Baumgardner et al. 1996, [3] Berquin et al. 1998, [4] Bussing et al. 2002 [5] Castellanos et al. 1996, [6] Castellanos et al.
+2001, [7] Castellanos et al. 2002, [8] Durston et al. 2004, [9] Filipek et al. 1997, [10] Giedd et al. 1994, [11] Hill et al. 2003, [13] Hynd et al. 1991, [14] Hynd et al. 1993,
+[15] Kates et al. 2002, [16] Lyoo et al. 1996, [17] Mataro et al. 1997, [18] Mostofsky et al. 1998, [19] Mostofsky et al. 2002, [20] Pineda et al. 2002 (combined
+inattentive and hyperactive sample), [21] Pineda et al. 2002 (inattentive sample), [22] Semrud-Clikeman et al. 1994.
+Table 4. Regions of Interest Assessed in Two Studies That Yielded Signiﬁcant SMDs Between ADHD and Control Groups
+Brain Region
+Number of Subjects
+Volume or Area Difference
+Heterogeneity
+ADHD
+Control
+SMD
+95% CI
+Z
+p
+2
+p
+Studiesa
+Prefrontal
+25
+25
+1.364
+[.742
+1.986]
+4.300
+.001
+.420
+.517
+[15, 19]
+Frontal Lobes
+25
+25
+1.208
+[.599
+1.818]
+3.890
+.001
+.700
+.404
+[15, 19]
+Deep frontal white matter
+25
+25
+1.148
+[.545
+1.750]
+3.730
+.001
+.150
+.694
+[15, 19]
+Deep frontal white matter (L)
+25
+25
+1.140
+[.536
+1.743]
+3.700
+.001
+.740
+.391
+[15, 19]
+Deep frontal white matter (R)
+25
+25
+1.054
+[.459
+1.649]
+3.470
+.001
+.000
+.993
+[15, 19]
+Cerebellumb
+175
+163
+.452
+[.236
+.668]
+4.10
+.001
+.01
+.918
+[7, 11]
+Table is organized by size of SMD with the largest difference at the top of the table.
+SMD, standardized mean difference; ADHD, attention-deﬁcit/hyperactivity disorder; CI, conﬁdence interval; L, left; R, right; ROI, regions of interest.
+aStudies: [7] Castellanos et al. 2002, [11] Hill et al. 2003, [15] Kates et al. 2002, [19] Mostofsky et al. 2002.
+bAlthough not explicitly stated in Castellanos et al. 2002, personal communication with Dr. Castellanos (March 3, 2006) veriﬁed that subjects in the 1996
+report were included in the 2002 report. Therefore, for the cerebellum, only the value from the 2002 report was included in analyses since the value of the ROI
+in the 1996 report was based on a smaller sample than that of 2002.
+E.M. Valera et al.
+BIOL PSYCHIATRY 2007;61:1361–1369 1365
+www.sobp.org/journal
+For example, only total cerebral volume a n d t h e posterior
+inferior vermis had enough observations to conduct meta-
+regression analyses and only to examine effects of stimulant
+medication history (but not current status). Neither of these
+ROIs showed effects of stimulant medication history, but given
+the general lack of medication data and the low power to
+detect differences, the findings need to be interpreted cau-
+tiously.
+
+## References
+Not found...
+---

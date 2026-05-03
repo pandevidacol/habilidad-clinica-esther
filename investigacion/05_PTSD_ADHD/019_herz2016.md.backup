@@ -1,0 +1,501 @@
+---
+# Neural correlates of attention bias in posttraumatic stress disorder
+**Autores**: Noa Herz
+**Año**: 2016
+**Journal**: Clinical Neurophysiology, 127 (2016) 3268-3276. doi:10.1016/j.clinph.2016.07.016
+**DOI/Link**: N/A
+
+## Abstract
+Not found
+
+## Key Findings
+Discussion
+The present study investigated the neural correlates of the
+altered P3 activity observed in PTSD patients in response to target
+tones and distractors in the auditory oddball paradigm. During the
+standard trials PTSD patients showed hyperactivity in the dlPFC,
+while having reduced dlPFC activity during the infrequent stimuli
+(targets and distractors) relative to controls (Figs. 3 and 4). PTSD
+Table 2
+Areas of signiﬁcant interaction between stimulus (oddball vs. standard) and group (PTSD vs. control).
+Time window
+Talairach coordinates (mm, RAI)
+Voxels
+Peak F value
+Region
+x
+y
+z
+170–270 ms
+L. anterior middle & inferior frontal gyrus
+42
+33
+12
+25
+1.64
+L. posterior middle frontal gyrus
+22
+13
+2
+22
+2.28
+R. hippocampus
+28
+32
+2
+21
+2.24
+L. postcentral & precentral gyrus
+47
+17
+37
+21
+2.26
+L. parahippocampal gyrus
+22
+12
+28
+17
+1.7
+R. postcentral & Precentral gyrus
+48
+7
+32
+9
+1.95
+300–400 ms
+R. middle frontal (orbital) gyrus
+23
+43
+13
+9
+2.18
+Information supplied includes number of voxe... (Extracted from Discussion)
+
+## Methodology
+Methods: Fifteen PTSD patients and ﬁfteen healthy trauma-exposed controls participated in a three-tone
+‘‘oddball” task while their brain activity was recorded by magnetoencephalography (MEG). They were
+asked to detect rare target tones and ignore standard tones and infrequent threatening distractors. An
+adaptive spatial-ﬁlter method (SAM beamformer) was applied for source estimation.
+
+## Results
+Results: Compared with controls, PTSD patients had more incorrect responses to standard stimuli. On the
+brain level, PTSD patients showed hyperactivity in the dorsolateral prefrontal cortex and anterior cingu-
+late cortex in response to standard sounds, decreased activity in those regions in response to threatening
+distractors, and decreased orbitofrontal activity in response to target stimuli.
+
+## Clinical Significance
+Conclusions: Increased frontal activation in response to standard, neutral, stimuli may reﬂect greater
+resource allocation dedicated to cognitive control mechanisms during routine functioning in PTSD.
+Decreased frontal activation in response to rare stimuli may reﬂect subsequently reduced residual
+resources for detecting rare stimuli and for emotion regulation. This may explain the hypervigilance
+and attention problems commonly reported by patients.
+Signiﬁcance: The current ﬁndings contribute to a better understanding of the mechanisms underlying the
+attention deﬁciency in PTSD, and highlight altered activity in speciﬁc frontal regions as potential
+biomarkers.
+ 2016 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights
+reserved.
+1. Introduction
+Patients suffering from PTSD often exhibit difﬁculties in
+sustaining their attention on target tasks, together with hyper
+alertness and increased attention to potentially threatening cues
+in the environment. During the past decade, there has been a
+growing interest in applying event-related potentials (ERPs) to
+the study of cognitive impairments in PTSD. One ERP component
+in particular, the P300, has been widely used to study attentional
+processes in this disorder. This component is typically elicited
+using the oddball paradigm, in which individuals are instructed
+to attend to infrequent target stimuli (i.e., ‘‘oddball”) and ignore
+http://dx.doi.org/10.1016/j.clinph.2016.07.016
+1388-2457/ 2016 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+⇑Corresponding author at: Department of Psychology, Bar-Ilan University, Israel.
+Fax: +972 35352184.
+E-mail address: goldsa@mail.biu.ac.il (A. Goldstein).
+Clinical Neurophysiology 127 (2016) 3268–3276
+Contents lists available at ScienceDirect
+Clinical Neurophysiology
+journal homepage: www.elsevier.com/locate/clinph
+other frequently presented standard stimuli. A variation of the
+oddball task includes presentation of infrequent distracting (i.e.,
+‘‘novel”) stimuli as a third stimulus.
+Most researchers today agree that the P300 (also known as
+‘‘P3”) consists of several functionally and topographically distinct
+components (Spencer et al., 1999; Goldstein et al., 2002; Volpe
+et al., 2007), and most frequently distinguish between the ‘‘Target
+P3” (P3b) and the ‘‘Novelty P3” (P3a). The P3b is mainly generated
+in response to attended target stimuli and is thought to represent
+the availability of attentional resources for stimulus processing
+(Donchin and Coles, 1988). Compared with the parieto-central dis-
+tribution that characterizes the P3b, the P3a has a more anterior
+scalp distribution and is most prominently generated in response
+to rare non-target distracting stimuli or to deviant stimuli in an
+unattended series. The P3a precedes the P3b by approximately
+50 ms (Courchesne et al., 1975), and was hypothesized to reﬂect
+a form of pre-attentive processing in which changes in the sensory
+environment evoke an automatic shift in attention (Näätänen,
+1990). Although target and distractor stimuli are known to elicit
+distinct components, these components are not mutually exclu-
+sive. Both novel and rare stimuli have been shown to elicit parietal
+P3b and Novelty P3a components, differing only in their relative
+amplitude (Spencer et al., 1999).
+Even though the P3a and P3b are hypothesized to reﬂect differ-
+ent cognitive functions and to be generated in different brain
+regions, many of the PTSD P300 studies fail to disentangle them.
+This distinction is particularly essential in PTSD, due to patients’
+distinctive impairment in the processing of relevant as opposed
+to
+irrelevant
+information.
+The
+diagnostic
+criteria
+(American
+Psychiatric Association, 2013) reﬂects this distinction by including
+symptoms indicative of disturbed attentional processing (which is
+tapped by the P3b component), and associated hyperarousal, such
+as hypervigilance and exaggerated startle response (tapped by the
+P3a component).
+The most common ﬁnding regarding the P300 in PTSD popula-
+tion is of reduced amplitude (most likely P3b amplitude) to neutral
+target stimuli compared with controls (Karl et al., 2006). Reduced
+P3b amplitude is thought to reﬂect a reduction in the attentional
+resources allocated towards stimulus processing (Polich, 2003),
+hence providing electrophysiological support for the DSM-IV and
+V
+PTSD
+symptom
+of
+disturbed
+concentration
+(American
+Psychiatric Association, 1994, 2013). However, meta-analysis stud-
+ies suggest that stimuli valence differentially affects the P300
+amplitude, with trauma related stimuli leading to a sensitization
+of the P3b and P3a, and neutral stimuli leading to diminished
+P3a and P3b amplitudes in PTSD (Karl et al., 2006; Javanbakht
+et al., 2011; Johnson et al., 2013).
+The brain regions involved in this altered processing are still
+under controversy. In healthy participants, multiple brain regions
+were found active in response to target stimuli depending on the
+measures employed, with two cortical regions found consistent
+across studies: the supramarginal gyri and the anterior cingulate
+cortex (ACC) (Ardekani et al., 2002; Clark et al., 2000; Kiehl and
+Liddle, 2001; Linden et al., 1999; McCarthy et al., 1997; Stevens
+et al., 2000; Halgren et al., 1998; Smith et al., 1990). The dorsolat-
+eral prefrontal cortex (dlPFC) is also believed to be involved in tar-
+get detection (McCarthy et al., 1997; Clark et al., 2000; Stevens
+et al., 2000; Kiehl et al., 2001). Whereas there is considerable over-
+lap of regions activated during distractor and target processing,
+bilateral superior temporal and right inferior frontal areas show
+pronounced activation related to distractors (Strobel et al., 2008).
+In PTSD, however, only few attempts have been made to localize
+the P300 source generators, yielding conﬂicting results. On the
+one hand, a recent ERP study using the oddball paradigm found
+decreased P300 activity in response to target stimuli among PTSD
+patients in multiple brain areas including the ACC (Bae et al.,
+2011). This ﬁnding is consistent with models of PTSD proposing
+that a failure of medial prefrontal/ACC networks to regulate amyg-
+dala activity results in the hyperactivity seen in PTSD patients
+(Bremner et al., 1999). On the other hand, fMRI studies using the
+oddball paradigm indicated increased ACC activity in PTSD subjects
+in response to target stimuli (Bryant et al., 2005) and emotional
+distractors (Pannu Hayes et al., 2009). These inconsistencies might
+be explained by the measuring techniques used in these studies
+and their different temporal resolutions. Whereas studies based
+on neuroimaging techniques such as fMRI allow for source local-
+ization in a time window of seconds after stimulus onset, EEG pro-
+vides a temporal resolution in the millisecond range. Therefore, an
+optional explanation for these conﬂicting results is that the general
+enhanced activation of the ACC found in the fMRI oddball studies is
+preceded by a short phase of decreased activity in this region fol-
+lowing stimulus presentation, which can be observed only by EEG.
+The complex role of the ACC in PTSD emphasizes the impor-
+tance of applying an imaging technique that can fully capture the
+dynamic brain function in high temporal resolution. Similar to
+the EEG, MEG provides millisecond temporal resolution allowing
+examination of the Novelty P3 and Target P3 components sepa-
+rately. In addition, MEG has a good spatial resolution allowing
+the estimation of the neural sources underlying these components.
+This high spatial resolution is a consequence of the fact that MEG
+signals, as opposed to EEG signals, travel through the various
+boundary layers of the brain and skull with relatively little distor-
+tion (Barth et al., 1986). Differences in the physical properties of
+the electric and magnetic ﬁelds arising from the same current
+source may lead to differences in source localization when EEG
+or MEG are applied. No studies using MEG to elucidate Novelty
+P3 and Target P3 neural correlates in PTSD have been conducted
+so far. It is therefore the aim of the present study to reveal the
+brain regions that show differential activity in PTSD patients and
+healthy trauma-exposed controls in response to neutral targets
+and threatening distractors. Identifying such sources should pro-
+vide more precise knowledge of the functional signiﬁcance of the
+P3 alteration seen in PTSD. To this end, MEG was recorded during
+an oddball paradigm comprising standard tones, rare target tones
+and rare threatening distractor sounds.
+2. Methods and materials
+2.1. Participants
+Seventeen PTSD patients and sixteen healthy trauma exposed
+controls participated in the study. One subject from each group
+was excluded from analysis due to a magnetic artifact, and one
+PTSD patient dropped out due to difﬁculty in withstanding test
+conditions. Hence, MEG analysis was based on 30 participants,
+with 15 participants in each group. Exclusion criteria for both
+groups included symptoms or signs of psychosis or suicidality;
+drug/alcohol abuse in the previous 6 months; past history of brain
+injury, loss of consciousness or other neurological disease; and a
+contraindication to undergoing MRI or MEG. Groups were matched
+for age, gender and time since the occurrence of the trauma. Partic-
+ipants experienced diverse adult trauma, including motor vehicle
+accidents (PTSD n = 4, control n = 8), terror violence (PTSD n = 2,
+control n = 1) and military related trauma (PTSD n = 9, control
+n = 6). Comorbidity of anxiety and depression was allowed in the
+PTSD group, given that diagnosis of PTSD preceded the comorbid
+diagnosis (See Supplementary Methods in Supplementary Informa-
+tion for a complete description of the participants). The study was
+in compliance with the Helsinki Declaration and the Hadassah
+Hebrew University Medical Center Ethics Committee approved
+N. Herz et al. / Clinical Neurophysiology 127 (2016) 3268–3276
+3269
+the
+experimental
+procedure.
+Written
+informed
+consent
+was
+obtained from all subjects.
+2.2. Procedure
+All participants underwent an MRI scan (in a separate session)
+to provide anatomical anchors for localization of MEG data. MEG
+was recorded as participants performed a three-tone oddball task
+requiring the identiﬁcation of infrequent target tones (15%,
+1000 Hz, 300 ms) embedded in a series of standard tones (70%,
+900 Hz, 300 ms) and infrequent threat related distractors (15%, a
+very unpleasant sound of shattering glass (800 ms), adapted from
+Levy et al. (2003). There were 330 stimuli presentations: 50 targets
+(‘oddball’), 50 distractors (‘novel’) and 230 standard tones (‘stan-
+dard’). Tones were presented through headphones in a random
+order. Interstimulus intervals (ISI) ranged randomly from 900 to
+1000 ms in order to eliminate anticipation bias. Participants were
+instructed to press a button with their right index ﬁnger every time
+a target tone occurred and not to press the button in response to
+the standard or the distracting stimuli. Prior to the task, every par-
+ticipant completed a practice block until correctly identifying the
+target stimuli while ignoring all other stimuli. Reaction times for
+the target stimuli were computed on trials in which the participant
+answered correctly within 1300 ms post stimulus. Omission errors
+included any missed target tones or response with latency greater
+than 1300 ms following the onset of the target stimulus. Commis-
+sion errors included any incorrect response following the distract-
+ing or standard stimuli within 1300 ms of stimulus onset. See
+Supplementary Methods in Supplementary Information for addi-
+tional details regarding the MEG methods.
+2.3. MEG analysis
+Data was time-locked and segmented into 900 ms epochs start-
+ing 200 ms before stimulus presentation. Epochs were baseline
+corrected to the pre-stimulus period in each sensor and averaged
+to yield the event-related ﬁelds in each condition. In order to avoid
+a confound of number of trials in the various conditions, for each
+subject, the number of trials in the smallest condition was deter-
+mined and the same number of trials were drawn randomly from
+the other conditions. The average number of trials analyzed across
+subjects was 42.9.
+Sources were localized with synthetic aperture magnetometry
+(SAM) beamforming analysis (Robinson and Vrba, 1999), resulting
+in ‘‘virtual sensor” time-series for every condition (see Supplemen-
+tary Methods in Supplementary Information for description of SAM
+analysis).
+Voxel-level group statistics, for each component, was con-
+ducted using AFNI (Cox, 1996). Differential activation for target
+vs. standard stimuli, and distractor vs. standard stimuli in the
+two groups was tested using mixed ANOVAs (group X stimulus)
+for each time-window of interest. Dividing the conditions into
+two separate tests enabled a better understanding of the sources
+for each of the infrequent tones (i.e. targets and distractors) in
+comparison to the standard condition which was treated as the
+baseline. In order to control for multiple comparisons, a Monte
+Carlo simulation implemented by AFNI AlphaSim was used to cal-
+culate the probability of a false positive, according to which the
+minimal cluster size with p < 0.05 was one cubic cm (8 voxels).
+Here we used a cluster threshold of p < 0.01 for that cluster size.
+The mean activity across voxels in signiﬁcant clusters was used
+in further contrasts using the Bonferroni correction. To further val-
+idate our results, a non-parametric permutation (Monte Carlo) test
+was conducted for clusters in which a signiﬁcant interaction
+between group X stimulus was found (Nichols and Holmes,
+2002; Singh et al., 2003) (see Supplementary Methods in Supple-
+mentary Information for description of the permutation test).
+To evaluate the relationship between P3 impairment and clinical
+severity, correlations between CAPS scores and mean cluster activ-
+ity of each participant were assessed using Pearson correlations.
+CAPS scores were divided into three distinct scores according to
+the DSM-IV symptom clusters; re-experiencing, avoidance and
+hyper-arousal. An analysis of partial correlation between each of
+these symptom cluster scores and mean activity in each of the brain
+clusters was computed, controlling for depression and anxiety.
+3. Results
+3.1. Descriptive measures
+Demographic information and psychological interview results
+can be found in Table 1. The control and PTSD groups did not differ
+on age [t(28) = 1.03, n.s] or time since the occurrence of the trauma
+[t(28) = 1.35, n.s]. PTSD symptoms score of PTSD patients were in
+the severe range while control participants were not symptomatic.
+Clinical ratings showed, as anticipated, that PTSD patients had
+signiﬁcantly
+higher
+PTSD
+[t(15) = 12.54,
+p < .001],
+depression
+[t(15) = 6, p < .001] and anxiety symptoms [t(15) = 9.25, p < .001]
+compared with controls.
+Twelve of ﬁfteen PTSD patients (80%) were taking psychotropic
+medications at the time of study. About 80% (10/12) were receiving
+antidepressants for either depression or anxiety symptoms and
+42% (5/12) were receiving antipsychotics as major tranquilizers
+or for antidepressant augmentation. Two patients (17%) were
+receiving mood stabilizers for impulse control and hypervigilance
+symptoms. A third were taking hypnotics or benzodiazepines for
+sleep disturbance and anxiety symptoms. None of the control par-
+ticipants met criteria for any psychiatric disorder and were not tak-
+ing any psychotropic medication.
+3.2. Behavioral data
+Mean reaction times for the target tones did not differ between
+PTSD (mean 579 ms, SD = 0.13) and control group (mean 578 ms,
+SD = 0.09). PTSD patients had more incorrect responses to standard
+stimuli (mean 3.73, SD = 7.75) compared with controls (mean 0.64,
+Table 1
+Age, time since trauma and symptom reports.
+Demographics
+PTSD (n = 15)
+Control (n = 15)
+t
+M (range)
+S.D.
+M (range)
+S.D.
+Age (years)
+41.86 (24–62)
+11.56
+37.13 (25–68)
+13.52
+1.03
+Time since trauma (years)
+16.26 (3–41)
+12.86
+10.66 (2–40)
+9.64
+1.25
+PTSD symptoms (CAPS)
+116.93 (54–171)
+34.26
+3.13 (0–26)
+7.71
+12.54**
+Depression (Ham-D)
+20.13 (0–45)
+12.07
+1.07 (0–7)
+2.23
+6.00**
+Anxiety (Ham-A)
+23.73 (7–38)
+9.47
+.85 (0–4)
+1.35
+9.25**
+** Signiﬁcant difference between PTSD group and controls, p < .001.
+3270
+N. Herz et al. / Clinical Neurophysiology 127 (2016) 3268–3276
+SD = 0.97) [t(28) = 2.04, p < .05]. Differences between the groups
+for percentage of correct hits (PTSD mean 83%, SD = 17.59; controls
+mean 90%, SD = 14.69) and incorrect responses to distractors (PTSD
+mean 7.01, SD = 12.15; controls mean 4.45, SD = 6.69) did not
+reach signiﬁcance, although a trend toward patients exhibiting
+more response errors was evident.
+3.3. MEG results
+Both rare stimuli (distractors and targets) showed increased
+amplitude relative to standards tones across groups in two time
+windows at approximately 170–270 ms and 300–400 ms post
+stimulus, which roughly correspond to the novelty P3 and the
+P3b components (Fig. 1). Increased amplitude in both time win-
+dows corresponds with previous ﬁndings, indicating that all devi-
+ant stimuli elicit the Novelty P3 as well as the P300 (Spencer
+et al., 1999). SAM beamforming source estimates were conducted
+separately at each time window.
+Target & distractor processing: Although our main focus is on the
+difference between groups, we ﬁrst examined the brain activity eli-
+cited by targets and distractors in both PTSD and healthy controls.
+Brieﬂy, across groups brain activation in response to the distractors
+in the ﬁrst time window was most prominent in the medial frontal
+gyrus, the anterior and posterior cingulate and the superior tempo-
+ral gyrus, whereas activity in response to the target stimuli in the
+second time window was most prominent in the ACC, dlPFC and
+the inferior parietal lobule (IPL). These ﬁndings are similar to pre-
+vious published data (Huang et al., 2005; Volpe et al., 2007) (For a
+full report see Supplementary Results and Table S1 in Supplemen-
+tary Information).
+3.3.1. Group differences for the target stimuli
+In the ﬁrst time window (170–270 ms), the mixed ANOVA
+(group X stimulus type) demonstrated a signiﬁcant main effect
+for group (across stimulus type), with higher activation of PTSD
+patients relative to controls in the right medial frontal gyrus
+(F(1,28) = 15.343, p < .001) and in a cluster encompassing areas
+between the right precuneus and the superior parietal lobule
+(F(1,28) = 18.609,
+p < 0.001).
+In
+the
+second
+time
+window
+(300–400 ms), PTSD patients had higher activation bilaterally in
+the cingulate cortex (F(1,28) = 15.041, p < .001) and in the left
+middle occipital gyrus (F(1,28) = 12.215, p < .01).
+In both time windows, the differential pattern of activity in
+response to target and standard tones varied signiﬁcantly between
+PTSD patients and healthy trauma exposed controls (i.e., signiﬁcant
+interaction between stimulus and group). In the ﬁrst time window,
+brain regions in which a signiﬁcant interaction was found were in
+two dlPFC clusters, one ranging between the left anterior part of
+the middle frontal gyrus and the inferior frontal gyrus (F(1,28) =
+15.288, p < .001) and another in the left posterior part of the mid-
+dle frontal gyrus (F(1,28) = 13.686, p < .001), as well as clusters in
+the right (F(1,28) = 13.002, p < .001) and left (F(1,28) = 12.043,
+p < .01) parahippocampal gyrus and in the right (F(1,28) = 20.754,
+p < .001) and left (F(1,28) = 20.290, p < .001) postcentral and pre-
+central gyrus. In the second time window, a signiﬁcant interaction
+was found only in the right middle frontal (orbital) gyrus (F(1,28)
+= 10.634, p < .01) (Table 2). All clusters exceeded the threshold of
+the permutation test (see Supplementary Methods in Supplemen-
+tary Information).
+Bonferroni-corrected post hoc comparisons on these interaction
+effects revealed that in the ﬁrst time window, PTSD patients
+showed increased activation in response to the target stimuli in
+the left and right parahippocampal gyrus, whereas in the control
+group parahippocampal activity was not enhanced in response to
+target stimuli. The opposite pattern was evident in the left and
+right postcentral/precentral gyrus in the ﬁrst time window, and
+in the second time window in the right middle orbital frontal gyrus
+(Fig. 2), with increased activation of the control group in response
+to the target stimuli, but no such activity enhancement in the PTSD
+group. Finally, in the ﬁrst time window, in the dlPFC clusters (left
+anterior and left posterior middle frontal gyri) a disordinal interac-
+tion was found, with higher activity of the PTSD relative to controls
+in response to standard stimuli, but lower activity in response to
+target stimuli (Fig. 3).
+Fig. 1. The global ﬁeld power in the 200 to 700 ms time interval, calculated as the averaged Root Mean Square (RMS) across all MEG sensors. The averaged RMS was
+calculated for the distractors (green), targets (red) and standards (black) conditions separately. Vertical line at 0 indicates stimulus presentation. Highlighted areas identify
+time windows of interest. (For interpretation of the
+
+## References
+references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+N. Herz et al. / Clinical Neurophysiology 127 (2016) 3268–3276
+3271
+3.3.2. Group differences for the distractors
+The mixed ANOVA (group X stimulus type) demonstrated a sig-
+niﬁcant main effect for group. In the ﬁrst time window PTSD
+patients showed higher activation relative to controls in the left
+parahippocampal gyrus (F(1,28) = 15.148, p < 0.001) and in a clus-
+ter encompassing areas between ...
+---

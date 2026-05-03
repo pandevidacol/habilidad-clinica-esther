@@ -1,0 +1,1744 @@
+# Contents lists available at ScienceDirect
+## Metadata
+- **Authors**: Found in document
+- **Year**: 1910
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: hernandez2019.pdf
+
+## Abstract / Summary
+Contents lists available at ScienceDirect
+Physiology & Behavior
+journal homepage: www.elsevier.com/locate/physbeh
+Review
+Central GLP-1 receptors: Novel molecular targets for cocaine use disorder
+N.S. Hernandeza,b, H.D. Schmidtb,c,⁎
+a Neuroscience Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States of America
+b Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States of Ameri... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Contents lists available at ScienceDirect. 1910.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Contents lists available at ScienceDirect
+Physiology & Behavior
+journal homepage: www.elsevier.com/locate/physbeh
+Review
+Central GLP-1 receptors: Novel molecular targets for cocaine use disorder
+N.S. Hernandeza,b, H.D. Schmidtb,c,⁎
+a Neuroscience Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States of America
+b Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States of America
+c Department of Biobehavioral Health Sciences, School of Nursing, University of Pennsylvania, Philadelphia, PA 19104, United States of America
+A R T I C L E I N F O
+Keywords:
+Relapse
+Drug self-administration
+Reinstatement
+Drug discovery
+Mesolimbic reward system
+GLP-1
+Exendin-4
+Addiction
+A B S T R A C T
+Given that the search for eﬀective pharmacotherapies for cocaine use disorder has, thus far, been fruitless, there
+remains a critical need for conceptually innovative approaches toward identifying new medications to treat this
+disease. A better understanding of the neurocircuits and neurobiological mechanisms underlying cocaine taking
+and seeking may identify molecular substrates that could serve as targets for novel pharmacotherapies to treat
+cocaine use disorder. Recent preclinical evidence suggests that glucagon-like peptide-1 (GLP-1) receptor agonists
+could be re-purposed to treat cocaine craving-induced relapse. This review endeavors to comprehensively
+summarize the current literature investigating the eﬃcacy of GLP-1 receptor agonists in reducing the rewarding
+and reinforcing eﬀects of cocaine in animal models of cocaine use disorder. The role of central endogenous GLP-
+1 circuits in voluntary cocaine taking and seeking is also discussed. Behavioral, neurochemical, electro-
+physiological and molecular biology studies indicate that central GLP-1 receptor activation functionally mod-
+ulates the mesolimbic reward system and decreases addiction-like phenotypes in rodents. Overall, an emerging
+preclinical literature provides compelling evidence to advance GLP-1 receptor agonists into clinical trials testing
+the eﬃcacy of these medications in preventing cocaine craving-induced relapse.
+1. Introduction
+1.1. Cocaine use disorder
+Cocaine use disorder continues to be a signiﬁcant public health
+concern in the United States with approximately 5.9 million Americans
+(2.2% of the population) aged 12 years or older reporting having used
+cocaine in the past year [1]. Recent epidemiological data indicate that
+the prevalence of cocaine use is increasing [2]. For example, ~2% of all
+young adults (18–25 years of age) were classiﬁed as current users of
+cocaine in 2017, the highest rate reported for this age group in the past
+10 years [1]. One hallmark of cocaine use disorder is the high rate of
+relapse following detoxiﬁcation [3,4]. Unfortunately, there are no FDA-
+approved medications to treat cocaine craving-induced relapse despite
+decades of focused preclinical and clinical research that have advanced
+our understanding of the anatomical, neurochemical and molecular
+bases of drug addiction [4,5]. Thus, there is a clear need for innovative
+research aimed at identifying novel neurobiological mechanisms un-
+derlying cocaine addiction and new therapeutic drug targets to treat
+this disease.
+1.2. Animal models of cocaine use disorder
+Preclinical studies utilizing rodent models of addiction-like beha-
+viors are critical toward identifying molecular substrates that could
+serve as targets for novel pharmacotherapies aimed at preventing or
+reducing relapse in human cocaine addicts. The conditioned place
+preference (CPP) paradigm is a popular behavioral model used to study
+the rewarding eﬀects of drugs of abuse [6,7]. Drug-induced CPP is
+rooted in classical Pavlovian conditioning and reﬂects a preference (or
+avoidance) for a context based on the contiguous pairing of the context
+with drug delivery. In the CPP paradigm, the rewarding properties of a
+drug serve as an unconditioned stimulus (US) that is repeatedly paired
+with a neutral set of environmental stimuli which acquire, during the
+conditioning phase, secondary rewarding properties such that these
+stimuli now function as conditioned stimuli (CS). In subsequent CPP
+tests, CS exposure in the absence of the US elicits either a preference or
+aversion for a previously drug-paired environment depending on
+whether the US produced primary motivational properties that were
+rewarding or aversive, respectively [6,7]. Thus, CPP measures drug-
+induced learned associations that are fundamentally distinct from vo-
+luntary drug taking. However, it is important to note that CPP lacks face
+https://doi.org/10.1016/j.physbeh.2019.03.026
+Received 20 December 2018; Received in revised form 20 March 2019; Accepted 26 March 2019
+⁎ Corresponding author at: Department of Biobehavioral Health Sciences, School of Nursing, Department of Psychiatry, Perelman School of Medicine, University of
+Pennsylvania, 125 South 31st Street, Philadelphia, PA 19104, United States of America.
+E-mail address: hschmidt@nursing.upenn.edu (H.D. Schmidt).
+Physiology & Behavior 206 (2019) 93–105
+Available online 28 March 2019
+0031-9384/ © 2019 Elsevier Inc. All rights reserved.
+T
+validity as a model of drug reward in humans [7].
+Cocaine craving and relapse of drug-taking behavior in abstinent
+human addicts are precipitated by three major stimuli: stressful life
+events, re-exposure to environmental cues previously associated with
+drug taking, and re-exposure to the previously self-administered drug
+itself [8–11]. Craving-induced relapse of drug taking/seeking in hu-
+mans is typically modeled in laboratory animals as follows: after a
+period of drug self-administration and the subsequent extinction of the
+drug-reinforced operant behavior, the ability of stress exposure, drug-
+associated stimuli, or re-exposure to the drug itself to reinstate drug-
+seeking behavior is assessed [12–14]. For example, after extinction of
+cocaine self-administration, administration of relatively low doses of
+cocaine reinstate operant responding in the absence of drug reinforce-
+ment in both non-human primates and rodents [8,15–17]. As the most
+commonly used animal model of relapse, the reinstatement model has
+proven invaluable for elucidating the neural circuits and neurobiolo-
+gical mechanisms underlying cocaine-seeking behavior [18,19].
+1.3. Neurocircuitry mediating the rewarding and reinforcing eﬃcacy of
+cocaine
+Cocaine functions, in part, as a non-selective biogenic amine
+transporter inhibitor that binds to and inhibits dopamine, serotonin and
+norepinephrine transporters [20]. Biogenic amine transporters are di-
+rectly coupled to transmembrane Na+/Cl−gradients and convey neu-
+rotransmitters from the extracellular space into the presynaptic nerve
+terminal [21]. Indeed, the primary mechanism by which dopamine,
+serotonin and norepinephrine signaling is inactivated in the brain is
+through high-aﬃnity transporter-mediated uptake [21]. Thus, cocaine's
+main pharmacological mechanism of action in the brain is to increase
+extracellular concentrations of dopamine, norepinephrine and ser-
+otonin resulting in enhanced transmission of these biogenic amines.
+Drugs of abuse including cocaine produce their reinforcing eﬀects
+through actions in the mesolimbic reward system, a circuit of func-
+tionally and anatomically interconnected nuclei that are responsible for
+the inﬂuence of motivational, emotional, contextual and aﬀective in-
+formation on behavior [18,22]. Limbic nuclei, including the amygdala,
+hippocampus, and medial prefrontal cortex (mPFC), send major gluta-
+matergic projections to the nucleus accumbens, which functions as a
+hub integrating this information with midbrain dopamine innervation
+that encodes motivational information pertaining to the rewarding and
+reinforcing properties of drugs of abuse [23]. The nucleus accumbens is
+broadly divided into two main subregions, the accumbens shell and
+core [24]. The nucleus accumbens sends segregated eﬀerent GABAergic
+projections to the ventral pallidum and ventral tegmental area (VTA)/
+substantia nigra [24,25]. Both the ventral pallidum and VTA, in turn
+send GABAergic eﬀerent projections to the medial dorsal thalamus.
+Glutamatergic projections from the medial dorsal thalamus to the mPFC
+close this limbic circuit [26–28]. Dopaminergic neurons in the VTA
+innervate the nucleus accumbens, amygdala, hippocampus, mPFC, and
+ventral pallidum, and changes in dopaminergic transmission play a
+critical role in modulating the ﬂow of information through the meso-
+limbic reward system [29–32]. Thus, excitatory input from cortical and
+subcortical structures to the nucleus accumbens is ﬁltered and in-
+tegrated by dopamine-mediated mechanisms, thereby shaping in-
+formation output to the basal ganglia [18].
+Midbrain dopamine neurons exhibit distinctive ﬁring patterns in-
+cluding occasional, high-frequency trains of action potentials known as
+bursts [33,34]. Bursts of action potentials from midbrain dopamine
+neurons and their associated release of dopamine in target nuclei are
+collectively termed “phasic” dopamine signaling [35]. Phasic burst
+ﬁring of midbrain dopamine neurons and subsequent phasic release of
+dopamine in the nucleus accumbens are key neurophysiological me-
+chanisms that implicate mesolimbic dopamine signaling as critical for
+goal-directed behaviors including drug reinforcement [36–41]. Phasic
+mesolimbic
+dopamine
+signaling
+is
+thought
+to
+reinforce
+learned
+associations between predictive stimuli and primary reward [39,42].
+Based on a large literature examining reward prediction error, phasic
+dopamine is commonly referred to as a “teaching” signal that func-
+tionally regulates motivational aspects of behavior [35,43,44]. Phasic
+dopamine signaling is also believed to play an important role in the
+incentive-sensitization theory of addiction [for further review, please
+see [45–47]].
+The reinforcing eﬀects of cocaine are primarily dependent upon
+activation of the mesolimbic dopamine system [22,48,49]. Dopami-
+nergic projections from the VTA to limbic nuclei including the nucleus
+accumbens play a critical role in cocaine self-administration and the
+reinstatement of cocaine-seeking behavior [19,22,49–51]. Additionally,
+recent studies have begun to examine how the mesolimbic dopamine
+system is modulated by downstream nuclei. For example, regions such
+as the lateral septum, laterodorsal tegmental nucleus (LDTg), habenula,
+and lateral hypothalamus project to the VTA and regulate cocaine-
+mediated behaviors by modulating dopamine transmission in midbrain
+and forebrain nuclei [52–58].
+In addition to regulating drug craving and relapse, the mesolimbic
+dopamine system also plays an important role in regulating the hedonic
+value of food and consequently behaviors directed toward the con-
+sumption of food [59–62]. Moreover, the neurobiological mechanisms
+underlying food intake and drug seeking overlap to a degree [63]. For
+example, neuropeptide-mediated signaling in the VTA plays a key role
+in modulating mesolimbic dopamine transmission and the rewarding
+properties of both food and drugs of abuse [61,63]. These ﬁndings
+suggest that the same biochemical and molecular mechanisms that play
+a role in the control of food intake may also inﬂuence voluntary drug
+taking and seeking. Indeed, the idea that shared neural mechanisms
+regulating both food intake and drug seeking has informed basic sci-
+ence approaches toward identifying novel pharmacotherapies for drug
+addiction.
+1.4. Metabolic factors regulate the mesolimbic reward system and food
+intake
+Identifying endogenous modulators of the mesolimbic reward
+system may provide new targets for drug discovery programs aimed at
+developing novel medications to treat obesity and substance use dis-
+orders [61,64]. Over the last two decades, it has become clear that
+peripheral and central homeostatic regulators of hunger, satiety and
+body weight interact with and inﬂuence the mesolimbic reward system
+[63,65,66]. These metabolic factors regulate the mesolimbic reward
+system directly by stimulating or inhibiting VTA dopamine neurons
+through cognate receptors or indirectly through downstream nuclei
+projecting to the VTA [67–71]. Indeed, metabolic factors such as in-
+sulin, leptin, glucagon-like peptide-1 (GLP-1) and amylin inhibit VTA
+dopamine neurons and decrease food intake [64,72]. Furthermore,
+central administration of both leptin and insulin are known to decrease
+striatal dopamine release as well as act directly on dopamine neurons to
+regulate food intake [68,73–75]. In contrast, the feeding hormone
+ghrelin promotes ad libitum food intake through actions on ghrelin
+receptors expressed in the VTA and nucleus accumbens [76,77]. The
+eﬀects of ghrelin on mesolimbic dopamine signaling and food intake,
+however, are complex. For example, infusions of ghrelin directly into
+the VTA, but not the nucleus accumbens, increase food motivated be-
+haviors (i.e. operant responding for food) adding further complexity to
+how the mesoaccumbens dopamine system integrates feeding signals
+[71,78,79]. These divergent eﬀects may be due to poly-synaptic con-
+nections between feeding-relevant nuclei as infusions of ghrelin directly
+into the lateral hypothalamus, but not VTA, potentiate phasic dopamine
+release in the nucleus accumbens in response to food reward and food-
+predictive cues [80,81]. Based on their ability to modulate the meso-
+limbic reward system, it has been hypothesized that metabolic factors
+may regulate non-drug motivated behaviors including addiction-like
+phenotypes [82,83].
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+94
+1.5. Glucagon-like peptide-1 (GLP-1)
+Glucagon-like peptide-1 (GLP-1) is an incretin hormone and satia-
+tion factor that is released predominantly from L cells of the small in-
+testine and neurons in the nucleus tractus solitarius (NTS) of the caudal
+brainstem [65,84,85]. GLP-1 is the primary posttranslational product of
+the preproglucagon (PPG) gene [86,87]. PPG-expressing neurons in the
+NTS are the primary central source of GLP-1 and these neurons project
+to many midbrain and forebrain areas including those implicated in
+goal-directed behaviors (e.g., VTA and nucleus accumbens) [67,88,89].
+Peripheral GLP-1 has a relatively short plasma half-life of ~2 min in
+both humans and rodents as it is rapidly degraded by the enzyme di-
+peptidyl peptidase-IV (DPP-IV), which is highly expressed in tissue
+compartments throughout the body including the central nervous
+system [90–93]. The GLP-1 receptor is a G-protein coupled receptor
+that is expressed on both pre- and post-synaptic sites throughout the
+brain [84,88,94]. The GLP-1 receptor couples to diﬀerent G proteins,
+including Gs, Gq, and Gi subunits, that stimulate or inhibit intra-cellular
+second messenger systems [95–97]. However, most intra-cellular sig-
+naling is initiated predominately by Gs subunits [97]. Studies have
+shown that activation of GLP-1 receptors increases intracellular calcium
+levels and activity of downstream signaling molecules such as adenylate
+cyclase, phospholipase C (PLC), protein kinase A (PKA), protein kinase
+C (PKC), phosphoinositide 3-kinase (PI3K) and mitogen-activated pro-
+tein kinase (MAPK) [84,94,98].
+GLP-1 plays an important role in energy homeostasis and food in-
+take in both humans [99,100] and animal models [101,102]. Activation
+of GLP-1 receptors produces a number of physiological responses in-
+cluding increased insulin secretion from pancreatic β-cells, inhibition of
+gastric emptying and reduced food intake [84,103–106]. With regard to
+energy homeostasis, GLP-1 receptor agonists reduce food intake, in
+part, by activating central GLP-1 receptors [104,107,108]. Based on
+their ability to regulate blood glucose levels, food intake and body
+weight, GLP-1 receptor agonists are FDA-approved for the treatment of
+type II diabetes mellitus [106] and obesity [109].
+Of interest to the drug addiction ﬁeld is a body of research showing
+that GLP-1 receptor activation inﬂuences the hedonic value of palatable
+food by direct modulation of the mesolimbic reward system [66]. GLP-
+1-producing neurons in the NTS send monosynaptic projections to the
+VTA and nucleus accumbens and direct infusions of GLP-1 receptor
+agonists into these brain regions have been shown to reduce con-
+sumption of palatable food [66,67,94,110–112]. Interestingly, some of
+these studies identiﬁed intra-cranial doses of GLP-1 receptor agonists
+that selectively reduced intake of palatable food but not intake of
+normal chow [67,110]. These ﬁndings indicate that activation of GLP-1
+receptors in the mesolimbic reward system selectively modulates the
+hedonic value of food and not homeostatic feeding [82]. Given that the
+reinforcing eﬀects of drugs of abuse, including cocaine, are regulated by
+neural circuits that include the VTA and nucleus accumbens, these
+ﬁndings suggest that central GLP-1 receptor activation may also reduce
+non-feeding motivated behaviors including drug taking and seeking.
+Indeed, an emerging body of evidence reviewed below highlights a
+novel role for central GLP-1 receptor-expressing circuits in regulating
+the reinforcing eﬃcacy of cocaine and the behavioral mechanisms
+underlying cocaine taking-and seeking-behaviors.
+2. GLP-1 receptor agonist eﬃcacy in animal models of cocaine use
+disorder
+Emerging evidence indicates that GLP-1 receptors play an important
+role in preclinical models of substance use disorder and that systemic
+administration of GLP-1 receptor agonists reduces the rewarding and
+reinforcing eﬀects of drugs of abuse [83]. Indeed, a growing literature
+has investigated the eﬀects of GLP-1 receptor activation on cocaine-
+mediated behaviors as described below and summarized in Table 1.
+Table 1
+Eﬀects of GLP-1 receptor activation on cocaine-mediated behaviors.
+Study
+Species/Strain/Sex
+Study design
+Behavior
+Treatment
+Route of Administration
+Results
+Graham et al., 2013
+Mice, C57BL/6J, male
+Between-subjects
+CPP
+10, 30, 100 μg/kg exendin-
+4
+i.p.
+Attenuated cocaine CPP
+Egecioglu et al., 2013
+Mice, NMRI, male
+Between-subjects
+Locomotor activity
+2.4 μg/kg exendin-4
+i.p.
+Decreased cocaine-induced hyper-locomotion
+CPP
+2.4 μg/kg exendin-4
+i.p.
+Attenuated cocaine CPP
+Harasta et al., 2015
+Mice, Glp-1r −/−, male
+Between-subjects
+Locomotor activity
+AAV-GFP
+Intra-dLS
+Augmented cocaine-induced hyper-locomotion
+AAV-GLP-1R-GFP
+Intra-dLS
+Normalized cocaine-induced hyper-locomotion to wild-type
+control levels
+CPP
+AAV-GFP
+Intra-dLS
+Augmented cocaine CPP
+AAV-GLP-1R-GFP
+Intra-dLS
+Normalized cocaine CPP to wild-type control levels
+Sorensen et al., 2015
+Mice, NMRI, male
+Between-subjects
+Locomotor activity
+0.3, 3, 30 μg/kg exendin-4
+i.p.
+Decreased basal locomotion and cocaine-induced hyper-
+locomotion
+Self-administration (single session)
+30, 100 μg/kg exendin-4
+i.p.
+Reduced number of nose-pokes for cocaine infusions
+Mice, C57BL/6J, male
+Within-subjects
+Self-administration
+10 μg/kg exendin-4
+i.p.
+Attenuated infusions of various unit doses of cocaine
+Schmidt et al., 2016
+Rats, Sprague-Dawley,
+male
+Within-subjects
+Self-administration
+0.05a μg exendin-4
+Intra-VTA
+Attenuated total active lever responses
+Hernandez et al., 2017
+Rats, Sprague-Dawley,
+male
+Within-subjects
+Reinstatement of cocaine-seeking
+behavior
+0.005a, 0.05a μg exendin-4
+Intra-NAc core
+Attenuated total active lever responses
+0.05a μg exendin-4
+Intra-NAc shell
+Attenuated total active lever responses
+Hernandez et al., 2018
+Rats, Sprague-Dawley,
+male
+Within-subjects
+Reinstatement of cocaine-seeking
+behavior
+0.1a, 0.2a μg/kg exendin-4
+i.p.
+Attenuated total active lever responses
+0.05a μg exendin-4
+Intra-VTA
+Attenuated total active lever responses
+a Indicates doses that are behaviorally selective for cocaine; dLS = dorsal lateral septum, VTA = ventral tegmental area, NAc = nucleus accumbens, CPP = conditioned place preference, AAV-GFP = control adeno-
+associated virus, AAV-GLP-1R-GFP = adeno-associated virus with GLP-1 receptor transcript.
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+95
+2.1. Systemic administration of a GLP-1 receptor agonist attenuates
+cocaine-mediated behaviors
+Initial studies showed that systemic administration of a GLP-1 re-
+ceptor agonist attenuated psychostimulant-induced conditioned place
+preference (CPP) and that these eﬀects were associated with reduced
+extracellular dopamine levels in the nucleus accumbens of mice
+[113,114]. Cocaine-induced CPP was signiﬁcantly decreased in mice
+pretreated with exendin-4 (10.0, 30.0 and 100.0 μg/kg, i.p.) compared
+to vehicle-treated controls [114]. Consistent with these eﬀects, another
+study found that a lower dose of exendin-4 (2.4 μg/kg, i.p.) attenuated
+cocaine-induced CPP in mice [113]. Together, these results indicate
+that peripheral administration of a GLP-1 receptor agonist is suﬃcient
+to reduce the rewarding eﬀects of cocaine. The eﬃcacy of exendin-4 in
+reducing voluntary cocaine taking has also been examined. Systemic
+administration of exendin-4 (30.0 and 100.0 μg/kg, i.p.) signiﬁcantly
+decreased tail-delivered cocaine in restrained mice oriented toward a
+single nose poke aperture during a single self-administration session
+[115]. In a repeated self-administration paradigm that used freely
+moving mice with jugular catheters, exendin-4 (10 μg/kg, i.p.) pre-
+treatment shifted the cocaine dose-response curve downward by de-
+creasing the total number of infusions earned for various unit doses of
+cocaine, suggesting a decrease in the reinforcing eﬃcacy of cocaine
+[115]. However, caution is warranted when interpreting ﬁndings from
+these studies. Systemic doses of exendin-4 (2.4–30.0 μg/kg) have been
+shown to reduce the locomotor activating eﬀects of cocaine [113,115].
+Therefore, it is possible that the eﬀects of exendin-4 on cocaine CPP and
+self-administration in restrained and freely moving mice are due to
+suppression of locomotor activity and not speciﬁc eﬀects on drug re-
+ward and reinforcement, respectively. Indeed, doses of exendin-4 as low
+as 0.3 μg/kg suppress locomotor activity in both mice and rats
+[115–117]. This potential limitation is further highlighted by reduced
+self-administration of all unit doses of cocaine on both the ascending
+and descending limbs of the cocaine dose-response curve in mice [115].
+Another notable caveat to the above studies is the exceedingly high
+doses of exendin-4 tested have been shown to produce nausea and
+malaise-like symptoms in addition to suppressing locomotion Doses of
+exendin-4 as low as 0.25 μg/kg produce nausea/malaise in rodents
+[118]. These results clearly indicate that doses of exendin-4 greater
+than 0.25 μg/kg produce malaise-like adverse eﬀects associated with
+high doses of peripherally administered GLP-1 receptor agonists in
+humans [119]. Since the doses of exendin-4 (2.4–100.0 μg/kg) shown
+to reduce cocaine CPP and self-administration are likely producing
+malaise-like eﬀects in mice, it is impossible to draw ﬁrm conclusions
+about the exact role of GLP-1 receptors in addiction-like behaviors from
+these previous studies [113–115].
+Administration of a GLP-1 receptor agonist during abstinence fol-
+lowing cocaine self-administration is suﬃcient to reduce cocaine-
+seeking behavior in rats. Speciﬁcally, systemic administration of ex-
+endin-4 (0.1 and 0.2 μg/kg, i.p.) signiﬁcantly attenuated the reinstate-
+ment of drug-seeking behavior elicited by both a priming injection of
+cocaine and re-exposure to conditioned cues previously paired with
+cocaine taking [120]. Importantly, these doses of exendin-4 did not
+aﬀect ad libitum food intake (cumulative chow intake, meal size or
+meal frequency) or body weight in cocaine-experienced rats [120].
+Moreover, these behaviorally-relevant doses of exendin-4 do not pro-
+duce nausea/malaise-like adverse eﬀects in rodents [118] further
+highlighting the selectivity of this behavioral response at these doses.
+This is the ﬁrst study to our knowledge identifying systemic doses of a
+GLP-1 receptor agonist that selectively attenuate cocaine-mediated
+behaviors and do not produce adverse eﬀects commonly associated
+with higher doses in rodents. The translational implications of these
+ﬁndings are profound in that they support potential therapeutic ap-
+proaches toward the speciﬁc use of GLP-1 receptor agonists for the
+treatment of cocaine craving and relapse. These ﬁndings are also pro-
+vocative in that they suggest that drug and non-drug motivated
+behaviors can be diﬀerentially modulated by GLP-1 receptor activation
+in a cocaine-experienced animal.
+2.2. Potential mechanisms underlying the eﬀects of systemic GLP-1 receptor
+agonists on cocaine-mediated behaviors
+The suppressive eﬀects of systemic GLP-1 receptor agonists on co-
+caine-mediated behaviors are due, in part, to activation of GLP-1 re-
+ceptors in the brain. Microdialysis experiments in mice have shown that
+peripheral infusions of exendin-4 (2.4 and 30.0 μg/kg, i.p.) signiﬁcantly
+decrease cocaine-evoked dopamine release in the nucleus accumbens
+and the dorsal striatum [113,115]. Moreover, systemic exendin-4
+(30.0 μg/kg, i.p.) attenuated dopamine D1 receptor agonist-mediated
+hyperlocomotion, which suggests that the suppressive eﬀects of GLP-1
+receptor agonists on cocaine-mediated behaviors may be due to in-
+hibition of dopamine D1 receptor signaling in the ventral striatum
+[115]. Further support for this hypothesis comes from studies showing
+that systemic exendin-4 blocks cocaine-induced c-fos expression in the
+striatum [115]. Taken together, these ﬁndings suggest that exendin-4
+attenuates cocaine reward and reinforcement by reducing dopamine
+signaling in the striatal complex. A recent study expands these ﬁndings
+and showed that systemic administration of exendin-4 (1.0 and
+30.0 μg/kg, i.p.) attenuated cocaine-evoked dopamine release in the
+lateral septum [121], a nucleus known to regulate cocaine-mediated
+behaviors through its connections with the VTA [122,123]. Interest-
+ingly, lower doses of exendin-4 (1.0 μg/kg in mice and 0.01 μg/kg in
+rats) had the same magnitude of eﬀect as higher doses (30.0 μg/kg in
+mice and 1.0 μg/kg in rats) in reducing cocaine-evoked dopamine re-
+lease in the lateral septum [121]. Together with previous data identi-
+fying behaviorally-selective doses of exendin-4 that reduce cocaine
+seeking, these studies indicate that lower doses of exendin-4 reduce
+cocaine-evoked dopamine release, do not impact feeding and do not
+induce malaise-like eﬀects in cocaine-experienced rats [120]. Thus,
+future studies should utilize behaviorally-selective doses of exendin-4
+that attenuate drug-evoked dopamine release when elucidating the
+neural mechanisms that cause these eﬀects.
+The mechanisms by which peripheral GLP-1 receptor agonists re-
+duce cocaine-evoked dopamine release in the brain remain unclear. A
+recent study showed that application of GLP-1 ex vivo upregulates do-
+pamine transporter (DAT) surface expression and increases dopamine
+uptake in the lateral septum [121]. These results suggest that GLP-1
+receptor activation may decrease the duration of dopamine signaling in
+the synapse following cocaine exposure by enhancing dopamine re-
+uptake into presynaptic terminals [121]. These eﬀects were associated
+with decreased levels of the retrograde messenger endocannabinoid 2-
+arachidonylglycerol (2-AG) and its cleaved form arachidonic acid in the
+lateral septum [121]. Since cannabinoid CB1 receptor antagonists de-
+crease the reward eﬀects of cocaine (analogous to reduced 2-AG levels)
+and arachidonic acid reduces function of the dopamine transporter
+[124,125], these ﬁndings suggest that GLP-1 receptor activation en-
+hances dopamine uptake in the lateral septum by decreasing arachi-
+donic acid levels, which may reduce cocaine-evoked increases in lateral
+septum dopamine levels as well as cocaine-mediated behaviors [121]. It
+is important to note, however, that this mechanism may only be speciﬁc
+to the lateral septum due to exendin-4 treatment failing to decrease 2-
+AG and arachidonic acid levels in the striatum [121]. Additionally, the
+functional signiﬁcance of reduced 2-AG and arachidonic acid levels in
+cocaine-mediated behaviors has not been determined. It should also be
+emphasized that these studies only examined the eﬀects of GLP-1 re-
+ceptor activation on an acute injection of cocaine. It remains to be
+determined whether similar neural mechanisms mediate the behavioral
+eﬀects of GLP-1 receptor agonists in drug-dependent animals that have
+been stably self-administering cocaine for a prolonged period of time.
+Finally, although strong evidence indicates that the suppressive eﬀects
+of GLP-1 receptor agonists on cocaine-mediated behaviors are due to
+reduced dopamine signaling in the brain, further studies are needed to
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+96
+elucidate the exact mechanisms by which systemic GLP-1 receptor
+agonists modulate neural activity.
+3. Central GLP-1 receptor activation attenuates cocaine-mediated
+behaviors
+GLP-1 receptors are expressed throughout the brain including nuclei
+known to play important roles in voluntary cocaine-taking and -seeking
+behaviors [19,55,82,88,126]. This section highlights the current lit-
+erature examining the role of GLP-1 receptors in discrete brain regions
+in cocaine-mediated behaviors (see Table 1 for a comprehensive list of
+these studies).
+3.1. Ventral tegmental area
+The ﬁrst study examining the role of central GLP-1 receptors in
+voluntary cocaine taking showed that activation of GLP-1 receptors in
+the VTA was suﬃcient to attenuate cocaine self-administration in rats.
+Intra-VTA infusions of exendin-4 dose-dependently reduced cocaine
+taking in rats responding on a progressive ratio (PR) schedule of re-
+inforcement [127]. Exendin-4 pretreatment in the VTA shifted the co-
+caine dose-response curve downward for all unit doses of cocaine in rats
+responding on a PR schedule, results that indicate that activation of
+GLP-1 receptors in the VTA is suﬃcient to reduce the reinforcing eﬃ-
+cacy of cocaine [128,129]. The behaviorally relevant dose of intra-VTA
+exendin-4 (0.05 μg) that reduced cocaine self-administration did not
+aﬀect sucrose self-administration, indicating that the suppressive eﬀects
+of exendin-4 on cocaine taking are reinforcer-speciﬁc and not due to
+non-speciﬁc eﬀects (e.g., general motor impairments).
+VTA GLP-1 receptors have also been shown to play an important
+role in the reinstatement of cocaine-seeking behavior during abstinence
+following cocaine self-administration. Systemic doses of exendin-4 that
+selectively attenuated cocaine reinstatement crossed the blood brain
+barrier and bound putative GLP-1 receptors located on neurons and
+astrocytes throughout the brain including the VTA, which suggests that
+the suppressive eﬀects of peripheral exendin-4 on cocaine seeking are
+due, in part, to activation of central GLP-1 receptors [120]. Pharma-
+cological inhibition of GLP-1 receptors in the VTA was suﬃcient to
+attenuate the eﬃcacy of systemic exendin-4 in reducing cocaine re-
+instatement providing further support for this hypothesis [120]. More
+direct evidence supporting a critical role of central GLP-1 receptors in
+cocaine seeking was provided by studies showing that infusions of ex-
+endin-4 (0.05 μg) directly into the VTA signiﬁcantly decreased cocaine
+seeking [120]. Overall, these ﬁndings clearly indicate that activation of
+VTA GLP-1 receptors is suﬃcient to reduce cocaine-seeking behavior.
+Consistent with systemic exendin-4 dose-response studies, the dose of
+intra-VTA exendin-4 (0.05 μg) used in these studies reduced cocaine
+seeking and did not aﬀect ad libitum chow intake or promote malaise-
+like eﬀects in rats [67,110,130]. Moreover, intra-VTA infusion of ex-
+endin-4 (0.05 μg) did not alter the reinstatement of sucrose seeking
+further supporting the selectivity of lower doses to reduce cocaine
+seeking [120]. There is some evidence that administration of 0.05 μg
+exendin-4 into the VTA reduced operant responding for palatable food
+[130]. However, these eﬀects were transient and did not persist with
+more prolonged operant sessions [127,130]. Overall, these studies have
+identiﬁed both systemic and intra-cranial doses of exendin-4 that se-
+lectively reduce cocaine-taking and seeking-behaviors in rats and not
+produce adverse feeding or malaise-like eﬀects.
+3.2. Nucleus accumbens
+In addition to binding putative GLP-1 receptors in the VTA, doses of
+systemic exendin-4 that attenuate cocaine seeking also distribute to the
+core and shell subregions of the nucleus accumbens [131]. These
+functionally distinct subregions are known to play diﬀerential roles in
+motivated behaviors including drug addiction [132]. The nucleus
+accumbens shell, which is classiﬁed as part of the limbic system, is
+implicated in the primary rewarding eﬀects of drugs of abuse as well as
+regulating instrumental responding in the presence of motivationally
+relevant stimuli [18]. Alternatively, the nucleus accumbens core, which
+is considered part of the basal ganglia, mediates the incentive value of
+reward-conditioned stimuli and contributes to drug-associated, cue-in-
+duced cocaine seeking [18]. Infusions of exendin-4 directly into the
+nucleus accumbens core and shell were suﬃcient to attenuate the re-
+instatement of drug-seeking behavior elicited by an acute priming in-
+jection of cocaine [131]. Interestingly, the potency of exendin-4 dif-
+fered between subregions. Cocaine-seeking behavior was decreased in
+rats pretreated with 0.05 μg exendin-4 in both the accumbens core and
+shell [131]. In contrast, 0.005 μg exendin-4 signiﬁcantly attenuated
+cocaine seeking when infused directly into the accumbens core, but not
+shell [131]. Previous studies have also demonstrated diﬀerential eﬀects
+of GLP-1 receptor agonist doses in the shell and core subregions in
+decreasing food intake [67,111]. Lower doses of exendin-4 reduced
+intake of palatable food when infused into the accumbens core com-
+pared to the accumbens shell [67]. The lowest eﬀective dose of exendin-
+4 used in this study was 0.025 μg, which produced a transient eﬀect on
+food intake following activation of GLP-1 receptors in the accumbens
+core and no eﬀect on food intake when infused into the accumbens shell
+[67]. Collectively, these ﬁndings suggest that GLP-1 signaling in the
+accumbens core may play a more prominent role in regulating drug-
+seeking behavior and hedonic feeding.
+In contrast to studies of intra-accumbens exendin-4 on cocaine re-
+instatement, studies of sucrose reinstatement found no eﬀect of 0.05 μg
+exendin-4 in the nucleus accumbens core and shell on sucrose seeking.
+Although administration of exendin-4 directly into the accumbens shell
+reduced sucrose self-administration on a progressive ratio schedule of
+reinforcement [130], doses of exendin-4 lower than 0.1 μg when in-
+fused into the nucleus accumbens shell or core do not aﬀect operant
+responding for sucrose, ad libitum chow intake, or produce adverse
+malaise-like eﬀects [67,130,133]. Therefore, exendin-4 infusions into
+the nucleus accumbens core (0.05 and 0.005 μg) and shell (0.05 μg) of
+cocaine-experienced rats selectively reduced cocaine seeking and do
+not aﬀect food intake. Together with systemic and intra-VTA studies
+that identiﬁed behaviorally-selective doses of exendin-4 that reduced
+cocaine seeking [120], these ﬁndings further strengthen evidence sup-
+porting the eﬃcacy of lower doses of GLP-1 receptor agonists to se-
+lectively attenuate cocaine seeking versus non-drug motivated beha-
+viors [131].
+3.3. Lateral septum
+The lateral septum is a brain region that regulates cocaine seeking
+by relaying contextual information from the CA3 region of the dorsal
+hippocampus to the VTA [134]. GABA neurons in the lateral septum
+project onto GABA interneurons in the VTA. Activation of lateral
+septum GABA neurons promotes dopamine release in the brain and
+regulates goal-directed behaviors via disinhibition of VTA dopamine
+neurons [134]. In addition to regulating cocaine seeking, the lateral
+septum also plays an important functional role in the expression of
+cocaine-induced CPP [53]. GLP-1 receptors are highly enriched in the
+lateral septum and GLP-1 receptor-expressing neurons in the lateral
+septum are directly innervated by VTA dopamine neurons [121,135].
+Intrinsic excitability of GABA neurons in the lateral septum was en-
+hanced in mutant mice lacking GLP-1 receptors compared to wild-type
+controls, suggesting that endogenous GLP-1 receptor signaling func-
+tions to reduce neuronal excitability of GABA neurons in the lateral
+septum [135]. Constitutive GLP-1 receptor knockout mice also dis-
+played enhanced sensitization to the locomotor activating eﬀects of
+cocaine as well as increased cocaine-induced CPP compared to wild-
+type controls [135]. These results suggest that the endogenous central
+GLP-1 system functions as a homeostatic regulator of cocaine reward.
+Further support for this functional role comes from studies that showed
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+97
+that virally-mediated knockdown of endogenous GLP-1 receptor ex-
+pression in the VTA facilitates/augments cocaine self-administration
+and that increased endogenous central GLP-1 signaling may function to
+reduce cocaine taking and seeking [120,127]. The absence of central
+GLP-1 receptors in knockout mice also caused an increase in baseline
+anxiety-like behaviors measured in open ﬁeld and elevated plus maze
+paradigms [135]. These ﬁndings may confound GLP-1 receptor agonist
+eﬀects on cocaine-induced locomotion and CPP as central GLP-1 sig-
+naling is known to play a role in stress and anxiety which can interfere
+with reward-associated behaviors [82]. To determine the role of central
+GLP-1 receptors in these behavioral responses, GLP-1 receptors were re-
+expressed selectively in the lateral septum of constitutive GLP-1 re-
+ceptor knockout mice. Viral vector-mediated GLP-1 receptor gene de-
+livery in the lateral septum of mutant mice lacking endogenous GLP-1
+receptors restored cocaine-induced locomotor activity and CPP to levels
+similar to wild-type controls [135]. However, increased expression of
+GLP-1 receptors in the lateral septum had no eﬀect on enhanced an-
+xiety-like behaviors seen in knockout mice, suggesting that GLP-1 re-
+ceptors in other nuclei mediate these eﬀects [135]. Taken together,
+these ﬁndings indicate that lateral septum GLP-1 receptors mediate the
+locomotor activating and conditioned rewarding eﬀects of cocaine.
+However, future studies should examine how GLP-1 receptor activation
+in the lateral septum inﬂuences downstream nuclei such as the VTA to
+decrease behavioral responses to cocaine.
+4. Cocaine modulates central endogenous GLP-1 circuits
+Previous studies have shown that acute cocaine exposure increases
+neuronal activity in the NTS [136–138]. A recent study expanded these
+ﬁndings and showed that cocaine self-administration increased c-Fos
+expression in GLP-1-producing neurons in the NTS [127]. Since the NTS
+projects to nuclei throughout the brain including the VTA and nucleus
+accumbens [67,89], cocaine-induced activation of NTS GLP-1-produ-
+cing neurons may result in increased GLP-1 release in midbrain and
+forebrain areas. Thus, increased endogenous central GLP-1 signaling
+following cocaine exposure may act as a homeostatic response to reduce
+further cocaine consumption.
+The mechanisms by which cocaine activates NTS GLP-1-producing
+neurons are not clear but may involve increased corticosterone sig-
+naling in the hindbrain. Since cocaine taking increases plasma and
+central corticosterone levels [139–142] and peripheral administration
+of corticosterone increases activation of NTS GLP-1-producing neurons
+[127], it is possible and likely that cocaine self-administration increases
+activation of GLP-1-producing neurons in the NTS through a corticos-
+terone-mediated mechanism of action. Indeed, administration of corti-
+costerone directly into the 4th ventricle attenuated cocaine self-ad-
+ministration and these eﬀects were blocked by pharmacological
+inhibition of GLP-1 receptors in the VTA [127]. These ﬁndings indicate
+that increased corticosterone signaling in the hindbrain reduces cocaine
+taking, in part, through activation of the endogenous central GLP-1
+system [127]. Collectively, these data suggest that voluntary cocaine
+taking activates GLP-1-producing neurons in the NTS through a corti-
+costerone-mediated mechanism of action and that increased GLP-1 re-
+ceptor signaling in midbrain and forebrain areas represents a negative-
+feedback response that reduces the reinforcing eﬃcacy of cocaine.
+Consistent with this notion, reduced expression of endogenous GLP-1
+receptors in the VTA augmented cocaine self-administration [127].
+Future studies using chemogenetic and optogenetic approaches are re-
+quired to determine the exact role of endogenous central GLP-1 circuits
+in cocaine-mediated behaviors.
+Recently published ﬁndings have found that cocaine taking and
+subsequent
+abstinence
+dynamically
+regulate
+expression
+of
+pre-
+proglucagon (PPG), the gene that encodes GLP-1, in the NTS (Fig. 1).
+Speciﬁcally, cocaine self-administration increased endogenous PPG
+expression in the NTS [120] (Fig. 1A). These data are consistent with
+ﬁndings that support the hypothesis that increased central GLP-1
+signaling may serve as a ‘brake’ to reduce further cocaine consumption
+[127]. In contrast, PPG expression in the NTS was signiﬁcantly de-
+creased following seven days of abstinence [120], a time point that
+coincides with robust drug-seeking behavior [131,143,144] (Fig. 1B).
+These results suggest that decreased endogenous PPG expression in the
+NTS during abstinence may facilitate cocaine craving and relapse. It is
+possible that decreased NTS PPG expression may result in a ‘hunger-
+like’ state that promotes cocaine seeking, as hunger is a potent driver of
+reward seeking and motivated behaviors [35,145]. For example, pre-
+vious studies have shown that chronic food restriction results in en-
+hanced burst ﬁring of substantia nigra dopamine neurons, augmenta-
+tion of cocaine-induced burst ﬁring, and persistence of increased burst
+ﬁring after animals are refed [146]. Consistent with these neurophy-
+siological eﬀects, food-restriction enhances cocaine-induced condi-
+tioned place preference indicating an important modulatory role for
+energy balance in drug reward [147]. Further evidence supporting the
+hypothesis that decreased NTS PPG expression produces a hunger-like
+behavioral state that promotes/facilitates drug seeking comes from a
+previous study showing that decreased PPG expression in the NTS
+produces hyperphagia and exacerbates high fat diet-induced obesity
+[102].
+The eﬀects of cocaine self-administration and subsequent abstinence
+on GLP-1 receptor mRNA expression in the VTA and nucleus accumbens
+have also been examined. Cocaine self-administration and extinction
+had no eﬀect on VTA and nucleus accumbens GLP-1 receptor expression
+[120,131]. Collectively, these results suggest that voluntary cocaine
+taking and subsequent abstinence may inﬂuence GLP-1 tone in the
+brain by modulating NTS PPG expression without producing corre-
+sponding changes in endogenous GLP-1 receptor expression. However,
+exendin-4 binding has been shown to regulate traﬃcking and surface
+expression of GLP-1 receptors [148]. Therefore, it is possible that co-
+caine taking and subsequent abstinence may alter GLP-1 receptor
+traﬃcking and/or surface expression in nuclei known to regulate drug-
+taking and -seeking behaviors. Future studies are required to further
+delineate the role of endogenous central GLP-1 signaling in cocaine-
+mediated behaviors, including whether cocaine aﬀects GLP-1 receptor
+traﬃcking and/or the kinetics of ligand-mediated GLP-1 receptor traf-
+ﬁcking. Overall, these studies suggest that the endogenous central GLP-
+1 system, particularly GLP-1-producing neurons in the NTS, is dyna-
+mically regulated by cocaine taking and withdrawal and highlight a
+novel
+neurobiological
+mechanism
+underlying
+cocaine
+addiction
+(Fig. 1). However, the NTS is comprised of heterogeneous cell popu-
+lations [89,138,149] and thus further studies investigating the exact
+role of each of these populations in cocaine-mediated behaviors must be
+investigated.
+5. Neurophysiological mechanisms underlying the eﬀects of GLP-1
+receptor agonists on cocaine-seeking behavior
+Initial studies showed that systemic infusions of exendin-4 reduced
+cocaine-evoked dopamine release in the nucleus accumbens [113,115].
+However, the relative contributions of peripheral and central GLP-1
+receptors to these neurochemical changes is not clear. A recent study
+investigated the role of central GLP-1 receptors in attenuating cocaine-
+evoked dopamine release in the nucleus accumbens core and shell
+subregions
+using
+in
+vivo
+fast-scan
+cyclic
+voltammetry.
+In-
+tracerebroventricular (ICV) infusion of exendin-4 attenuated phasic
+dopamine release in the accumbens core, but not the shell, of rats re-
+ceiving non-contingent infusions of cocaine [150]. To investigate the
+mechanisms by which exendin-4 reduces cocaine-evoked dopamine
+release in the accumbens core, electrical stimulation of the VTA was
+performed in rats receiving non-contingent infusions of cocaine. Ex-
+endin-4 did not aﬀect the ability of cocaine to attenuate dopamine
+uptake, which suggests that GLP-1 receptor activation exerts its sup-
+pressive eﬀects on cocaine-induced dopamine release in the accumbens
+core by reducing the excitability of midbrain dopamine neurons [150].
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+98
+While these ﬁndings are the ﬁrst to highlight a role for central GLP-1
+receptors in suppression of cocaine-evoked dopamine release in the
+accumbens [150], one limitation of this study is that ICV delivery of
+exendin-4 causes broad GLP-1 receptor activation throughout the brain.
+Therefore, it is diﬃcult to delineate the exact brain regions mediating
+the neurochemical and neurophysiological eﬀects of exendin-4. Also,
+while exendin-4 attenuates cocaine self-administration [115,127], it is
+not clear whether exendin-4 suppresses conditioned phasic dopamine
+release aligned with cocaine-predictive cues and operant responding
+observed during voluntary cocaine taking [151,152]. Thus, our un-
+derstanding of how central GLP-1 receptor activation inﬂuences the
+mesolimbic dopamine system to reduce addiction-like behaviors would
+beneﬁt from future electrophysiological studies further delineating the
+eﬀects of central GLP-1 receptor activation on phasic versus tonic do-
+pamine cell ﬁring.
+Previous studies have shown that GLP-1 receptor agonists modulate
+neuronal activity in the brain by both pre-synaptic eﬀects on neuro-
+transmitter release and regulation of post-synaptic membrane excit-
+ability [133,153,154]. However, there is a paucity of studies in-
+vestigating the eﬀects of GLP-1 receptor activation on neuronal activity
+in preclinical models of cocaine use disorder. In order to advance our
+knowledge of the neurophysiological mechanisms by which GLP-1 re-
+ceptor agonists attenuate cocaine-mediated behaviors, ex vivo electro-
+physiological studies are needed to elucidate the eﬀects of GLP-1 re-
+ceptor activation on neuronal activity in a cocaine-exposed brain. A
+recent study characterized the eﬀects of exendin-4 on activity of
+medium spiny neurons (MSNs) in the nucleus accumbens of cocaine-
+experienced rats [131]. Following extinction of cocaine self-adminis-
+tration, application of 1 μM exendin-4 increased the frequency of MSN
+action potential ﬁring in the nucleus accumbens core and shell [131].
+No other measures of membrane excitability (e.g., resting membrane
+potential, rheobase, action potential amplitude and action potential
+duration) were altered by GLP-1 receptor activation in ex vivo striatal
+slices from cocaine-experienced rats [131]. In contrast to previous
+studies showing presynaptic eﬀects of GLP-1 receptor activation in the
+VTA and accumbens core of drug-naïve rats [110,133], exendin-4 had
+no eﬀects on spontaneous excitatory post-synaptic currents (sEPSCs)
+frequency and paired pulse ratio (PPR) of evoked EPSCs in nucleus
+accumbens core and shell MSNs from cocaine-experienced rats [131].
+Taken together, these results indicate that increased activation of GLP-1
+receptors in the nucleus accumbens during cocaine abstinence increases
+intrinsic, but not synaptic, excitability of MSNs and is suﬃcient to re-
+duce the reinstatement of cocaine-seeking behavior [131]. It should be
+noted that these results are limited to activity exclusively within the
+nucleus accumbens, as these studies were conducted in accumbens
+slices without input from VTA cell bodies. The eﬀects of GLP-1 receptor
+activation on accumbens MSN activity should be further explored in an
+in vivo model, as it has been shown that input from the VTA to the
+nucleus accumbens impacts dopamine signaling dynamics. Speciﬁcally,
+phasic dopamine release in the accumbens is dependent on burst ﬁring
+of VTA dopamine neurons [155]. Moreover, studies utilizing amphe-
+tamine have highlighted the importance of VTA input on nucleus ac-
+cumbens dopamine release patterns. While dopamine eﬄux is pre-
+served in ex vivo slices treated with amphetamine [156], phasic
+dopamine release is only observed in in vivo studies with preserved VTA
+inputs to the accumbens [157]. Thus, active VTA input into the nucleus
+accumbens may be required for a more accurate picture of how GLP-1
+receptor activation modulates nucleus accumbens MSN activity in co-
+caine-experienced animals.
+An interesting alternative hypothesis is that VTA input may not be
+necessary to stimulate dopamine release in the nucleus accumbens.
+Recent studies have revealed that cholinergic interneurons in the
+Fig. 1. Cocaine taking and subsequent abstinence dynamically modulate endogenous central PPG expression. (A) Cocaine self-administration increases PPG (GLP-1
+precursor) mRNA expression in the nucleus tractus solitarius (NTS), eﬀects that may be associated with enhanced GLP-1 tone in midbrain and forebrain nuclei known
+to regulate cocaine taking and seeking. (B) Abstinence following cocaine self-administration decreases PPG mRNA expression in the NTS, which may promote/
+facilitate cocaine seeking during withdrawal. Together, these ﬁndings reveal a novel GLP-1-focused neuroendocrine mechanism underlying cocaine taking and
+seeking. These results are described in more detail in the main text. PPG = preproglucagon, LDTg = laterodorsal tegmental nucleus, VTA = ventral tegmental area,
+LH = lateral hypothalamus, LS = lateral septum, Amy = amygdala, NAc = nucleus accumbens.
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+99
+accumbens are capable of stimulating dopamine release and that these
+eﬀects are regulated, in part, by the endocannabinoid system and pre-
+frontal cortical aﬀerents to the accumbens [158–160]. Since GLP-1
+receptor activation has been shown to modulate both endocannabinoid
+signaling and presynaptic glutamate release [121,133], it is possible
+that exendin-4 may inﬂuence cholinergic interneuron signaling in the
+nucleus accumbens via these systems or by direct action on inter-
+neurons themselves. Further support for cholinergic interneurons
+playing a role in modulating the eﬀects of metabolic factors on striatal
+dopamine levels and reward comes from a recent study showing that
+insulin increases striatal dopamine release by activating cholinergic
+interneurons in the accumbens [161]. Thus, future electrophysiological
+studies are needed to determine if the eﬀects of exendin-4 on MSN
+activity are due to activation of cholinergic interneurons alone or re-
+quire VTA input as discussed above.
+Cocaine abstinence is associated with decreased nucleus accumbens
+MSN membrane excitability due to changes in conductance of sodium,
+calcium and potassium [162–164]. Lower membrane excitability
+during cocaine abstinence may enhance action potential sensitivity to
+GLP-1 receptor activation in the nucleus accumbens [131]. Cocaine
+exposure is likely a critical component in this scenario, given the pre-
+vious ﬁndings of minimal eﬀects of exendin-4 on accumbens MSN ﬁring
+in drug-naïve rats [133] combined with recent studies showing in-
+creased frequency of MSN action potential ﬁring in the nucleus ac-
+cumbens core and shell in cocaine-experienced rats [131]. In line with
+this hypothesis, a recent study showed that exendin-4 suppressed co-
+caine-evoked phasic release of dopamine in the accumbens core, eﬀects
+not due to changes in dopamine reuptake [150]. These neurophysio-
+logical changes, however, may not be speciﬁc to the accumbens as
+exendin-4 administration was also associated with reduced cocaine-
+evoked dopamine release in the lateral septum [121,135]. GLP-1 sig-
+naling has also been shown to regulate other neurotransmitter systems
+including glutamatergic [133] and GABAergic [154,165] transmission
+in the brain. Understanding the mechanisms by which GLP-1 receptor
+activation in the nucleus accumbens reduces cocaine seeking will
+beneﬁt from a comprehensive analysis of how exendin-4 regulates in-
+tegration of synaptic and intrinsic MSN excitability in the context of
+drug priming-induced reinstatement. Thus, intrinsic GLP-1 receptor-
+coupled mechanisms may contribute to previous ﬁndings that a broad
+increase in nucleus accumbens MSN action potential output is asso-
+ciated
+with
+attenuation
+of
+rewarding
+consummatory
+behaviors
+[166,167].
+While activation of GLP-1 receptors in the VTA has been shown to
+attenuate cocaine self-administration and reinstatement [120,127], the
+neurophysiological mechanisms underlying these behavioral responses
+are not clear. In drug-naïve mice, exendin-4 reduced AMPA receptor-
+mediated EPSCs in VTA dopamine neurons that project to the nucleus
+accumbens shell [72]. AMPA/NMDA EPSC ratio in the VTA was also
+decreased following exendin-4 application suggesting a postsynaptic
+modiﬁcation that functions to reduce excitatory synaptic strength via
+removal of AMPA receptors from the postsynaptic membrane [72].
+Interestingly, exendin-4 also increased amplitude of spontaneous in-
+hibitory postsynaptic currents (sIPSCs) in VTA dopamine neurons [72].
+These results indicate that GLP-1 receptor activation modulates both
+excitatory and inhibitory transmission in VTA dopamine neurons that
+project to the nucleus accumbens. It is provocative to think that similar
+mechanisms (i.e., decreased excitatory synaptic strength and/or facil-
+itation of inhibitory synaptic inputs in VTA dopamine neurons) may
+mediate the eﬀects of GLP-1 receptor activation in the VTA on cocaine
+taking and seeking.
+6. Clinical potential of GLP-1 receptor agonists to treat cocaine
+use disorder
+Although strong preclinical evidence indicates that various meta-
+bolic hormones regulate addiction-like phenotypes in animal models
+[83,168], the relationship between endogenous levels of metabolic
+factors and substance abuse disorders in humans is not clear. A recent
+study investigated the eﬀects of cocaine on plasma levels of metabolic
+factors [ghrelin (total and acly-ghrelin), amylin, GLP-1, insulin, leptin
+and peptide YY (PYY)] in human cocaine addicts [169]. Acute cocaine
+(25 mg) signiﬁcantly decreased serum GLP-1 and PYY concentrations in
+cocaine users with trends toward decreased insulin and amylin con-
+centrations [169]. However, these eﬀects were seen in a relatively small
+sample size (n = 8). Thus, future studies with larger sample sizes and
+healthy controls are needed to further validate and determine the
+speciﬁcity of these eﬀects in human cocaine addicts. Additionally, fu-
+ture studies would beneﬁt from correlating metabolic hormone serum
+concentrations with drug craving to further support the hypothesis that
+GLP-1, and possibly PYY, may serve as potential targets to treat cocaine
+craving and relapse. Consistent with these eﬀects, other clinical studies
+have shown that crack cocaine use is associated with lower serum levels
+of leptin [170]. Preclinical studies have also assessed the correlation
+between circulating levels of metabolic hormones and cocaine taking
+and seeking in rats. Serum ghrelin levels have been shown to be posi-
+tively correlated with increased reinstatement of cocaine-seeking be-
+havior [171]. Interestingly, a recent study has shown that 14 days of
+cocaine self-administration in rats was associated with increased
+ghrelin and GLP-1 plasma levels while leptin and insulin levels were
+decreased [142]. While these preclinical ﬁndings appear to contrast
+ﬁndings from human GLP-1 studies, they are consistent with the
+working hypothesis that cocaine-induced increases in central GLP-1
+signaling may represent a homeostatic response to reduce further co-
+caine consumption [127] (Fig. 1B). Thus, larger clinical trials are
+needed to determine the exact eﬀects of cocaine taking and withdrawal
+on plasma GLP-1 levels and validate ﬁndings from preclinical models
+quantifying drug-induced changes in circulating metabolic factors.
+The mechanisms by which cocaine decreases GLP-1 serum con-
+centrations in human cocaine addicts and the functional signiﬁcance of
+decreased circulating GLP-1 remains to be determined. However, taken
+together with preclinical studies showing that increased GLP-1 receptor
+activation decreases cocaine taking- and seeking-behaviors, these re-
+sults suggest that decreased GLP-1 may promote cocaine use. This hy-
+pothesis is consistent with preclinical studies demonstrating that co-
+caine
+taking
+and
+subsequent
+abstinence
+decreased
+PPG
+mRNA
+expression in the NTS, eﬀects likely associated with reduced GLP-1
+signaling in the mesolimbic reward system, which may promote cocaine
+seeking [120] (Fig. 1A). It is also interesting to speculate that decreased
+serum GLP-1 levels observed in human addicts may serve as a bio-
+marker for cocaine use disorder and/or treatment response [172].
+Moreover, there are several known single nucleotide polymorphisms
+(SNPs) in the human GLP-1 receptor [173]. One SNP in particular, the
+T149 M variant, displayed reduced GLP-1 binding and cAMP signaling
+as well as diﬀerences in the extent of reduced functional responses to
+various GLP-1 receptor ligands [173,174]. It is possible that expression
+of the T149M variant and/or decreased baseline circulating GLP-1 le-
+vels in human cocaine addicts may serve as predictors of treatment
+response and/or relapse, as these phenotypes are associated with de-
+creased endogenous GLP-1 signaling in the body. If increased en-
+dogenous GLP-1 signaling functions as a ‘brake’ to reduce cocaine
+consumption [127], cocaine users with the T149M variant and/or re-
+duced blood GLP-1 levels may be more susceptible to cocaine craving
+and relapse. This hypothesis is supported by clinical studies showing
+that another GLP-1 receptor SNP variant (168Ser) is associated with
+alcohol use disorder and increased alcohol consumption in humans
+with alcohol use disorder [175]. Thus, it is provocative to think that
+GLP-1 receptor variants may be predictors of relapse and/or treatment
+response in humans with cocaine use disorders.
+From a translational perspective, preclinical studies have identiﬁed
+systemic and intra-cranial doses of exendin-4 that attenuate cocaine
+taking and seeking [120,127,131] and do not produce notable meta-
+bolic or adverse eﬀects associated with GLP-1 receptor agonists in
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+100
+humans and rodents [118,119,176]. Since GLP-1 analogs are currently
+FDA-approved for treating type II diabetes and obesity [106,109], these
+pre-clinical ﬁndings suggest that GLP-1 receptor agonists could be re-
+purposed at low doses to treat cocaine use disorder. However, clinical
+studies are needed to validate the eﬃcacy of GLP-1 receptor agonists in
+reducing cocaine craving-induced relapse and to determine if circu-
+lating GLP-1 could be used as a biomarker for craving and/or treatment
+response.
+Currently, there are many diﬀerent GLP-1 receptor agonists avail-
+able on the market to treat type II diabetes [177]. The elimination half-
+lives of GLP-1 receptor agonists diﬀer depending upon their chemical
+structures, that include, but are not limited to, speciﬁc amino acid se-
+quences that are resistant to DPP-IV degradation, as well as conjuga-
+tions (i.e., pegylation, acetylations, etc.) to the peptide sequence [178].
+These important pharmacokinetic properties are likely to inﬂuence
+brain penetrance, distribution to nuclei known to regulate drug re-
+inforcement, and the therapeutic utility of GLP-1 receptor agonists for
+treating cocaine use disorder. Thus, it is important for future studies to
+directly compare the eﬃcacy of diﬀerent GLP-1 receptor agonists in
+attenuating drug-mediated behaviors. It will also be important for fu-
+ture clinical trials to determine the eﬃcacy of recently developed oral
+formulations of GLP-1 analogs in treating cocaine use disorder as the
+safety and pharmacokinetics of these medications may diﬀer from GLP-
+1 receptor agonists administered subcutaneously [177,179].
+In addition to causing nausea and malaise in humans, GLP-1 analogs
+have also been shown to reduce blood glucose concentrations and food
+intake in healthy subjects [180,182]. However, GLP-1 receptor agonists
+cause fewer hypoglycemic events compared to insulin in patients with
+type II diabetes and no reports of hypoglycemia or severe weight loss
+have been observed in healthy subjects [180–183]. Therefore, it is not
+likely that GLP-1 receptor agonist treatment will result in glycemic
+dysregulation in otherwise healthy patients [84,184]. Moreover, there
+is no scientiﬁc evidence supporting development of pancreatic toxicity
+as initially suggested in patients treated with GLP-1 receptor agonists
+[184]. Thus, the beneﬁt/risk proﬁle of GLP-1 receptor agonists supports
+their clinical use and the translational relevance of preclinical drug
+addiction studies.
+7. Potential eﬃcacy of GLP-1 receptor agonists in treating other
+substance use disorders
+In addition to reducing cocaine-mediated behaviors, the eﬃcacy of
+GLP-1 receptor agonists in regulating behaviors associated with other
+drugs of abuse has been investigated. Speciﬁcally, GLP-1 receptor
+agonists have been shown to reduce ethanol-, amphetamine-, and ni-
+cotine-mediated behaviors in rodents [113,185–189]. Systemic ad-
+ministration of exendin-4 (2.4 μg/kg) decreased ethanol-induced CPP,
+the locomotor-activating eﬀects of ethanol, and ethanol self-adminis-
+tration [185]. These behavioral responses were associated with reduced
+ethanol-induced dopamine release in the striatum [185]. Other studies
+have replicated these ﬁndings and shown that higher doses of exendin-4
+(20 μg/kg) decreased ethanol-induced CPP in mice while 0.3 and
+1.0 μg/kg exendin-4 decreased voluntary ethanol intake in rats [187].
+These eﬀects are mediated, in part, by central GLP-1 receptors as in-
+fusions of exendin-4 directly into the VTA were suﬃcient to reduce
+ethanol self-administration in rats [187]. Analogous ﬁndings have been
+shown in studies investigating the eﬃcacy of GLP-1 receptor agonists in
+reducing amphetamine-mediated behaviors. Speciﬁcally, administra-
+tion of exendin-4 (2.4 μg/kg) attenuated amphetamine-induced loco-
+motor activity, CPP and accumbal dopamine release [113]. With regard
+to nicotine use disorder, exendin-4 (2.4 μg/kg) pretreatment reduced
+nicotine-induced locomotion, sensitization, CPP and accumbal dopa-
+mine release [186]. Another study has expanded these ﬁndings and
+shown that nicotine activates endogenous GLP-1-producing neurons in
+the NTS [189]. Moreover, systemic administration of exendin-4 (10 μg/
+kg) and the DPP-IV inhibitor sitagliptin (10 mg/kg) decreased nicotine
+consumption in mice [189]. Consistent with these eﬀects, GLP-1 re-
+ceptor knockout mice self-administer more nicotine than wild-type
+controls [189]. To investigate the endogenous circuits mediating these
+behavioral responses, optogenetic studies revealed that GLP-1 excites
+medial habenula projections to the interpeduncular nucleus and that
+activation of GLP-1 receptors in this circuit is suﬃcient to attenuate
+nicotine consumption [189]. The authors conclude that GLP-1 acts as a
+‘satiety sensor’ to limit nicotine intake by stimulating the medial ha-
+benula to interpeduncular nucleus circuit to promote nicotine avoid-
+ance before its aversive eﬀects are encountered [189]. Collectively,
+these studies indicate that systemic administration of a GLP-1 receptor
+agonist decreases the reinforcing and rewarding eﬃcacy of multiple
+drugs of abuse and that these eﬀects are associated with decreased
+drug-evoked dopamine release in the nucleus accumbens. It is im-
+portant to note, however, that relatively high doses of systemic GLP-1
+receptor agonists were used in these studies and that these doses have
+been shown previously to produce nausea/malaise and decrease food
+intake and body weight in rats [118,176]. Achieving behavioral se-
+lectivity through proper dosing of GLP-1 receptor agonists is critical for
+drawing ﬁrm conclusions about the eﬃcacy of GLP-1 receptor agonists
+to reduce addiction-like phenotypes in preclinical models. These foun-
+dational studies do, however, provide preliminary data supporting the
+potential eﬃcacy of GLP-1 receptor agonists in treating alcohol, nico-
+tine, and amphetamine use disorders.
+8. Concluding remarks
+The results summarized in this review indicate that activation of
+GLP-1 receptors has profound eﬀects on cocaine-mediated behaviors in
+rodents. Moreover, emerging evidence indicates that cocaine and sub-
+sequent abstinence dynamically alter endogenous central GLP-1 sig-
+naling (Fig. 1). However, much remains to be discovered about how
+central GLP-1 circuits function to reduce cocaine-mediated behaviors
+and the eﬃcacy of GLP-1 receptor agonists in diﬀerent behavioral
+paradigms. For example, future studies are needed to assess the eﬃcacy
+of repeated administration of GLP-1 receptor agonists on voluntary
+cocaine taking and seeking as studies to date have only assessed the
+acute eﬀects of exendin-4 on these behaviors (Table 1). It will be im-
+portant to know if tolerance and/or adverse eﬀects develop to repeated
+administration of GLP-1 receptor agonists. Furthermore, no studies to
+date have examined potential sex diﬀerences in the eﬃcacy of GLP-1
+receptor agonists to reduce cocaine-mediated behaviors. Recent evi-
+dence indicates that females are more sensitive to the eﬀects of a GLP-1
+receptor agonist infused directly into the brain on food intake [190]. It
+is provocative to think that the potency of GLP-1 receptor agonists may
+diﬀer between sexes in preclinical models of addiction. In addition to
+exendin-4, preclinical studies should also test the eﬃcacy of other GLP-
+1 system-targeted drugs with diﬀerent pharmacokinetic proﬁles (e.g.,
+liraglutide) and pharmacological mechanisms of action (e.g., si-
+tagliptin) in reducing cocaine-taking and -seeking behaviors. Finally,
+there are signiﬁcant gaps in our understanding of the central GLP-1
+circuits that regulate cocaine-mediated behaviors, as well as the cel-
+lular, molecular and neurophysiological mechanisms by which GLP-1
+receptor agonists attenuate these behavioral responses. Critical ﬁrst
+steps toward characterizing central GLP-1 circuits will be phenotyping
+GLP-1 receptor-expressing cells in brain nuclei know to regulate drug-
+taking and -seeking behaviors as well as their downstream targets. In
+conclusion, an exciting body of preclinical evidence supports clinical
+studies examining the eﬃcacy of GLP-1 receptor agonists in treating
+cocaine use disorder, as well as the development of pharmacotherapies
+aimed at increasing GLP-1 receptor signaling in the brain to prevent
+cocaine craving-induced relapse.
+Acknowledgements
+The authors would like to thank Drs. Samantha Fortin and Matthew
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+101
+Hayes for their critical reading of this manuscript. H.D.S is supported by
+a grant from the National Institutes of Health (R01 DA037897). N.S.H.
+is supported by a Gilliam Fellowship from the Howard Hughes Medical
+Institute.
+Conﬂict of interest
+H.D.S. receives funding from Novo Nordisk that was not used to
+support these studies. The authors declare no other competing ﬁnancial
+interests.
+References
+[1] Results From the 2017 National Survey on Drug Use and Health. Substance Abuse
+and Mental Health Services Administration, (2018).
+[2] A. Hughes, M.R. Williams, R.N. Lipari, S. Van Horn, T.C. Report (Ed.), State
+Estimates of Past Year Cocaine Use Among Young Adults: 2014 and 2015, Center
+for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health
+Services Administration, Rockville, MD, 2016.
+[3] C.A. Dackis, C.P. O'Brien, Cocaine dependence: a disease of the brain's reward
+centers, J. Subst. Abus. Treat. 21 (2001) 111–117.
+[4] C.P. O'Brien, A range of research-based pharmacotherapies for addiction, Science
+278 (1997) 66–70.
+[5] R.C. Pierce, C.P. O'Brien, P.J. Kenny, L.J. Vanderschuren, Rational development of
+addiction pharmacotherapies: successes, failures, and prospects, Cold Spring Harb.
+Perspect. Med. 2 (2012) a012880.
+[6] T.M. Tzschentke, Measuring reward with the conditioned place preference para-
+digm: a comprehensive review of drug eﬀects, recent progress and new issues,
+Prog. Neurobiol. 56 (1998) 613–672.
+[7] M.T. Bardo, R.A. Bevins, Conditioned place preference: what does it add to our
+preclinical understanding of drug reward? Psychopharmacology 153 (2000)
+31–43.
+[8] H. de Wit, J. Stewart, Reinstatement of cocaine-reinforced responding in the rat,
+Psychopharmacology 75 (1981) 134–143.
+[9] C.P. O'Brien, A.R. Childress, A.T. McLellan, R. Ehrman, Classical conditioning in
+drug-dependent humans, Ann. N. Y. Acad. Sci. 654 (1992) 400–415.
+[10] R. Sinha, D. Catapano, S. O'Malley, Stress-induced craving and stress response in
+cocaine dependent individuals, Psychopharmacology 142 (1999) 343–351.
+[11] J.H. Jaﬀe, N.G. Cascella, K.M. Kumor, M.A. Sherer, Cocaine-induced cocaine
+craving, Psychopharmacology 97 (1989) 59–64.
+[12] U. Shalev, J.W. Grimm, Y. Shaham, Neurobiology of relapse to heroin and cocaine
+seeking: a review, Pharmacol. Rev. 54 (2002) 1–42.
+[13] Y. Shaham, U. Shalev, L. Lu, H. De Wit, J. Stewart, The reinstatement model of
+drug relapse: history, methodology and major ﬁndings, Psychopharmacology 168
+(2003) 3–20.
+[14] J.R. Mantsch, D.A. Baker, D. Funk, A.D. Le, Y. Shaham, Stress-induced reinstate-
+ment of drug seeking: 20 years of progress, Neuropsychopharmacology 41 (2016)
+335–356.
+[15] G.J. Gerber, R. Stretch, Drug-induced reinstatement of extinguished self-admin-
+istration behavior in monkeys, Pharmacol. Biochem. Behav. 3 (1975) 1055–1061.
+[16] R.D. Spealman, R.L. Barrett-Larimore, J.K. Rowlett, D.M. Platt, T.V. Khroyan,
+Pharmacological and environmental determinants of relapse to cocaine-seeking
+behavior, Pharmacol. Biochem. Behav. 64 (1999) 327–336.
+[17] S.M. Anderson, A.A. Bari, R.C. Pierce, Administration of the D1-like dopamine
+receptor antagonist SCH-23390 into the medial nucleus accumbens shell attenu-
+ates cocaine priming-induced reinstatement of drug-seeking behavior in rats,
+Psychopharmacology 168 (2003) 132–138.
+[18] H.D. Schmidt, R.C. Pierce, Cocaine-induced neuroadaptations in glutamate
+transmission: potential therapeutic targets for craving and addiction, Ann. N. Y.
+Acad. Sci. 1187 (2010) 35–75.
+[19] H.D. Schmidt, S.M. Anderson, K.R. Famous, V. Kumaresan, R.C. Pierce, Anatomy
+and pharmacology of cocaine priming-induced reinstatement of drug seeking, Eur.
+J. Pharmacol. 526 (2005) 65–76.
+[20] M.C. Ritz, E.J. Cone, M.J. Kuhar, Cocaine inhibition of ligand binding at dopa-
+mine, norepinephrine and serotonin transporters: a structure-activity study, Life
+Sci. 46 (1990) 635–645.
+[21] J.M. Elliott, T.J. Beveridge, Psychostimulants and monoamine transporters: up-
+setting the balance, Curr. Opin. Pharmacol. 5 (2005) 94–100.
+[22] R.C. Pierce, V. Kumaresan, The mesolimbic dopamine system: the ﬁnal common
+pathway for the reinforcing eﬀect of drugs of abuse? Neurosci. Biobehav. Rev. 30
+(2006) 215–238.
+[23] A.E. Kelley, Memory and addiction: shared neural circuitry and molecular me-
+chanisms, Neuron. 44 (2004) 161–179.
+[24] D.S. Zahm, Functional-anatomical implications of the nucleus accumbens core and
+shell subterritories, Ann. N. Y. Acad. Sci. 877 (1999) 113–128.
+[25] H.J. Groenewegen, C.I. Wright, A.V. Beijer, P. Voorn, Convergence and segrega-
+tion of ventral striatal inputs and outputs, Ann. N. Y. Acad. Sci. 877 (1999) 49–63.
+[26] G.E. Alexander, M.D. Crutcher, Functional architecture of basal ganglia circuits:
+neural substrates of parallel processing, Trends Neurosci. 13 (1990) 266–271.
+[27] P.W. Kalivas, M. Nakamura, Neural systems for behavioral activation and reward,
+Curr. Opin. Neurobiol. 9 (1999) 223–227.
+[28] H.J. Groenewegen, H.B. Uylings, The prefrontal cortex and the integration of
+sensory, limbic and autonomic information, Prog. Brain Res. 126 (2000) 3–28.
+[29] R.A. Wise, Brain reward circuitry: insights from unsensed incentives, Neuron. 36
+(2002) 229–240.
+[30] M.W. Feltenstein, R.E. See, The neurocircuitry of addiction: an overview, Br. J.
+Pharmacol. 154 (2008) 261–274.
+[31] T.M. Jay, Dopamine: a potential substrate for synaptic plasticity and memory
+mechanisms, Prog. Neurobiol. 69 (2003) 375–390.
+[32] E.S. Bromberg-Martin, M. Matsumoto, O. Hikosaka, Dopamine in motivational
+control: rewarding, aversive, and alerting, Neuron. 68 (2010) 815–834.
+[33] A.A. Grace, B.S. Bunney, The control of ﬁring pattern in nigral dopamine neurons:
+burst ﬁring, J. Neurosci. 4 (1984) 2877–2890.
+[34] M. Marinelli, C.N. Rudick, X.T. Hu, F.J. White, Excitability of dopamine neurons:
+modulation and physiological consequences, CNS Neurol. Disord. Drug Targets 5
+(2006) 79–97.
+[35] T.M. Hsu, J.E. McCutcheon, M.F. Roitman, Parallels and overlap: the integration of
+homeostatic signals by mesolimbic dopamine neurons, Front. Psychiatry 9 (2018)
+410.
+[36] M.F. Roitman, G.D. Stuber, P.E. Phillips, R.M. Wightman, R.M. Carelli, Dopamine
+operates as a subsecond modulator of food seeking, J. Neurosci. 24 (2004)
+1265–1271.
+[37] J.F. Cheer, B.J. Aragona, M.L. Heien, A.T. Seipel, R.M. Carelli, R.M. Wightman,
+Coordinated accumbal dopamine release and neural activity drive goal-directed
+behavior, Neuron. 54 (2007) 237–244.
+[38] J.J. Day, M.F. Roitman, R.M. Wightman, R.M. Carelli, Associative learning med-
+iates dynamic shifts in dopamine signaling in the nucleus accumbens, Nat.
+Neurosci. 10 (2007) 1020–1028.
+[39] W. Schultz, Updating dopamine reward signals, Curr. Opin. Neurobiol. 23 (2013)
+229–238.
+[40] D. Sulzer, S.J. Cragg, M.E. Rice, Striatal dopamine neurotransmission: regulation
+of release and uptake, Basal Ganglia 6 (2016) 123–148.
+[41] H.C. Tsai, F. Zhang, A. Adamantidis, G.D. Stuber, A. Bonci, L. de Lecea, et al.,
+Phasic ﬁring in dopaminergic neurons is suﬃcient for behavioral conditioning,
+Science. 324 (2009) 1080–1084.
+[42] W. Schultz, Behavioral dopamine signals, Trends Neurosci. 30 (2007) 203–210.
+[43] J.R. Hollerman, W. Schultz, Dopamine neurons report an error in the temporal
+prediction of reward during learning, Nat. Neurosci. 1 (1998) 304–309.
+[44] W. Schultz, Dopamine reward prediction-error signalling: a two-component re-
+sponse, Nat. Rev. Neurosci. 17 (2016) 183–195.
+[45] K.C. Berridge, From prediction error to incentive salience: mesolimbic computa-
+tion of reward motivation, Eur. J. Neurosci. 35 (2012) 1124–1143.
+[46] K.C. Berridge, T.E. Robinson, Liking, wanting, and the incentive-sensitization
+theory of addiction, Am. Psychol. 71 (2016) 670–679.
+[47] T.E. Robinson, K.C. Berridge, The neural basis of drug craving: an incentive-sen-
+sitization theory of addiction, Brain Res. Brain Res. Rev. 18 (1993) 247–291.
+[48] R.A. Wise, Neurobiology of addiction, Curr. Opin. Neurobiol. 6 (1996) 243–251.
+[49] H.D. Schmidt, R.C. Pierce, Systemic administration of a dopamine, but not a ser-
+otonin or norepinephrine, transporter inhibitor reinstates cocaine seeking in the
+rat, Behav. Brain Res. 175 (2006) 189–194.
+[50] H.D. Schmidt, S.M. Anderson, R.C. Pierce, Stimulation of D1-like or D2 dopamine
+receptors in the shell, but not the core, of the nucleus accumbens reinstates co-
+caine-seeking behaviour in the rat, Eur. J. Neurosci. 23 (2006) 219–228.
+[51] H.D. Schmidt, R.C. Pierce, Cooperative activation of D1-like and D2-like dopamine
+receptors in the nucleus accumbens shell is required for the reinstatement of co-
+caine-seeking behavior in the rat, Neuroscience. 142 (2006) 451–461.
+[52] G. Aston-Jones, R.J. Smith, G.C. Sartor, D.E. Moorman, L. Massi, P. Tahsili-
+Fahadan, et al., Lateral hypothalamic orexin/hypocretin neurons: a role in reward-
+seeking and addiction, Brain Res. 1314 (2010) 74–90.
+[53] G.C. Sartor, G.S. Aston-Jones, A septal-hypothalamic pathway drives orexin neu-
+rons, which is necessary for conditioned cocaine preference, J. Neurosci. 32
+(2012) 4623–4631.
+[54] R. Sotomayor-Zarate, G.M. Renard, K.A. Araya, P. Carreno, J.A. Fuentealba,
+M.E. Andres, et al., Long-term loss of dopamine release mediated by CRF-1 re-
+ceptors in the rat lateral septum after repeated cocaine administration, Behav.
+Brain Res. 250 (2013) 206–210.
+[55] H.D. Schmidt, K.R. Famous, R.C. Pierce, The limbic circuitry underlying cocaine
+seeking encompasses the PPTg/LDT, Eur. J. Neurosci. 30 (2009) 1358–1369.
+[56] S. Lammel, B.K. Lim, R.C. Malenka, Reward and aversion in a heterogeneous
+midbrain dopamine system, Neuropharmacology 76 Pt B (2014) 351–359.
+[57] A. Zapata, E.K. Hwang, C.R. Lupica, Lateral habenula involvement in impulsive
+cocaine seeking, Neuropsychopharmacology 42 (2017) 1103–1112.
+[58] A.J. Lopez, Y. Jia, A.O. White, J.L. Kwapis, M. Espinoza, P. Hwang, et al., Medial
+habenula cholinergic signaling regulates cocaine-associated relapse-like behavior,
+Addict. Biol. (2018) (Epub ahead of print).
+[59] N.S. Narayanan, D.J. Guarnieri, R.J. DiLeone, Metabolic hormones, dopamine
+circuits, and feeding, Front. Neuroendocrinol. 31 (2010) 104–112.
+[60] P.J. Kenny, Reward mechanisms in obesity: new insights and future directions,
+Neuron. 69 (2011) 664–679.
+[61] R.J. DiLeone, J.R. Taylor, M.R. Picciotto, The drive to eat: comparisons and dis-
+tinctions between mechanisms of food reward and drug addiction, Nat. Neurosci.
+15 (2012) 1330–1335.
+[62] R.A. Wise, Role of brain dopamine in food reward and reinforcement, Philos.
+Trans. R. Soc. Lond. Ser. B Biol. Sci. 361 (2006) 1149–1158.
+[63] P.J. Kenny, Common cellular and molecular mechanisms in obesity and drug
+addiction, Nat. Rev. Neurosci. 12 (2011) 638–651.
+[64] N.D. Volkow, R.A. Wise, R. Baler, The dopamine motive system: implications for
+drug and food addiction, Nat. Rev. Neurosci. 18 (2017) 741–752.
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+102
+[65] H.J. Grill, M.R. Hayes, Hindbrain neurons as an essential hub in the neuroanato-
+mically distributed control of energy balance, Cell Metab. 16 (2012) 296–309.
+[66] K.W. Williams, J.K. Elmquist, From neuroanatomy to behavior: central integration
+of peripheral signals regulating feeding behavior, Nat. Neurosci. 15 (2012)
+1350–1355.
+[67] A.L. Alhadeﬀ, L.E. Rupprecht, M.R. Hayes, GLP-1 neurons in the nucleus of the
+solitary tract project directly to the ventral tegmental area and nucleus accumbens
+to control for food intake, Endocrinology. 153 (2012) 647–658.
+[68] J.D. Hommel, R. Trinko, R.M. Sears, D. Georgescu, Z.W. Liu, X.B. Gao, et al.,
+Leptin receptor signaling in midbrain dopamine neurons regulates feeding,
+Neuron. 51 (2006) 801–810.
+[69] D.P. Figlewicz, S.B. Evans, J. Murphy, M. Hoen, D.G. Baskin, Expression of re-
+ceptors for insulin and leptin in the ventral tegmental area/substantia nigra (VTA/
+SN) of the rat, Brain Res. 964 (2003) 107–115.
+[70] G. Labouebe, S. Liu, C. Dias, H. Zou, J.C. Wong, S. Karunakaran, et al., Insulin
+induces long-term depression of ventral tegmental area dopamine neurons via
+endocannabinoids, Nat. Neurosci. 16 (2013) 300–308.
+[71] K.P. Skibicka, C. Hansson, M. Alvarez-Crespo, P.A. Friberg, S.L. Dickson, Ghrelin
+directly targets the ventral tegmental area to increase food motivation,
+Neuroscience. 180 (2011) 129–137.
+[72] X.F. Wang, J.J. Liu, J. Xia, J. Liu, V. Mirabella, Z.P. Pang, Endogenous glucagon-
+like peptide-1 suppresses high-fat food intake by reducing synaptic drive onto
+mesolimbic dopamine neurons, Cell Rep. 12 (2015) 726–733.
+[73] D.P. Figlewicz, A. MacDonald Naleid, A.J. Sipols, Modulation of food reward by
+adiposity signals, Physiol. Behav. 91 (2007) 473–478.
+[74] U. Krugel, T. Schraft, H. Kittner, W. Kiess, P. Illes, Basal and feeding-evoked do-
+pamine release in the rat nucleus accumbens is depressed by leptin, Eur. J.
+Pharmacol. 482 (2003) 185–187.
+[75] M.L. McCaleb, R.D. Myers, Striatal dopamine release is altered by glucose and
+insulin during push-pull perfusion of the rat's caudate nucleus, Brain Res. Bull. 4
+(1979) 651–656.
+[76] A.M. Naleid, M.K. Grace, D.E. Cummings, A.S. Levine, Ghrelin induces feeding in
+the mesolimbic reward pathway between the ventral tegmental area and the nu-
+cleus accumbens, Peptides. 26 (2005) 2274–2279.
+[77] A. Abizaid, Z.W. Liu, Z.B. Andrews, M. Shanabrough, E. Borok, J.D. Elsworth,
+et al., Ghrelin modulates the activity and synaptic input organization of midbrain
+dopamine neurons while promoting appetite, J. Clin. Invest. 116 (2006)
+3229–3239.
+[78] K.P. Skibicka, R.H. Shirazi, C. Rabasa-Papio, M. Alvarez-Crespo, C. Neuber,
+H. Vogel, et al., Divergent circuitry underlying food reward and intake eﬀects of
+ghrelin: dopaminergic VTA-accumbens projection mediates ghrelin's eﬀect on food
+reward but not food intake, Neuropharmacology. 73 (2013) 274–283.
+[79] K.P. Skibicka, C. Hansson, E. Egecioglu, S.L. Dickson, Role of ghrelin in food re-
+ward: impact of ghrelin on sucrose self-administration and mesolimbic dopamine
+and acetylcholine receptor gene expression, Addict. Biol. 17 (2012) 95–107.
+[80] J.J. Cone, J.E. McCutcheon, M.F. Roitman, Ghrelin acts as an interface between
+physiological state and phasic dopamine signaling, J. Neurosci. 34 (2014)
+4905–4913.
+[81] J.J. Cone, J.D. Roitman, M.F. Roitman, Ghrelin regulates phasic dopamine and
+nucleus accumbens signaling evoked by food-predictive stimuli, J. Neurochem.
+133 (2015) 844–856.
+[82] M.R. Hayes, H.D. Schmidt, GLP-1 inﬂuences food and drug reward, Curr. Opin.
+Behav. Sci. 9 (2016) 66–70.
+[83] E. Jerlhag, Gut-brain axis and addictive disorders: a review with focus on alcohol
+and drugs of abuse, Pharmacol. Ther. (2018) (Epub ahead of print).
+[84] J.J. Holst, The physiology of glucagon-like peptide 1, Physiol. Rev. 87 (2007)
+1409–1439.
+[85] L.L. Baggio, D.J. Drucker, Biology of incretins: GLP-1 and GIP, Gastroenterology.
+132 (2007) 2131–2157.
+[86] P.J. Larsen, M. Tang-Christensen, J.J. Holst, C. Orskov, Distribution of glucagon-
+like peptide-1 and other preproglucagon-derived peptides in the rat hypothalamus
+and brainstem, Neuroscience. 77 (1997) 257–270.
+[87] V.K. Han, M.A. Hynes, C. Jin, A.C. Towle, J.M. Lauder, P.K. Lund, Cellular loca-
+lization of proglucagon/glucagon-like peptide I messenger RNAs in rat brain, J.
+Neurosci. Res. 16 (1986) 97–107.
+[88] I. Merchenthaler, M. Lane, P. Shughrue, Distribution of pre-pro-glucagon and
+glucagon-like peptide-1 receptor messenger RNAs in the rat central nervous
+system, J. Comp. Neurol. 403 (1999) 261–280.
+[89] L. Rinaman, Ascending projections from the caudal visceral nucleus of the solitary
+tract to brain regions involved in food intake and energy expenditure, Brain Res.
+1350 (2010) 18–34.
+[90] C.F. Deacon, M.A. Nauck, M. Toft-Nielsen, L. Pridal, B. Willms, J.J. Holst, Both
+subcutaneously and intravenously administered glucagon-like peptide I are ra-
+pidly degraded from the NH2-terminus in type II diabetic patients and in healthy
+subjects, Diabetes. 44 (1995) 1126–1131.
+[91] C.F. Deacon, A.H. Johnsen, J.J. Holst, Degradation of glucagon-like peptide-1 by
+human plasma in vitro yields an N-terminally truncated peptide that is a major
+endogenous metabolite in vivo, J. Clin. Endocrinol. Metab. 80 (1995) 952–957.
+[92] T.J. Kieﬀer, C.H. McIntosh, R.A. Pederson, Degradation of glucose-dependent in-
+sulinotropic polypeptide and truncated glucagon-like peptide 1 in vitro and in vivo
+by dipeptidyl peptidase IV, Endocrinology. 136 (1995) 3585–3596.
+[93] R. Mentlein, Dipeptidyl-peptidase IV (CD26)–role in the inactivation of regulatory
+peptides, Regul. Pept. 85 (1999) 9–24.
+[94] M.R. Hayes, T.M. Leichner, S. Zhao, G.S. Lee, A. Chowansky, D. Zimmer, et al.,
+Intracellular signals mediating the food intake-suppressive eﬀects of hindbrain
+glucagon-like peptide-1 receptor activation, Cell Metab. 13 (2011) 320–330.
+[95] C. Montrose-Raﬁzadeh, P. Avdonin, M.J. Garant, B.D. Rodgers, S. Kole, H. Yang,
+et al., Pancreatic glucagon-like peptide-1 receptor couples to multiple G proteins
+and activates mitogen-activated protein kinase pathways in Chinese hamster ovary
+cells, Endocrinology. 140 (1999) 1132–1140.
+[96] M. Hallbrink, T. Holmqvist, M. Olsson, C.G. Ostenson, S. Efendic, U. Langel,
+Diﬀerent domains in the third intracellular loop of the GLP-1 receptor are re-
+sponsible for Galpha(s) and Galpha(i)/Galpha(o) activation, Biochim. Biophys.
+Acta 1546 (2001) 79–86.
+[97] M.M. Fletcher, M.L. Halls, A. Christopoulos, P.M. Sexton, D. Wootten, The com-
+plexity of signalling mediated by the glucagon-like peptide-1 receptor, Biochem.
+Soc. Trans. 44 (2016) 582–588.
+[98] L.E. Rupprecht, E.G. Mietlicki-Baase, D.J. Zimmer, L.E. McGrath, D.R. Olivos,
+M.R. Hayes, Hindbrain GLP-1 receptor-mediated suppression of food intake re-
+quires a PI3K-dependent decrease in phosphorylation of membrane-bound Akt,
+Am. J. Physiol. Endocrinol. Metab. 305 (2013) E751–E759.
+[99] J.P. Gutzwiller, J. Drewe, B. Goke, H. Schmidt, B. Rohrer, J. Lareida, et al.,
+Glucagon-like peptide-1 promotes satiety and reduces food intake in patients with
+diabetes mellitus type 2, Am. J. Phys. 276 (1999) R1541–R1544.
+[100] J.P. Gutzwiller, B. Goke, J. Drewe, P. Hildebrand, S. Ketterer, D. Handschin, et al.,
+Glucagon-like peptide-1: a potent regulator of food intake in humans, Gut. 44
+(1999) 81–86.
+[101] M.D. Turton, D. O'Shea, I. Gunn, S.A. Beak, C.M. Edwards, K. Meeran, et al., A role
+for glucagon-like peptide-1 in the central regulation of feeding, Nature. 379
+(1996) 69–72.
+[102] J.G. Barrera, K.R. Jones, J.P. Herman, D.A. D'Alessio, S.C. Woods, R.J. Seeley,
+Hyperphagia and increased fat accumulation in two models of chronic CNS glu-
+cagon-like peptide-1 loss of function, J. Neurosci. 31 (2011) 3904–3913.
+[103] M.R. Hayes, B.C. De Jonghe, S.E. Kanoski, Role of the glucagon-like-peptide-1
+receptor in the control of energy balance, Physiol. Behav. 100 (2010) 503–510.
+[104] S.E. Kanoski, S.M. Fortin, M. Arnold, H.J. Grill, M.R. Hayes, Peripheral and central
+GLP-1 receptor populations mediate the anorectic eﬀects of peripherally ad-
+ministered GLP-1 receptor agonists, liraglutide and exendin-4, Endocrinology. 152
+(2011) 3103–3112.
+[105] E.B. Ruttimann, M. Arnold, J.J. Hillebrand, N. Geary, W. Langhans, Intrameal
+hepatic portal and intraperitoneal infusions of glucagon-like peptide-1 reduce
+spontaneous meal size in the rat via diﬀerent mechanisms, Endocrinology. 150
+(2009) 1174–1181.
+[106] J.A. Lovshin, D.J. Drucker, Incretin-based therapies for type 2 diabetes mellitus,
+Nat. Rev. Endocrinol. 5 (2009) 262–269.
+[107] S. Sisley, R. Gutierrez-Aguilar, M. Scott, D.A. D'Alessio, D.A. Sandoval, R.J. Seeley,
+Neuronal GLP1R mediates liraglutide's anorectic but not glucose-lowering eﬀect,
+J. Clin. Invest. 124 (2014) 2456–2463.
+[108] A. Secher, J. Jelsing, A.F. Baquero, J. Hecksher-Sorensen, M.A. Cowley,
+L.S. Dalboge, et al., The arcuate nucleus mediates GLP-1 receptor agonist lir-
+aglutide-dependent weight loss, J. Clin. Invest. 124 (2014) 4473–4488.
+[109] A.P. Shukla, W.I. Buniak, L.J. Aronne, Treatment of obesity in 2015, J.
+Cardiopulm. Rehabil. Prevent. 35 (2015) 81–92.
+[110] E.G. Mietlicki-Baase, P.I. Ortinski, L.E. Rupprecht, D.R. Olivos, A.L. Alhadeﬀ,
+R.C. Pierce, et al., The food intake-suppressive eﬀects of glucagon-like peptide-1
+receptor signaling in the ventral tegmental area are mediated by AMPA/kainate
+receptors. American journal of physiology, Endocrinol. Metab. 305 (2013)
+E1367–E1374.
+[111] A.M. Dossat, N. Lilly, K. Kay, D.L. Williams, Glucagon-like peptide 1 receptors in
+nucleus accumbens aﬀect food intake, J. Neurosci. 31 (2011) 14453–14457.
+[112] R.R. Schick, J.P. Zimmermann, T. vorm Walde, V. Schusdziarra, Peptides that
+regulate food intake: glucagon-like peptide 1-(7-36) amide acts at lateral and
+medial hypothalamic sites to suppress feeding in rats, Am. J. Phys. Regul. Integr.
+Comp. Phys. 284 (2003) R1427–R1435.
+[113] E. Egecioglu, J.A. Engel, E. Jerlhag, The glucagon-like peptide 1 analogue, ex-
+endin-4, attenuates the rewarding properties of psychostimulant drugs in mice,
+PLoS One 8 (2013) e69010.
+[114] D.L. Graham, K. Erreger, A. Galli, G.D. Stanwood, GLP-1 analog attenuates cocaine
+reward, Mol. Psychiatry 18 (2013) 961–962.
+[115] G. Sorensen, I.A. Reddy, P. Weikop, D.L. Graham, G.D. Stanwood, G. Wortwein,
+et al., The glucagon-like peptide 1 (GLP-1) receptor agonist exendin-4 reduces
+cocaine self-administration in mice, Physiol. Behav. 149 (2015) 262–268.
+[116] T. Talsania, Y. Anini, S. Siu, D.J. Drucker, P.L. Brubaker, Peripheral exendin-4 and
+peptide YY(3-36) synergistically reduce food intake through diﬀerent mechanisms
+in mice, Endocrinology. 146 (2005) 3748–3756.
+[117] C.M. Mack, C.X. Moore, C.M. Jodka, S. Bhavsar, J.K. Wilson, J.A. Hoyt, et al.,
+Antiobesity action of peripheral exenatide (exendin-4) in rodents: eﬀects on food
+intake, body weight, metabolic status and side-eﬀect measures, Int. J. Obes. 30
+(2006) 1332–1340.
+[118] S.E. Kanoski, L.E. Rupprecht, S.M. Fortin, B.C. De Jonghe, M.R. Hayes, The role of
+nausea in food intake and body weight suppression by peripheral GLP-1 receptor
+agonists, exendin-4 and liraglutide, Neuropharmacology. 62 (2012) 1916–1927.
+[119] J.B. Buse, J. Rosenstock, G. Sesti, W.E. Schmidt, E. Montanya, J.H. Brett, et al.,
+Liraglutide once a day versus exenatide twice a day for type 2 diabetes: a 26-week
+randomised, parallel-group, multinational, open-label trial (LEAD-6), Lancet. 374
+(2009) 39–47.
+[120] N.S. Hernandez, K.Y. Ige, E.G. Mietlicki-Baase, G.C. Molina-Castro, C.A. Turner,
+M.R. Hayes, et al., Glucagon-like peptide-1 receptor activation in the ventral
+tegmental area attenuates cocaine seeking in rats, Neuropsychopharmacology. 43
+(2018) 2000–2008.
+[121] I.A. Reddy, J.A. Pino, P. Weikop, N. Osses, G. Sorensen, T. Bering, et al., Glucagon-
+like peptide 1 receptor activation regulates cocaine actions and dopamine
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+103
+homeostasis in the lateral septum by decreasing arachidonic acid levels, Transl.
+Psychiatry 6 (2016) e809.
+[122] J. Kauﬂing, P. Veinante, S.A. Pawlowski, M.J. Freund-Mercier, M. Barrot, Aﬀerents
+to the GABAergic tail of the ventral tegmental area in the rat, J. Comp. Neurol. 513
+(2009) 597–621.
+[1233] S.V. Mahler, G.S. Aston-Jones, Fos activation of selective aﬀerents to ventral
+tegmental area during cue-induced reinstatement of cocaine seeking in rats, J.
+Neurosci. 32 (2012) 13309–13326.
+[124] Z.X. Xi, K. Spiller, A.C. Pak, J. Gilbert, C. Dillon, X. Li, et al., Cannabinoid CB1
+receptor antagonists attenuate cocaine's rewarding eﬀects: experiments with self-
+administration and brain-stimulation reward in rats, Neuropsychopharmacology
+33 (2008) 1735–1745.
+[125] M. L'Hirondel, A. Cheramy, G. Godeheu, J. Glowinski, Eﬀects of arachidonic acid
+on dopamine synthesis, spontaneous release, and uptake in striatal synaptosomes
+from the rat, J. Neurochem. 64 (1995) 1406–1409.
+[126] R. Goke, P.J. Larsen, J.D. Mikkelsen, S.P. Sheikh, Distribution of GLP-1 binding
+sites in the rat brain: evidence that exendin-4 is a ligand of brain GLP-1 binding
+sites, Eur. J. Neurosci. 7 (1995) 2294–2300.
+[127] H.D. Schmidt, E.G. Mietlicki-Baase, K.Y. Ige, J.J. Maurer, D.J. Reiner, D.J. Zimmer,
+et al., Glucagon-like peptide-1 receptor activation in the ventral tegmental area
+decreases the reinforcing eﬃcacy of cocaine, Neuropsychopharmacology 41
+(2016) 1917–1928.
+[128] J.M. Arnold, D.C. Roberts, A critique of ﬁxed and progressive ratio schedules used
+to examine the neural substrates of drug reinforcement, Pharmacol. Biochem.
+Behav. 57 (1997) 441–447.
+[129] N.R. Richardson, D.C. Roberts, Progressive ratio schedules in drug self-adminis-
+tration studies in rats: a method to evaluate reinforcing eﬃcacy, J. Neurosci.
+Methods 66 (1996) 1–11.
+[130] S.L. Dickson, R.H. Shirazi, C. Hansson, F. Bergquist, H. Nissbrandt, K.P. Skibicka,
+The glucagon-like peptide 1 (GLP-1) analogue, exendin-4, decreases the rewarding
+value of food: a new role for mesolimbic GLP-1 receptors, J. Neurosci. 32 (2012)
+4812–4820.
+[131] N.S. Hernandez, B. O'Donovan, P.I. Ortinski, H.D. Schmidt, Activation of glucagon-
+like peptide-1 receptors in the nucleus accumbens attenuates cocaine seeking in
+rats, Addict. Biol. 24 (2019) 170–181.
+[132] G. Di Chiara, Nucleus accumbens shell and core dopamine: diﬀerential role in
+behavior and addiction, Behav. Brain Res. 137 (2002) 75–114.
+[133] E.G. Mietlicki-Baase, P.I. Ortinski, D.J. Reiner, C.G. Sinon, J.E. McCutcheon,
+R.C. Pierce, et al., Glucagon-like peptide-1 receptor activation in the nucleus ac-
+cumbens core suppresses feeding by increasing glutamatergic AMPA/kainate sig-
+naling, J. Neurosci. 34 (2014) 6985–6992.
+[134] A.H. Luo, P. Tahsili-Fahadan, R.A. Wise, C.R. Lupica, G. Aston-Jones, Linking
+context with reward: a functional circuit from hippocampal CA3 to ventral teg-
+mental area, Science. 333 (2011) 353–357.
+[135] A.E. Harasta, J.M. Power, G. von Jonquieres, T. Karl, D.J. Drucker, G.D. Housley,
+et al., Septal glucagon-like peptide 1 receptor expression determines suppression
+of cocaine-induced behavior, Neuropsychopharmacology 40 (2015) 1969–1978.
+[136] S.D. Grabus, J.R. Glowa, A.L. Riley, Morphine- and cocaine-induced c-Fos levels in
+Lewis and Fischer rat strains, Brain Res. 998 (2004) 20–28.
+[137] D.S. Zahm, M.L. Becker, A.J. Freiman, S. Strauch, B. Degarmo, S. Geisler, et al., Fos
+after single and repeated self-administration of cocaine and saline in the rat:
+emphasis on the Basal forebrain and recalibration of expression,
+Neuropsychopharmacology 35 (2010) 445–463.
+[138] D.M. Buﬀalari, L. Rinaman, Cocaine self-administration and extinction alter me-
+dullary noradrenergic and limbic forebrain cFos responses to acute, noncontingent
+cocaine injections in adult rats, Neuroscience. 281C (2014) 241–250.
+[139] J.R. Mantsch, S.D. Schlussman, A. Ho, M.J. Kreek, Eﬀects of cocaine self-admin-
+istration on plasma corticosterone and prolactin in rats, J. Pharmacol. Exp. Ther.
+294 (2000) 239–247.
+[140] R. Galici, R.N. Pechnick, R.E. Poland, C.P. France, Comparison of noncontingent
+versus contingent cocaine administration on plasma corticosterone levels in rats,
+Eur. J. Pharmacol. 387 (2000) 59–62.
+[141] N.E. Goeders, G.F. Guerin, Role of corticosterone in intravenous cocaine self-ad-
+ministration in rats, Neuroendocrinology. 64 (1996) 337–348.
+[142] Z.B. You, B. Wang, E.L. Gardner, R.A. Wise, Cocaine and cocaine expectancy in-
+crease growth hormone, ghrelin, GLP-1, IGF-1, adiponectin, and corticosterone
+while decreasing leptin, insulin, GIP, and prolactin, Pharmacol. Biochem. Behav.
+176 (2018) 53–56.
+[143] H.D. Schmidt, K.N. McFarland, S.B. Darnell, M.N. Huizenga, G.R. Sangrey,
+J.H. Cha, et al., ADAR2-dependent GluA2 editing regulates cocaine seeking, Mol.
+Psychiatry 20 (2015) 1460–1466.
+[144] S.M. Anderson, K.R. Famous, G. Sadri-Vakili, V. Kumaresan, H.D. Schmidt,
+C.E. Bass, et al., CaMKII: a biochemical bridge linking accumbens dopamine and
+glutamate systems in cocaine seeking, Nat. Neurosci. 11 (2008) 344–353.
+[145] J.W. Maniscalco, L. Rinaman, Vagal interoceptive modulation of motivated be-
+havior, Physiology (Bethesda) 33 (2018) 151–167.
+[146] S.Y. Branch, R.B. Goertz, A.L. Sharpe, J. Pierce, S. Roy, D. Ko, et al., Food re-
+striction increases glutamate receptor-mediated burst ﬁring of dopamine neurons,
+J. Neurosci. 33 (2013) 13861–13872.
+[147] D. Zheng, S. de Cabeza Vaca, K.D. Carr, Food restriction increases acquisition,
+persistence and drug prime-induced expression of a cocaine-conditioned place
+preference in rats, Pharmacol. Biochem. Behav. 100 (2012) 538–544.
+[148] S.N. Roed, P. Wismann, C.R. Underwood, N. Kulahin, H. Iversen, K.A. Cappelen,
+et al., Real-time traﬃcking and signaling of the glucagon-like peptide-1 receptor,
+Mol. Cell. Endocrinol. 382 (2014) 938–949.
+[149] H. Zheng, R.L. Stornetta, K. Agassandian, L. Rinaman, Glutamatergic phenotype of
+glucagon-like peptide 1 neurons in the caudal nucleus of the solitary tract in rats,
+Brain Struct. Funct. 220 (2015) 3011–3022.
+[150] S.M. Fortin, M.F. Roitman, Central GLP-1 receptor activation modulates cocaine-
+evoked phasic dopamine signaling in the nucleus accumbens core, Physiol. Behav.
+176 (2017) 17–25.
+[151] G.D. Stuber, M.F. Roitman, P.E. Phillips, R.M. Carelli, R.M. Wightman, Rapid
+dopamine signaling in the nucleus accumbens during contingent and non-
+contingent cocaine administration, Neuropsychopharmacology 30 (2005)
+853–863.
+[152] P.E. Phillips, G.D. Stuber, M.L. Heien, R.M. Wightman, R.M. Carelli, Subsecond
+dopamine release promotes cocaine seeking, Nature. 422 (2003) 614–618.
+[153] C. Acuna-Goycolea, A. van den Pol, Glucagon-like peptide 1 excites hypocretin/
+orexin neurons by direct and indirect mechanisms: implications for viscera-
+mediated arousal, J. Neurosci. 24 (2004) 8141–8152.
+[154] S.V. Korol, Z. Jin, O. Babateen, B. Birnir, GLP-1 and exendin-4 transiently enhance
+GABAA receptor-mediated synaptic and tonic currents in rat hippocampal CA3
+pyramidal neurons, Diabetes. 64 (2015) 79–89.
+[155] L.A. Sombers, M. Beyene, R.M. Carelli, R.M. Wightman, Synaptic overﬂow of
+dopamine in the nucleus accumbens arises from neuronal activity in the ventral
+tegmental area, J. Neurosci. 29 (2009) 1735–1742.
+[156] S.R. Jones, R.R. Gainetdinov, R.M. Wightman, M.G. Caron, Mechanisms of am-
+phetamine action revealed in mice lacking the dopamine transporter, J. Neurosci.
+18 (1998) 1979–1986.
+[157] D.P. Covey, K.D. Bunner, D.R. Schuweiler, J.F. Cheer, P.A. Garris, Amphetamine
+elevates nucleus accumbens dopamine via an action potential-dependent me-
+chanism that is modulated by endocannabinoids, Eur. J. Neurosci. 43 (2016)
+1661–1673.
+[158] Y. Mateo, K.A. Johnson, D.P. Covey, B.K. Atwood, H.L. Wang, S. Zhang, et al.,
+Endocannabinoid actions on cortical terminals orchestrate local modulation of
+dopamine release in the nucleus accumbens, Neuron. 96 (2017) 1112–1126 (e5).
+[159] R. Cachope, J.F. Cheer, Local control of striatal dopamine release, Front. Behav.
+Neurosci. 8 (2014) 188.
+[160] R. Cachope, Y. Mateo, B.N. Mathur, J. Irving, H.L. Wang, M. Morales, et al.,
+Selective activation of cholinergic interneurons enhances accumbal phasic dopa-
+mine release: setting the tone for reward processing, Cell Rep. 2 (2012) 33–41.
+[161] M.A. Stouﬀer, C.A. Woods, J.C. Patel, C.R. Lee, P. Witkovsky, L. Bao, et al., Insulin
+enhances striatal dopamine release by activating cholinergic interneurons and
+thereby signals reward, Nat. Commun. 6 (2015) 8543.
+[162] X.F. Zhang, D.C. Cooper, F.J. White, Repeated cocaine treatment decreases whole-
+cell calcium current in rat nucleus accumbens neurons, J. Pharmacol. Exp. Ther.
+301 (2002) 1119–1125.
+[163] X.F. Zhang, X.T. Hu, F.J. White, Whole-cell plasticity in cocaine withdrawal: re-
+duced sodium currents in nucleus accumbens neurons, J. Neurosci. 18 (1998)
+488–498.
+[164] X.T. Hu, S. Basu, F.J. White, Repeated cocaine administration suppresses HVA-
+Ca2+ potentials and enhances activity of K+ channels in rat nucleus accumbens
+neurons, J. Neurophysiol. 92 (2004) 1597–1607.
+[165] O. Babateen, S.V. Korol, Z. Jin, A.K. Bhandage, A. Ahemaiti, B. Birnir, Liraglutide
+modulates GABAergic signaling in rat hippocampal CA3 pyramidal neurons pre-
+dominantly by presynaptic mechanism, BMC Pharmacol. Toxicol. 18 (2017) 83.
+[166] S.M. Nicola, I.A. Yun, K.T. Wakabayashi, H.L. Fields, Firing of nucleus accumbens
+neurons during the consummatory phase of a discriminative stimulus task depends
+on previous reward predictive cues, J. Neurophysiol. 91 (2004) 1866–1882.
+[167] R.A. Wheeler, R.M. Carelli, Dissecting motivational circuitry to understand sub-
+stance abuse, Neuropharmacology. 56 (Suppl. 1) (2009) 149–159.
+[168] J.A. Engel, E. Jerlhag, Role of appetite-regulating peptides in the pathophysiology
+of addiction: implications for pharmacotherapy, CNS Drugs 28 (2014) 875–886.
+[169] S. Bouhlal, K.N. Ellefsen, M.B. Sheskier, E. Singley, S. Pirard, D.A. Gorelick, et al.,
+Acute eﬀects of intravenous cocaine administration on serum concentrations of
+ghrelin, amylin, glucagon-like peptide-1, insulin, leptin and peptide YY and re-
+lationships with cardiorespiratory and subjective responses, Drug Alcohol Depend.
+180 (2017) 68–75.
+[170] M. Escobar, J.N. Scherer, F. Ornell, G. Bristot, C.M. Soares, L.S.P. Guimaraes, et al.,
+Leptin levels and its correlation with crack-cocaine use severity: a preliminary
+study, Neurosci. Lett. 671 (2018) 56–59.
+[171] M. Tessari, A. Catalano, M. Pellitteri, C. Di Francesco, F. Marini, P.A. Gerrard,
+et al., Correlation between serum ghrelin levels and cocaine-seeking behaviour
+triggered by cocaine-associated conditioned stimuli in rats, Addict. Biol. 12 (2007)
+22–29.
+[172] K.J. Bough, S. Amur, G. Lao, S.E. Hemby, N.S. Tannu, K.M. Kampman, et al.,
+Biomarkers for the development of new medications for cocaine dependence,
+Neuropsychopharmacology 39 (2014) 202–219.
+[173] M. Beinborn, C.I. Worrall, E.W. McBride, A.S. Kopin, A human glucagon-like
+peptide-1 receptor polymorphism results in reduced agonist responsiveness, Regul.
+Pept. 130 (2005) 1–6.
+[174] C. Koole, D. Wootten, J. Simms, C. Valant, L.J. Miller, A. Christopoulos, et al.,
+Polymorphism and ligand dependent changes in human glucagon-like peptide-1
+receptor (GLP-1R) function: allosteric rescue of loss of function mutation, Mol.
+Pharmacol. 80 (2011) 486–497.
+[175] P. Suchankova, J. Yan, M.L. Schwandt, B.L. Stangl, E.C. Caparelli, R. Momenan,
+et al., The glucagon-like peptide-1 receptor as a potential treatment target in al-
+cohol use disorder: evidence from human genetic association studies and a mouse
+model of alcohol dependence, Transl. Psychiatry 5 (2015) e583.
+[176] M.R. Hayes, S.E. Kanoski, A.L. Alhadeﬀ, H.J. Grill, Comparative eﬀects of the long-
+acting GLP-1 receptor ligands, liraglutide and exendin-4, on food intake and body
+weight suppression in rats, Obesity. 19 (2011) 1342–1349.
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+104
+[177] R. Gentilella, V. Pechtner, A. Corcos, A. Consoli, Glucagon-like peptide-1 receptor
+agonists in type 2 diabetes treatment: are they all the same? Diabetes Metab. Res.
+Rev. 35 (2019) e3070.
+[178] M.R. Hayes, E.G. Mietlicki-Baase, S.E. Kanoski, B.C. De Jonghe, Incretins and
+amylin: neuroendocrine communication between the gut, pancreas, and brain in
+control of food intake and blood glucose, Annu. Rev. Nutr. 34 (2014) 237–260.
+[179] C. Granhall, M. Donsmark, T.M. Blicher, G. Golor, F.L. Sondergaard, M. Thomsen,
+et al., Safety and pharmacokinetics of single and multiple ascending doses of the
+novel Oral human GLP-1 analogue, oral semaglutide, in healthy subjects and
+subjects with type 2 diabetes, Clin. Pharmacokinet. (2018) (Epub ahead of print).
+[180] C.M. Edwards, S.A. Stanley, R. Davis, A.E. Brynes, G.S. Frost, L.J. Seal, et al.,
+Exendin-4 reduces fasting and postprandial glucose and decreases energy intake in
+healthy volunteers. American journal of physiology, Endocrinol. Metab. 281
+(2001) E155–E161.
+[181] S.S. Thazhath, C.S. Marathe, T. Wu, J. Chang, J. Khoo, P. Kuo, et al., The glucagon-
+like peptide 1 receptor agonist exenatide inhibits small intestinal motility, ﬂow,
+transit, and absorption of glucose in healthy subjects and patients with type 2
+diabetes: a randomized controlled trial, Diabetes. 65 (2016) 269–275.
+[182] F. Giorgino, M. Benroubi, J.H. Sun, A.G. Zimmermann, V. Pechtner, Eﬃcacy and
+safety of once-weekly dulaglutide versus insulin glargine in patients with type 2
+diabetes on metformin and glimepiride (AWARD-2), Diabetes Care 38 (2015)
+2241–2249.
+[183] M. Diamant, L. Van Gaal, S. Stranks, J. Northrup, D. Cao, K. Taylor, et al., Once
+weekly exenatide compared with insulin glargine titrated to target in patients with
+type 2 diabetes (DURATION-3): an open-label randomised trial, Lancet. 375
+(2010) 2234–2243.
+[184] D.J. Drucker, Mechanisms of action and therapeutic application of glucagon-like
+Peptide-1, Cell Metab. 27 (2018) 740–756.
+[185] E. Egecioglu, P. Steensland, I. Fredriksson, K. Feltmann, J.A. Engel, E. Jerlhag, The
+glucagon-like peptide 1 analogue Exendin-4 attenuates alcohol mediated beha-
+viors in rodents, Psychoneuroendocrinology. 38 (2013) 1259–1270.
+[186] E. Egecioglu, J.A. Engel, E. Jerlhag, The glucagon-like peptide 1 analogue
+Exendin-4 attenuates the nicotine-induced locomotor stimulation, accumbal do-
+pamine release, conditioned place preference as well as the expression of loco-
+motor sensitization in mice, PLoS One 8 (2013) e77284.
+[187] R.H. Shirazi, S.L. Dickson, K.P. Skibicka, Gut peptide GLP-1 and its analogue,
+Exendin-4, decrease alcohol intake and reward, PLoS One 8 (2013) e61965.
+[188] D. Vallof, P. Maccioni, G. Colombo, M. Mandrapa, J.W. Jornulf, E. Egecioglu,
+et al., The glucagon-like peptide 1 receptor agonist liraglutide attenuates the re-
+inforcing properties of alcohol in rodents, Addict. Biol. 21 (2016) 422–437.
+[189] L.M. Tuesta, Z. Chen, A. Duncan, C.D. Fowler, M. Ishikawa, B.R. Lee, et al., GLP-1
+acts on habenular avoidance circuits to control nicotine intake, Nat. Neurosci. 20
+(2017) 708–716.
+[190] J.E. Richard, R.H. Anderberg, L. Lopez-Ferreras, K. Olandersson, K.P. Skibicka, Sex
+and estrogens alter the action of glucagon-like peptide-1 on reward, Biol. Sex
+Diﬀer. 7 (2016) 6.
+N.S. Hernandez and H.D. Schmidt
+Physiology & Behavior 206 (2019) 93–105
+105
+

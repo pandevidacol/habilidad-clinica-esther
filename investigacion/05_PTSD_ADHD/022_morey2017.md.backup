@@ -1,0 +1,1095 @@
+---
+# Genome-wide association study of subcortical brain volume in PTSD cases and trauma-exposed controls
+**Autores**: Rajendra A. Morey
+**Año**: 2017
+**Journal**: Translational Psychiatry, doi:10.1038/s41398-017-0021-6
+**DOI/Link**: N/A
+
+## Abstract
+Abstract
+Depending on the traumatic event, a signiﬁcant fraction of trauma survivors subsequently develop PTSD. The
+additional variability in PTSD risk is expected to arise from genetic susceptibility. Unfortunately, several genome-wide
+association studies (GWAS) have failed to identify a consistent genetic marker for PTSD. The heritability of intermediate
+phenotypes such as regional brain volumes is often 80% or higher. We conducted a GWAS of subcortical brain
+volumes in a sample of recent military veteran trauma survivors (n = 157), grouped into PTSD (n = 66) and non-PTSD
+controls (n = 91). Covariates included PTSD diagnosis, sex, intracranial volume, ancestry, childhood trauma, SNP×PTSD
+diagnosis, and SNP×childhood trauma. We identiﬁed several genetic markers in high linkage disequilibrium (LD) with
+rs9373240 (p = 2.0 × 10−7, FDR q = 0.0375) that were associated with caudate volume. We also observed a signiﬁcant
+interaction between rs9373240 and childhood trauma (p-values = 0.0007–0.002), whereby increased trauma exposure
+produced a stronger association between SNPs and increased caudate volume. We identiﬁed several SNPs in high LD
+with rs34043524, which is downstream of the TRAM1L1 gene that were associated with right lateral ventricular volume
+(p = 1.73 × 10−7; FDR q = 0.032) and were also associated with lifetime alcohol abuse or dependence (p = 2.49 × 10−7;
+FDR q = 0.0375). Finally, we identiﬁed several SNPs in high LD with rs13140180 (p = 2.58 × 10−7; FDR q = .0016), an
+intergenic region on chromosome 4, and several SNPs in the TMPRSS15 associated with right nucleus accumbens
+volume (p = 2.58 × 10−7; FDR q = 0.017). Both TRAM1L1 and TMPRSS15 have been previously implicated in neuronal
+function. Key
+
+## Key Findings
+Discussion
+We performed high-density genome-wide association
+analysis of subcortical brain structures segmented by Free-
+Surfer in trauma-exposed US military veterans with and
+without a PTSD diagnosis. We identiﬁed several SNPs (in
+high LD with rs9373240) in an intergenic region on
+chromosome 6 that were associated with caudate volume.
+These SNPs also signiﬁcantly interacted with childhood
+trauma, whereby increasing trauma exposure produced a
+stronger association between SNPs and caudate volume.
+While these SNPs do not reside within a gene, it is possible
+that they function as regulatory markers. Caudate volume
+was also modulated by SNPs in NKAIN3 (rs34720850),
+which codes for a Na+/K+ transporting ATPase interacting
+3 protein. The protein is a member of the NKAIN family of
+mammalian proteins that are neuronally expressed in mul-
+tiple regions of the mouse brain. In particular, NKAIN3 is
+strongly
+expressed
+in
+the
+hippocampus57.
+Previously,
+NKAIN3 has been reported in bulimia nervosa an... (Extracted from Discussion)
+
+## Methodology
+Methods
+Participants and clinical measures
+Participants (n = 157) from a repository (Mid-Atlantic
+MIRECC, Durham NC) of Iraq and Afghanistan era
+military service members who contributed blood for
+genotyping, clinical assessment data, and MRI scans were
+analyzed.
+Participants
+were
+screened
+for
+inclusion/
+exclusion criteria based on information available in the
+repository.
+Important
+exclusions
+included
+psychotic
+symptoms, high risk of suicide, contraindication to MRI,
+current substance abuse, neurological disorders, and age
+over 65 years. To reduce the effects of population strati-
+ﬁcation in a multi-racial sample, analyses were limited to
+non-Hispanic black (NHB; n = 74) and non-Hispanic
+white (NHW; n = 83) participants from these studies who
+consented to the genetic and imaging components and
+had data available at the time of analysis. All participants
+provided written informed consent to participate in pro-
+cedures reviewed and approved by the Institutional
+Review Boards at Duke University and the Durham VA
+Medical Center. Participants completed questionnaires
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 2 of 10
+Translational Psychiatry
+assessing traumatic life events (Traumatic Life Events
+Questionnaire,
+TLEQ32),
+combat
+exposure
+(Combat
+Exposure Scale, CES33), and depressive symptoms (Beck
+Depression Inventory-II, BDI-II34). PTSD diagnosis was
+ascertained with the Structured Clinical Interview for
+DSM-IV (SCID) and conﬁrmed with the Clinician-
+Administered PTSD Scale35(CAPS) in 152 (97%) partici-
+pants and with the Davidson Trauma Scale36(DTS) in 5
+(3%) participants. Alcohol abuse and dependence was
+determined by the SCID.
+MRI acquisition
+Images were acquired on a General Electric 3-Tesla Signa
+EXCITE scanner equipped with an 8-channel headcoil.
+High-resolution T1-weighted whole-brain images with 1-
+mm isotropic voxels using array spatial sensitivity encoding
+technique (ASSET) and fast spoiled gradient-recall (3D-
+FSPGR) were acquired axially for all participants. Image
+parameters were optimized for contrast between white
+matter, gray matter, and CSF (TR/TE/ﬂip angle = 7.484
+ms/2.984 ms/12°, FOV = 256 mm, 1-mm slice thickness,
+166 slices, 256 × 256 matrix, 1 excitation).
+Image analysis
+All T1 images were visually inspected (CCH, SLD) to
+assure appropriate quality. Automated segmentation and
+labeling of the left and right subcortical structures and
+estimation of total intracranial volume from participants’
+T1 images were performed using the FreeSurfer image
+analysis
+suite37
+(version
+5.3.0;
+http://surfer.nmr.mgh.
+harvard.edu/) and its library tool recon-all (Supplemen-
+tary Materials). We applied standardized protocols for
+image analysis
+and quality
+assurance developed by
+ENIGMA, which are openly available online (http://
+enigma.ini.usc.edu/protocols/imaging-protocols/).
+All
+participants passed this inspection process without the
+need for manual adjustment.
+Subcortical volumes for the left and right hemispheres
+were generated in each subject for the lateral ventricle,
+thalamus, caudate, putamen, pallidum, hippocampus,
+amygdala, and accumbens. Spatial normalization by afﬁne
+registration to Talairach space and skull stripping were
+performed on the T1 images. Registration was checked
+visually for accuracy (CCH, SLD). FreeSurfer segmenta-
+tion and labeling of subcortical structures was based on a
+combination of voxel intensity, probabilistic atlas location,
+and the spatial relationships of the voxels to the location
+of nearby subcortical structures. Using the FreeSurfer
+library function mri_label2vol and a transformation
+matrix generated by tkregister2, the segmentation labels
+were returned to native space. The native-space seg-
+mentations were converted to LAS orientation and then
+the subcortical structures were extracted using the seg-
+mentation labels.
+Genotyping
+Samples (n = 157) obtained from a larger parent study
+of 2312 PTSD cases and controls were genotyped as
+previously described38. Brieﬂy, DNA was extracted from
+whole blood and was genotyped in batches using three
+different Illumina BeadChips (Illumina, San Diego, CA).
+Quality control was assessed separately in each batch and
+samples with low call rates were excluded from further
+analysis. A global reference panel from 1000 Genomes
+was used to impute missing genotypes in each batch
+separately; imputed SNPs with certainty <0.90 were
+excluded. Overlapping SNPs in the imputed NHB and
+NHW subsets were merged to create a ﬁnal data set
+comprising 2,711,511 SNPs.
+Statistical analysis
+Principal components (PC) analysis was run using the
+smartpca program from the software package EIGEN-
+SOFT39 to assess population stratiﬁcation. Only one PC
+was necessary to account for the variability observed in
+this subset of individuals, essentially identifying the NHB
+and the NHW subjects. Linear regression was utilized
+using PLINK40 to test for association between subcortical
+volume and each SNP, assuming an additive genetic
+model. Left and right brain hemisphere volumes were
+analyzed
+separately.
+All
+subcortical
+volumes
+were
+normally distributed except the lateral ventricles, which
+were log-transformed for analysis. Covariates included
+sex, age, one PC, lifetime PTSD diagnosis, intracranial
+volume, and childhood trauma (0 = no childhood trauma;
+1 = exposure to a single category of childhood trauma; 2
+= exposure to two or more categories of childhood
+trauma, as reported from TLEQ items 12, 13, 15, 16, and
+17). To reduce redundancy in this imputed data set, we
+used the linkage disequilibrium (LD) clumping method in
+PLINK, choosing an r2 threshold of 0.25 and a 500 kb
+window, as reported previously41. False discovery rate
+(FDR) q-values were generated using PROC MULTTEST
+in SAS version 9.4 (SAS Systems, Cary, NC). The FDR
+correction was applied only across SNPs, but not across
+the eight subcortical
+regions and two hemispheres
+because of the inherent correlation between regional
+volumes. The known associations between these measures
+would produce a higher rate of signiﬁcant associations
+than expected, and therefore an FDR correction would
+lead to overly conservative inferences. In addition, a
+multiple-comparison correction for brain structures pre-
+viously implicated in PTSD that include amygdala20,23,42,
+caudate43–45
+hippocampus20,23,
+lateral
+ventricles46–48,
+thalamus49,50, and nucleus accumbens51,52 would also
+contribute to overly conservative inferences. Post hoc
+interaction analyses were performed for the SNPs with
+signiﬁcant main effects: SNP×childhood trauma and
+SNP×lifetime PTSD interactions were investigated for
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 3 of 10
+Translational Psychiatry
+association with brain volume. Plots of signiﬁcant SNP
+associations with LD structure by region were generated
+using LocusZoom53. Manhattan plots and Q–Q plots were
+produced using the R package qqman54 (Supplementary
+Figs. 1 and 2).
+We conducted gene ontology analysis to obtain a more
+comprehensive picture of the biological pathways that
+may be implicated in modulating subcortical volume
+following trauma exposure. We used the Genomic
+Regions Enrichment of Annotations Tool (GREAT), given
+that many of the SNPs associated with brain volume in
+our data set were intergenic55. The analysis utilized
+nominally signiﬁcant SNPs (p < 0.001) for the four brain
+regions showing FDR-signiﬁcant results (right lateral
+ventricle,
+right
+caudate,
+right
+pallidum,
+and
+right
+accumbens).
+Results
+Important clinical and sociodemographic information is
+reported by diagnostic (PTSD and non-PTSD) and
+ancestry (NHB and NHW) groups in Table 1. The PTSD
+group did not differ signiﬁcantly from the control group
+with respect to age, gender, ethnicity, childhood trauma
+exposure, substance use disorders, or alcohol use dis-
+orders. The NHB group did not differ from the NHW
+group with respect to any of these parameters except that
+a signiﬁcantly larger proportion of the NHB group was
+female compared to the NHW group (24.3% vs. 8.4%, p =
+0.01).
+Association with caudate volume
+The R-caudate (Fig. 1a; Supplementary Figs. 1a and 2a)
+volume was signiﬁcantly associated with a region on
+chromosome 6 comprising many intergenic SNPs in high
+LD, rs4317424 was the most strongly associated SNP with
+a beta value of 236.6; for each additional C allele, mean
+R-caudate volume increased by 236.3 mm3 (p = 2.0 ×
+10−7, FDR q = 0.0375 (Table 2). Figure 1b displays the
+strength and extent of these association signals relative to
+genomic position, local LD, and the positions of genes in
+the region. Two correlated, intronic SNPs in the NKAIN3
+gene on chromosome 8 were also associated with R-
+caudate volume such that for each additional minor allele,
+mean R-caudate volume increased (rs34720850, beta =
+423.5 mm3, p = 8.3 × 10−7, FDR q = 0.077). The SNPs on
+chromosome 6 also interacted with childhood trauma
+exposure
+to
+inﬂuence
+R-caudate
+(p-values =
+0.0007–0.002). Further exploration of this interaction
+revealed that the associations of these SNPs with R-
+caudate volume became stronger with increasing expo-
+sure
+to
+childhood
+trauma
+(Fig.
+1c).
+For
+example,
+rs9373240 signiﬁcantly interacts with childhood trauma
+exposure to predict R-caudate volume (p = 0.0007).
+Among subjects with no childhood trauma exposure,
+rs9373240 is not associated with R-caudate volume (p =
+0.132). Among subjects who endorsed one category of
+childhood trauma exposure, rs9373240 is associated with
+R-caudate volume (p = 0.007); however, among those
+subjects who endorsed two or more categories of child-
+hood trauma, the association is much more robust (p =
+6.36 × 10−8). None of the SNPs on chromosome 6
+interacted signiﬁcantly with PTSD diagnosis, and neither
+of the SNPs in NKAIN3 showed a signiﬁcant interaction
+with childhood trauma or PTSD diagnosis.
+Association with lateral ventricle volume
+The R-lateral ventricle (Fig. 2a; Supplementary Figs. 1b
+and 2b) volume was signiﬁcantly associated with a region
+on chromosome 4 comprising many correlated SNPs,
+downstream of TRAM1L1. The most signiﬁcant SNP
+associated with R-lateral ventricle was rs34043524, such
+that for each additional G allele, R-lateral ventricle
+volume decreased. Figure 2b displays the association of
+SNPs near TRAM1L1 with R-lateral ventricle. The
+Table 1
+Demographic and clinical information by diagnostic and ancestry groups
+Characteristic
+PTSD (n = 66)
+Non-PTSD
+(n = 91)
+Group
+comparison
+NHW (n = 83)
+NHB (n = 74)
+Group
+comparison
+Age, mean (SD)
+39 (9.65)
+40.01 (10.32)
+p = 0.51
+38.40 (10.24)
+41.0 (9.66)
+p = 0.11
+Gender, no. of females (%)
+13 (19.7)
+12 (13.19)
+p = 0.27
+7 (8.4)
+18 (24.3)
+p = 0.01
+Race, no. of Caucasian (%)
+30 (45.45)
+53 (58.24)
+p = 0.12
+83(100)
+0
+NA
+Child trauma category 0, 1, ≥2 (%)
+27 (41.0), 22 (33.3),
+17 (25.8)
+45 (49.5), 26 (28.6),
+20 (22.0)
+p = 0.57
+43 (51.8), 22
+(26.5), 18 (21.7)
+29 (39.2), 26
+(35.1), 19 (25.7)
+p = 0.28
+Alcohol abuse/dependency (%)
+21 (32.8)
+28 (30.77)
+p = 0.79
+25 (30.12)
+24 (33.33)
+p = 0.67
+SCID-IV lifetime PTSD diagnosis (%)
+66 (100)
+0
+NA
+30 (36.14)
+36 (48.65)
+p = 0.11
+SD standard deviation, no. number, AUDIT Alcohol Use Disorders Identiﬁcation Test, SCID-IV Structured Clinical Interview for DSM-IV, CAPS-IV Clinician Administered
+PTSD Scaler with DSM-IV criteria
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 4 of 10
+Translational Psychiatry
+TRAM1L1 locus in the 4q21-q32 region has been pre-
+viously hypothesized to play a role in alcohol dependence,
+but prior investigation produced negative results56. This
+prompted us to conduct follow-up analysis for association
+with alcohol dependence (i) as an additional covariate in
+the association between genotype and caudate volume,
+and (ii) as a phenotype (main effect) associated with
+genotype56. We did, in fact, observe that the same SNPs
+downstream of TRAM1L1 that were associated with R-
+lateral ventricle volume were also associated with lifetime
+alcohol abuse or dependence in our data set (p-values =
+1.92 × 10−7 to 2.84 × 10−6). Importantly, inclusion of
+lifetime alcohol abuse or dependence as a covariate in the
+model of SNPs predicting R-lateral ventricle volume did
+not attenuate the association. None of the SNPs down-
+stream of TRAM1L1 signiﬁcantly interacted with either
+PTSD diagnosis or childhood trauma exposure to predict
+R-lateral ventricle volume.
+Association with nucleus accumbens volume
+The most signiﬁcant SNP associated with R-accumbens
+(Fig. 3a; Supplementary Figs. 1c and 2c) volume was
+Table 2
+Top SNP associations with subcortical brain volumes, regressors, and interactions
+Main effects
+Interactions
+Subcortical structure
+SNP
+SNP p-value
+FDR p-value
+Alcohol D/O p-value
+PTSD×SNP p-value
+Childhood trauma×SNP p-value
+R-lateral ventricle
+rs34043524
+1.73 × 10−7
+0.032
+2.49 × 10−7
+0.298
+0.080
+R-caudate
+rs4317424
+2.02 × 10−7
+0.0375
+0.455
+0.00156
+R-accumbens
+rs55886168
+6.08 × 10−8
+0.011
+0.510
+0.869
+R-pallidum
+rs55685119
+7.36 × 10−8
+0.014
+0.527
+0.157
+DO disorder, SNP single-nucleotide polymorphism, R right, PTSD posttraumatic stress disorder
+Fig. 1 Several genetic markers in high LD with rs4317424 associated with right caudate volume. a Caudate volume segmented from
+structural MRI by FreeSurfer. b Locus zoom plot for SNPs in the region surrounding rs4317424. All SNPs are plotted with their discovery sample p-
+values against genomic position according to their pairwise correlation (r2) with the signal SNP. The blue line represents the estimated recombination
+rate. Gene annotations are shown as dark lines along the x axis. c The association of SNP rs9373240 on chromosome 6 with R-caudate volume
+showed a signiﬁcant interaction with childhood trauma exposure (p = 0.0007 with increasing categories of childhood trauma exposure. The Q–Q
+plots and Manhattan Plots are in Supplementary Figs. 1 and 2
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 5 of 10
+Translational Psychiatry
+rs55886168, which is located on chromosome 20 in a long
+non-coding RNA (LINC01522). For each additional T
+allele, R-accumbens volume increased by 79.33 mm3 (p =
+6.1 × 10−8, FDR q = 0.011). There were also several cor-
+related, intronic SNPs in TMPRSS15 on chromosome 21
+associated with R-accumbens volume (p = 2.58 × 10−7;
+FDR q = 0.016). A plot of these SNPs is shown in Fig. 3b.
+Other SNPs associated with R-accumbens volume inclu-
+ded intergenic SNPs in high LD with rs13140180 on
+chromosome 4 (p = 2.58 × 10−7; FDR q = 0.016), and
+high LD with rs4053747 chromosome 6 (p = 3.80 × 10-7;
+FDR q = 0.018). None of the SNPs associated with R-
+accumbens volume displayed signiﬁcant interactions with
+either PTSD diagnosis or childhood trauma exposure.
+We performed gene ontology analysis with GREAT
+using nominally signiﬁcant SNPs (p < 0.001) for the four
+brain regions showing FDR signiﬁcance (right lateral
+ventricle,
+right
+caudate,
+right
+pallidum,
+and
+right
+accumbens).
+We
+identiﬁed
+several
+signiﬁcant
+gene
+ontology terms for SNPs associated with right lateral
+ventricle, right caudate, and right pallidum that are
+detailed in Supplementary Tables 1, 2, and 3, respectively.
+
+## Results
+results survived genome-wide multiple-testing correction in our sample. Leveraging neuroimaging
+phenotypes may offer a shortcut, relative to clinical phenotypes, in mapping the genetic architecture and
+neurobiological pathways of PTSD.
+Introduction
+Most individuals in the general population are exposed
+to at least one traumatic event in their lifetime1, but only a
+fraction of trauma survivors subsequently develop post-
+traumatic stress disorder (PTSD)2. Thus, exposure to
+traumatic
+events
+is
+a
+necessary,
+but
+insufﬁcient
+environmental risk factor for developing PTSD. The
+developmental timing of the traumatic events appears to
+be important since exposure to trauma or adversity in
+childhood increases the risk of developing PTSD follow-
+ing trauma in adulthood3. Family and twin heritability
+studies have demonstrated that genetic risk also con-
+tributes to the development of PTSD. In order to identify
+putative PTSD genetic loci, several groups have con-
+ducted
+unbiased
+genome-wide
+association
+studies
+(GWAS) based on the clinical diagnosis of PTSD4–8.
+These GWAS have had limited success. Among the loci
+that were implicated, the effect sizes on PTSD risk were
+© The Author(s). 2017
+OpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,whichpermitsuse,sharing,adaptation,distributionandreproduction
+in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if
+changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If
+material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Correspondence: Rajendra A Morey (rajendra.morey@duke.edu)
+1Mid-Atlantic Mental Illness Research Education and Clinical Center, Durham
+VAMC, Durham, NC, USA
+2Department of Psychiatry and Behavioral Sciences, Duke University, Durham,
+NC, USA
+Full list of author information is available at the end of the article
+Members of Mid-Atlantic MIRECC Workgroup are listed above the
+
+## Clinical Significance
+conclusions from the existing literature.
+Smaller caudate volume has been associated with early life
+stress45, with higher CAPS scores among combat-exposed
+veterans43. Conversely, larger caudate volumes have been
+associated with PTSD44, while many other studies including
+the
+present sample
+showed
+no such
+association60,61.
+Abnormal functioning of the caudate has been established
+in PTSD with generally lower caudate (dorsal striatum)
+activation to rewards and lower deactivation to losses
+(punishment) as compared to trauma controls51,62–64. The
+ﬁndings are consistent with hyporesponsivity to positive
+stimuli and anhedonia, which are common in PTSD65.
+Relatedly, abnormalities in D2 dopamine receptors located
+Fig. 2 Several genetic markers in high LD with rs34043524 associated with lateral ventricle volume. a Lateral ventricle cartoon (replace with
+MRI). b Locus zoom plot for SNPs in the region surrounding rs34043524. All SNPs are plotted with their discovery sample P-values against genomic
+position according to their pairwise correlation (r2) with the signal SNP. The blue line represents the estimated recombination rate. Gene annotations
+are shown as dark lines along the x axis. The Q–Q plots and Manhattan Plots are in Supplementary Figs. 1 and 2
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 6 of 10
+Translational Psychiatry
+in the striatum have been observed in PTSD66. Diminished
+hedonic tone and reward responsivity are prominent
+features of depression, which has a more ﬁrmly established
+and extensively investigated association with caudate dys-
+function67. However, depressive symptoms are highly
+comorbid in most PTSD samples and mounting empirical
+evidence questions a distinct nosology between the two
+disorders68.
+Additionally, we found that nucleus accumbens volume
+was modulated by several SNPs in high LD with
+rs13140180 on chromosome 4, rs1577238 on chromo-
+some 6, and TMPRSS15. The accumbens (ventral stria-
+tum) plays a major role in reward and reinforcement
+learning and a secondary role in processing fear, which are
+central to the prevailing behavioral models of PTSD51,69.
+The TMPRSS15 gene codes for a transmembrane protease
+serine 15, an enzyme that converts proenzyme trysinogen
+to trypsin. Trypsin-like serine proteases and trypsin play
+very important roles in neural development, neuror-
+egeneration, and synaptic plasticity, particularly memory
+formation70,71. Accumulating evidence suggests that the
+brain has co-opted the activities of enteropeptidases,
+which are central to digestive function, to regulate various
+processes underlying synaptic activity and behavior.
+Enteropeptidases protect hippocampal neurons from
+death induced by glutamate toxicity72.
+Finally, we identiﬁed several SNPs (in high LD with
+rs34043524) downstream of the TRAM1L1 gene on chro-
+mosome 4 that were associated with right lateral ventricular
+volume. Previously, an association of TRAM1L1 and alco-
+hol dependence was hypothesized by Kalsi et al.56 based on
+LOD score from genetic linkage analysis. We identiﬁed a
+signiﬁcant
+association
+(p = 1.9 × 10−7)
+between
+rs34043524 and clinical diagnosis of alcohol use disorder.
+Importantly, the association between the same SNP and
+ventricular volume remained signiﬁcant after adding alco-
+hol dependence as a covariate (p = 2.5 × 10−7), which
+suggests the association of this SNP with lateral ventricular
+volume and with alcohol dependence are independent of
+each other. Lateral ventricle volumetry lacks consistent
+results in PTSD. Early-life maltreatment that subsequently
+develops into PTSD was associated with larger lateral
+ventricular volume46,73. The presence of lateral ventricular
+volume differences reported in children with PTSD, but the
+lack thereof in adults deserves mention. Bipolar disorder74
+and
+schizophrenia75
+are
+consistently
+associated
+with
+enlarged lateral ventricle volume. The SNP associated with
+the lateral ventricle volume signiﬁcantly interacts with
+PTSD diagnosis and was not identiﬁed in an extremely
+large normative sample (n~31,000) of subcortical volumes,
+suggesting the SNP could be a non-speciﬁc genetic marker
+for psychopathology.
+The three genes NKAIN3, TRAM1L1, and TMPRSS15
+have been previously implicated in neuronal function56,70,71,
+increasing the potential biological relevance of our ﬁndings.
+Indeed, the latest evidence implicates a common genetic
+architecture spans common neuropsychiatric disorders. A
+large GWAS (n ~ 60,000) by the Psychiatric Genetics
+Fig. 3 Several genetic markers in high LD with rs2824791 associated with R-nucleus accumbens volume. a R-nucleus accumbens volume
+segmented from structural MRI by FreeSurfer. b Locus zoom plot for SNPs in the region surrounding rs2824791. All SNPs are plotted with their
+discovery sample p-values against genomic position according to their pairwise correlation (r2) with the signal SNP. The blue line represents the
+estimated recombination rate. Gene annotations are shown as dark lines along the x axis. The Q–Q plots and Manhattan Plots are in Supplementary
+Figs. 1 and 2
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 7 of 10
+Translational Psychiatry
+Consortium (PGC) found common neuronal, immune, and
+histone pathways across major depression, bipolar disorder,
+and schizophrenia. Risk variants for psychiatric disorders
+aggregate in particular biological pathways and these path-
+ways are often shared between disorders suggesting a shared
+etiology among disorders and the co-heritability of multiple
+psychiatric disorders76. Calculations using common SNPs
+found high correlations between schizophrenia and bipolar
+disorder (h2 = 0.68), major depressive disorder and bipolar
+disorder (h2 = 0.47), as well as schizophrenia and major
+depressive disorder (h2 = 0.43)76. It is certainly possible that
+the current classiﬁcation of psychiatric disorders as clinical
+syndromes with a constellation of behavioral symptoms may
+serve to inﬂate the apparent pleiotropy compared to an
+alternate nosology constructed on pathomechanistic mar-
+kers of etiology77. Thus, genome wide associations of brain
+measures hold the promise of moving us one step closer to
+this new psychiatric nosology17,78. On the other hand,
+attempts to ﬁnd disease-associated genetic variation that
+point to molecular mechanisms of pathogenesis has been
+further complicated by the polygenicity of clinical diagnoses
+and phenotypes18,79. Thus, the effects of an overall polygenic
+risk proﬁle score on neuroimaging abnormalities might help
+to identify genetic susceptibility or genetically mediated traits
+of PTSD80,81.
+Strengths and limitations
+It is important to consider the value of imaging genetics
+approach and its potential relevance to PTSD research,
+particularly in the translational and clinical domains. The
+ﬁrst goal is simply looking for an association between
+genetic markers and neuroimaging phenotypes in the
+context of a PTSD sample. Any difference in the SNP
+associations with a particular neuroimaging measure
+could be explained by the presence of PTSD. It is possible
+that the neuroimaging phenotype is assessing an under-
+lying dimension of PTSD not captured or accessible by its
+clinical diagnosis and may explain, at least in part, the lack
+of SNP×PTSD interaction ﬁnding in the present sample.
+However, a limitation of our analysis of interaction effects
+was that it was restricted to SNPs that demonstrated
+signiﬁcant main effects because of concern that our
+sample was too small to pursue interaction effects at the
+genome-wide level. Alternatively, a signiﬁcant interaction
+can be further explored by testing the association between
+genetic markers and brain imaging measures that are
+different in PTSD cases than controls10.
+Factors contributing to negative results for the amyg-
+dala include limited accuracy of FreeSurfer segmentation
+as compared to hand-tracing whereas the hippocampus
+and other structures are more accurate82. The concern
+with accuracy introduces added variance that can be
+overcome by increasing the sample size in equal mea-
+sure82. Factors contributing to negative results for the
+hippocampus include the heterogeneity of a structure
+comprising several subﬁelds that are differentially affected
+by PTSD. Speciﬁc subﬁelds, namely cornu ammonis 1
+(CA1), cornu ammonis 3 (CA3), and dentate gyrus, show
+volume reduction in PTSD83, but including other sub-
+ﬁelds may confound associations with overall hippo-
+campal volume, which was utilized in this study. Likewise,
+the amygdala contains several subregions (nuclei) that are
+differentially involved in PTSD based on their functional
+roles. Advanced methods that have recently become
+available for segmenting the hippocampus84 and amyg-
+dala85 into functional subunits may hold greater promise
+as phenotypes for identifying genetic markers associated
+with PTSD.
+Another limitation of the present study was the small
+sample size, rendering the results susceptible to type-1
+error. The presence of two ancestry subgroups in our
+sample, which we controlled statistically with a single
+principal component, was considered as a minor limita-
+tion because separate analyses of these two racial groups
+yielded results consistent with the original analyses of the
+combined groups. Thus, we do not anticipate that popu-
+lation stratiﬁcation is an explanation for the present
+results.
+Conclusion
+Ultimately the promise of ﬁnding genetic determinants
+of PTSD is that they signal the presence of etiologic
+pathways for which targeted interventions may be devised
+and deployed. Attempts to ﬁnd disease-associated genetic
+variation that point to molecular mechanisms of patho-
+genesis has proven challenging due to the polygenicity of
+clinical phenotypes18,79. Leveraging neuroimaging phe-
+notypes may offer a shortcut over clinical phenotypes in
+identifying these elusive genetic markers and relevant
+neurobiological pathways86,87.
+Acknowledgements
+The views expressed in this manuscript are those of the authors and do not
+necessarily represent the views of the funding agencies or the federal
+government. This research was supported by the U.S. Department of Veterans
+Affairs (VA) Mid-Atlantic Mental Illness Research, Education, and Clinical Center
+(MIRECC) core funds. Dr Morey also received ﬁnancial support from the US
+Department of Veterans Affairs (VA) Ofﬁce of Research and Development
+(5I01CX000748-01, 5I01CX000120-02). Additional ﬁnancial support was
+provided by the National Institute for Neurological Disorders and Stroke
+(R01NS086885-01A1). Dr Dedert is funded by a VA Clinical Science Research
+and Development (CSR&D) Career Development Award (CDA) (IK2CX000718).
+Dr Naylor is funded by a VA Rehabilitation Research and Development (RR&D)
+CDA (1lK2RX000908). Dr Van Voorhees is funded by a Department of Veterans
+Affairs Rehabilitation Research and Development Career Development Award
+(1K2RX001298). Dr Kimbrel is funded by a Department of Veterans Affairs
+Clinical Science Research and Development Career Development Award
+(IK2CX000525). Dr Beckham also received ﬁnancial support from the US
+Department of Veterans Affairs (VA) Ofﬁce of Research and Development
+(1IK6CX001494). We thank the contributions from Drs Kerry Ressler, Guia
+Guffanti, Jennifer Stevens, Sanne van Rooij, and Mark Logue. Finally, we could
+not have conducted this study without the willing participation of Veterans.
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 8 of 10
+Translational Psychiatry
+Author details
+1Mid-Atlantic Mental Illness Research Education and Clinical Center, Durham
+VAMC, Durham, NC, USA. 2Department of Psychiatry and Behavioral Sciences,
+Duke University, Durham, NC, USA. 3Duke-UNC Brain Imaging and Analysis
+Center, Duke University, Durham, NC, USA. 4Department of Psychology, Yale
+University, New Haven, CT, USA. 5Duke Molecular Physiology Institute, Durham,
+NC, USA
+Mid-Atlantic MIRECC Workgroup
+The Mid-Atlantic MIRECC Workgroup includes the following contributors: Mira
+Brancu, Ph.D., Patrick S. Calhoun, Ph.D., Eric Dedert, Ph.D., Eric B. Elbogen, Ph.D.,
+Kimberly T. Green, Ph.D., Robin A. Hurley, M.D., Jason D. Kilts, Ph.D., Nathan
+Kimbrel, Ph.D., Angela Kirby, M.S., Scott D. McDonald, Ph.D., Marinell Miller-
+Mumford, Ph.D., Scott D. Moore, M.D., Ph.D., Jennifer C. Naylor, Ph.D., Treven C.
+Pickett, Psy.D., Jared Rowland, Ph.D., Jennifer J. Runnals, Ph.D., Cindy Swinkels,
+Ph.D., Steven T. Szabo, M.D., Ph.D., Katherine H. Taber, Ph.D., Larry A. Tupler, Ph.
+D., Elizabeth E. Van Voorhees, Ph.D., H. Ryan Wagner, Ph.D., Richard D. Weiner,
+M.D., Ph.D., Ruth E. Yoash-Gantz, Psy.D.
+Conﬂict of interest
+The authors declare that they have no conﬂict of interest interest.
+Publisher's note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional afﬁliations.
+Supplementary information
+The online version of this article (doi:10.1038/s41398-017-0021-6) contains
+supplementary material.
+Received: 15 September 2016 Revised: 18 August 2017 Accepted: 13
+September 2017
+References
+1.
+Breslau, N. & Kessler, R. C. The stressor criterion in DSM-IV posttraumatic stress
+disorder: an empirical investigation. Biol. Psychiatry 50, 699–704 (2001).
+2.
+Kessler, R. C. et al. Lifetime prevalence and age-of-onset distributions of DSM-
+IV disorders in the National Comorbidity Survey Replication. Arch. Gen. Psy-
+chiatry 62, 593–602 (2005).
+3.
+Breslau, N., Chilcoat, H. D., Kessler, R. C., Davis, G. C. Previous exposure to
+trauma and PTSD effects of subsequent trauma: results from the Detroit Area
+Survey of Trauma. Am. J. Psychiatry 156, 902–907 (2014).
+4.
+Duncan, L. et al. Largest GWAS of PTSD (N = 20 070) yields genetic overlap
+with schizophrenia and sex differences in heritability. Mol. Psychiatry 00, 1–8
+(2017).
+5.
+Nievergelt, C. M. et al. Genomic predictors of combat stress vulnerability and
+resilience in US Marines: a genome-wide association study across multiple
+ancestries implicates PRTFDC1 as a potential PTSD gene. Psychoneur-
+oendocrinology 51, 459–471 (2015).
+6.
+Logue, M. W. et al. A genome-wide association study of post-traumatic stress
+disorder identiﬁes the retinoid-related orphan receptor alpha (RORA) gene as
+a signiﬁcant risk locus. Mol. Psychiatry 18, 937–942 (2013).
+7.
+Guffanti, G. et al. Genome-wide association study implicates a novel
+RNA gene, the lincRNA AC068718. 1, as a risk factor for post-traumatic
+stress disorder in women. Psychoneuroendocrinology 38, 3029–3038 (2013).
+8.
+Xie, P. et al. Genome-wide association study identiﬁes new susceptibility loci
+for posttraumatic stress disorder. Biol. Psychiatry 74, 656–663 (2013).
+9.
+Guffanti, G. et al. No association between RORA polymorphisms and PTSD in
+two independent samples. Mol. Psychiatry 19, 1056–1057 (2014).
+10.
+Morey, R. A. et al. Serotonin transporter gene polymorphisms and brain
+function during emotional distraction from cognitive processing in posttrau-
+matic stress disorder. BMC Psychiatry 11, 76 (2011).
+11.
+Fani, N. et al. FKBP5 genotype and structural integrity of the posterior cin-
+gulum. Neuropsychopharmacology 39, 1206–1213 (2014).
+12.
+Almli, L. M. et al. A genome‐wide identiﬁed risk variant for PTSD is a
+methylation quantitative trait locus and confers decreased cortical activation
+to fearful faces. Am. J. Med. Genet. B 168B, 327–336 (2015).
+13.
+Stevens, J. S. et al. PACAP receptor gene polymorphism impacts fear
+responses in the amygdala and hippocampus. Proc. Natl Acad. Sci. USA 111,
+3158–3163 (2014).
+14.
+Hibar, D. P. et al. Common genetic variants inﬂuence human subcortical brain
+structures. Nature 520, 24–29 (2015).
+15.
+Stein, J. L. et al. Identiﬁcation of common variants associated with human
+hippocampal and intracranial volumes. Nat. Genet. 44, 552–561 (2012).
+16.
+Jahanshad, N. et al. Genome-wide scan of healthy human connectome dis-
+covers SPON1 gene variant inﬂuencing dementia severity. Proc. Natl Acad. Sci.
+USA 110, 4768–4773 (2013).
+17.
+Gottesman, I. I. & Gould, T. D. The endophenotype concept in psychiatry:
+etymology and strategic intentions. Am. J. Psychiatry 160, 636–645 (2003).
+18.
+Geschwind, D. H. & Flint, J. Genetics and genomics of psychiatric disease.
+Science 349, 1489–1494 (2015).
+19.
+Potkin, S. G. et al. Hippocampal atrophy as a quantitative trait in a genome-
+wide association study identifying novel susceptibility genes for Alzheimer’s
+disease. PLoS ONE 4, e6501 (2009).
+20.
+Karl, A. et al. A meta-analysis of structural brain abnormalities in PTSD. Neurosci.
+Biobehav Rev. 30, 1004–1031 (2006).
+21.
+Woon, F. L. & Hedges, D. W. Amygdala volume in adults with posttraumatic
+stress disorder: a meta-analysis. J Neuropsychiatry Clin Neurosci 21, 5–12 (2009).
+22.
+Woon, F. L., Sood, S. & Hedges, D. W. Hippocampal volume deﬁcits associated
+with exposure to psychological trauma and posttraumatic stress disorder in
+adults: a meta-analysis. Prog. Neuropsychopharmacol. Biol. Psychiatry 34,
+1181–1188 (2010).
+23.
+Morey, R. A. et al. Amygdala volume changes in posstraumatic stress disorder
+in a large case-controlled veteran group. Arch. Gen. Psychiatry 69, 1–10
+(2012).
+24.
+Yamasue, H. et al. Voxel-based analysis of MRI reveals anterior cingulate gray-
+matter volume reduction in posttraumatic stress disorder due to terrorism.
+Proc. Natl Acad. Sci. USA 100, 9039–9043 (2003).
+25.
+Kasai, K. et al. Evidence for acquired pregenual anterior cingulate gray matter
+loss from a twin study of combat-related posttraumatic stress disorder. Biol.
+Psychiatry 63, 550–556 (2008).
+26.
+Woodward, S. H. et al. Decreased anterior cingulate volume in combat-related
+PTSD. Biol. Psychiatry 59, 582–587 (2006).
+27.
+Debette, S. et al. Genome-wide association studies of MRI-deﬁned brain
+infarcts meta-analysis from the CHARGE consortium. Stroke 41, 210–217
+(2010).
+28.
+Seshadri, S. et al. Genetic correlates of brain aging on MRI and cognitive test
+measures: a genome-wide association and linkage analysis in the Framing-
+ham Study. BMC Med. Genet. 8 (Suppl 1),S15 (2007).
+29.
+van Scheltinga, A. F. T. et al. Genetic schizophrenia risk variants jointly
+modulate total brain and white matter volume. Biol. Psychiatry 73, 525–531
+(2013).
+30.
+Tabor, H. K., Risch, N. J. & Myers, R. M. Candidate-gene approaches for studying
+complex genetic traits: practical considerations. Nat. Rev. Genet. 3, 391–397
+(2002).
+31.
+Sullivan, P. F. Spurious genetic associations. Biol. Psychiatry 61, 1121–1126
+(2007).
+32.
+Kubany, E. S. et al. Development and preliminary validation of a brief broad-
+spectrum measure of trauma exposure: the Traumatic life events ques-
+tionnaire. Psychol. Assess. 12, 210–224 (2000).
+33.
+Lund, M., Foy, D., Sipprelle, C. & Strachan, A. The Combat exposure scale: a
+systematic assessment of trauma in the Vietnam War. J. Clin. Psychol. 40,
+1323–1328 (1984).
+34.
+Beck, A. T., Steer, R. A., Brown, G. K. (eds) Manual for the Beck Depression
+Inventory-II San Antonio, TX USA (Psychological Corp, 1996).
+35.
+Blake, D. D. et al. The development of a Clinician-Administered PTSD Scale. J.
+Trauma. Stress. 8, 75–90 (1995).
+36.
+Davidson, J. R. et al. Assessment of a new self-rating scale for post-traumatic
+stress disorder. Psychol. Med. 27, 153–160 (1997).
+37.
+Fischl, B. et al. Whole brain segmentation: automated labeling of neuroana-
+tomical structures in the human brain. Neuron 33, 341–355 (2002).
+38.
+Ashley-Koch, A. E. et al. Genome-wide association study of posttraumatic
+stress disorder in a cohort of Iraq–Afghanistan era veterans. J. Affect. Disord.
+184, 225–234 (2015).
+39.
+Patterson, N., Price, A. L. & Reich, D. Population structure and eigenanalysis.
+PLoS Genet. 2, e190 (2006).
+40.
+Purcell, S. et al. PLINK: a tool set for whole-genome association and
+population-based linkage analyses. Am. J. Hum. Genet. 81, 559–575 (2007).
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 9 of 10
+Translational Psychiatry
+41.
+Ripke, S. et al. Genome-wide association analysis identiﬁes 13 new risk loci for
+schizophrenia. Nat. Genet. 45, 1150–1159 (2013).
+42.
+Kuo, J. R., Kaloupek, D. G. & Woodward, S. H. Amygdala volume in combat-
+exposed veterans with and without posttraumatic stress disorder: a cross-
+sectional study. Arch. Gen. Psychiatry 69, 1080–1086 (2012).
+43.
+Herringa, R., Phillips, M., Almeida, J., Insana, S. & Germain, A. Post-traumatic
+stress symptoms correlate with smaller subgenual cingulate, caudate, and
+insula volumes in unmedicated combat veterans. Psychiatry Res. 203, 139–145
+(2012).
+44.
+Looi, J. C. L. et al. Caudate volumes in public transportation workers exposed
+to trauma in the Stockholm train system. Psychiatry Res. 171, 138–143 (2009).
+45.
+Cohen, R. A. et al. Early life stress and morphometry of the adult anterior
+cingulate cortex and caudate nuclei. Biol. Psychiatry 59, 975–982 (2006).
+46.
+De Bellis, M. D. et al. Brain structures in pediatric maltreatment-related post-
+traumatic stress disorder: a sociodemographically matched study. Biol. Psy-
+chiatry 52, 1066–1078 (2002).
+47.
+De Bellis, M. D. et al. Developmental traumatology part II: brain development.
+Biol. Psychiatry 45, 1271–1284 (1999).
+48.
+Fennema-Notestine, C., Stein, M. B., Kennedy, C. M., Archibald, S. L. & Jernigan,
+T. L. Brain morphometry in female victims of intimate partner violence with
+and without posttraumatic stress disorder. Biol. Psychiatry 52, 1089–1101
+(2002).
+49.
+Etkin, A. & Wager, T. D. Functional neuroimaging of anxiety: a meta-analysis of
+emotional processing in PTSD, social anxiety disorder, and speciﬁc phobia.
+Am. J. Psychiatry 164, 1476–1488 (2007).
+50.
+Morey, R. et al. Fear learning circuitry is biased toward generalization of fear
+associations in posttraumatic stress disorder. Transl. Psychiatry 5, e700 (2015).
+51.
+Sailer, U. et al. Altered reward processing in the nucleus accumbens and
+mesial prefrontal cortex of patients with posttraumatic stress disorder. Neu-
+ropsychologia 46, 2836–2844 (2008).
+52.
+Pavic, L. Alterations in brain activation in posttraumatic stress disorder patients
+with severe hyperarousal symptoms and impulsive aggressiveness. Eur. Arch.
+Psychiatry Clin. Neurosci. 253, 80–83 (2003).
+53.
+Pruim, R. J. et al. LocusZoom: regional visualization of genome-wide asso-
+ciation scan results. Bioinformatics 26, 2336–2337 (2010).
+54.
+Turner, S. D. qqman: an R package for visualizing GWAS results using QQ and
+manhattan plots. Preprint at http://dx.doi.org/10.1101/005165 (2014).
+55.
+McLean, C. Y. et al. GREAT improves functional interpretation of cis-regulatory
+regions. Nat. Biotechnol. 28, 495–501 (2010).
+56.
+Kalsi, G. et al. A systematic gene-based screen of chr4q22–q32 identiﬁes
+association of a novel susceptibility gene, DKK2, with the quantitative trait of
+alcohol dependence symptom counts. Hum. Mol. Genet. 19, 2497–2506
+(2010).
+57.
+Gorokhova, S., Bibert, S., Geering, K. & Heintz, N. A novel family of trans-
+membrane proteins interacting with β subunits of the Na, K-ATPase. Hum.
+Mol. Genet. 16, 2394–2410 (2007).
+58.
+Wade, T. D. et al. Genetic variants associated with disordered eating. Int. J.
+Eating Disord. 46, 594–608 (2013).
+59.
+Moyer, B. et al. Rationale, methods, and assays for identifying human and non-
+human primate taste speciﬁc genes and use thereof in taste modulator and
+therapeutic screening assays. Google Patents (2014) US 20090208946 A1
+60.
+Chao, L. L., Yaffe, K., Samuelson, K. & Neylan, T. C. Hippocampal volume is
+inversely related to PTSD duration. Psychiatry Res. 222, 119–123 (2014).
+61.
+Douglas, J. MRI-based measurement of hippocampal volume in patients with
+combat-related posttraumatic stress disorder. Am. J. Psychiatry 152, 973–998
+(1995).
+62.
+Elman, I. et al. Functional neuroimaging of reward circuitry responsivity to
+monetary gains and losses in posttraumatic stress disorder. Biol. Psychiatry 66,
+1083–1090 (2009).
+63.
+Vythilingam, M. et al. Reward circuitry in resilience to severe trauma: an fMRI
+investigation of resilient special forces soldiers. Psychiatry Res. 172, 75–77
+(2009).
+64.
+Nawijn, L. et al. Reward functioning in PTSD: a systematic review exploring the
+mechanisms underlying anhedonia. Neurosci. Biobehav. Rev. 51, 189–204
+(2015).
+65.
+McDonald, S. D. et al. Factorial invariance of posttraumatic stress disorder
+symptoms
+across
+three
+veteran
+samples.
+J.
+Trauma.
+Stress
+21,
+309–317 (2008).
+66.
+Comings, D. E. et al. The dopamine D2 receptor locus as a modifying gene in
+neuropsychiatric disorders [see comment]. J. Am. Med. Assoc. 266, 1793–1800
+(1991).
+67.
+Pizzagalli, D. A. et al. Reduced caudate and nucleus accumbens response to
+rewards in unmedicated individuals with major depressive disorder. Am. J.
+Psychiatry 166, 702–710 (2009).
+68.
+Elhai, J. D. et al. Testing whether posttraumatic stress disorder and major
+depressive disorder are similar or unique constructs. J. Anxiety Disord. 25,
+404–410 (2011).
+69.
+Felmingham, K. L. et al. Reduced amygdala and ventral striatal activity to
+happy faces in PTSD is associated with emotional numbing. PLoS ONE 9,
+e103653 (2014).
+70.
+Almonte, A. G. & Sweatt, J. D. Serine proteases, serine protease inhibitors, and
+protease-activated receptors: roles in synaptic function and behavior. Brain Res.
+1407, 107–122 (2011).
+71.
+Wang, Y., Luo, W. & Reiser, G. Trypsin and trypsin-like proteases in the brain:
+proteolysis and cellular functions. Cell. Mol. Life Sci. 65, 237–252 (2008).
+72.
+Makarova, A. et al. Effect of enteropeptidase on survival of cultured hippo-
+campal neurons under conditions of glutamate toxicity. Biochemistry 75,
+1153–1159 (2010).
+73.
+De Bellis, M. D. et al. Developmental traumatology Part II: Brain development.
+Biol. Psychiatry 45, 1271–1284 (1999).
+74.
+Strakowski S. M. et al. Ventricular and periventricular structural volumes in ﬁrst-
+versus multiple-episode bipolar disorder. Am. J. Psychiatry 159, 1841–1847
+(2002).
+75.
+Wright, I. C. et al. Meta-analysis of regional brain volumes in schizophrenia. Am.
+J. Psychiatry 157, 16–25 (2014).
+76.
+Consortium C-DGotPG. Identiﬁcation of risk loci with shared effects on ﬁve
+major psychiatric disorders: a genome-wide analysis. Lancet 381, 1371–1379
+(2013).
+77.
+Meyer-Lindenberg, A. & Weinberger, D. R. Intermediate phenotypes and
+genetic mechanisms of psychiatric disorders. Nat. Rev. Neurosci. 7, 818–827
+(2006).
+78.
+Rasetti, R. & Weinberger, D. R. Intermediate phenotypes in psychiatric dis-
+orders. Curr. Opin. Genet. Dev. 21, 340–348 (2011).
+79.
+McCarroll, S. A., Feng, G. & Hyman, S. E. Genome-scale neurogenetics: meth-
+odology and meaning. Nat. Neurosci. 17, 756–763 (2014).
+80.
+Whalley, H. C. et al. Polygenic risk and white matter integrity in individuals at
+high risk of mood disorder. Biol. Psychiatry 74, 280–286 (2013).
+81.
+Whalley, H. et al. The inﬂuence of polygenic risk for bipolar disorder on neural
+activation assessed using fMRI. Transl. Psychiatry 2, e130 (2012).
+82.
+Morey, R. A. et al. A comparison of automated segmentation and manual
+tracing for quantifying hippocampal and amygdala volumes. Neuroimage 45,
+855–866 (2009).
+83.
+Wang, Z. et al. Magnetic resonance imaging of hippocampal subﬁelds in
+posttraumatic stress disorder. Arch. Gen. Psychiatry 67, 296–303 (2010).
+84.
+Fischl, B. FreeSurfer. Neuroimage 62, 774–781 (2012).
+85.
+Saygin, Z. M., Osher, D. E., Augustinack, J., Fischl, B. & Gabrieli, J. D. Connectivity-
+based segmentation of human amygdala nuclei using probabilistic tracto-
+graphy. Neuroimage 56, 1353–1361 (2011).
+86.
+Logue, M. W. et al. The Psychiatric Genomics Consortium Posttraumatic Stress
+Disorder Workgroup: Posttraumatic stress disorder enters the age of large-
+scale genomic collaboration. Neuropsychopharmacology 40, 2287–2297
+(2015).
+87.
+ENIGMA. Common variants at 12q14 and 12q24 are associated with hippo-
+campal volume. Nat. Genet. 44, 545–551 (2012).
+Morey et al. Translational Psychiatry  (2017) 7:1265 
+Page 10 of 10
+Translational Psychiatry
+
+## References
+References
+Translational Psychiatry
+1234567890
+1234567890
+relatively large for a complex disease, with odds ratios
+ranging from 1.4 to 3.7. However, despite these putatively
+large genetic effects, each GWAS identiﬁed different loci.
+None of the top hits (p < 10−5) for the studies overlapped
+except for RORA, which demonstrated a modest degree of
+replication9. The lack of replication in PTSD GWAS
+could be explained by differences among the study par-
+ticipants with respect to trauma type, trauma s...
+---

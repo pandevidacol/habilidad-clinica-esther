@@ -1,0 +1,936 @@
+# ORIGINAL RESEARCH
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2020
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Case-Control Study of the Effects of Gut Microbiota Composition on Neurotransmitter Metabolic P.pdf
+
+## Abstract / Summary
+ORIGINAL RESEARCH
+published: 18 February 2020
+doi: 10.3389/fnins.2020.00127
+Edited by:
+Andreas Martin Grabrucker,
+University of Limerick, Ireland
+Reviewed by:
+Kiran Veer Sandhu,
+University College Cork, Ireland
+Silvia Turroni,
+University of Bologna, Italy
+*Correspondence:
+Guang Yang
+yangg301@sina.com
+†These authors have contributed
+equally to this work
+Specialty section:
+This article was submitted to
+Neuroendocrine Science,
+a section of the journal
+Frontiers in Neuroscience
+Received: 16 October ... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. ORIGINAL RESEARCH. 2020.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+ORIGINAL RESEARCH
+published: 18 February 2020
+doi: 10.3389/fnins.2020.00127
+Edited by:
+Andreas Martin Grabrucker,
+University of Limerick, Ireland
+Reviewed by:
+Kiran Veer Sandhu,
+University College Cork, Ireland
+Silvia Turroni,
+University of Bologna, Italy
+*Correspondence:
+Guang Yang
+yangg301@sina.com
+†These authors have contributed
+equally to this work
+Specialty section:
+This article was submitted to
+Neuroendocrine Science,
+a section of the journal
+Frontiers in Neuroscience
+Received: 16 October 2019
+Accepted: 31 January 2020
+Published: 18 February 2020
+Citation:
+Wan L, Ge W-R, Zhang S,
+Sun Y-L, Wang B and Yang G (2020)
+Case-Control Study of the Effects
+of Gut Microbiota Composition on
+Neurotransmitter Metabolic Pathways
+in Children With Attention Deﬁcit
+Hyperactivity Disorder.
+Front. Neurosci. 14:127.
+doi: 10.3389/fnins.2020.00127
+Case-Control Study of the Effects of
+Gut Microbiota Composition on
+Neurotransmitter Metabolic
+Pathways in Children With Attention
+Deﬁcit Hyperactivity Disorder
+Lin Wan1†, Wen-Rong Ge2†, Shan Zhang1, Yu-Lin Sun1, Bin Wang1 and Guang Yang1*
+1 The First Medical Center of the Chinese PLA General Hospital, Beijing, China, 2 Beijing Friendship Hospital, Capital Medical
+University, Beijing, China
+Background: Attention-deﬁcit/hyperactivity disorder (ADHD) is a neuropsychiatric
+condition that may be related to an imbalance of neural transmitters. The gut microbiota
+is the largest ecosystem in the human body, and the brain-gut axis theory proposes that
+the gut microbiome can affect brain function in multiple ways. The purpose of this study
+was to explore the gut microbiota in children with ADHD and assess the possible role of
+the gut microbiota in disease pathogenesis to open new avenues for ADHD treatment.
+Methods: A case-control design was used. We enrolled 17 children aged 6–12 years
+with ADHD who were treated in the Pediatric Outpatient Department of the First Medical
+Center of the Chinese PLA General Hospital from January to June, 2019. Seventeen
+children aged 6–12 years were selected as the healthy control (HC) group. Fecal
+samples of cases and controls were analyzed by shotgun metagenomics sequencing.
+Alpha diversity and the differences in the relative abundances of bacteria were compared
+between the two groups. Functional annotations were performed for the microbiota
+genes and metabolic pathways were analyzed using the Kyoto Encyclopedia of Genes
+and Genomes (KEGG).
+Results: There was no signiﬁcant difference in the alpha diversity of gut microbiota
+between the ADHD and HC groups. Compared with HCs, Faecalibacterium and
+Veillonellaceae were signiﬁcantly reduced in children with ADHD (P < 0.05), Odoribacter
+and Enterococcus were signiﬁcantly increased [linear discriminant analysis (LDA) > 2].
+At the species level, Faecalibacterium prausnitzii, Lachnospiraceae bacterium, and
+Ruminococcus gnavus were signiﬁcantly reduced in the ADHD group (P < 0.05),
+while Bacteroides caccae, Odoribacter splanchnicus, Paraprevotella xylaniphila, and
+Veillonella parvula were increased (P < 0.05). Metabolic pathway analysis revealed
+signiﬁcant between-group differences in the metabolic pathways of neurotransmitters
+(e.g., serotonin and dopamine) (P < 0.05).
+Frontiers in Neuroscience | www.frontiersin.org
+1
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+Conclusion: Composition differences of gut microbiota in subjects with ADHD may
+contribute to brain-gut axis alterations and affect neurotransmitter levels, which could
+contribute to ADHD symptoms.
+Keywords: attention deﬁcit hyperactivity disorder, child, gastrointestinal microbiome, shotgun metagenomics
+sequencing, neurotransmitter
+INTRODUCTION
+Attention-deﬁcit/hyperactivity
+disorder
+(ADHD)
+is
+a
+neuropsychiatric disorder that occurs most frequently in
+school-age children and is characterized as inattention with or
+without excessive impulsivity and hyperactivity (Abramov et al.,
+2019). Previous studies have reported that ADHD pathogenesis
+may be associated with dysregulation of neurotransmitters
+such as dopamine, serotonin (5-hydroxytryptamine, 5-HT),
+and norepinephrine (Magula et al., 2019; Stewart et al., 2019;
+Suzuki et al., 2019). Others have shown that the incidence of
+ADHD may have a certain degree of heritability, and genes
+related to dopamine, norepinephrine, and 5-HT transmission
+have been found to be abnormally expressed in children with
+ADHD (Banerjee and Nandagopal, 2015; Karmakar et al.,
+2017; Kim et al., 2018). Although various theories have been
+proposed, the pathogenetic mechanisms underlying ADHD
+have not been fully clariﬁed, which limits the development
+of new treatments.
+Gut
+microbiota
+alterations
+may
+be
+associated
+with
+neurological conditions including Alzheimer’s disease, epilepsy,
+and autism (Fan et al., 2019; Rude et al., 2019). Many researchers
+have proposed the existence of bidirectional regulation of
+the brain-gut axis, which involves gut microbiota metabolites
+that aﬀect neurotransmitter levels, thereby inﬂuencing brain
+function (Melli et al., 2016; Khalil et al., 2019; Lacorte et al.,
+2019). In addition, nervous system activity can also impact
+gut microbiota composition. This bidirectional regulation
+is
+accomplished
+via
+complex
+neuroendocrine
+pathways
+(Khalil et al., 2019). The gut microbiota can adjust these
+pathways by regulating the levels of neurotransmitters and
+inﬂammatory factors and aﬀecting the hypothalamic-pituitary-
+adrenal axis (Bermúdez-Humarán et al., 2019). Therefore,
+abnormal intestinal ﬂora composition may lead to abnormal
+neurotransmitter secretion, which may promote the development
+of neuropsychiatric diseases.
+We conducted a case-control study to analyze diﬀerences in
+intestinal ﬂora composition between children with ADHD and
+healthy control (HC) children, explore ADHD pathogenesis, and
+investigate potential new treatments for ADHD.
+MATERIALS AND METHODS
+Study Subjects
+Seventeen children aged 6–12 (median 8 years) with ADHD
+were selected from the Pediatric Outpatient Department of the
+First Medical Center of the PLA General Hospital between
+January and June, 2019. The inclusion criteria were: (1) The
+Kiddie Schedule for Aﬀective Disorders and Schizophrenia
+(K-SADS, Present and Lifetime Version scales) was used to
+diagnosis ADHD, and subjects met the diagnostic criteria for
+ADHD in the Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition (DSM-5) (Ng et al., 2019) based on
+the opinion of an experienced child psychiatrist (GY or LW);
+(2) no history of respiratory or digestive tract infection within
+1 month; (3) no use of probiotics within 1 month; (4) no
+history of digestive diseases or other chronic diseases; (5) body
+mass index (BMI) < 20 kg/m2 (because obesity could cause gut
+microbiota abnormalities) (Salah et al., 2019); and (6) no allergic
+diseases such as allergic rhinitis or asthma. Seventeen children
+from diﬀerent families aged 6–12 years (median 8 years) were
+selected as the HC group in the same period. The inclusion
+criteria were the same except that there was no diagnosis
+of ADHD based on DSM-5 criteria by K-SADS. All of the
+participating children were born full-term with normal deliveries.
+Subjects were excluded if they were on a special diet (e.g.,
+vegetarian). All parents of the participating children completed
+the Conners Parent Rating Scales (CPRS) to assess ADHD
+symptom severity and exclude subjects with depressive or anxiety
+symptoms. Participants maintained their regular dietary patterns
+for a week, and a food diary was recorded for participants
+from both groups during this period in order to exclude the
+potential inﬂuence of any changes in diet on the intestinal
+ﬂora. Stool samples were collected at 8:00 am in the Pediatric
+Outpatient Department and stored in a sterile plastic cup at
+−80◦C prior to testing.
+The study was approved by the PLA General Hospital
+Ethics Committee (no. 2018-278). All subjects’ guardians
+were informed about the intentions of this study, and gave
+written informed consent was obtained in accordance with the
+Declaration of Helsinki.
+Sequencing and Analysis
+DNA Sequencing
+A total of 34 stool samples were collected from 17 ADHD patients
+and 17 age-matched HCs. We applied shotgun metagenomic
+sequencing to the whole genome of the microorganisms
+for each specimen. Bead beating was performed to rupture
+the bacteria, DNA was extracted with HiPure Stool DNA
+kits (Angen Biotech Co., Ltd., Guangzhou, China), and
+Qubit
+4.0
+software
+(Thermo
+Fisher
+Scientiﬁc,
+Waltham,
+MA, United States) was used for quality assessment. The
+library was prepared with a KAPA Hyper Prep Kit (KAPA
+Biosystems, Wilmington, MA, United States) and paired-end
+sequencing was performed on an Illumina NovaSeq platform
+(Illumina, San Diego, CA, United States) with a reading length
+of 150 bp (PE150).
+Frontiers in Neuroscience | www.frontiersin.org
+2
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+Species Abundance and Gene Function
+Annotations
+All genome sequencing data were preprocessed by KneadData1
+to screen out low-quality short frame sequences and chimeric
+sequences among the structural primer sequences (Bolger et al.,
+2014). Bowtie2 (Langmead and Salzberg, 2012) was then used
+to align the reads with the human genome for host sequence
+contamination removal. This was carried out with human
+reference genome hg19)2.
+HUMAnN2 (version v0.11.2) was used to analyze the species
+abundance, gene function, and metabolic pathways related to the
+processed sequencing data (Franzosa et al., 2018). HUMAnN2
+ﬁrst used MetaPhlAn2 (version 2.7.7, Li et al., 2014) to match
+the sequence with the established core genes to quickly locate
+the species included in the microbiota. Sequences were then
+compared with the pan-genome of the identiﬁed species and
+mapped to corresponding phylogenetic levels. The abundance of
+genes or gene families, and metabolic pathways were analyzed at
+diﬀerent phylogenetic levels of interest.
+To determine the gene functional annotations, we employed
+the Bowtie2 (version 2.3.4.3) to map the sequences after removing
+low-quality sequences and host sequences, to Integrated Gene
+Catalog databases and Kyoto Encyclopedia of Genes and
+Genomes (KEGG).On this basis, gene abundance and alpha
+diversity indexes were calculated, which involves using the
+Shannon, Chao1, and Simpson indexes to calculate the entropy
+values of gene abundance. Euclidean distance was also computed
+as the measurement of beta diversity, followed by principal
+component analysis (PCA) and permutational multivariate
+analysis of variance (PERMANOVA). PCA was performed using
+ade4 package and PERMANOVA was carried out using vegan
+package (R version 3.5.3)3.
+Bioinformatics Analysis
+Chi-square tests were performed by SPSS 21.0 to compare
+sex diﬀerences between the ADHD and HC groups, and
+independent-sample t-tests were used to compare age, BMI, and
+CPRS scores. Wilcoxon tests were used by SPSS 21.0 to assess
+diﬀerences in species abundance and gene function between the
+ADHD and HC groups. The LDA eﬀect size (LEfSe) method was
+used to determine the most diﬀerentially abundant taxa at the
+genus and species levels between the two groups.
+RESULTS
+Comparison of Clinical Data Between
+the ADHD and HC Groups
+A total of 17 ADHD children were included in this study,
+including 14 (82.3%) males and 3 (17.7%) females with a median
+age of 8 (25th and 75th percentiles: 7, 10) and a mean BMI of
+16.1 ± 1.2 kg/m2. The 17 HCs included 13 (76.5%) males and
+4 (23.5%) females with a median age of 8 (7, 9.5) and a mean
+1https://bitbucket.org/biobakery/kneaddata
+2http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz
+3https://www.r-project.org/
+BMI of 15.9 ± 1.1 kg/m2. There was no signiﬁcant diﬀerence
+in the distributions of sex, age, or BMI between the two groups
+(P > 0.05). More children in the ADHD group (12, 70.5%)
+developed symptoms of constipation than in the HC group (2,
+11.7%).The total CPRS scores were signiﬁcantly diﬀerent between
+the ADHD and HC groups (10.3 ± 4.2 vs. 2.2 ± 0.63, respectively;
+P < 0.05). There were no signiﬁcant diﬀerences in the subscores
+for psychosomatic symptoms (0.56 ± 0.34 vs. 0.53 ± 0.41) or
+anxiety (0.42 ± 0.32 vs. 0.51 ± 0.35) (P > 0.05, Table 1).
+Analysis of Intestinal Flora Diversity
+The Shannon (9.67 ± 0.42 vs. 9.52 ± 0.25), Chao1 (61.5 ± 11.6
+vs. 57.5 ± 9.8), and Simpson (0.89 ± 0.07 vs. 0.88 ± 0.06) indexes
+were calculated to assess the alpha diversity of fecal microbiota in
+the ADHD and HC groups. There were no signiﬁcant diﬀerences
+in index values between the two groups (Figure 1A). At the genus
+level and the species level, PERMANOVA could not discriminate
+the ADHD from the HC group due to signiﬁcant individual
+variation (Figures 1B,C).
+Analyses of Fecal Bacterial Community
+Abundance
+At the genus level, Wilcoxon tests showed that Faecalibacterium
+and
+Veillonellaceae
+were
+signiﬁcantly
+reduced
+in
+the
+ADHD group, while Odoribacter was signiﬁcantly higher
+(P < 0.05, Figure 2A). The LEfSe results also indicated that
+Enterococcus was signiﬁcantly increased in the ADHD group
+(LDA > 2, Figure 2B).
+At
+the
+species
+level,
+Wilcoxon
+tests
+showed
+that
+Faecalibacterium
+prausnitzii,
+Lachnospiraceae
+bacterium,
+and Ruminococcus gnavus were signiﬁcantly decreased in
+the
+ADHD
+group,
+while
+Bacteroides
+caccae,
+Odoribacter
+splanchnicus,
+Paraprevotella
+xylaniphila,
+and
+Veillonella
+parvula were signiﬁcantly increased (P < 0.05, Figure 2C).
+The
+results
+of
+LEfSe
+showed
+that
+Odoribacteraceae
+and
+TABLE 1 | Descriptive data of the ADHD and HC groups.
+ADHD (n = 17)
+HC (n = 17)
+P
+Sex, n (%)
+0.671
+Male
+14 (82.3%)
+13 (76.5%)
+Female
+3 (15%)
+4 (23.5%)
+Age, years; median (25th
+and 75th percentiles)
+8 (7, 10)
+8 (7, 9.5)
+0.701
+BMI, mean (SD)
+16.1 (1.2)
+15.9 (1.1)
+0.652
+Constipation, n(%)
+12 (70.5%)
+2 (11.7%)
+<0.05
+ADHD symptom severity, mean (SD)
+Total CPRS score
+10.3 (4.2)
+2.2 (0.63)
+<0.05
+Conduct problems
+3.1 (1.46)
+0.16 (0.27)
+<0.05
+Impulsive–hyperactivity
+1.5 (0.59)
+0.16 (0.22)
+<0.05
+Hyperactivity
+3.4 (0.65)
+0.05 (0.21)
+<0.05
+Learning problems
+1.9 (0.57)
+0.21 (0.34)
+<0.05
+Psychosomatic
+0.56 (0.34)
+0.53 (0.41)
+0.452
+Anxiety
+0.42 (0.32)
+0.51 (0.35)
+0.523
+ADHD, attention-deﬁcit/hyperactivity disorder; BMI, body mass index; CPRS,
+Conners Parent Rating Scales; HC, healthy control.
+Frontiers in Neuroscience | www.frontiersin.org
+3
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+FIGURE 1 | (A) Comparison of alpha diversity indexes between the ADHD and HC groups. (B) Permutational multivariate analysis of variance (PERMANOVA) of
+microbial communities of the participants at the genus level. (C) PERMANOVA of microbial communities of the participants at the species level.
+FIGURE 2 | Comparison of different bacteria at the genus and species level between the ADHD and HC groups. (A) Wilcoxon test result at the genus level
+(P < 0.05). (B) LEfSe result at the genus level (LDA > 2). (C) Wilcoxon test result at the species level (P < 0.05). (D) LEfSe result at the species level (LDA > 2).
+Enterococcaceae were signiﬁcantly increased in the ADHD
+group, while Ruminococcaceae was signiﬁcantly decreased
+(LDA > 2, Figure 2D).
+KEGG Analysis of Metabolism
+A total of 6294 KEGG Orthology (KO) terms were used
+to annotate the genes. Wilcoxon tests showed 91 KOs that
+were signiﬁcantly diﬀerent between the two groups (P < 0.01,
+Figure 3). These included terms related to the neurotransmitter
+dopamine; the genes encoding the catalytic subunit of protein
+phosphatase-1 (PP1), threonine synthase, and 6-pyruvoyl-
+5,6,7,8-tetrahydropterin were signiﬁcantly upregulated in the
+ADHD group, while the gene encoding 4-hydroxy threonine-
+4-phosphate dehydrogenase was signiﬁcantly downregulated
+(P < 0.05, Figure 4).
+DISCUSSION
+The mammalian intestinal tract contains more than 100 trillion
+microorganisms; as the largest ecosystem in the body, it
+inﬂuences host physiological functions (Agus et al., 2018). The
+brain-gut axis theory proposes that there is a bidirectional
+regulatory
+mechanism
+between
+the
+intestinal
+ﬂora
+and
+the
+brain.
+Children
+with
+ADHD
+may
+have
+abnormal
+neurotransmission,
+and
+the
+intestinal
+ﬂora
+may
+regulate
+the level of neurotransmitters via complex neuroendocrine
+pathways (Richarte et al., 2018). A systematic review revealed
+two studies that assessed the correlation between ADHD and
+intestinal ﬂora (Lacorte et al., 2019). Both employed 16S rRNA-
+sequencing technology and only analyzed the diﬀerence in gut
+microﬂora (Jiang et al., 2018; Prehn-Kristensen et al., 2018).
+Frontiers in Neuroscience | www.frontiersin.org
+4
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+FIGURE 3 | Comparison of Kyoto Encyclopedia of Genes and Genomes (KEGG) functional annotations between the ADHD and HC groups.
+We also applied shotgun metagenomic sequencing to the whole
+genomes of microorganisms for each specimen, and KEGG was
+used to analyze the metabolic pathways and identify possible
+pathogenetic mechanisms.
+Similar to earlier reports (Jiang et al., 2018; Prehn-Kristensen
+et al., 2018), we found obvious diﬀerences in the gut microbiota
+of the ADHD and HC groups. Contrary to one study (Prehn-
+Kristensen et al., 2018), we found the alpha diversity of
+intestinal ﬂora was not signiﬁcantly diﬀerent between groups,
+but subjects with ADHD had signiﬁcantly lower levels of
+Faecalibacterium. However, unlike a previous report (Jiang
+et al., 2018), we also found that the ADHD group had
+signiﬁcant decreases in Veillonellaceae, while Enterococcus and
+Odoribacter were signiﬁcantly increased. At the species level,
+F. prausnitzii, L. bacterium, and R. gnavus were signiﬁcantly
+reduced in the ADHD group, while B. caccae, O. splanchnicus,
+P. xylaniphila, and V. parvula were signiﬁcantly increased.
+Additionally, we found that children with ADHD were more
+prone to constipation; consistent with our ﬁnding, previous
+studies have reported that the imbalance of intestinal ﬂora is
+closely related to the occurrence of constipation (Huang et al.,
+2018; Wen et al., 2018; Wang L. et al., 2019).
+The pathogenesis of ADHD remains unclear. One research
+group reported that abnormal levels of neurotransmitters are
+involved in the disease process (Kovács et al., 2019). Based
+on this theory, central nervous system (CNS) stimulants such
+as methylphenidate hydrochloride are widely used as ﬁrst-line
+treatments for ADHD. The mechanism may involve inhibition
+of presynaptic reuptake of noradrenaline and dopamine; higher
+synaptic levels of these neurotransmitters may help to control
+symptoms, but clinical treatment eﬀects vary among patients
+(Wigal et al., 2017).
+Previous studies have shown that the gut microbiota could
+aﬀect the brain-gut axis and contribute to the pathogenesis
+of neurological diseases including Parkinson’s, epilepsy, autism
+spectrum disorders, and tic disorders (Zhao et al., 2017;
+Kovács et al., 2019; Rude et al., 2019). Early intestinal ﬂora
+establishment can aﬀect nervous system development, resulting
+in anxiety behaviors and other mental health problems after
+maturity, and treatment of pregnant female rats with low-
+dose antibiotics has been shown to lead to an imbalance of
+intestinal ﬂora, with subsequent alterations in the behavior of
+oﬀspring (Borre et al., 2014; Leclercq et al., 2017; Zhao et al.,
+2017). In another study where gut bacteria from patients with
+schizophrenia were transplanted into germ-free mice, the mice
+developed psychotic symptoms due to altered regulation of
+the glutamine-glutamate-gamma-aminobutyric acid pathway by
+the transplanted gut bacteria (Zheng et al., 2019). Similarly,
+transplantation of intestinal ﬂora from patients with Parkinson’s
+disease into a germ-free Parkinson’s disease mouse model
+signiﬁcantly increased motor symptoms of the mice, which were
+ameliorated by antibiotic treatment (Sampson et al., 2016).
+According to the results of our experiment, we speculated
+that the abnormality of intestinal ﬂora might be one of the
+bases of the onset of ADHD, combined with previous studies,
+we proposed the following conjecture about its mechanism
+of action. In this study, children with ADHD exhibited a
+reduction of Faecalibacterium. This has been observed in both
+animal and human studies and has been implicated in various
+allergic diseases such as asthma, eczema, and allergic rhinitis
+(Penders et al., 2007; Arrieta et al., 2015; Melli et al., 2016).
+In clinical practice, atopic children have a 30–50% increased
+risk of ADHD (Schans et al., 2017). We therefore speculate
+that the reduction of this bacterial genus may generate allergies
+via the brain-gut axis by aﬀecting neurotransmitter release
+and inducing the pathogenesis of ADHD. One study reported
+that ADHD was more likely to be induced by diets high in
+fat, protein, and sugar, which also decrease Faecalibacterium
+Frontiers in Neuroscience | www.frontiersin.org
+5
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+FIGURE 4 | Abnormal metabolic pathways of neurotransmitters in the ADHD
+group.
+levels (Howard et al., 2011). Faecalibacterium may exert anti-
+inﬂammatory eﬀects, and the abnormal levels may lead to
+higher expression of inﬂammatory factors (Qiu et al., 2013;
+Quévrain et al., 2016). Notably, children with ADHD have
+signiﬁcantly higher levels of inﬂammatory cytokines than normal
+children (Mitchell and Goldstein, 2014). Inﬂammatory cytokines
+can cross the blood–brain barrier (BBB) and aﬀect nervous
+system development and brain function (Wong et al., 2016). We
+therefore hypothesized that Faecalibacterium dysregulation may
+cause changes in inﬂammatory cytokine levels and participate in
+ADHD pathogenesis.
+We also found that the proportion of Enterococcus was
+signiﬁcantly increased in the ADHD group, and Enterococcus
+has been reported to be closely related to neurotransmitter
+release. One study demonstrated that Enterococcus abundance
+is signiﬁcantly increased in mice lacking the 5-HT transporter
+(Singhal et al., 2019); deﬁciency of this transporter can lead to
+decreased 5-HT levels, which is related to ADHD onset (Wang
+et al., 2018). Interestingly, a study showed Enterococcus could
+lead to excessive intestinal conversion of levodopa (the ﬁrst-line
+treatment for Parkinson’s disease) into dopamine, however,
+peripheral dopamine cannot penetrate the BBB to enter the CNS,
+thus reducing the eﬀectiveness of levodopa (Maini Rekdal et al.,
+2019). Furthermore, the abnormal increase in Enterococcus could
+also cause excessive activation of tyrosine decarboxylase, which
+increases the decarboxylation of tyrosine and phenylalanine in
+the gastrointestinal tract, leading to decreased levels in the CNS
+and subsequent low levels of levodopa (the drug precursor of
+dopamine) (Maini Rekdal et al., 2019). Both of these pathways
+can aﬀect the concentration of dopamine in the CNS, which
+may aggravate Parkinson’s symptoms (Maini Rekdal et al.,
+2019). Previous studies have shown that ADHD onset is related
+to decreased CNS levels of dopamine (Roncero and Álvarez,
+2014; Ledonne and Mercuri, 2017). As above, we speculate that
+the observed increase in Enterococcus may lower intracranial
+dopamine and contribute to the development of ADHD. In
+addition, our observation of a higher proportion of Odoribacter
+in subjects with ADHD is similar to the results of a previous
+study that found higher Odoribacter levels in individuals with
+pediatric acute-onset neuropsychiatric syndrome (PAN) and
+pediatric autoimmune neuropsychiatric disorders associated
+with streptococcal infections (PANDAS) (Quagliariello et al.,
+2018). Additionally, Phylogenetic Investigation of Communities
+by Reconstruction of Unobserved States (PICRUSt) analysis
+of this study showed that the dopamine metabolic pathway
+was signiﬁcantly reduced in PAN and PANDAS (Quagliariello
+et al., 2018). Odoribacter may cause abnormalities in dopamine
+metabolism
+that
+contribute
+to
+ADHD.
+Previous
+studies
+(Quagliariello et al., 2018; Maini Rekdal et al., 2019) found that
+abnormal Enterococcus and Odoribacter levels were associated
+with dysregulated neurotransmitter production. Abnormal levels
+of these bacteria were also found in our study, suggesting a role
+in the development of ADHD.
+Finally, we performed KEGG analysis to determine the gene
+functional annotations and abnormalities in metabolic pathways,
+to verify the speculation of the role of gut microbiota in
+the pathogenesis of ADHD. Reduced dopamine levels in the
+CNS may contribute to ADHD pathogenesis. We identiﬁed
+diﬀerences in the dopaminergic synaptic pathways between
+the ADHD and HC groups; the gene encoding PP1 catalytic
+subunit was signiﬁcantly upregulated, which was considered
+to increase synaptic sodium ion ﬂux. Dopamine receptors are
+transmembrane sodium/chloride-dependent transporters that
+belong to the family of transporters of norepinephrine, 5-
+HT, and dopamine, and are referred to as neurotransmitter:
+sodium symporters (NSS) (Navratna and Gouaux, 2019).
+Frontiers in Neuroscience | www.frontiersin.org
+6
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+Prolonged sodium-related signal transduction results in the
+excessive activation of NSS. Metabolic pathway alterations may
+cause abnormal neurotransmitter transport and reduce their
+concentrations in the CNS, which could contribute to ADHD.
+Numerous studies have reported that vitamin B6 plays a key
+role in nervous system development and neurotransmitter
+production. A randomized controlled trial of 216 children with
+ADHD and 216 healthy children found lower vitamin B6 levels
+in children with ADHD (Wang L.J. et al., 2019). In line with this
+ﬁnding, KEGG analysis indicated abnormalities in the metabolic
+pathway of vitamin B6 in the ADHD group. The genes encoding
+4-hydroxy threonine-4-phosphate dehydrogenase and threonine
+synthase were signiﬁcantly downregulated and upregulated,
+respectively, which could lead to abnormal levels of pyridoxal
+5′-phosphate, which is an important coenzyme of aromatic
+amino acid decarboxylase (AADC) (Montioli et al., 2019).
+AADC is a key enzyme of dopamine metabolism that converts
+levodopa into dopamine in the CNS (Baek et al., 2018).
+A decrease in its activity could lead to the reduction of
+dopamine concentrations, which could contribute to ADHD
+onset. In the folate metabolic pathway, a signiﬁcant upregulation
+of the gene encoding 6-pyruvoyl-5,6,7,8-tetrahydropterin could
+promote the generation of tetrahydrobiopterin (BH4). However,
+tryptophan hydroxylase is a rate-limiting enzyme that catalyzes
+5-HT synthesis, with oxygen and BH4 as substrates (Opladen
+et al., 2016; Scotton et al., 2019). Upregulation of the
+gene encoding 6-pyruvoyl-5,6,7,8-tetrahydropterin may lead
+to the conversion of excessive tryptophan into 5-HT in the
+intestinal tract, and 5-HT has diﬃculty crossing the BBB,
+resulting in decreased CNS 5-HT concentrations, which may
+contribute to ADHD.
+There are several limitations to this study. First, our
+sample size was relatively small. Second, we did not perform
+transplantation of intestinal ﬂora to conﬁrm that gut microbiota
+composition aﬀects ADHD symptoms.
+CONCLUSION
+In summary, our results demonstrate that gut microbiota
+alterations occur in children with ADHD, which may contribute
+to abnormal metabolism of neurotransmitters. We cautiously
+speculated that the abnormal intestinal ﬂora might be one of
+contributing factors of ADHD, the underlying mechanism may
+be related to changes in microbial functions that aﬀect the
+function of the neuroendocrine system, leading to reduced levels
+of 5-HT and dopamine in the CNS, and ultimately to ADHD.
+Further studies should be carried out to investigate the CNS
+levels of dopamine and 5-HT, and animal studies are needed for
+functional veriﬁcation.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation, to any
+qualiﬁed researcher.
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by the PLA General Hospital Ethics Committee.
+Written informed consent to participate in this study was
+provided by the participants’ legal guardian/next of kin.
+AUTHOR CONTRIBUTIONS
+LW and W-RG contributed equally to the manuscript. LW and
+GY contributed to the study conception and design. W-RG, SZ,
+Y-LS, BW, and LW organized the database. W-RG, Y-LS, SZ, LW,
+and GY performed the statistical analysis. W-RG, LW, and GY
+wrote the ﬁrst draft of the manuscript. All authors wrote sections
+of the manuscript, contributed to the manuscript revision, and
+read and approved the submitted version.
+FUNDING
+This work was funded by the National Natural Science
+Foundation of China (reference number 81671279) and National
+Key Research and Development Project (2018YFC1002500).
+ACKNOWLEDGMENTS
+We would like to thank the medical staﬀat the First Medical
+Center of the PLA General Hospital for their assistance. We
+would also like to thank Aegicare (Shenzhen) Technology Co.,
+Ltd., for providing strong technical support for this study.
+REFERENCES
+Abramov, D. M., Cunha, C. Q., Galhanone, P. R., Alvin, R. J., de Oliveira, A. M., and
+Lazarev, V. V. (2019). Neurophysiological and behavioral correlates of alertness
+impairment and compensatory processes in ADHD evidenced by the attention
+network test. PLoS One 14:e0219472. doi: 10.1371/journal.pone.0219472
+Agus, A., Planchais, J., and Sokol, H. (2018). Gut microbiota regulation of
+tryptophan metabolism in health and disease. Cell Host Microbe 23, 716–724.
+doi: 10.1016/j.chom.2018.05.003
+Arrieta, M. C., Stiemsma, L. T., Dimitriu, P. A., Thorson, L., Russell, S., Yurist-
+Doutsch, S., et al. (2015). Early infancy microbial and metabolic alterations
+aﬀect risk of childhood asthma. Sci. Transl. Med. 7:307ra152. doi: 10.1126/
+scitranslmed.aab2271
+Baek, J. S., Tee, J. K., Pang, Y. Y., Tan, E. Y., Lim, K. L., Ho, H. K., et al.
+(2018). Improved bioavailability of levodopa using ﬂoatable spray-coated
+microcapsules for the management of Parkinson’s disease. Neuromolecular
+Med. 20, 262–270. doi: 10.1007/s12017-018-8491-0
+Banerjee, E., and Nandagopal, K. (2015). Does serotonin deﬁcit mediate
+susceptibility to ADHD? Neurochem. Int. 82, 52–68. doi: 10.1016/j.neuint.2015.
+02.001
+Bermúdez-Humarán, L. G., Salinas, E., Ortiz, G. G., Ramirez-Jirano, L. J., Morales,
+J. A., and Bitzer-Quintero, O. K. (2019). From probiotics to psychobiotics:
+Frontiers in Neuroscience | www.frontiersin.org
+7
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+live beneﬁcial bacteria which act on the brain-gut axis. Nutrients 11:E890.
+doi: 10.3390/nu11040890
+Bolger, A. M., Lohse, M., and Usadel, B. (2014). Trimmomatic: a ﬂexible
+trimmer for Illumina sequence data. Bioinformatics 30, 2114–2120. doi: 10.
+1093/bioinformatics/btu170
+Borre, Y. E., O’Keeﬀe, G. W., Clarke, G., Stanton, C., Dinan, T. G., and Cryan, J. F.
+(2014). Microbiota and neurodevelopmental windows: implications for brain
+disorders. Trends Mol. Med. 20, 509–518. doi: 10.1016/j.molmed.2014.05.002
+Fan, Y., Wang, H., Liu, X., Zhang, J., and Liu, G. (2019). Crosstalk between the
+ketogenic diet and epilepsy: from the perspective of gut microbiota. Mediators
+Inﬂamm. 2019:8373060. doi: 10.1155/2019/8373060
+Franzosa, E. A., McIver, L. J., Rahnavard, G., Thompson, L. R., Schirmer, M.,
+Weingart, G., et al. (2018). Species-level functional proﬁling of metagenomes
+and metatranscriptomes. Nat. Methods 15, 962–968. doi: 10.1038/s41592-018-
+0176-y
+Howard, A. L., Robinson, M., Smith, G. J., Ambrosini, G. L., Piek, J. P., and
+Oddy, W. H. (2011). ADHD is associated with a “Western” dietary pattern in
+adolescents. J. Atten. Disord. 15, 403–411. doi: 10.1177/1087054710365990
+Huang, L., Zhu, Q., Qu, X., and Qin, H. (2018). Microbial treatment in chronic
+constipation. Sci. China Life Sci. 61, 744–752. doi: 10.1007/s11427-017-9220-7
+Jiang, H. Y., Zhou, Y. Y., Zhou, G. L., Li, Y. C., Yuan, J., Li, X. H., et al. (2018).
+Gut microbiota proﬁles in treatment-naïve children with attention deﬁcit
+hyperactivity disorder. Behav. Brain Res. 347, 408–413. doi: 10.1016/j.bbr.2018.
+03.036
+Karmakar, A., Goswami, R., Saha, T., Maitra, S., Roychowdhury, A., Panda, C. K.,
+et al. (2017). Pilot study indicate role of preferentially transmitted monoamine
+oxidase gene variants in behavioral problems of male ADHD probands. BMC
+Med. Genet. 18:109. doi: 10.1186/s12881-017-0469-5
+Khalil, M., Zhang, Z., and Engel, M. A. (2019). Neuro-immune networks in
+gastrointestinal disorders. Visc. Med. 35, 52–60. doi: 10.1159/000496838
+Kim, J. I., Yoo, J. H., Kim, D., Jeong, B., and Kim, B. N. (2018). The eﬀects of
+GRIN2B and DRD4 gene variants on local functional connectivity in attention-
+deﬁcit/hyperactivity disorder. Brain Imaging Behav. 12, 247–257. doi: 10.1007/
+s11682-017-9690-2
+Kovács, Z., D’Agostino, D. P., Diamond, D., Kindy, M. S., Rogers, C., and Ari, C.
+(2019). Therapeutic potential of exogenous ketone supplement induced ketosis
+in the treatment of psychiatric disorders: review of current literature. Front.
+Psychiatry 10:363. doi: 10.3389/fpsyt.2019.00363
+Lacorte, E., Gervasi, G., Bacigalupo, I., Vanacore, N., Raucci, U., and Parisi,
+P. (2019). A systematic review of the microbiome in children with
+neurodevelopmental disorders. Front. Neurol. 10:727. doi: 10.3389/fneur.2019.
+00727
+Langmead, B., and Salzberg, S. L. (2012). Fast gapped-read alignment with bowtie
+2. Nat. Methods 9, 357–359. doi: 10.1038/nmeth.1923
+Leclercq, S., Mian, F. M., Stanisz, A. M., Bindels, L. B., Cambier, E., Ben-Amram,
+H., et al. (2017). Low-dose penicillin in early life induces long-term changes in
+murine gut microbiota, brain cytokines and behavior. Nat. Commun. 8:15062.
+doi: 10.1038/ncomms15062
+Ledonne,
+A.,
+and
+Mercuri,
+N.
+B.
+(2017).
+Current
+concepts
+on
+the
+physiopathological relevance of dopaminergic receptors. Front. Cell. Neurosci.
+11:27. doi: 10.3389/fncel.2017.00027
+Li, J., Jia, H., Cai, X., Zhong, H., Feng, Q., Sunagawa, S., et al. (2014). An integrated
+catalog of reference genes in the human gut microbiome. Nat. Biotechnol. 32,
+834–841. doi: 10.1038/nbt.2942
+Magula, L., Moxley, K., and Lachman, A. (2019). Iron deﬁciency in South African
+children and adolescents with attention deﬁcit hyperactivity disorder. J. Child
+Adolesc. Ment. Health 31, 85–92. doi: 10.2989/17280583.2019.1637345
+Maini Rekdal, V., Bess, E. N., Bisanz, J. E., Turnbaugh, P. J., and Balskus, E. P.
+(2019). Discovery and inhibition of an interspecies gut bacterial pathway for
+Levodopa metabolism. Science 364:eaau6323. doi: 10.1126/science.aau6323
+Melli, L. C., do Carmo-Rodrigues, M. S., Araújo-Filho, H. B., Solé, D., and de
+Morais, M. B. (2016). Intestinal microbiota and allergic diseases: a systematic
+review. Allergol. Immunopathol. 44, 177–188. doi: 10.1016/j.aller.2015.01.013
+Mitchell, R. H., and Goldstein, B. I. (2014). Inﬂammation in children and
+adolescents with neuropsychiatric disorders: a systematic review. J. Am. Acad.
+Child Adolesc. Psychiatry 53, 274–296. doi: 10.1016/j.jaac.2013.11.013
+Montioli, R., Battini, R., Paiardini, A., Tolve, M., Bertoldi, M., Carducci, C., et al.
+(2019). A novel compound heterozygous genotype associated with aromatic
+amino acid decarboxylase deﬁciency: clinical aspects and biochemical studies.
+Mol. Genet. Metab. 127, 132–137. doi: 10.1016/j.ymgme.2019.05.004
+Navratna, V., and Gouaux, E. (2019). Insights into the mechanism and
+pharmacology of neurotransmitter sodium symporters. Curr. Opin. Struct. Biol.
+54, 161–170. doi: 10.1016/j.sbi.2019.03.011
+Ng, R., Heinrich, K., and Hodges, E. (2019). Associations between ADHD
+subtype symptomatology and social functioning in children with ADHD,
+autism spectrum disorder, and comorbid diagnosis: utility of diagnostic tools
+in treatment considerations. J. Atten. Disord. doi: 10.1177/1087054719855680
+[Epub ahead of print].
+Opladen, T., Cortès-Saladelafont, E., Mastrangelo, M., Horvath, G., Pons,
+R., Lopez-Laso, E., et al. (2016). The international working group on
+neurotransmitter related disorders (iNTD): a worldwide research project
+focused on primary and secondary neurotransmitter disorders. Mol. Genet.
+Metab. Rep. 9, 61–66. doi: 10.1016/j.ymgmr.2016.09.006
+Penders, J., Stobberingh, E. E., van den Brandt, P. A., and Thijs, C. (2007). The role
+of the intestinal microbiota in the development of atopic disorders. Allergy 62,
+1223–1236. doi: 10.1111/j.1398-9995.2007.01462.x
+Prehn-Kristensen, A., Zimmermann, A., Tittmann, L., Lieb, W., Schreiber, S.,
+Baving, L., et al. (2018). Reduced microbiome alpha diversity in young patients
+with ADHD. PLoS One 13:e0200728. doi: 10.1371/journal.pone.0200728
+Qiu, X., Zhang, M., Yang, X., Hong, N., and Yu, C. (2013). Faecalibacterium
+prausnitzii upregulates regulatory T cells and anti-inﬂammatory cytokines in
+treating TNBS-induced colitis. J. Crohns Colitis 7, e558–e568. doi: 10.1016/j.
+crohns.2013.04.002
+Quagliariello, A., Del Chierico, F., Russo, A., Reddel, S., Conte, G., Lopetuso,
+L. R., et al. (2018). Gut microbiota proﬁling and gut-brain crosstalk in
+children aﬀected by pediatric acute-onset neuropsychiatric syndrome and
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal
+infections. Front. Microbiol. 9:675. doi: 10.3389/fmicb.2018.00675
+Quévrain, E., Maubert, M. A., Michon, C., Chain, F., Marquant, R., Tailhades,
+J., et al. (2016). Identiﬁcation of an anti-inﬂammatory protein from
+Faecalibacterium prausnitzii, a commensal bacterium deﬁcient in Crohn’s
+disease. Gut 65, 415–425. doi: 10.1136/gutjnl-2014-307649
+Richarte, V., Rosales, K., Corrales, M., Bellina, M., Fadeuilhe, C., Calvo, E., et al.
+(2018). [The gut-brain axis in attention deﬁcit hyperactivity disorder: the role
+of the microbiota]. Rev. Neurol. 66, S109–S114.
+Roncero, C., and Álvarez, F. J. (2014). The use of lisdexamfetamine dimesylate for
+the treatment of ADHD and other psychiatric disorders. Expert Rev. Neurother.
+14, 849–865. doi: 10.1586/14737175.2014.932691
+Rude, K. M., Pusceddu, M. M., Keogh, C. E., Sladek, J. A., Rabasa, G., Miller, E. N.,
+et al. (2019). Developmental exposure to polychlorinated biphenyls (PCBs)
+in the maternal diet causes host-microbe defects in weanling oﬀspring mice.
+Environ. Pollut. 253, 708–721. doi: 10.1016/j.envpol.2019.07.066
+Salah, M., Azab, M., Ramadan, A., and Hanora, A. (2019). New insights on obesity
+and diabetes from gut microbiome alterations in Egyptian adults. OMICS 23,
+477–485. doi: 10.1089/omi.2019.0063
+Sampson, T. R., Debelius, J. W., Thron, T., Janssen, S., Shastri, G. G., Ilhan, Z. E.,
+et al. (2016). Gut microbiota regulate motor deﬁcits and neuroinﬂammation in
+a model of Parkinson’s disease. Cell 167, 1469–1480.e12. doi: 10.1016/j.cell.2016.
+11.018
+Schans, J. V., Çiçek, R., de Vries, T. W., Hak, E., and Hoekstra, P. J. (2017).
+Association of atopic diseases and attention-deﬁcit/hyperactivity disorder:
+a systematic review and meta-analyses. Neurosci. Biobehav. Rev. 74(Pt A),
+139–148. doi: 10.1016/j.neubiorev.2017.01.011
+Scotton, W. J., Hill, L. J., Williams, A. C., and Barnes, N. M. (2019). Serotonin
+syndrome: pathophysiology, clinical features, management, and potential
+future directions. Int. J. Tryptophan Res. 12:1178646919873925. doi: 10.1177/
+1178646919873925
+Singhal, M., Turturice, B. A., Manzella, C. R., Ranjan, R., Metwally, A. A., Theorell,
+J., et al. (2019). Serotonin transporter deﬁciency is associated with dysbiosis and
+changes in metabolic function of the mouse intestinal microbiome. Sci. Rep.
+9:2138. doi: 10.1038/s41598-019-38489-8
+Stewart, A., Davis, G. L., Gresch, P. J., Katamish, R. M., Peart, R., Rabil,
+M. J., et al. (2019). Serotonin transporter inhibition and 5-HT2C receptor
+activation drive loss of cocaine-induced locomotor activation in DAT Val559
+mice. Neuropsychopharmacology 44, 994–1006. doi: 10.1038/s41386-018-
+0301-8
+Frontiers in Neuroscience | www.frontiersin.org
+8
+February 2020 | Volume 14 | Article 127
+Wan et al.
+Gut Microbiota Role in ADHD
+Suzuki, C., Ikeda, Y., Tateno, A., Okubo, Y., Fukayama, H., and Suzuki, H. (2019).
+Acute atomoxetine selectively modulates encoding of reward value in ventral
+medial prefrontal cortex. J. Nippon Med. Sch. 86, 98–107. doi: 10.1272/jnms.
+JNMS.2019_86-205
+Wang, L., Chen, C., Cui, S., Lee, Y. K., Wang, G., Zhao, J., et al. (2019). Adhesive
+Biﬁdobacterium induced changes in cecal microbiome alleviated constipation
+in mice. Front. Microbiol. 10:1721. doi: 10.3389/fmicb.2019.01721
+Wang, L. J., Yu, Y. H., Fu, M. L., Yeh, W. T., Hsu, J. L., Yang, Y. H., et al. (2018).
+Attention deﬁcit-hyperactivity disorder is associated with allergic symptoms
+and low levels of hemoglobin and serotonin. Sci. Rep. 8:10229. doi: 10.1038/
+s41598-018-28702-5
+Wang, L. J., Yu, Y. H., Fu, M. L., Yeh, W. T., Hsu, J. L., Yang, Y. H.,
+et al. (2019). Dietary proﬁles, nutritional biochemistry status, and attention-
+deﬁcit/hyperactivity disorder: path analysis for a case-control study. J. Clin.
+Med. 8:E709. doi: 10.3390/jcm8050709
+Wen, W., Zhang, H., Shen, J., Wei, L., and Shen, S. (2018). Fecal microbiota
+transplantation for patients with irritable bowel syndrome: a meta-analysis
+protocol. Medicine 97:e12661. doi: 10.1097/MD.0000000000012661
+Wigal, S. B., Childress, A., Berry, S. A., Belden, H., Walters, F., Chappell, P., et al.
+(2017). Eﬃcacy and safety of a chewable methylphenidate extended-release
+tablet in children with attention-deﬁcit/hyperactivity disorder. J. Child Adolesc.
+Psychopharmacol. 27, 690–699. doi: 10.1089/cap.2016.0177
+Wong, M. L., Inserra, A., Lewis, M. D., Mastronardi, C. A., Leong, L., Choo,
+J., et al. (2016). Inﬂammasome signaling aﬀects anxiety- and depressive-
+like behavior and gut microbiome composition. Mol. Psychiatry 21, 797–805.
+doi: 10.1038/mp.2016.46
+Zhao, H., Shi, Y., Luo, X., Peng, L., Yang, Y., and Zou, L. (2017). The eﬀect of fecal
+microbiota transplantation on a child with Tourette syndrome. Case Rep. Med.
+2017:6165239. doi: 10.1155/2017/6165239
+Zheng, P., Zeng, B., Liu, M., Chen, J., Pan, J., Han, Y., et al. (2019). The
+gut microbiome from patients with schizophrenia modulates the glutamate-
+glutamine-GABA cycle and schizophrenia-relevant behaviors in mice. Sci. Adv.
+5:eaau8317. doi: 10.1126/sciadv.aau8317
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Copyright © 2020 Wan, Ge, Zhang, Sun, Wang and Yang. This is an open-access
+article distributed under the terms of the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction in other forums is permitted, provided
+the original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice. No
+use, distribution or reproduction is permitted which does not comply with these terms.
+Frontiers in Neuroscience | www.frontiersin.org
+9
+February 2020 | Volume 14 | Article 127
+

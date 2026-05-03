@@ -1,0 +1,1487 @@
+# Brain, Behavior, and Immunity 110 (2023) 310–321
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2023
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Bacterial-gut-microbiome-differences-in-adults-with-ADHD-and-in-children-with-ADHD-on-psychostimulant.pdf
+
+## Abstract / Summary
+Brain, Behavior, and Immunity 110 (2023) 310–321
+Available online 20 March 2023
+0889-1591/© 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Full-length Article 
+Bacterial gut microbiome differences in adults with ADHD and in children 
+with ADHD on psychostimulant medication 
+Miranda Stiernborg a,b, JW Debelius c,d, Liu L. Yang a,b,e, Elin Skott a,b,f, Vincent Millischer a,g, 
+MaiBritt Giacobini a... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Brain, Behavior, and Immunity 110 (2023) 310–321. 2023.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Brain, Behavior, and Immunity 110 (2023) 310–321
+Available online 20 March 2023
+0889-1591/© 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Full-length Article 
+Bacterial gut microbiome differences in adults with ADHD and in children 
+with ADHD on psychostimulant medication 
+Miranda Stiernborg a,b, JW Debelius c,d, Liu L. Yang a,b,e, Elin Skott a,b,f, Vincent Millischer a,g, 
+MaiBritt Giacobini a,f, Philippe A. Melas b,h, Fredrik Boulund d, Catharina Lavebratt a,b,* 
+a Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden 
+b Center for Molecular Medicine, Karolinska University Hospital Solna, Stockholm, Sweden 
+c Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA 
+d The Centre for Translational Microbiome Research (CTMR), Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm, Sweden 
+e Department of Neurology, Huazhong University of Science and Technology, Tongji Medical College, Union Hospital, Wuhan, China 
+f PRIMA Child and Adult Psychiatry, Stockholm, Sweden 
+g Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria 
+h Center for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet & Stockholm Health Care Services, Stockholm, Sweden   
+A R T I C L E  I N F O   
+Keywords: 
+ADHD 
+Gut microbiome 
+Gut brain axis 
+Shotgun sequencing 
+Human fecal bacteria 
+Neurodevelopmental disorders 
+A B S T R A C T   
+Recent evidence suggests that there is a link between neurodevelopmental disorders, such as attention-deficit 
+hyperactivity disorder (ADHD), and the gut microbiome. However, most studies to date have had low sample 
+sizes, have not investigated the impact of psychostimulant medication, and have not adjusted for potential 
+confounders, including body mass index, stool consistency and diet. To this end, we conducted the largest, to our 
+knowledge, fecal shotgun metagenomic sequencing study in ADHD, with 147 well-characterized adult and child 
+patients. For a subset of individuals, plasma levels of inflammatory markers and short-chain fatty acids were also 
+measured. In adult ADHD patients (n = 84), compared to controls (n = 52), we found a significant difference in 
+beta diversity both regarding bacterial strains (taxonomic) and bacterial genes (functional). In children with 
+ADHD (n = 63), we found that those on psychostimulant medication (n = 33 on medication vs. n = 30 not on 
+medication) had (i) significantly different taxonomic beta diversity, (ii) lower functional and taxonomic even­
+ness, (iii) lower abundance of the strain Bacteroides stercoris CL09T03C01 and bacterial genes encoding an 
+enzyme in vitamin B12 synthesis, and (iv) higher plasma levels of vascular inflammatory markers sICAM-1 and 
+sVCAM-1. Our study continues to support a role for the gut microbiome in neurodevelopmental disorders and 
+provides additional insights into the effects of psychostimulant medication. However, additional studies are 
+needed to replicate these findings and examine causal relationships with the disorder.   
+1. Introduction 
+Attention-deficit hyperactivity disorder (ADHD) is a common 
+neuropsychiatric disorder characterized by persistent features of inat­
+tention and/or hyperactivity–impulsivity, leading to functional im­
+pairments in areas such as social relations, family settings and 
+academic/occupational functioning (Austerman, 2015; Faraone et al., 
+2015). ADHD has a prevalence of 7.2% among children and 5% among 
+adults (Thomas et al., 2015) and is often associated with emotion dys­
+regulation (Beheshti et al., 2020; Craig B.H. Surman et al., 2011; 
+Reimherr et al., 2005). In addition, ADHD is highly comorbid with other 
+neurodevelopmental disorders, such as autism spectrum disorder (ASD) 
+(Antshel et al., 2016; Jensen & Steinhausen, 2015). Psychostimulant 
+medications are generally well-tolerated and reduce the core symptoms 
+of ADHD (Riera et al., 2017). However, in 10–30% of patients, treatment 
+is discontinued due to non-response or the emergence of adverse events 
+(Mohammadi & Akhondzadeh, 2007; Storebø et al., 2018). 
+In the past years, there has been increased interest in the relationship 
+between neurodevelopmental disorders, such as ADHD and ASD, and 
+the gut microbiome, a complex dynamic ecosystem with trillions of 
+microbes colonizing the gastrointestinal (GI) tract (Clemente et al., 
+2012). The increasing interest is partly due to an overrepresentation of 
+GI-symptoms in ADHD and ASD (McKeown et al., 2013; Vargason et al., 
+2019), and partly due to studies in rodent models suggesting 
+* Corresponding author. 
+E-mail address: catharina.lavebratt@ki.se (C. Lavebratt).  
+Contents lists available at ScienceDirect 
+Brain Behavior and Immunity 
+journal homepage: www.elsevier.com/locate/ybrbi 
+https://doi.org/10.1016/j.bbi.2023.03.012 
+Received 21 October 2022; Received in revised form 11 February 2023; Accepted 16 March 2023   
+Brain Behavior and Immunity 110 (2023) 310–321
+311
+microbiome-mediated behavioral changes related to ASD or ADHD 
+(Hsiao et al., 2013; Mathee et al., 2020; Sharon et al., 2019; Tengeler 
+et al., 2020). Specifically, fecal microbiota transplanted from ADHD 
+patients into mice were found to result in changes not only in fecal 
+microbial composition but also in behavior, brain structure and brain 
+function (Tengeler et al., 2020). In addition, studies have proposed a 
+link between the gut microbiome composition and neurodevelopment in 
+very early childhood (Cowan et al., 2020; Kelsey et al., 2021; Vaher 
+et al., 2022), including a small randomized trial suggesting that early- 
+life probiotic supplementation could reduce the risk for developing 
+ADHD and ASD later in life (P¨artty et al., 2015). However, the gut 
+microbiome difference of ADHD patients compared to controls is not 
+well-characterized, e.g., there is a lack of taxa-mediated molecular in­
+vestigations, and there is also a need for larger studies (Hiergeist et al., 
+2020; Mathee et al., 2020). Specifically, although several studies have 
+examined the fecal gut microbiome in ADHD patients, the findings to 
+date have been conflicting where some studies reported differences 
+compared to controls, and others did not (Aarts et al., 2017; Jiang et al., 
+2018; Prehn-Kristensen et al., 2018; Richarte et al., 2021; Szopinska- 
+Tokov et al., 2020; Wan et al., 2020; Wang et al., 2020). This lack of 
+consistent findings could be attributed to (i) studies being underpow­
+ered, (ii) analyses not taking into account reported putative fecal 
+microbiome confounders, such as diet (Yap et al., 2021), stool consis­
+tency (Vandeputte et al., 2016a), antibiotic use (Bokulich et al., 2016) 
+and other microbiome altering medications, (iii) previously reported 
+methodological and /or technical biases (Hiergeist et al., 2020), and (iv) 
+incorrect use of statistical methods, which are not suited for composi­
+tional data (Gloor et al., 2017; Morton et al., 2019). In particular, the 
+analysis of differential abundance has been challenging, with several 
+studies using statistical methods that are not controlling for the false 
+discovery rate (FDR) in microbiome data, or not considering the dif­
+ferences in microbial load between samples (Lin & Peddada, 2020; 
+Morton et al., 2019). Thus, further studies are needed to examine the gut 
+microbiome in ADHD using large sample sizes and well-characterized 
+participants with information on putative confounding factors. 
+To this end, we undertook the largest, to our knowledge, fecal 
+shotgun metagenomics study in ADHD, including 147 ADHD patients 
+(84 adults and 63 children) and 52 adult controls. All individuals had 
+been extensively clinically characterized and had provided information 
+on e.g., diet, dietary supplements, Bristol Stool Scale (BSS) scores, de­
+livery mode, and intake of antibiotic drugs or other medications known 
+to affect the fecal microbiota. To do a more proper case control com­
+parison we adjusted for these confounding variables. In the present 
+study we investigated (i) the relationships between clinical variables 
+and bacterial strain diversities, (ii) the differences in bacterial strain 
+(taxonomic) and bacterial gene (functional) diversities between adult 
+ADHD patients and adult controls, and (iii) the strains and enzyme- 
+encoding bacterial genes that are differentially abundant between 
+adult ADHD patients and adult controls. Moreover, we examined the 
+impact of psychostimulant medication on the fecal microbiome and the 
+associations with plasma levels of inflammatory markers and short- 
+chain fatty acids (SCFAs). 
+2. Material and methods 
+2.1. Participants 
+Patient recruitment was carried out between January 2016 and June 
+2018 via preselected psychiatric outpatient clinics and through adver­
+tisements in a local newspaper in Stockholm County, Sweden. All par­
+ticipants were living in Stockholm County. Eligibility criteria for 
+participation were the following: confirmed ADHD-diagnosis (Interna­
+tional statistical Classification of Disease 10th revision (ICD-10) or DSM- 
+V), stable pharmacological treatment if there was any (no changes in 
+medication during the last 4 weeks), age of 5–55 years, and ability to 
+read Swedish. Exclusion criteria were autism diagnosis, diabetes 
+diagnosis, celiac disease, GI-disorder other than irritable bowel syn­
+drome (IBS), and antibiotic intake during the last six weeks. Healthy 
+controls in this study had no ADHD diagnosis but fulfilled the other 
+above-listed criteria, and were house-hold family members of, or non- 
+related to the recruited patients. Blood was collected and was used to 
+measure six SCFAs (i.e., formic, acetic, propionic, butyric, succinic and 
+isovaleric acid) and two inflammatory markers (i.e., soluble intercellular 
+adhesion molecule-1 (sICAM-1) and soluble vascular cell adhesion 
+molecule-1 (sVCAM-1)). Further information about the analyses of in­
+flammatory markers and SCFAs in plasma can be found in Supplemen­
+tary Methods. The participants were interviewed regarding delivery 
+route, breastfeeding, body mass index (BMI), pharmacological treat­
+ment, antibiotic use, and other microbiome-affecting drugs such as 
+proton pump inhibitors and laxatives. Self-reported psychiatric scales, as 
+well as diet and GI-symptom questionnaires, were also completed by the 
+participants. The interviews and blood samplings were conducted by 
+experienced research nurses in psychiatric care. A more detailed 
+description of the participants has been published elsewhere (Skott 
+et al., 2020), and information about ‘Patient recruitment’ and ‘Ques­
+tionnaires and scoring’ can be found in the Supplementary Methods. The 
+data are collected at baseline in the randomized placebo-controlled trial 
+ISRCTN57795429 (https://doi.org/10.1186/ISRCTN57795429). 
+2.2. Stool collection, DNA extraction and sequencing 
+Stool samples were self-collected by the patients in their homes using 
+the OMNIgene gut kit (DNAgenotek, Ottawa, Canada), stabilizing the 
+microbial DNA, and were then handed over to the research nurses. In 
+total, there were N = 307 fecal samples collected from patients and 
+controls. However, samples from patients using medications known to 
+affect the microbiome were removed according to the following exclu­
+sion criteria: 1) use of antibiotics during the last 2 years, and 2) use of 
+proton pump inhibitors or laxatives during the last 3 months. Following 
+these exclusion criteria, N = 209 fecal samples remained and were sent 
+for analysis (see suppl. Fig. S1). All samples were kept at −80C until 
+analyses, including one freeze–thaw cycle. A total of 400 μl of OM-LQR/ 
+P-190 liquefaction (DNAgenotek, Ottawa, Canada) was added to fecal 
+samples that had clumps > 1 cm in diameter after being vortexed 
+vigorously for 45–60 s. DNA extraction, DNA sequencing, and taxo­
+nomic/functional profilings were performed by Diversigen Inc. using the 
+shallow shotgun metagenomic sequencing service Boostershot® (Min­
+neapolis, USA). For DNA extraction the PowerSoil Pro extraction kit was 
+used (Qiagen, Germany) and sequencing was performed on a NextSeq 
+1x150 flow cell (Illumina, USA). The samples were sequenced in two 
+separate rounds (1st round: June 2019: 128 ADHD samples, 2nd round 
+December 2019: 23 ADHD samples and 53 control samples). The 
+sequencing depth was greater in the 2nd round compared to the 1st 
+round, pwilcoxon = 2.2e-16, IQR 2nd batch = 4.1 M (3.7 M- 5.0 M), IQR 1st 
+batch = 2.5 M (2.1 M – 2.9 M). Thus, in all statistical analyses, we 
+adjusted for the library size (total count). Two samples from the 1st 
+round were also sequenced in the 2nd round, and clustered with 
+themselves on a PCoA plot based on Bray-Curtis explaining 99.7% of the 
+variance. 
+2.3. Data processing 
+2.3.1. Taxonomic and functional annotation 
+Taxonomic: DNA sequences were aligned in 2019 to Diversigen’s 
+(previously CoreBiome) Venti database, a curated database created in 
+2017 containing all representative genomes in RefSeq for bacteria with 
+additional manually curated strains (in total n = 19,840). Alignments 
+were performed with 97% identity against all reference genomes. Every 
+input sequence was compared to every reference sequence in the Venti 
+using fully gapped alignment with BURST (Al-Ghalith & Knights, 2020). 
+Ties were broken by minimizing the overall number of unique Opera­
+tional Taxonomic Units (OTUs). For taxonomic assignment, each input 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+312
+sequence was assigned the lowest common ancestor that was consistent 
+across, at least, 80% of all reference sequences tied for best hit. Func­
+tional: DNA sequences were aligned to a gene database derived from the 
+Venti database. Using the Kyoto Encyclopedia of Genes and Genomes 
+(KEGG) 
+database 
+(https://www.genome.jp/kegg/ko.html), 
+KEGG 
+Orthologs (KOs) were observed directly using alignment at 97% identity 
+against the genes in the Venti database. Ortholog and paralog groups, 
+based on sequence similarity scores, were grouped into KOs linking 
+these genes to high-level functions (Kanehisa, 2017; Kanehisa et al., 
+2016). In our study, KOs that represent functional enzyme orthologs 
+were used in the functional analyses and were labelled ‘bacterial genes 
+encoding enzymes’, ‘enzyme-encoding bacterial genes’ or ‘functional 
+enzyme’. 
+2.3.2. Pre-processing of annotated data 
+The count tables for beta and alpha diversity were rarefied, with the 
+lowest depth on 500 000 counts for the taxonomic data and 100 000 
+counts for the functional data, using Quantitative Insights Into Microbial 
+Ecology (QIIME 2) version 2020.6 (Bolyen et al., 2019). This was 
+decided according to a generated rarefaction graph. For the functional 
+rarefaction, n = 4 fecal samples had an inadequate library size, i.e., 
+below 100 000 counts, and were excluded from statistical analyses. In 
+the taxonomical analysis, n = 4 additional individuals were removed 
+due to having less than 500 000 counts (see Supplementary Fig. S1 for 
+more information). 
+2.4. Statistical methods 
+Due to the different read depths in the two sequencing rounds, the 
+total count of strains/enzymes for each individual (library size, microbial 
+load) was always used as a covariate in all statistical analyses, except for 
+in the Analysis of Compositions of Microbiome with Bias Correction 
+(ANCOM-BC) since this method takes the library size into consideration. 
+Statistical significance was set at α = 0.05 and was corrected, when 
+appropriate, for multiple comparisons using the Benjamini-Hochberg 
+(BH) false discovery rate (FDR) or the Holm–Bonferroni correction (a 
+corrected p-value is written as pFDR if corrected by FDR). In the Results 
+section, we report p-values below 0.1, and for differences at p ≤0.05 we 
+also provide the standardized beta and/or partial R2. All statistical ana­
+lyses were performed using the R Studio version 1.4.1106 using the 
+packages vegan, LmPerm, qiime2R, biomformat, ANCOMBC (Lin & 
+Peddada, 2020), phyloseq (McMurdie & Holmes, 2013), dplyr and 
+ggplot2 (Wickham, 2016). 
+2.4.1. Covariates 
+When comparing the gut microbiome between groups, several 
+microbiome studies have highlighted the importance of adjusting for 
+confounding variables such as BMI (Turnbaugh et al., 2009), age 
+(Hopkins et al., 2002; Yatsunenko et al., 2012), sex (Valeri and Endres, 
+2021), stool consistency (Falony et al., 2016; Vandeputte et al., 2016b), 
+and diet (Bolte et al., 2021; David et al., 2014; Yap et al., 2021). 
+Both the Bristol Stool Scale (BSS) score and the diet intake scores 
+were created using self-reported retrospective questionnaires. In short, 
+the diet data were created from a questionnaire consisting of intake 
+frequencies of 57 food items. The questionnaire data were translated 
+from energy (kcal/week) per food item for each individual into 12 core/ 
+non-core food groups with energy percentages of the total energy intake 
+for each individual, as previously described (Yap et al., 2021). To cap­
+ture how diverse the diet was, the richness and evenness measure 
+Shannon was applied on the data presented by the 12 core/non-core 
+food groups. In addition, a Principal Component Analysis (PCA), based 
+on the 12 core/non-core food groups, was carried out to capture the diet 
+intake and the three principal component (PC) axes capturing the most 
+variation (i.e., dietary axes PC1, PC2 and PC3) were used in this study. 
+However, since mainly PC1 was found to be significantly associated with 
+baseline beta diversity in adults with ADHD, only PC1 was used for case- 
+control adjustments on beta diversity. More information on the diet 
+score generation and the loadings of the PCs can be found in the Sup­
+plementary Methods. In addition, information about how many partic­
+ipants that had information on each clinical variable can be found in 
+Supplementary Table S1. 
+2.4.2. Diversity analysis 
+The beta diversity distances Jaccard, Bray-Curtis and Aitchison, and 
+the alpha diversity metrices ‘observed number of features’, Shannon, 
+and Pielou’s evenness, were generated using QIIME 2 2020.6 (Bolyen 
+et al., 2019). In the analysis of the influence of variables on fecal strain 
+beta diversity in ADHD patients (Fig. 1B), and in the case-control ana­
+lyses, Adonis was used, which is a non-parametric Permutational 
+Multivariate Analysis of Variance Using Distance Matrices (Anderson, 
+2001). Total count was always adjusted for in these analyses and in the 
+comparison between ADHD patients and healthy controls, Adonis was 
+used with additional adjustments for age, sex, dietary axis PC1, diet 
+diversity, BSS, and BMI (see further information in Suppl. Methods). 
+Number of permutations used in Adonis was 999. When analyzing alpha 
+diversity, as well as plasma levels of vascular inflammation markers and 
+SCFAs, a linear model was used. If the data were not normally distrib­
+uted, a linear model with permutation tests from the R-package lmPerm 
+was used. 
+2.4.3. Differential abundance analysis 
+To evaluate differential abundances between adult ADHD patients 
+and controls, we used ANCOM-BC that was developed for microbiome 
+data and addresses the issue of unequal sampling fractions (microbial 
+load) (Lin & Peddada, 2020). ANCOM-BC uses a sample-specific offset 
+term in an observed abundance-based linear regression model to esti­
+mate the unknown sampling fractions and, through that, aims to correct 
+for the microbial load between samples (see further information in 
+Suppl. Methods). 
+Preprocessing using ANCOM-BC includes removal of features (en­
+zymes or strains) that had counts in less than 10 samples per group 
+(ADHD/controls) since the original authors stated that the FDR is not 
+controlled for when using too few samples (Lin & Peddada, 2020). In 
+addition, features with a median count less than 2 were removed (see 
+Supplementary Table S3 and Supplementary Methods for more infor­
+mation). To correct for multiple testing in ANCOM-BC, Holm–Bonferroni 
+correction was used in accordance with the recommendations by the 
+original authors (Lin & Peddada, 2020). For features that were signifi­
+cantly different between groups, the bias-adjusted feature abundance 
+was regressed against scales measuring ADHD symptoms and function­
+ality, emotion regulation and ASD-symptoms. In the differential abun­
+dance analyses investigating use of psychostimulants in ADHD children, 
+the bias-adjusted feature abundance of the significant features was 
+regressed against scales measuring ADHD symptoms and functionality, 
+ASD-symptoms, plasma levels of SCFAs, and the inflammatory markers 
+sICAM-1 and sVCAM-1. 
+3. Results 
+3.1. Study cohort characteristics 
+The patient cohort has been described in more detail elsewhere 
+(Yang et al., 2020). Briefly, for the purposes of the present study, fecal 
+samples from 147 patients diagnosed with ADHD (nchildren = 63, nadult =
+84) and 52 adult controls (nfamily = 20, nnon-related = 32) were collected 
+and analyzed (Table 1, Fig. 1A). The pre-processing step was performed 
+separately for the taxonomic and the functional analyses and samples 
+with too low sequencing depth were removed (see Methods and Sup­
+plementary Fig. S1). Thus, the functional analysis was performed on a 
+slightly larger sample compared to the taxonomical analysis (Supple­
+mentary Fig. S1). Demographic and clinical characteristics of the sub­
+jects are shown in Table 1. Adult ADHD patients experienced GI-pain 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+313
+significantly more compared to controls. However, the stool consistency 
+score measured by BSS did not differ significantly between adult ADHD 
+patients and controls. There were also no significant differences between 
+adult ADHD patients and controls in terms of diet intake (measured by 
+dietary PCA based on percent of energy from 12 different food groups) 
+or diet diversity (Shannon diversity index based on percent of energy 
+from 12 different food groups) (Table 1). Additional analyses examining 
+diet intake in relation to age and sex can be found in the Supplementary 
+Results. As expected, adult ADHD patients had compared to controls 
+significantly higher scores of ADHD symptoms and difficulties in 
+emotion regulation scored by the Adult ADHD Self-Report Scale (ASRS) 
+and the Difficulties in Emotion Regulation Scale-16 (DERS), respec­
+tively. The child ADHD group consisted of significantly more males 
+compared to the adult ADHD group (Table 1). Moreover, compared to 
+adults with ADHD, children with ADHD had significantly different diet 
+intake (dietary PC1 and PC2) and a higher proportion of plasma sVCAM- 
+1 levels that was above the median of the ADHD group (i.e., 519520 ng/ 
+L). 
+(caption on next page) 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+314
+Fig. 1. The ADHD cohort and the association of clinical characteristics and ADHD diagnosis with fecal microbiome diversity metrices. A) The experimental design. In 
+total, 199 individuals were included in the analyses: Adult ADHD patients N = 84, child ADHD patients N = 63 and adult healthy controls N = 52. Shallow shotgun 
+sequencing was used to sequence the fecal samples resulting in taxonomic (bacterial strains) and functional (bacterial genes encoding enzymes) data. In addition, 
+psychiatric, GI and diet-scale scores, as well as plasma levels of inflammatory markers and SCFAs, were collected. B) Demographic and clinical characteristics in child 
+ADHD patients, n = 62, and their association with the fecal taxonomic strain beta diversity metrices (Jaccard, Aitchison & Bray-Curtis distance) using Adonis. C) 
+Demographic and clinical characteristics in adult ADHD patients, n = 81, and their association with the fecal taxonomic strain beta diversity metrices using Adonis. 
+D) Taxonomic strain beta diversity measured by Aitchison distance was different comparing adults with ADHD, n = 81, and adult controls, n = 52. The difference was 
+assessed using Adonis adjusted for age, sex and BMI. E) Functional enzyme beta diversity measured by Jaccard distance was different comparing adults with ADHD, 
+N = 84, and adult controls, N = 52. The difference was assessed using Adonis adjusted for age, sex and BMI. F) The strain Inediibacterium massiliense Mt12 was 
+significantly lower abundant in adult ADHD patients, n = 81, compared to controls, n = 52), estimated using ANCOM-BC and Holm-corrected. The y-axis represents 
+the microbial load bias-adjusted abundances of the strain I. massiliense Mt12. G) The bacterial gene encoding enzyme 16S rRNA-methyltransferase (2.1.1.170), was 
+Holm-significantly higher abundant in adult ADHD patients, n = 83, compared to controls, n = 52, estimated using ANCOM-BC. The y-axis represents the microbial 
+load bias adjusted abundances of the bacterial gene-encoded enzyme 2.1.1.170. *pFDR ≤0.05, **pFDR ≤0.01, ***pFDR ≤0.001. SCFAs = short chain fatty acids; GI =
+Gastro-intestinal; BMI = body mass index; BSS = Bristol stool scale; ASRS = Adult ADHD self-report scale; DERS = Difficulties in emotion regulation scale-16; FDR =
+false discovery rate; SNAP = Parent report, Swanson, Nolan and Pelham scale; ANCOM-BC = Analysis of Compositions of Microbiomes with Bias Correction; EC =
+Enzyme Commission Dietary PC = Principal component (PC) coordinates from a Principal component analysis (PCA) based on the food questionnaire data to capture 
+diet intake. Diet diversity, Shannon = Shannon diversity index based on % of energy from 12 different food groups. Vascular inflammation status = Above or below 
+the plasma level 519520 ng/L of soluble vascular cell adhesion molecule-1 (sVCAM-1). This cut-off is the median sVCAM-1 plasma level in the original ADHD cohort 
+(Skott et al., 2020). 
+Table 1 
+Baseline demographic and clinical characteristics of the participants included in the analyses.  
+Variable 
+Control 
+Adults (n = 52) 
+ADHD 
+Adults (n = 84) 
+ADHD 
+Children (n = 63) 
+Control adults vs ADHD adults 
+ADHD 
+adults 
+vs children  
+median (IQR)/n (%) 
+median (IQR)/n (%) 
+median (IQR)/n (%) 
+p-value 
+p-value 
+Age (years) 
+40 (32.8–43.2) 
+35 (29–42) 
+13 (11–14) 
+0.020 
+3.9e-25 
+BMI (kg/m2) 
+23 (21.3–24.9) 
+23.3 (22–26.5) 
+NA 
+0.38 
+NA 
+BSS score; median (IQR) 
+3.5 (3–4) 
+4 (3–5) 
+4 (3–4) 
+0.21 
+0.78 
+ASRS mean score 
+1.2 (0.9–1.5) 
+2.5 (2.1–2.8) 
+NA 
+8.4e-16 
+NA 
+DERS sum score 
+25 (21–32) 
+44 (32–57.5) 
+NA 
+2.2e-09 
+NA 
+Dietary PC1 
+0.3 (-0.8–1.1) 
+−0.1 (-0.7–1.1) 
+−0.6(-1.4–0.1) 
+0.53 
+7.8e-04 
+Dietary PC2 
+0.4 (-0.6–1.1) 
+0.4 (-0.8–1) 
+−0.4 (-1.1–0.2) 
+0.72 
+0.015 
+Dietary PC3 
+0.4 (-0.4–0.9) 
+−0.1 (-0.7–0.6) 
+0.2 (-0.8–0.7) 
+0.071 
+0.63 
+Diet diversity, Shannon 
+4 (4–4) 
+4 (3.9–4) 
+4 (4–4) 
+0.16 
+0.11 
+GI pain score 
+0 (0–1) 
+1 (0–1) 
+1 (0–1) 
+1.2e-04 
+0.25 
+Sex, male 
+21 (40.4%) 
+24 (28.6%) 
+48 (76.2%) 
+0.073 
+1.1e-08 
+Cesarean-section 
+1 (1.9%) 
+8 (9.5%) 
+11 (17.5%) 
+0.12 
+0.13 
+Breastfed    
+0.35 
+0.25 
+less than3 months 
+3 (5.8%) 
+11 (13.1%) 
+8 (12.7%)   
+>6 months 
+28 (53.8%) 
+39 (46.4%) 
+43 (68.3%)   
+3–6 months 
+11 (21.2%) 
+18 (21.4%) 
+8 (12.7%)   
+None 
+0 (0%) 
+2 (2.4%) 
+1 (1.6%)   
+Psychostimulant medication use 
+0 (0%) 
+59 (70.2%) 
+36 (57.1%) 
+NA 
+0.10 
+Antidepressant use 
+0 (0%) 
+36 (42.9%) 
+NA 
+NA 
+NA 
+Probiotic use 
+5 (9.6%) 
+20 (23.8%) 
+9 (14.3%) 
+0.066 
+0.15 
+Vascular inflammation 
+status, those above median 
+6 (11.5%) 
+22 (26.2%) 
+25 (39.7%) 
+0.019 
+6.9e-05 
+Total count, functional* (millions) 
+0.52 (0.42–0.64) 
+0.34 (0.26–0.45) 
+0.38 (0.27–0.62) 
+2.3e-07 
+0.096 
+Total count, taxonomical** (millions) 
+1.6 (1.3–2.0) 
+1.1 (0.81–1.4) 
+1.2 (0.88–1.8) 
+3.8e-07 
+0.23 
+Read depth during sequencing (millions) 
+4.0 (3.7–4.2) 
+2.7 (2.3–3.2) 
+2.7 (2.2–3.5) 
+8.4e-13 
+0.64 
+Results are given as the median (inter quantile range (IQR)) or as number (%) of subjects. Group differences were assessed by nonparametric Mann–Whitney U test or 
+chi square. 
+BMI = body mass index. 
+BSS = Bristol stool scale. 
+GI = gastrointestinal. 
+ASRS = Adult ADHD Self-Report Scale. 
+DERS = Difficulties in emotion regulation scale. 
+IQR = inter quantile range. 
+Dietary PC = Principal component (PC) coordinates from a Principal component analysis (PCA) based on the food questionnaire data to capture diet intake. This PCA 
+was done on all individuals included in Table 1. 
+Diet diversity, Shannon = Shannon diversity index based on % of energy from 14 different food groups. 
+Medication use refers to current use for children, and current use or used in the last three months for adults. Among those without psychostimulant medication use, 9 
+children and 9 adults used psychostimulant medication anytime 4-24 months before examination. Information on medication use more than 24 months before ex­
+amination is unavailable. Psychostimulants for children include Methylphenidate and Lisdexamphetamine. For adults psychostimulants include Methylphenidate, 
+Lisdexamphetamine and Dexamphetamine. 
+Vascular inflammation status = having a plasma sVCAM-1 level > 519520 ng/L, which is the median of sVCAM-1 levels in the original ADHD cohort (Skott et al., 
+2020). 
+* Functional total count data is defined by genes encoding Kyoto Encyclopedia of Genes and Genomes Orthology groups (KOs); in preprocessing (before Table data) n 
+= 4 individuals were removed due to having less than 100 000 functional counts. 
+** Taxonomical total count data is defined by bacterial strains; in preprocessing n = 8 individuals were removed due to having less than 500 000 taxonomical counts. 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+315
+3.2. Clinical variables associated with microbial strain diversity in child 
+and adult ADHD patients 
+In the ADHD cohort with taxonomical data of 143 patients (nchildren 
+= 62, nadults = 81), we investigated which clinical variables predicted 
+strain alpha and beta diversities. The alpha diversity was examined 
+using the ‘number of observed strains’ that measures richness, the Pie­
+lou’s evenness index that measures evenness, and the Shannon diversity 
+index that measures evenness combined with richness (Kim et al., 2017). 
+The beta diversity was examined using (i) Jaccard distance, a qualitative 
+strain measure based on strain presence/absence between samples that 
+does not consider the abundance of the strains (Yang et al., 2021), (ii) 
+Aitchison distance, a measure based on Euclidean distance between 
+samples with center log ratio (clr)-transformed strain counts (Otero 
+et al., 2005), and (iii) Bray-Curtis distance, a quantitative measure based 
+on the difference in the abundance of strains between samples (Yang 
+et al., 2021). All diversity analyses were adjusted for the total bacterial 
+count. When regressing each clinical variable against the different alpha 
+diversity measures, Pielou’s evenness and Shannon diversity were 
+significantly associated with the BSS score (pEvenness,FDR = 0.0024, 
+BetaEvenness = -0.44, partial R2
+Evenness = 18%; pShannon,FDR <
+0.0010, 
+BetaShannon = -0.46, partial R2
+Shannon = 21%) with looser stool being 
+associated with lower evenness (Supplementary output file 1) in child 
+ADHD patients. No clinical variable was significantly associated with 
+alpha diversity (pFDR > 0.05) in adults with ADHD (Supplementary 
+output file 1). Analysis using Adonis revealed that delivery mode, BSS 
+score, psychostimulant medication and probiotic use were significantly 
+associated with beta diversity in children with ADHD (pFDR < 0.05, 
+Fig. 1B). Furthermore, diet (i.e., diet diversity, dietary PC1 and dietary 
+PC3) was significantly associated with beta diversity in adult ADHD 
+patients (pFDR < 0.05, Fig. 1C). In adult controls, BMI and dietary PC1 
+were FDR-significantly associated with beta diversity (Fig. S2A). 
+Notably, none of these clinical variables were significantly associ­
+ated with all of the three distance metrics (Jaccard, Aitchison and Bray- 
+Curtis) in any of the three groups (i.e., adults with ADHD, children with 
+ADHD and adult controls). 
+3.3. Differences in diversity between adult ADHD patients and adult 
+controls 
+In the case-control analyses we included only adults since (i) age 
+influences the microbial fecal composition and (ii) there were only 6 
+fecal samples collected from child controls. Thus, the taxonomic case- 
+control analyses included 133 individuals (nAdult ADHD = 81, nAdult con­
+trols = 52). To account for potential confounders when comparing the gut 
+microbiome diversity of adult ADHD patients with adult controls we 
+adjusted for age, sex, dietary axis PC1, diet diversity, BSS score, and 
+BMI. When comparing the adult ADHD patients to the adult controls, we 
+found no significant differences for any of the three alpha diversity 
+measures (pObserved strains = 0.060). Significant taxonomical strain beta 
+diversity differences between ADHD patients and controls were found 
+for Jaccard and Aitchison when adjusting for age, sex, and BMI (R2
+Jaccard 
+= 0.99%, pJaccard = 0.018; R2
+Aitchison = 1.1%, pAitchison = 0.019; n = 131; 
+Fig. 1D). For Aitchison, the significance remained when also adjusting 
+for BSS score, dietary PC1 and diet diversity (R2
+Aitchison = 1.2%, pAitchison 
+= 0.027; n = 110). However, there was no significant difference be­
+tween patients and controls for Bray-Curtis distance (Supplementary 
+output file 2). 
+The functional case-control diversity analyses examining enzyme- 
+encoding bacterial genes included 136 individuals (nAdult ADHD = 84, 
+nAdult Controls = 52). No significant difference between adult controls and 
+adult ADHD patients in functional enzyme alpha diversity was found. 
+Significant functional enzyme beta diversity differences between ADHD 
+patients and controls were found for Jaccard distances when adjusting 
+for age, sex and BMI (R2
+Jaccard = 1.1%, pJaccard = 0.019; n = 134; Fig. 1E), 
+as well as when adjusting for BSS score, dietary PC1 and diet diversity 
+(R2
+Jaccard = 1.3%, pJaccard = 0.031; n = 112). There were no other sig­
+nificant differences between patients and controls for Aitchison or Bray- 
+Curtis distances (Supplementary output file 2). Unadjusted case-control 
+analyses as well as bacterial diversity comparisons between adults with 
+ADHD, children with ADHD and adult controls can be found in Sup­
+plementary Results. 
+3.4. Differential abundance analysis revealed one strain and one bacterial 
+gene encoding enzyme that differed in abundance between adult ADHD 
+patients and controls 
+Differential abundance testing using ANCOM-BC identified one 
+strain, Inediibacterium massiliense Mt12 (pHolm = 0.012), to be signifi­
+cantly lower abundant in adult ADHD patients (n = 81) compared to 
+adult controls (n = 52), adjusted for sex, age, and BMI (Fig. 1F and 
+Supplementary output file 3). Inediibacterium massiliense remained 
+significantly different even when performing the analysis on the species 
+level (pHolm = 0.010). To examine whether the abundance of this strain 
+associated with psychiatric symptom severity, the bias-adjusted abun­
+dance of the significant strain was regressed against scale-scores 
+measuring ADHD symptoms and functionality, emotion regulation 
+(DERS), and ASD-symptoms. However, no FDR-significant associations 
+were found. 
+ANCOM-BC identified one bacterial gene encoding enzyme, i.e., 16S 
+rRNA-methyltransferase (2.1.1.170), to be significantly more abundant 
+in the adult ADHD patients (n = 84) compared to adult controls (n = 52) 
+(pHolm = 0.0064; Fig. 1G and Supplementary output file 3). When 
+regressing 
+the 
+bias-adjusted 
+abundances 
+of 
+the 
+16S 
+rRNA- 
+methyltransferase to symptom scale scores, no FDR-significant associa­
+tions were found. KOs were also analysed, and the results can be found in 
+the Supplementary output file 3 and the Supplementary Results. The 
+Supplementary Results also include an analysis in a present/non-present 
+setting for the features (strains/enzymes) found in less than 10 ADHD 
+patients or controls. 
+3.5. Psychostimulant medication is associated with alterations in fecal 
+bacteria in children with ADHD 
+In our previous investigations using the complete study cohort, i.e., 
+not only individuals with microbiome data, we found that children with 
+ADHD on (vs. not on) psychostimulant medication had (i) higher plasma 
+levels of vascular inflammatory markers (Yang et al., 2020), and (ii) 
+lower plasma levels of the SCFAs acetic acid and propionic acid (Yang 
+et al., 2023; Yang et al., 2022). However, these associations were not 
+observed in the adult ADHD group. Since there is a reported link be­
+tween the immune system and gut microbiota (Fung, 2020; Geuking 
+et al., 2014), and since SCFAs are downstream products of the gut 
+microbiota (Boets et al., 2017), we performed additional analyses in 
+children with ADHD (n = 63) by investigating the association between 
+fecal bacterial diversity and psychostimulant medication. There were no 
+significant differences in clinical characteristics between children on vs. 
+not on psychostimulant medication (Supplementary Table S2). Howev­
+er, there was a suggestive significant difference in diet diversity (p =
+0.06) between the two groups. Therefore, diet diversity was used as an 
+adjustment in downstream analyses. 
+Analysis of the taxonomical strain beta diversity, adjusted for age, 
+sex and diet diversity, revealed a significant difference between children 
+with ADHD on psychostimulant medication (n = 33) and those not on 
+psychostimulant medication (n = 29) for both Aitchison distance 
+(R2
+Aitchison = 2.6%, pAitchison = 0.004) and Bray-Curtis distance (R2
+Bray- 
+Curtis = 3.1%, pBray-Curtis = 0.047) (Fig. 2A). There was no significant 
+difference between the two groups using Jaccard distances. Similarly, no 
+significant difference was found in terms of functional enzyme beta di­
+versity. Examination of the alpha diversity showed that being on psy­
+chostimulant medication was associated with lower strain evenness, 
+measured by Pielou’s evenness (p = 0.034, Beta = 0.16, partial R2 =
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+316
+9.0%), as well as lower functional enzyme evenness (p = 0.007, Beta =
+0.18, partial R2 = 12%), both adjusted for age, sex, and diet diversity 
+(Fig. 2B-C). However, there was no significant difference between the 
+two groups in terms of richness for taxonomical strain or functional 
+enzyme data. No differences in microbiome diversities were found in 
+adults with ADHD on psychostimulants compared to those not on 
+psychostimulants. 
+ANCOM-BC identified the strain Bacteroides stercoris CL09T03C01 to 
+be significantly lower in children with ADHD on psychostimulant 
+medication (n = 30) compared to those not on medication (n = 29) 
+(pHolm = 0.023; Fig. 2D). In addition, the bacterial gene encoding the 
+enzyme adenosylcobinamide-phosphate synthase (6.3.1.10) involved in 
+Cobalamin (Vitamin B12) biosynthesis was found to be significantly 
+lower in children with ADHD on psychostimulant medication (n = 33) 
+compared to children not on medication (n = 30) (pHolm = 0.012; 
+Fig. 2E, Supplementary output file 3). When regressing the bias-adjusted 
+abundances of B. stercoris CL09T03C01 and adenosylcobinamide- 
+phosphate synthase against symptom scale scores, plasma levels of 
+SCFAs and plasma levels of the inflammatory markers sICAM-1 and 
+sVCAM-1 in children with ADHD, we found that B. stercoris CL09T03C01 
+Fig. 2. The fecal microbiome diversity in children with ADHD and with or without psychostimulant medication. A) Taxonomic (bacterial strains) Aitchison distance 
+in children with ADHD on psychostimulant medication, n = 33, was different compared to children with ADHD not on psychostimulant medication, n = 29. The 
+difference was assessed using Adonis adjusted for age, sex and diet diversity. B) Taxonomic Pielou’s evenness was lower in children with ADHD on psychostimulant 
+medication, n = 33, compared to those not on psychostimulant medication, n = 29. The difference was assessed using a permutational linear model adjusted for age, 
+sex and diet diversity. C) Functional (bacterial genes encoding enzymes) pielou’s evenness was lower in children with ADHD on psychostimulant medication, n = 33, 
+compared to those not using psychostimulant medication, n = 30. The difference was assessed using a permutational linear model adjusted for age, sex and diet 
+diversity. D) The strain Bacteroides stercoris CL09T03C01 was Holm-significantly less abundant in children with ADHD on psychostimulant medication n = 30, 
+compared to those not using psychostimulant medication, n = 29, using ANCOM-BC. The y-axis shows microbial load bias-adjusted abundances of B. stercoris 
+CL09T03C01. E) The bacterial gene encoding vitamin B12 synthesis enzyme adenosylcobinamide-phosphate synthase (6.3.1.10) was Holm-significantly lower 
+abundant in children with ADHD on psychostimulant medication n = 33, compared to those not using psychostimulant medication, n = 30, using ANCOM-BC. The y- 
+axis shows microbial load bias-adjusted abundances of 6.3.1.10. F) The plasma levels of SCFAs formic and propionic acid [uM] were FDR-significant positively 
+associated with bias-adjusted abundances of Bacteroides stercoris CL09T03C01 in children with ADHD, n = 53. The associations were assessed using linear models. G) 
+Plasma levels of the vascular inflammatory markers sICAM-1 and sVCAM-1, measured in a subsample, were FDR-significantly higher in children with ADHD on 
+psychostimulant medication, n = 19, compared to those not on psychostimulant medication, n = 13. The difference was assessed using a permutational linear model 
+adjusted for age, sex and diet diversity. sVCAM-1 = soluble vascular cell adhesion molecule-1; sICAM-1 = soluble intracellular cell adhesion molecule-1; Adonis =
+Permutational Multivariate Analysis of Variance Using Distance Matrices; EC = Enzyme Commission. 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+317
+had significant positive associations with the SCFAs formic (pFDR =
+0.013, Beta = 0.41, partial R2 = 17%) and propionic (pFDR = 0.013, Beta 
+= 0.42, partial R2 = 18%) acids (n = 53) (Fig. 2F). No significant as­
+sociations were found for adenosylcobinamide-phosphate synthase. 
+Since in our original cohort (Yang et al., 2022) SCFAs were lower in 
+children with ADHD on psychostimulants, compared to those not on 
+psychostimulants, we performed a sensitivity analysis by adjusting for 
+psychostimulant use to account for its mediating effect when regressing 
+the SCFA levels on the bias-adjusted abundances of B. stercoris 
+CL09T03C01. However, even after adjusting for psychostimulant use, 
+the formic (pFDR = 0.014, Beta = 0.36, partial R2 = 13%) and propionic 
+(pFDR = 0.014, Beta = 0.36, partial R2 = 14%) acids had significant 
+positive associations with the bias-adjusted abundances of B. stercoris 
+CL09T03C01. 
+Analyses focusing on vascular inflammation and the concentrations 
+of acetic and propionic acids were also performed to examine whether 
+the prior reported differences (Yang et al., 2022; Yang et al., 2020) could 
+be observed in this sub-cohort with data showing alterations in the 
+taxonomic and functional fecal microbiome. We found higher plasma 
+levels of sICAM-1 (pFDR = 0.004, Beta = -0.25, partial R2 = 27%) and 
+sVCAM-1 (pFDR = 0.005, Beta = -0.26, partial R2 = 27%) in children 
+with ADHD on psychostimulant medication (n = 22) compared to 
+children not on psychostimulant medication (n = 10), after adjusting for 
+age, sex, and diet diversity (Fig. 2G). No differences in levels of propi­
+onic (p = 0.078) or acetic acids was found between medicated (n = 32) 
+and non-medicated (n = 25) children. Using Adonis, we found no sig­
+nificant associations between strain Aitchison and Bray-Curtis beta di­
+versity, and sICAM-1 or sVCAM-1 (pAitchison = 0.076, pBray-Curtis = 0.081) 
+levels. An analysis of microbiome-deviating samples in the psychosti­
+mulant group can be found in the Supplementary Results and Supple­
+mentary Fig. S4. 
+4. Discussion 
+In this largest-to-date fecal metagenomics study in ADHD, we 
+investigated the associations between the gut bacterial microbiome and 
+(i) clinical variables in 81 adult ADHD patients and 62 child ADHD 
+patients, (ii) ADHD diagnosis in 163 adults (adult ADHD patients 
+compared to adult controls), and (iii) psychostimulant medication. The 
+findings are summarized in Supplementary Table S4. As expected, di­
+etary axis PCs and dietary diversity were significantly associated with 
+bacterial-strain beta diversity in both adult ADHD patients and controls. 
+Diet has already been shown, or proposed, to influence the human fecal 
+bacterial composition (Bolte et al., 2021; David et al., 2014; Turnbaugh 
+et al., 2009), demonstrating that our generated data has adequate 
+quality and power to detect these influences. In child ADHD patients, 
+probiotic use, delivery mode and BSS scores were significantly associ­
+ated with bacterial strain beta diversity. Interestingly, we could not 
+detect any association between probiotic use or delivery mode with the 
+beta diversity in adults. It has been reported that the microbiome in very 
+early childhood is less stable than the adult microbiome, although less in 
+known about the microbiome in 3–18 year old individuals (Derrien 
+et al., 2019). Since our group of children has a median age of 13 years, 
+our findings suggest that delivery mode and the use of probiotics may 
+affect the microbiome into late childhood but not in adulthood. This 
+could be attributed to a less stable/not-yet normalized gut microbiome 
+in younger individuals. However, since the group sizes for C-section and 
+probiotic use in our cohort were small (n less than 12), replications of 
+these findings are warranted in larger studies. We also found that none 
+of the clinical variables were significantly associated with all three 
+distance metrics measuring bacterial strain beta diversity. This re­
+inforces the importance of using several beta diversity distances that 
+measure different aspects of the microbiome composition. 
+When comparing adult ADHD patients to adult controls, in which 
+putative confounders were carefully considered, we found a significant 
+difference in (i) the beta diversity distance measures Jaccard and 
+Aitchison for taxonomical strain data, and (ii) the Jaccard distance 
+measure for functional enzyme data. The Bray-Curtis distance measure 
+was not significantly different in the strain or enzyme beta diversity 
+analyses, suggesting that the less abundant strains and enzymes were the 
+ones driving the difference in beta diversity between ADHD patients and 
+controls, since Jaccard gives more weight to low abundant features 
+compared to Bray-Curtis (Yang et al., 2021). 
+ANCOM-BC revealed the strain Inediibacterium massiliense Mt12 and 
+the enzyme 16S rRNA-methyltransferase (2.1.1.170) to be differentially 
+abundant in adult ADHD patients compared to adult controls. Specif­
+ically, I. massiliense Mt12 was lower abundant and the enzyme 16S 
+rRNA-methyltransferase was higher abundant in adult ADHD patients 
+compared to adult controls. Only one study, to our knowledge, has re­
+ported on I. massiliense Mt12, where it was discovered and isolated from 
+the fecal sample of a severely malnourished infant (Alou et al., 2017). 
+16S rRNA-methyltransferase is an enzyme implicated in post­
+transcriptional modifications of ribosomes (Wong et al., 2013) and 
+mutations in the gene coding for the enzyme have been found to result in 
+antimicrobial resistance (Okamoto et al., 2007). However, future studies 
+are needed to understand whether this bacterial enzyme, including its 
+non-mutated form, could affect the human microbiome. 
+In our study cohort, 57% of the children with ADHD were on psy­
+chostimulant medication. Prior studies using the complete cohort found 
+that children with ADHD on psychostimulant medication had (i) lower 
+plasma concentrations of acetic and propionic acids (Yang et al., 2022), 
+and (ii) higher plasma levels of the inflammatory markers, sVCAM-1 and 
+sICAM-1 (Yang et al., 2020; Yang et al., 2023). Interestingly, in our fecal 
+sample sub-cohort, where we excluded those on antibiotic or laxative 
+medication and adjusted for age, sex and diet diversity, children with 
+ADHD on (vs. not on) psychostimulant medication were found to have 
+significantly (i) different strain beta diversity profile, measured by Bray- 
+Curtis distance and Aitchison distance, (ii) lower alpha diversity 
+enzyme- and strain-evenness, (iii) lower abundance of the strain Bac­
+teroides stercoris CL09T03C01 and bacterial genes encoding an enzyme 
+involved in vitamin B12 synthesis, and (iv) higher plasma levels of 
+sICAM-1 and sVCAM-1. sICAM-1 and sVCAM-1 are two vascular in­
+flammatory markers implicated in migration of leukocytes from the 
+blood into the surrounding tissues that facilitate inflammatory responses 
+and have been suggested to be associated with clinical features of 
+depression, schizophrenia, and bipolar disorder (Müller, 2019; Pan­
+tovi´c-Stefanovi´c et al., 2018; Radu et al., 2020; Tchalla et al., 2015). 
+Moreover, sVCAM-1 has been suggested to be a factor involved in brain 
+endothelial barrier function (Haarmann et al., 2015). However, our 
+observational measures do not allow us to untangle the biological re­
+lationships between psychostimulant medication and changes in the 
+fecal bacterial microbiome. Thus, we cannot establish if the microbiome 
+is being affected primarily by psychostimulants, in turn increasing 
+vascular inflammatory markers, or if increased vascular inflammation 
+induced by psychostimulants affects the microbiome. Strain Aitchison 
+beta diversity was not significantly associated with plasma levels of 
+sICAM-1 and sVCAM-1. However, children with ADHD with both tax­
+onomical analyzable samples and vascular inflammatory data available 
+were few (N = 32), thus lowering the statistical power to detect signif­
+icant associations. Future mechanistic studies investigating causal re­
+lationships between psychostimulants, fecal microbiome and vascular 
+inflammation are therefore warranted. Interestingly, we found no dif­
+ference in microbiome diversity in adults with ADHD on psychostimu­
+lant medication compared to those not on medication. However, we 
+cannot exclude the possibility that this lack of difference was due to 
+effects of past psychostimulant medication in those patients currently 
+not receiving medication, where 9 of the adults not on medication had 
+recieved medication in the last 4-24 months. 
+ANCOM-BC identified one strain (Bacteroides stercoris CL09T03C01) 
+and one enzyme encoded by bacterial genes (adenosylcobinamide- 
+phosphate synthase) to be lower abundant in children with ADHD on 
+psychostimulants compared those not taking psychostimulants. The 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+318
+available information on the strain Bacteroides stercoris CL09T03C01 is 
+rather limited. One study characterized the B. stercoris CL09T03C01 
+strain in a human gut when exploring genes encoding for the toxin 
+secretion system in Bacteroidales (Coyne et al., 2016). Interestingly, in 
+our cohort we found the B. stercoris CL09T03C01 strain to be positively 
+associated with plasma levels of the SCFAs formic and propionic acids in 
+children with ADHD. Indeed, the genus Bacteroides has been reported to 
+produce formic (Song et al., 2004) and propionic acids (Louis & Flint, 
+2017) and the species, B. stercoris, has been reported to produce propi­
+onic acid in the human gut (Johnson et al., 1986; Lan et al., 2006). Thus, 
+the lower abundance of B. stercoris CL09T03C01 in ADHD children on 
+psychostimulants is in accordance with the lower plasma levels of SCFAs 
+reported in the original full cohort (Yang et al., 2022). Notably, in the 
+current sub-cohort we could not detect higher SCFA levels associated 
+with psychostimulant use, which may be due to a smaller sample size (n 
+original cohort = 88, n used sub cohort = 57). 
+The bacterial genes encoding the enzyme adenosylcobinamide- 
+phosphate synthase (6.3.1.10) were also significantly lower abundant 
+in children with ADHD taking psychostimulants. Interestingly, 
+adenosylcobinamide-phosphate synthase is an enzyme involved in the 
+prokaryotic synthesis of cobalamin (vitamin B12) (Warren et al., 2002) 
+(https://www.genome.jp/entry/6.3.1.10), known to play a vital role in 
+normal brain functioning. Notably, studies suggest that the microbial 
+communities in the gut are more likely competing with the host for di­
+etary vitamin B12, rather than contributing vitamin B12 to the host 
+(Degnan et al., 2014; Roth & Mohamadzadeh, 2021). Nevertheless, 
+vitamin B12 is reported to be a modulator of the gut microbiome 
+composition, such as enhancing SCFA-producing bacteria (Xu et al., 
+2018), increasing alpha diversity (Guetterman et al., 2021) and sup­
+pressing the virulence factor Shiga toxin 2 (Cordonnier et al., 2016). 
+Previous studies have found that several psychiatric medications are 
+associated with the fecal microbiome (Cussotto et al., 2019; Maier et al., 
+2018). However, to date, there are very few reports on a possible asso­
+ciation between psychostimulant medication and the fecal microbiome. 
+The majority of studies investigating the fecal microbiome in ADHD 
+have either treatment-naïve patients or are not comparing the micro­
+biome between patients taking and not taking psychostimulants (Aarts 
+et al., 2017; Jiang et al., 2018; Richarte et al., 2021; Wan et al., 2020; 
+Wang et al., 2020). A study in ADHD patients between 13 and 29 years 
+(n = 41), with a mean age of 20 years, did not detect any significant 
+association between beta diversity and psychostimulant use but found 
+that three genera were lower abundant in patients on psychostimulants 
+(Szopinska-Tokov et al., 2020). Since our study detected the association 
+between psychostimulants and fecal microbiome only in children, it is 
+hard to compare our findings to this previous study that did not include 
+age group (child/adult) stratified analyses. Another study had only four 
+patients in the non-medicated group, which makes a statistically 
+adequate analysis not possible (Prehn-Kristensen et al., 2018). A limi­
+tation to our study is the lack of data on symptom severity prior to 
+medication with psychostimulants in children with ADHD. As a result, 
+we cannot rule out the possibility that the intensity of disease burden 
+could mediate the observed differences in plasma levels and microbiome 
+diversity in children on psychostimulant medication. However, all pa­
+tients with an ADHD diagnosis in the participating clinics are offered 
+psychostimulant medication. Further studies are warranted to test our 
+findings and elucidate the biological relationship between psychosti­
+mulant medication and changes in the fecal microbiome, including 
+whether stimulants have a long-term effect on the microbiome and 
+whether supplement treatment could be used to sustain a healthy gut 
+microbiota. 
+Several microbiome studies have indicated the importance of 
+adjusting for confounding factors, such as drug use (Imhann et al., 
+2017), BSS score (Falony et al., 2016; Vandeputte et al., 2016b) and diet 
+(Bolte et al., 2021; David et al., 2014; Yap et al., 2021). A previous study 
+found an upstream effect of diet on the altered gut microbiome in autism 
+(Yap et al., 2021). However, we did not find significant differences in 
+eating habits between adult ADHD patients and adult controls, thus 
+eliminating diet as a clear mediator of the observed differences in our 
+study. Furthermore, the dietary PC1 axis and diet diversity were used as 
+adjustments in all case-control beta diversity analyses to account for 
+individual differences. However, the use of a retrospective self-reported 
+diet questionnaire still constitutes a limitation. Nonetheless, we found a 
+significant association in both dietary diversity and dietary PC1 axis 
+with beta diversity in two of the three distance measures for adults with 
+ADHD, indicating that the diet data captured some gut microbiome- 
+influencing eating habits. 
+In addition, since antibiotics, laxatives and proton pump inhibitors 
+can influence the gut microbiome (Imhann et al., 2017; Vich Vila et al., 
+2020), we excluded all individuals that had used an antibiotics medi­
+cation the last 2 years, or that had used proton pump inhibitors or lax­
+atives the past three months. 
+Prior studies on the fecal gut microbiome in ADHD are inconclusive 
+and heterogeneous, which could be attributed to low sample sizes, poor 
+use of appropriate statistical and bioinformatic methods, or not taking 
+potential confounders into consideration. In addition, differences in age, 
+environment, geographic location, sampling procedure and technical 
+methods 
+(such 
+as DNA 
+extraction, 
+sequencing 
+platforms, bio­
+informatic pipelines, taxonomical and functional annotation) make it 
+challenging to directly compare our results to that of other studies. Most 
+studies, to date, investigating the gut microbiome in ADHD patients 
+have used pediatric/adolescent cohorts and 16S rRNA sequencing to 
+generate their data (Aarts et al., 2017; Jiang et al., 2018; Prehn- 
+Kristensen et al., 2018; Richarte et al., 2021; Szopinska-Tokov et al., 
+2020; Wan et al., 2020; Wang et al., 2020), which also complicates a 
+direct comparison with our results that were generated using shotgun 
+sequencing and only compared an adult ADHD patient population to 
+healthy controls. To our knowledge, only one previously reported study 
+used shotgun sequencing, looking at a smaller sample (N = 17) of 
+children with ADHD (Wan et al., 2020) and found a KEGG ortholog, 
+K06269 – implicated in dopaminergic synaptic pathways, that was 
+upregulated in ADHD patients. However, according to the KEGG data­
+base, K06269 is only expressed by eukaryotic cells, thus making it 
+difficult to draw any specific conclusions about the bacterial gut 
+microbiome’s role. One study used an adult population, which consisted 
+of 100 treatment-naïve ADHD patients (Richarte et al., 2021) where no 
+differences were found in alpha or beta diversity compared to healthy 
+controls. The latter study only looked at Bray-Curtis distances and is 
+therefore still in line with our findings since we also did not find any 
+differences between diagnoses when using Bray-Curtis distances. The 
+same study did not present the Jaccard and Aitchison distances, which 
+were the distances that captured a difference between ADHD and 
+healthy controls in our study. Although they found several genera 
+showing significant differences in relative abundance, these genera did 
+not replicate in our study. However, it is hard to draw conclusions about 
+these discrepancies since the latter study used 16S rRNA sequencing and 
+performed the analyses on family genus and phylum levels. 
+4.1. Limitations 
+Our study has a number of limitations that need to be acknowledged: 
+(i) There was only a very small sample of child controls (N = 6), which 
+makes statistical comparisons unsuitable, and we can therefore not draw 
+any conclusions about the children with ADHD in comparison to a 
+healthy population. (ii) Our study’s fecal samples represent the baseline 
+samples collected in a clinical randomized placebo-controlled trial of a 
+synbiotic treatment consisting of a mixture between dietary fibers and 
+lactobacilli strains. Therefore, this study group may represent in­
+dividuals motivated to try nonpharmacological supplements, thus 
+affecting the generalizability of our findings. (iii) Since we only analyzed 
+DNA data, the activity levels of, e.g., enzymes still need to be confirmed 
+in meta-transcriptomic settings with RNA material. (iv) Self-reporting 
+diet questionnaires do not fully capture real-life dietary habits and our 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+319
+questionnaire was not optimal to capture the habits of individuals with a 
+vegetarian or vegan diet. (v) The samples were sequenced in two 
+different batches, and although the pipelines and sequencing platforms 
+used were the same, the second batch had higher sequencing depth 
+which we, however, adjusted for in the statistical analyses. (vi) There is 
+evidence suggesting that the genetic background of the host may impact 
+the composition of the gut microbiome (Awany et al., 2019; Gilbert 
+et al., 2018; Hughes et al., 2020), thus making it an important factor that 
+should be taken into consideration in future studies. (vii) Studies 
+investigating the possible link between the gut microbiome composition 
+and neurodevelopment are mostly focusing on the first years of life 
+(Cowan et al., 2020; Kelsey et al., 2021; Vaher et al., 2022). This makes 
+age-group stratifications that are based on a microbiome rationale more 
+complex, since the later years of childhood and adolescent are less 
+explored. Therefore, separating adults and children with an 18-year-old 
+cut-off could in terms of the microbiome be arbitrary. Nonetheless, this 
+division was clinically relevant in our study since patients over 18 years 
+of age were being evaluated using different psychiatric scales, clinics, 
+and protocols. 
+5. Conclusion 
+We conducted the largest, to our knowledge, shotgun study investi­
+gating the fecal bacterial microbiome in ADHD using a well- 
+characterized human cohort with extensive information about life­
+style, drug use, biological measures and confounders affecting the 
+microbiome. Our main findings provide further evidence to support a 
+significant difference in the fecal microbiome composition in adult 
+ADHD patients compared to adult controls. In addition, our findings 
+suggest a novel association between psychostimulant medication in 
+children with ADHD and changes in fecal enzyme and strain bacterial 
+diversity, and a lower abundance of bacterial genes encoding an enzyme 
+in vitamin B12 synthesis. Additional large-scale studies are needed to 
+replicate these findings, including longitudinal large-scale multi-omics 
+intervention studies aimed at uncovering the causal relationships be­
+tween gut microbiota and ADHD. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request to researchers with an ethical 
+permit 
+Acknowledgements 
+We deeply thank all the study participants and their families for their 
+participation and cooperation in the study. In addition, we would like to 
+thank the research nurses Åsa S¨oderstr¨om from PRIMA Child and Adult 
+Psychiatry and Malena Kjell´en from Karolinska Institutet. The illustra­
+tions in Fig. 1A and Supl. Fig. S1 were created on BioRender.com. 
+Funding and disclosure 
+This study was supported by the Swedish Research Council, Sweden 
+(2014–10171 to CL), the Swedish Brain Foundation, Sweden (FO2020- 
+0305 and FO2021-0412 to CL), Bo and Ulla Lundevall, Ekhaga Foun­
+dation, Sweden (2016–47), the regional agreement on medical training 
+and clinical research (ALF) between Stockholm County Council and 
+Karolinska Institutet, Sweden (SLL20190589 to CL). The funders had no 
+role in study design, sample collection, data analysis and interpretation, 
+writing of the manuscript and the decision to submit for publication. 
+Contributors 
+The metagenomics study design; MS, LY, FB, CL. Formulating the 
+metagenomics research question(s); MS, JD, CL. Sample collection of 
+samples and clinical data; MS, LY, ES, MG, CL. Structure the data and 
+choosing of statistical analyses and pre-processing methods; MS, JD, 
+VM, FB, CL. Analysing and handling the data: MS. Supervised the ana­
+lyses; JD, CL. Designing and writing of the article; MS with major input 
+from JD, VM, PAM, CL. All authors revised and approved the final 
+version of the manuscript. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.bbi.2023.03.012. 
+References 
+Aarts, E., Ederveen, T.H.A., Naaijen, J., Zwiers, M.P., Boekhorst, J., Timmerman, H.M., 
+Smeekens, S.P., Netea, M.G., Buitelaar, J.K., Franke, B., van Hijum, S., Arias 
+Vasquez, A., 2017. Gut microbiome in ADHD and its relation to neural reward 
+anticipation. PLoS One 12 (9), e0183509. 
+Yatsunenko, T., Rey, F.E., Manary, M.J., Trehan, I., Dominguez-Bello, M.G., 
+Contreras, M., Magris, M., Hidalgo, G., Baldassano, R.N., Anokhin, A.P., Heath, A.C., 
+Warner, B., Reeder, J., Kuczynski, J., Caporaso, J.G., Lozupone, C.A., Lauber, C., 
+Clemente, J.C., Knights, D., Knight, R., Gordon, J.I., 2012. Human gut microbiome 
+viewed across age and geography. Nature 486 (7402), 222–227. https://doi.org/ 
+10.1038/nature11053. 
+Al-Ghalith, G., & Knights, D. (2020). BURST enables mathematically optimal short-read 
+alignment for big data. bioRxiv, 2020.2009.2008.287128. 10.1101/ 
+2020.09.08.287128. 
+Alou, M. T., Rathored, J., Michelle, C., Dubourg, G., Andrieu, C., Armstrong, N., Sokhna, 
+C., Diallo, A., Raoult, D., & Fournier, P.-E. (2017, 2017/06/01). Inediibacterium 
+massiliense gen. nov., sp. nov., a new bacterial species isolated from the gut 
+microbiota of a severely malnourished infant. Antonie van Leeuwenhoek, 110(6), 737- 
+750. 10.1007/s10482-017-0843-5. 
+Anderson, M. J. (2001, 2001/02/01). A new method for non-parametric multivariate 
+analysis of variance [10.1111/j.1442-9993.2001.01070.pp.x]. Austral Ecology, 26 
+(1), 32-46. 10.1111/j.1442-9993.2001.01070.pp.x. 
+Antshel, K. M., Zhang-James, Y., Wagner, K. E., Ledesma, A., & Faraone, S. V. (2016, 
+2016/03/03). An update on the comorbidity of ADHD and ASD: a focus on clinical 
+management. Expert Review of Neurotherapeutics, 16(3), 279-293. 10.1586/ 
+14737175.2016.1146591. 
+Austerman, J., 2015. ADHD and behavioral disorders: Assessment, management, and an 
+update from DSM-5. Cleve. Clin. J. Med. 82 (11 suppl 1), S2–S7. https://doi.org/ 
+10.3949/ccjm.82.s1.01. 
+Awany, D., Allali, I., Dalvie, S., Hemmings, S., Mwaikono, K. S., Thomford, N. E., Gomez, 
+A., Mulder, N., & Chimusa, E. R. (2019, 2019-January-22). Host and Microbiome 
+Genome-Wide Association Studies: Current State and Challenges [Review]. Frontiers 
+in Genetics, 9. 10.3389/fgene.2018.00637. 
+Beheshti, A., Chavanon, M. L., & Christiansen, H. (2020, Mar 12). Emotion dysregulation 
+in adults with attention deficit hyperactivity disorder: a meta-analysis. BMC 
+Psychiatry, 20(1), 120. 10.1186/s12888-020-2442-7. 
+Boets, E., Gomand, S.V., Deroover, L., Preston, T., Vermeulen, K., De Preter, V., 
+Hamer, H.M., Van den Mooter, G., De Vuyst, L., Courtin, C.M., Annaert, P., 
+Delcour, J.A., Verbeke, K.A., 2017. Systemic availability and metabolism of colonic- 
+derived short-chain fatty acids in healthy subjects: a stable isotope study. J. Physiol. 
+595 (2), 541–555. https://doi.org/10.1113/JP272613. 
+Bokulich, N. A., Chung, J., Battaglia, T., Henderson, N., Jay, M., Li, H., Lieber, A. D., Wu, 
+F., Perez-Perez, G. I., Chen, Y., Schweizer, W., Zheng, X., Contreras, M., Dominguez- 
+Bello, M. G., & Blaser, M. J. (2016). Antibiotics, birth mode, and diet shape 
+microbiome maturation during early life. Science Translational Medicine, 8(343), 
+343ra382-343ra382. doi:10.1126/scitranslmed.aad7121. 
+Bolte, L.A., Vich Vila, A., Imhann, F., Collij, V., Gacesa, R., Peters, V., Wijmenga, C., 
+Kurilshikov, A., Campmans-Kuijpers, M.J.E., Fu, J., Dijkstra, G., Zhernakova, A., 
+Weersma, R.K., 2021. Long-term dietary patterns are associated with pro- 
+inflammatory and anti-inflammatory features of the gut microbiome. Gut 70 (7), 
+1287–1298. https://doi.org/10.1136/gutjnl-2020-322670. 
+Bolyen, E., Rideout, J. R., Dillon, M. R., Bokulich, N. A., Abnet, C. C., Al-Ghalith, G. A., 
+Alexander, H., Alm, E. J., Arumugam, M., Asnicar, F., Bai, Y., Bisanz, J. E., Bittinger, 
+K., Brejnrod, A., Brislawn, C. J., Brown, C. T., Callahan, B. J., Caraballo-Rodríguez, 
+A. M., Chase, J., Cope, E. K., Da Silva, R., Diener, C., Dorrestein, P. C., Douglas, G. 
+M., Durall, D. M., Duvallet, C., Edwardson, C. F., Ernst, M., Estaki, M., Fouquier, J., 
+Gauglitz, J. M., Gibbons, S. M., Gibson, D. L., Gonzalez, A., Gorlick, K., Guo, J., 
+Hillmann, B., Holmes, S., Holste, H., Huttenhower, C., Huttley, G. A., Janssen, S., 
+Jarmusch, A. K., Jiang, L., Kaehler, B. D., Kang, K. B., Keefe, C. R., Keim, P., Kelley, S. 
+T., Knights, D., Koester, I., Kosciolek, T., Kreps, J., Langille, M. G. I., Lee, J., Ley, R., 
+Liu, Y.-X., Loftfield, E., Lozupone, C., Maher, M., Marotz, C., Martin, B. D., 
+McDonald, D., McIver, L. J., Melnik, A. V., Metcalf, J. L., Morgan, S. C., Morton, J. T., 
+Naimey, A. T., Navas-Molina, J. A., Nothias, L. F., Orchanian, S. B., Pearson, T., 
+Peoples, S. L., Petras, D., Preuss, M. L., Pruesse, E., Rasmussen, L. B., Rivers, A., 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+320
+Robeson, M. S., Rosenthal, P., Segata, N., Shaffer, M., Shiffer, A., Sinha, R., Song, S. 
+J., Spear, J. R., Swafford, A. D., Thompson, L. R., Torres, P. J., Trinh, P., Tripathi, A., 
+Turnbaugh, P. J., Ul-Hasan, S., van der Hooft, J. J. J., Vargas, F., V´azquez-Baeza, Y., 
+Vogtmann, E., von Hippel, M., Walters, W., Wan, Y., Wang, M., Warren, J., Weber, K. 
+C., Williamson, C. H. D., Willis, A. D., Xu, Z. Z., Zaneveld, J. R., Zhang, Y., Zhu, Q., 
+Knight, R., & Caporaso, J. G. (2019, 2019/08/01). Reproducible, interactive, 
+scalable and extensible microbiome data science using QIIME 2. Nature 
+Biotechnology, 37(8), 852-857. 10.1038/s41587-019-0209-9. 
+Clemente, Jose C., Ursell, Luke K., Parfrey, Laura W., & Knight, R. (2012, 2012/03/16/). 
+The Impact of the Gut Microbiota on Human Health: An Integrative View. Cell, 148 
+(6), 1258-1270. 10.1016/j.cell.2012.01.035. 
+Cordonnier, C., Le Bihan, G., Emond-Rheault, J.-G., Garrivier, A., Harel, J., Jubelin, G., 
+2016. Vitamin B12 Uptake by the Gut Commensal Bacteria Bacteroides 
+thetaiotaomicron Limits the Production of Shiga Toxin by Enterohemorrhagic 
+Escherichia coli. Toxins 8 (1), 14. https://www.mdpi.com/2072-6651/8/1/14. 
+Cowan, C. S. M., Dinan, T. G., & Cryan, J. F. (2020, Mar). Annual Research Review: 
+Critical windows - the microbiota-gut-brain axis in neurocognitive development. J 
+Child Psychol Psychiatry, 61(3), 353-371. 10.1111/jcpp.13156. 
+Coyne, M. J., Roelofs, K. G., & Comstock, L. E. (2016, 2016/01/15). Type VI secretion 
+systems of human gut Bacteroidales segregate into three genetic architectures, two of 
+which are contained on mobile genetic elements. BMC Genomics, 17(1), 58. 10.1186/ 
+s12864-016-2377-z. 
+Cussotto, S., Strain, C. R., Fouhy, F., Strain, R. G., Peterson, V. L., Clarke, G., Stanton, C., 
+Dinan, T. G., & Cryan, J. F. (2019, May). Differential effects of psychotropic drugs on 
+microbiome composition and gastrointestinal function. Psychopharmacology (Berl), 
+236(5), 1671-1685. 10.1007/s00213-018-5006-5. 
+David, L. A., Maurice, C. F., Carmody, R. N., Gootenberg, D. B., Button, J. E., Wolfe, B. E., 
+Ling, A. V., Devlin, A. S., Varma, Y., Fischbach, M. A., Biddinger, S. B., Dutton, R. J., 
+& Turnbaugh, P. J. (2014, 2014/01/01). Diet rapidly and reproducibly alters the 
+human gut microbiome. Nature, 505(7484), 559-563. 10.1038/nature12820. 
+Degnan, P.H., Taga, M.E., Goodman, A.L., 2014. Vitamin B<sub>12</sub> as a 
+Modulator of Gut Microbial Ecology. Cell Metab. 20 (5), 769–778. https://doi.org/ 
+10.1016/j.cmet.2014.10.002. 
+Derrien, M., Alvarez, A.-S., & de Vos, W. M. (2019, 2019/12/01/). The Gut Microbiota in 
+the First Decade of Life. Trends in Microbiology, 27(12), 997-1010. 10.1016/j. 
+tim.2019.08.001. 
+Falony, G., Joossens, M., Vieira-Silva, S., Wang, J., Darzi, Y., Faust, K., Kurilshikov, A., 
+Bonder, M. J., Valles-Colomer, M., Vandeputte, D., Tito, R. Y., Chaffron, S., 
+Rymenans, L., Verspecht, C., Sutter, L. D., Lima-Mendez, G., D’hoe, K., Jonckheere, 
+K., Homola, D., Garcia, R., Tigchelaar, E. F., Eeckhaudt, L., Fu, J., Henckaerts, L., 
+Zhernakova, A., Wijmenga, C., & Raes, J. (2016). Population-level analysis of gut 
+microbiome variation. Science, 352(6285), 560-564. doi:10.1126/science.aad3503. 
+Faraone, S. V., Asherson, P., Banaschewski, T., Biederman, J., Buitelaar, J. K., Ramos- 
+Quiroga, J. A., Rohde, L. A., Sonuga-Barke, E. J. S., Tannock, R., & Franke, B. (2015, 
+2015/08/06). Attention-deficit/hyperactivity disorder. Nature Reviews Disease 
+Primers, 1(1), 15020. 10.1038/nrdp.2015.20. 
+Fung, T. C. (2020, Mar). The microbiota-immune axis as a central mediator of gut-brain 
+communication. Neurobiol Dis, 136, 104714. 10.1016/j.nbd.2019.104714. 
+Geuking, M. B., K¨oller, Y., Rupp, S., & McCoy, K. D. (2014, 2014/05/01). The interplay 
+between the gut microbiota and the immune system. Gut Microbes, 5(3), 411-418. 
+10.4161/gmic.29330. 
+Gilbert, J. A., Blaser, M. J., Caporaso, J. G., Jansson, J. K., Lynch, S. V., & Knight, R. 
+(2018, 2018/04/01). Current understanding of the human microbiome. Nature 
+Medicine, 24(4), 392-400. 10.1038/nm.4517. 
+Gloor, G. B., Macklaim, J. M., Pawlowsky-Glahn, V., & Egozcue, J. J. (2017, 2017- 
+November-15). Microbiome Datasets Are Compositional: And This Is Not Optional 
+[Mini Review]. Frontiers in Microbiology, 8(2224). 10.3389/fmicb.2017.02224. 
+Guetterman, H.M., Huey, S.L., Knight, R., Fox, A.M., Mehta, S., Finkelstein, J.L., 2021. 
+Vitamin B-12 and the Gastrointestinal Microbiome: A Systematic Review. Adv. Nutr. 
+13 (2), 530–558. https://doi.org/10.1093/advances/nmab123. 
+Haarmann, A., Nowak, E., Deiß, A., van der Pol, S., Monoranu, C.-M., Kooij, G., Müller, 
+N., van der Valk, P., Stoll, G., de Vries, H. E., Berberich-Siebelt, F., & Buttmann, M. 
+(2015, 2015/05/01). Soluble VCAM-1 impairs human brain endothelial barrier 
+integrity via integrin α-4-transduced outside-in signalling. Acta Neuropathologica, 
+129(5), 639-652. 10.1007/s00401-015-1417-0. 
+Hiergeist, A., Gessner, J., & Gessner, A. (2020, 2020-June-26). Current Limitations for 
+the Assessment of the Role of the Gut Microbiome for Attention Deficit Hyperactivity 
+Disorder (ADHD) [Mini Review]. Frontiers in Psychiatry, 11. 10.3389/ 
+fpsyt.2020.00623. 
+Hsiao, Elaine Y., McBride, Sara W., Hsien, S., Sharon, G., Hyde, Embriette R., McCue, T., 
+Codelli, Julian A., Chow, J., Reisman, Sarah E., Petrosino, Joseph F., Patterson, 
+Paul H., & Mazmanian, Sarkis K. (2013, 2013/12/19/). Microbiota Modulate 
+Behavioral and Physiological Abnormalities Associated with Neurodevelopmental 
+Disorders. Cell, 155(7), 1451-1463. 10.1016/j.cell.2013.11.024. 
+Hughes, D. A., Bacigalupe, R., Wang, J., Rühlemann, M. C., Tito, R. Y., Falony, G., 
+Joossens, M., Vieira-Silva, S., Henckaerts, L., Rymenans, L., Verspecht, C., Ring, S., 
+Franke, A., Wade, K. H., Timpson, N. J., & Raes, J. (2020, 2020/09/01). Genome- 
+wide associations of human gut microbiome variation and implications for causal 
+inference analyses. Nature Microbiology, 5(9), 1079-1087. 10.1038/s41564-020- 
+0743-8. 
+Imhann, F., Vich Vila, A., Bonder, M. J., Lopez Manosalva, A. G., Koonen, D. P. Y., Fu, J., 
+Wijmenga, C., Zhernakova, A., & Weersma, R. K. (2017, 2017/07/04). The influence 
+of proton pump inhibitors and other commonly used medication on the gut 
+microbiota. Gut Microbes, 8(4), 351-358. 10.1080/19490976.2017.1284732. 
+Jensen, C. M., & Steinhausen, H. C. (2015, Mar). Comorbid mental disorders in children 
+and adolescents with attention-deficit/hyperactivity disorder in a large nationwide 
+study. Atten Defic Hyperact Disord, 7(1), 27-38. 10.1007/s12402-014-0142-1. 
+Hopkins, M.J., Sharp, R., Macfarlane, G.T., 2002. Variation in human intestinal 
+microbiota with age. Digestive and Liver Disease 34, S12–S18. 
+Jiang, H.Y., Zhou, Y.Y., Zhou, G.L., Li, Y.C., Yuan, J., Li, X.H., Ruan, B., 2018. Jul 16). 
+Gut microbiota profiles in treatment-naïve children with attention deficit 
+hyperactivity disorder. Behav Brain Res 347, 408–413. https://doi.org/10.1016/j. 
+bbr.2018.03.036. 
+Johnson, J.L., Moore, W.E.C., Moore, L.V.H., 1986. Bacteroides caccae sp. nov., 
+Bacteroides merdae sp. nov., and Bacteroides stercoris sp. nov. Isolated from Human 
+Feces. Int. J. Syst. Evol. Microbiol. 36 (4), 499–501. https://doi.org/10.1099/ 
+00207713-36-4-499. 
+Kanehisa, M., 2017. Enzyme Annotation and Metabolic Reconstruction Using KEGG. In: 
+Kihara, D. (Ed.), Protein Function Prediction: Methods and Protocols. Springer, New 
+York, pp. 135–145. https://doi.org/10.1007/978-1-4939-7015-5_11. 
+Kanehisa, M., Sato, Y., Kawashima, M., Furumichi, M., Tanabe, M., 2016. KEGG as a 
+reference resource for gene and protein annotation. Nucleic Acids Res. 44 (D1), 
+D457–D462. https://doi.org/10.1093/nar/gkv1070. 
+Kelsey, C.M., Prescott, S., McCulloch, J.A., Trinchieri, G., Valladares, T.L., Dreisbach, C., 
+Alhusen, J., Grossmann, T., 2021. Jan). Gut microbiota composition is associated 
+with newborn functional brain connectivity and behavioral temperament. Brain 
+Behav Immun 91, 472–486. https://doi.org/10.1016/j.bbi.2020.11.003. 
+Kim, B. R., Shin, J., Guevarra, R., Lee, J. H., Kim, D. W., Seol, K. H., Lee, J. H., Kim, H. B., 
+& Isaacson, R. (2017, Dec 28). Deciphering Diversity Indices for a Better 
+Understanding of Microbial Communities. J Microbiol Biotechnol, 27(12), 2089-2093. 
+10.4014/jmb.1709.09027. 
+Lan, P.T.N., Sakamoto, M., Sakata, S., Benno, Y., 2006. Bacteroides barnesiae sp. nov., 
+Bacteroides salanitronis sp. nov. and Bacteroides gallinarum sp. nov., isolated from 
+chicken caecum. Int. J. Syst. Evol. Microbiol. 56 (12), 2853–2859. https://doi.org/ 
+10.1099/ijs.0.64517-0. 
+Lin, H., & Peddada, S. D. (2020, 2020/07/14). Analysis of compositions of microbiomes 
+with bias correction. Nature Communications, 11(1), 3514. 10.1038/s41467-020- 
+17041-7. 
+Louis, P., Flint, H.J., 2017. Formation of propionate and butyrate by the human colonic 
+microbiota. Environ. Microbiol. 19 (1), 29–41. https://doi.org/10.1111/1462- 
+2920.13589. 
+Maier, L., Pruteanu, M., Kuhn, M., Zeller, G., Telzerow, A., Anderson, E. E., Brochado, A. 
+R., Fernandez, K. C., Dose, H., Mori, H., Patil, K. R., Bork, P., & Typas, A. (2018, Mar 
+29). Extensive impact of non-antibiotic drugs on human gut bacteria. Nature, 555 
+(7698), 623-628. 10.1038/nature25979. 
+Mathee, K., Cickovski, T., Deoraj, A., Stollstorff, M., Narasimhan, G., 2020. The gut 
+microbiome and neuropsychiatric disorders: implications for attention deficit 
+hyperactivity disorder (ADHD). J. Med. Microbiol. 69 (1), 14–24. https://doi.org/ 
+10.1099/jmm.0.001112. 
+McKeown, C., Hisle-Gorman, E., Eide, M., Gorman, G. H., & Nylund, C. M. (2013). 
+Association of Constipation and Fecal Incontinence With Attention-Deficit/ 
+Hyperactivity Disorder. Pediatrics, 132(5), e1210-e1215. 10.1542/peds.2013-1580. 
+McMurdie, P.J., Holmes, S., 2013. phyloseq: an R package for reproducible interactive 
+analysis and graphics of microbiome census data. PLoS One 8 (4), e61217. 
+Mohammadi, M. R., & Akhondzadeh, S. (2007, 2007/02/01). Pharmacotherapy of 
+attention-deficit/hyperactivity disorder: nonstimulant medication approaches. 
+Expert Review of Neurotherapeutics, 7(2), 195-201. 10.1586/14737175.7.2.195. 
+Morton, J. T., Marotz, C., Washburne, A., Silverman, J., Zaramela, L. S., Edlund, A., 
+Zengler, K., & Knight, R. (2019, 2019/06/20). Establishing microbial composition 
+measurement standards with reference frames. Nature Communications, 10(1), 2719. 
+10.1038/s41467-019-10656-5. 
+Müller, N. (2019, 2019-November-22). The Role of Intercellular Adhesion Molecule-1 in 
+the Pathogenesis of Psychiatric Disorders [Review]. Frontiers in Pharmacology, 10. 
+10.3389/fphar.2019.01251. 
+Okamoto, S., Tamaru, A., Nakajima, C., Nishimura, K., Tanaka, Y., Tokuyama, S., 
+Suzuki, Y., Ochi, K., 2007. Feb). Loss of a conserved 7-methylguanosine modification 
+in 16S rRNA confers low-level streptomycin resistance in bacteria. Mol Microbiol 63 
+(4), 1096–1106. https://doi.org/10.1111/j.1365-2958.2006.05585.x. 
+Otero, N., Tolosana-Delgado, R., Soler, A., Pawlowsky-Glahn, V., & Canals, A. (2005, 
+2005/04/01/). Relative vs. absolute statistical analysis of compositions: A 
+comparative study of surface waters of a Mediterranean river. Water Research, 39(7), 
+1404-1414. 10.1016/j.watres.2005.01.012. 
+Pantovi´c-Stefanovi´c, M., Petronijevi´c, N., Dunji´c-Kosti´c, B., Velimirovi´c, M., Nikoli´c, T., 
+Juriˇsi´c, V., Laˇckovi´c, M., Damjanovi´c, A., Toti´c-Poznanovi´c, S., Jovanovi´c, A. A., & 
+Ivkovi´c, M. (2018, 2018/10/31). sVCAM-1, sICAM-1, TNF-α and IL-6 levels in 
+bipolar disorder type I: Acute, longitudinal and therapeutic implications. The World 
+Journal of Biological Psychiatry, 19(sup2), S41-S51. 10.1080/ 
+15622975.2016.1259498. 
+P¨artty, A., Kalliom¨aki, M., Wacklin, P., Salminen, S., & Isolauri, E. (2015, 2015/06/01). 
+A possible link between early probiotic intervention and the risk of neuropsychiatric 
+disorders later in childhood: a randomized trial. Pediatric Research, 77(6), 823-828. 
+10.1038/pr.2015.51. 
+Prehn-Kristensen, A., Zimmermann, A., Tittmann, L., Lieb, W., Schreiber, S., Baving, L., 
+Fischer, A., 2018. Reduced microbiome alpha diversity in young patients with 
+ADHD. PLoS One 13 (7), e0200728. 
+Radu, G., Luca, C., Petrescu, L., Bordejevic, D.A., Tomescu, M.C., Andor, M., Cîtu, I., 
+Mavrea, A., Buda, V., Tomescu, C., Borcan, F., Dehelean, L., 2020. The Predictive 
+Value of Endothelial Inflammatory Markers in the Onset of Schizophrenia. 
+Neuropsychiatr Dis Treat 16, 545–555. https://doi.org/10.2147/ndt.S240349. 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+Brain Behavior and Immunity 110 (2023) 310–321
+321
+Reimherr, F. W., Marchant, B. K., Strong, R. E., Hedges, D. W., Adler, L., Spencer, T. J., 
+West, S. A., & Soni, P. (2005, 2005/07/15/). Emotional Dysregulation in Adult 
+ADHD and Response to Atomoxetine. Biological Psychiatry, 58(2), 125-131. 10.1016/ 
+j.biopsych.2005.04.040. 
+Richarte, V., S´anchez-Mora, C., Corrales, M., Fadeuilhe, C., Vilar-Rib´o, L., Arribas, L., 
+Garcia, E., Rosales-Ortiz, S. K., Arias-Vasquez, A., Soler-Artigas, M., Ribas´es, M., & 
+Ramos-Quiroga, J. A. (2021, 2021/07/08). Gut microbiota signature in treatment- 
+naïve attention-deficit/hyperactivity disorder. Translational Psychiatry, 11(1), 382. 
+10.1038/s41398-021-01504-6. 
+Riera, M., Castells, X., Tobias, A., Cunill, R., Blanco, L., & Capell`a, D. (2017, Sep). 
+Discontinuation of pharmacological treatment of children and adolescents with 
+attention deficit hyperactivity disorder: meta-analysis of 63 studies enrolling 11,788 
+patients. Psychopharmacology (Berl), 234(17), 2657-2671. 10.1007/s00213-017- 
+4662-1. 
+Roth, W., Mohamadzadeh, M., 2021. Vitamin B12 and gut-brain homeostasis in the 
+pathophysiology of ischemic stroke. EBioMedicine 73. https://doi.org/10.1016/j. 
+ebiom.2021.103676. 
+Sharon, G., Cruz, N.J., Kang, D.-W., Gandal, M.J., Wang, B., Kim, Y.-M., Zink, E.M., 
+Casey, C.P., Taylor, B.C., Lane, C.J., Bramer, L.M., Isern, N.G., Hoyt, D.W., 
+Noecker, C., Sweredoski, M.J., Moradian, A., Borenstein, E., Jansson, J.K., 
+Knight, R., Metz, T.O., Lois, C., Geschwind, D.H., Krajmalnik-Brown, R., 
+Mazmanian, S.K., 2019. Human Gut Microbiota from Autism Spectrum Disorder 
+Promote Behavioral Symptoms in Mice. Cell 177 (6), 1600–1618.e1617. https://doi. 
+org/10.1016/j.cell.2019.05.004. 
+Skott, E., Yang, L.L., Stiernborg, M., S¨oderstr¨om, Å., Rȕegg, J., Schalling, M., Forsell, Y., 
+Giacobini, M., Lavebratt, C., 2020. 2020/10/01/). Effects of a synbiotic on 
+symptoms, and daily functioning in attention deficit hyperactivity disorder – A 
+double-blind randomized controlled trial. Brain Behav. Immun. 89, 9–19. https:// 
+doi.org/10.1016/j.bbi.2020.05.056. 
+Song, Y. L., Liu, C. X., McTeague, M., & Finegold, S. M. (2004). &#x201c;<i>Bacteroides 
+nordii</i>&#x201d; sp. nov. and &#x201c;<i>Bacteroides salyersae</ 
+i>&#x201d; sp. nov. Isolated from Clinical Specimens of Human Intestinal Origin. 
+Journal of Clinical Microbiology, 42(12), 5565-5570. doi:10.1128/JCM.42.12.5565- 
+5570.2004. 
+Storebø, O. J., Pedersen, N., Ramstad, E., Kielsholm, M. L., Nielsen, S. S., Krogh, H. B., 
+Moreira-Maia, C. R., Magnusson, F. L., Holmskov, M., Gerner, T., Skoog, M., 
+Rosendal, S., Groth, C., Gillies, D., Buch Rasmussen, K., Gauci, D., Zwi, M., 
+Kirubakaran, R., Håkonsen, S. J., Aagaard, L., Simonsen, E., & Gluud, C. (2018, May 
+9). Methylphenidate for attention deficit hyperactivity disorder (ADHD) in children 
+and adolescents - assessment of adverse events in non-randomised studies. Cochrane 
+Database Syst Rev, 5(5), Cd012069. 10.1002/14651858.CD012069.pub2. 
+Craig B.H. Surman, M.D. ,, Joseph Biederman, M.D. ,, Thomas Spencer, M.D. ,, Dayna 
+Yorks, B.A. ,, Carolyn A. Miller, B.A. ,, Carter R. Petty, M.S. , and, & Stephen V. 
+Faraone, Ph.D. (2011). Deficient Emotional Self-Regulation and Adult Attention 
+Deficit Hyperactivity Disorder: A Family Risk Analysis. American Journal of 
+Psychiatry, 168(6), 617-623. 10.1176/appi.ajp.2010.10081172. 
+Szopinska-Tokov, J., Dam, S., Naaijen, J., Konstanti, P., Rommelse, N., Belzer, C., 
+Buitelaar, J., Franke, B., Aarts, E., & Arias Vasquez, A. (2020, Mar 13). Investigating 
+the Gut Microbiota Composition of Individuals with Attention-Deficit/Hyperactivity 
+Disorder and Association with Symptoms. Microorganisms, 8(3). 10.3390/ 
+microorganisms8030406. 
+Tchalla, A. E., Wellenius, G. A., Sorond, F. A., Travison, T. G., Dantoine, T., & Lipsitz, L. 
+A. (2015, 2015/06/04). Elevated circulating vascular cell Adhesion Molecule-1 
+(sVCAM-1) is associated with concurrent depressive symptoms and cerebral white 
+matter Hyperintensities in older adults. BMC Geriatrics, 15(1), 62. 10.1186/s12877- 
+015-0063-7. 
+Tengeler, A. C., Dam, S. A., Wiesmann, M., Naaijen, J., van Bodegom, M., Belzer, C., 
+Dederen, P. J., Verweij, V., Franke, B., Kozicz, T., Arias Vasquez, A., & Kiliaan, A. J. 
+(2020, 2020/04/01). Gut microbiota from persons with attention-deficit/ 
+hyperactivity disorder affects the brain in mice. Microbiome, 8(1), 44. 10.1186/ 
+s40168-020-00816-x. 
+Thomas, R., Sanders, S., Doust, J., Beller, E., Glasziou, P., 2015. Apr). Prevalence of 
+attention-deficit/hyperactivity disorder: a systematic review and meta-analysis. 
+Pediatrics 135 (4), e994–e. https://doi.org/10.1542/peds.2014-3482. 
+Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley, R. E., 
+Sogin, M. L., Jones, W. J., Roe, B. A., Affourtit, J. P., Egholm, M., Henrissat, B., 
+Heath, A. C., Knight, R., & Gordon, J. I. (2009, 2009/01/01). A core gut microbiome 
+in obese and lean twins. Nature, 457(7228), 480-484. 10.1038/nature07540. 
+Vaher, K., Bogaert, D., Richardson, H., & Boardman, J. P. (2022, 2022/12/01/). 
+Microbiome-gut-brain axis in brain development, cognition and behavior during 
+infancy and early childhood. Developmental Review, 66, 101038. 10.1016/j. 
+dr.2022.101038. 
+Valeri, F., Endres, K., 2021. How biological sex of the host shapes its gut microbiota. 
+Frontiers in Neuroendocrinology 61, 100912. https://doi.org/10.1016/j. 
+yfrne.2021.100912. 
+Vandeputte, D., Falony, G., Vieira-Silva, S., Tito, R.Y., Joossens, M., Raes, J., 2016. Stool 
+consistency is strongly associated with gut microbiota richness and composition, 
+enterotypes and bacterial growth rates. Gut 65 (1), 57. https://doi.org/10.1136/ 
+gutjnl-2015-309618. 
+Vargason, T., McGuinness, D.L., Hahn, J., 2019. Gastrointestinal Symptoms and Oral 
+Antibiotic Use in Children with Autism Spectrum Disorder: Retrospective Analysis of 
+a Privately Insured U.S. PopulationJournal of autism and developmental disorders 49 
+(2), 647–659. https://doi.org/10.1007/s10803-018-3743-2. 
+Vich Vila, A., Collij, V., Sanna, S., Sinha, T., Imhann, F., Bourgonje, A. R., Mujagic, Z., 
+Jonkers, D. M. A. E., Masclee, A. A. M., Fu, J., Kurilshikov, A., Wijmenga, C., 
+Zhernakova, A., & Weersma, R. K. (2020, 2020/01/17). Impact of commonly used 
+drugs on the composition and metabolic function of the gut microbiota. Nature 
+Communications, 11(1), 362. 10.1038/s41467-019-14177-z. 
+Wan, L., Ge, W.R., Zhang, S., Sun, Y.L., Wang, B., Yang, G., 2020. Case-Control Study of 
+the Effects of Gut Microbiota Composition on Neurotransmitter Metabolic Pathways 
+in Children With Attention Deficit Hyperactivity Disorder. Front Neurosci 14, 127. 
+https://doi.org/10.3389/fnins.2020.00127. 
+Wang, L. J., Yang, C. Y., Chou, W. J., Lee, M. J., Chou, M. C., Kuo, H. C., Yeh, Y. M., Lee, 
+S. Y., Huang, L. H., & Li, S. C. (2020, Mar). Gut microbiota and dietary patterns in 
+children with attention-deficit/hyperactivity disorder. Eur Child Adolesc Psychiatry, 
+29(3), 287-297. 10.1007/s00787-019-01352-2. 
+Warren, M. J., Raux, E., Schubert, H. L., & Escalante-Semerena, J. C. (2002, Aug). The 
+biosynthesis of adenosylcobalamin (vitamin B12). Nat Prod Rep, 19(4), 390-412. 
+10.1039/b108967f. 
+Wickham, H., 2016. Data Analysis. In: Wickham, H. (Ed.), ggplot2: Elegant Graphics for 
+Data Analysis. Springer International Publishing, pp. 189–201. https://doi.org/ 
+10.1007/978-3-319-24277-4_9. 
+Wong, S.Y., Javid, B., Addepalli, B., Piszczek, G., Strader, M.B., Limbach, P.A., Barry, C. 
+E., 2013. Functional Role of Methylation of G518 of the 16S rRNA 530 Loop by GidB 
+in Mycobacterium tuberculosis. Antimicrob. Agents Chemother. 57 (12), 
+6311–6318. https://doi.org/10.1128/AAC.00905-13. 
+Xu, Y., Xiang, S., Ye, K., Zheng, Y., Feng, X., Zhu, X., Chen, J., Chen, Y., 2018. Cobalamin 
+(Vitamin B12) Induced a Shift in Microbial Composition and Metabolic Activity in an 
+in vitro Colon Simulation. Front Microbiol 9, 2780. https://doi.org/10.3389/ 
+fmicb.2018.02780. 
+Yang, L. L., Stiernborg, M., Skott, E., Gillberg, T., Landberg, R., Giacobini, M., & 
+Lavebratt, C. (2022, 2022/09/28/). Lower plasma concentrations of short-chain 
+fatty acids (SCFAs) in patients with ADHD. Journal of Psychiatric Research. 10.1016/j. 
+jpsychires.2022.09.042. 
+Yang, L.L., Stiernborg, M., Skott, E., S¨oderstr¨om, Å., Giacobini, M., Lavebratt, C., 2020. 
+Dec). Proinflammatory mediators and their associations with medication and 
+comorbid traits in children and adults with ADHD. Eur Neuropsychopharmacol 41, 
+118–131. https://doi.org/10.1016/j.euroneuro.2020.10.005. 
+Yang, L.L., Stiernborg, M., Skott, E., Xu, J., Wu, Y., Landberg, R., Arefin, S., 
+Kublickiene, K., Millischer, V., Nilsson, I.A.K., Schalling, M., Giacobini, M., 
+Lavebratt, C., 2023. Effects of a Synbiotic on Plasma Immune Activity Markers and 
+Short-Chain Fatty Acids in Children and Adults with ADHD&mdash;A Randomized 
+Controlled Trial. Nutrients 15 (5), 1293. https://www.mdpi.com/2072-6643/15/5/ 
+1293. 
+Yang, Z., Xu, F., Li, H., He, Y., 2021. Beyond samples: A metric revealing more 
+connections of gut microbiota between individuals. Comput. Struct. Biotechnol. J. 
+19, 3930–3937. https://doi.org/10.1016/j.csbj.2021.07.009. 
+Yap, C. X., Henders, A. K., Alvares, G. A., Wood, D. L. A., Krause, L., Tyson, G. W., 
+Restuadi, R., Wallace, L., McLaren, T., Hansell, N. K., Cleary, D., Grove, R., Hafekost, 
+C., Harun, A., Holdsworth, H., Jellett, R., Khan, F., Lawson, L. P., Leslie, J., Frenk, M. 
+L., Masi, A., Mathew, N. E., Muniandy, M., Nothard, M., Miller, J. L., Nunn, L., 
+Holtmann, G., Strike, L. T., de Zubicaray, G. I., Thompson, P. M., McMahon, K. L., 
+Wright, M. J., Visscher, P. M., Dawson, P. A., Dissanayake, C., Eapen, V., Heussler, H. 
+S., McRae, A. F., Whitehouse, A. J. O., Wray, N. R., & Gratten, J. (2021, 2021/11/ 
+24/). Autism-related dietary preferences mediate autism-gut microbiome 
+associations. Cell, 184(24), 5916-5931.e5917. 10.1016/j.cell.2021.10.015. 
+M. Stiernborg et al.                                                                                                                                                                                                                             
+

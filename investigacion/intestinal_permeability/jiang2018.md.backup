@@ -1,0 +1,934 @@
+# Accepted Manuscript
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2018
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: jiang2018.pdf
+
+## Abstract / Summary
+Accepted Manuscript
+Title: Gut Microbiota Proﬁles in Treatment-na¨ıve Children
+with Attention Deﬁcit Hyperactivity Disorder
+Authors: Hai-yin Jiang, Yuan-yue Zhou, Guo-ling Zhou,
+Yu-chuan Li, Jing Yuan, Xiao-he Li, Bing Ruan
+PII:
+S0166-4328(17)31554-1
+DOI:
+https://doi.org/10.1016/j.bbr.2018.03.036
+Reference:
+BBR 11358
+To appear in:
+Behavioural Brain Research
+Received date:
+17-9-2017
+Revised date:
+5-3-2018
+Accepted date:
+22-3-2018
+Please cite this article as: Jiang H-y, Zhou Y-y, Zhou G-l, Li Y-c,... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Accepted Manuscript. 2018.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Accepted Manuscript
+Title: Gut Microbiota Proﬁles in Treatment-na¨ıve Children
+with Attention Deﬁcit Hyperactivity Disorder
+Authors: Hai-yin Jiang, Yuan-yue Zhou, Guo-ling Zhou,
+Yu-chuan Li, Jing Yuan, Xiao-he Li, Bing Ruan
+PII:
+S0166-4328(17)31554-1
+DOI:
+https://doi.org/10.1016/j.bbr.2018.03.036
+Reference:
+BBR 11358
+To appear in:
+Behavioural Brain Research
+Received date:
+17-9-2017
+Revised date:
+5-3-2018
+Accepted date:
+22-3-2018
+Please cite this article as: Jiang H-y, Zhou Y-y, Zhou G-l, Li Y-c, Yuan J,
+Li X-h, Ruan B, Gut Microbiota Proﬁles in Treatment-na¨ıve Children with
+Attention Deﬁcit Hyperactivity Disorder, Behavioural Brain Research (2010),
+https://doi.org/10.1016/j.bbr.2018.03.036
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that
+apply to the journal pertain.
+1 
+ 
+Gut Microbiota Profiles in Treatment-naïve Children with 
+Attention Deficit Hyperactivity Disorder 
+Hai-yin Jiang1*, Yuan-yue Zhou2*, Guo-ling Zhou2*, Yu-chuan Li1, 
+Jing Yuan3, Xiao-he Li3, Bing Ruan1 
+ 
+Institutional addresses 
+1 State Key Laboratory for Diagnosis and Treatment of Infectious 
+Diseases, Collaborative Innovation Center for Diagnosis and 
+Treatment of Infectious Diseases, The First Affiliated Hospital, 
+College of Medicine, Zhejiang University, Hangzhou, Zhejiang, 
+310003, China 
+2 Department of Child Psychiatry, Hangzhou Seventh People’s 
+Hospital, Hangzhou, Zhejiang, 310013, China 
+3 Department of liver diseases, the Third People’s Hospital of 
+Shenzhen, Shenzhen, Guangdong, 518000, China 
+*Authors contributed equally to this work. 
+ 
+Contact information 
+# The address for correspondence is: Bing Ruan, State Key 
+Laboratory for Diagnosis and Treatment of Infectious Diseases, the 
+First Affiliated Hospital, College of Medicine, Zhejiang University, 
+Hangzhou, Zhejiang, China. E-mail: ruanbing@zju.edu.cn; 
+ACCEPTED MANUSCRIPT
+2 
+ 
+ 
+Reprint requests 
+Address requests for reprints to: Bing Ruan, State Key Laboratory 
+for Diagnosis and Treatment of Infectious Diseases, the First 
+Affiliated Hospital, School of Medicine, Zhejiang University, 
+310003, Hangzhou, Zhejiang, E-mail: ruanbing@zju.edu.cn 
+ 
+Conflicts of interest 
+The authors declare that they have no competing interest. The 
+funders had no role in study design, data collection and analysis, 
+decision to publish, or preparation of the manuscript. 
+ 
+Funding 
+This study was supported by National Natural Science Foundation of 
+China (Grant No.81601186) and National Human Genetic Resources 
+Sharing Service Platform (Grant No.2005DKA21300). 
+ 
+Authors’ contributions 
+H.Y.J. and B.R. conceived the study and revised the manuscript 
+critically for important intellectual content. H.Y.J., Y.Y.Z, and 
+G.L.Z. made substantial contributions to its design, acquisition, 
+analysis and interpretation of data. Y.C.L., J.Y., and X.H.L. 
+ACCEPTED MANUSCRIPT
+3 
+ 
+participated in the design, acquisition, analysis and interpretation of 
+data. All authors read and approved the final manuscript. 
+ 
+Abbreviations used in this paper: 
+ADHD, attention-deficit/hyperactivity disorder; ASD, autism 
+spectrum disorder; CPRS, Conners Parent Rating Scales; FDR, false 
+discovery 
+rate; 
+HC, 
+healthy 
+controls; 
+Kiddie-SADS-PL, 
+Kiddie-SADS-Present 
+and 
+Lifetime 
+Version; 
+LDA, 
+linear 
+discriminant analysis; OTU, operational taxonomical unit; PCoA, 
+Principal Coordinate Analysis. 
+ 
+ 
+ACCEPTED MANUSCRIPT
+4 
+ 
+Highlights 
+We characterized the gut microbiota profiles in treatment-naive 
+children with ADHD.  
+Faecalibacterium were decreased in children with ADHD.  
+A negative correlation was found between Faecalibacterium and 
+ADHD severity. 
+ 
+ABSTRACT 
+Backgrounds: Although increasing evidence suggests a role for the 
+gut microbiota in neurodevelopment, the actual structure and 
+composition 
+of 
+microbiota 
+in 
+children 
+with 
+attention-deficit/hyperactivity disorder (ADHD) remain unclear. 
+Methods: Thus, the present study aimed to define the characteristics 
+of gut microbiota in treatment-naive children with ADHD and to 
+assess their relationship with the severity of ADHD symptoms. 
+High-throughput pyrosequencing was used to investigate the 
+microbiota composition in fecal matter from 51 children with ADHD 
+and 32 healthy controls (HC).  
+Results: An operational taxonomical unit (OTU)-level analysis 
+revealed a significant decrease in the fractional representation of 
+Faecalibacterium in children with ADHD compared to HC. In 
+individuals with ADHD, the abundance of Faecalibacterium was 
+ACCEPTED MANUSCRIPT
+5 
+ 
+negatively associated with parental reports of ADHD symptoms. 
+However, there was no significant difference in alpha diversity 
+between the ADHD and control groups.  
+Conclusions: This present findings support the involvement of 
+microbiota alteration in psychiatric diseases and Faecalibacterium 
+may represent a potential novel marker of gut microbiota in ADHD. 
+Future studies are needed to validate these findings and to elucidate 
+the temporal and causal relationships between these variables. 
+Keyword: microbiome, inattention, hyperactivity, gut-brain axis 
+ACCEPTED MANUSCRIPT
+6 
+ 
+1. Introduction 
+Increasing evidence suggests that the gut microbiota plays a key 
+role in the gut–brain communication axis by influencing metabolism, 
+inflammation, 
+the 
+hypothalamic–pituitary–adrenal 
+axis, 
+and 
+neurotransmission[1, 2]. Animal studies have demonstrated that 
+early-life perturbations of the developing gut microbiota can 
+influence neurodevelopment, suggesting that they could potentially 
+lead to adverse mental health outcomes in humans later in life[3]. 
+For example, in murine models, the administration of low-dose 
+antibiotics to pregnant dams induced changes in gut microbiota that 
+were associated with behavioral alterations in the offspring[4]. 
+Prenatal stress also disturbed the establishment of the microbiota in 
+the neonatal gut, resulting in increased anxiety-like behaviors as well 
+as altered cognition in adult female offspring[5]. Furthermore, 
+several animal models of autism spectrum disorder (ASD) have 
+shown alterations in gut microbial profiles[6, 7]. These findings 
+indicate that the maintenance of microbial diversity during early life 
+is important for normal development of the central nervous system. 
+Several preclinical studies in humans have investigated the 
+profiles of gut microbiotas in adults with common mental illnesses. 
+Compared to controls, the fecal samples of patients with 
+schizophrenia[8], bipolar disorder[9], and unipolar depression[10] 
+ACCEPTED MANUSCRIPT
+7 
+ 
+exhibited altered microbiota composition, which was associated with 
+the severity of psychiatric symptoms. Despite recent interest in the 
+roles of gut–brain connections in mood, anxiety, and autism-related 
+disorders, no published works have directly examined the link 
+between the gut microbiota and attention deficit/hyperactivity 
+disorder (ADHD)[11].  
+ADHD is a common neurodevelopmental disorder characterized 
+by impaired attention, hyperactivity, and difficulty controlling one’s 
+impulses[12]. Although ADHD is highly heritable, accumulating 
+evidence suggests that environmental factors are also involved in the 
+development of this disorder[13]. Thus, the recognition of other risk 
+factors for ADHD and the implementation of appropriate 
+interventions may help to prevent this disorder. Clinical evidence has 
+shown that probiotic treatment in early life is associated with 
+improved later outcomes, such as a reduced risk of an ADHD 
+diagnosis at 13 years of age[14]. Conversely, early exposure to 
+antibiotics may be associated with an increased risk of ADHD[15]. 
+Additionally, delivery by cesarean section, which is the main factor 
+influencing early gut microbiota colonization, is thought to be a risk 
+factor for ADHD[16]. These results indicate that ADHD patients are 
+likely to have altered composition of the gut microbiota, which 
+could conceivably contribute to their maladaptive behaviors. 
+ACCEPTED MANUSCRIPT
+8 
+ 
+Therefore, a detailed assessment of the gut microbiotas of ADHD 
+patients should be performed before firm conclusions are drawn. 
+Given 
+the 
+importance 
+of 
+the 
+gut 
+microbiota 
+in 
+neurodevelopment, the present study investigated the human gut 
+microbiota in 83 fecal samples taken from 51 treatment-naive 
+children diagnosed with ADHD and 32 matched healthy 
+neurotypical controls. The goals of this study were to determine 
+whether there were differences in the intestinal microbiotas of the 
+two groups and whether these differences were related to clinical 
+symptoms. If additional studies demonstrate that these candidate 
+microorganisms play an active role in either contributing to or 
+ameliorating ADHD, then these are potential targets for the 
+development of novel therapies for the prevention and treatment of 
+ADHD. 
+ 
+ACCEPTED MANUSCRIPT
+9 
+ 
+2. Material and Methods 
+2.1 Study selection 
+Juvenile patients (6–10 years of age) were prospectively 
+recruited from a child and adolescent outpatient clinical center at 
+Seventh People’s Hospital of Hangzhou, Zhejiang, China, from May 
+2015 to December 2016. All participants were diagnosed using the 
+Kiddie-SADS-Present and Lifetime Version (Kiddie-SADS-PL) 
+scale, which is a semi-structured diagnostic interview conducted 
+according to the Diagnostic and Statistical Manual of Mental 
+Disorder-IV classification system[17]. The diagnosis of ADHD 
+based on the Kiddie-SADS-PL was determined for each child by one 
+of two experienced child psychiatrists (Y.Y.Z. or G.L.Z.). Subjects 
+for the healthy neurotypical control group (HC) were recruited via 
+advertisements and assessed with a semi-structured clinical 
+interview to exclude individuals with a physical illness.  
+The parents of all participating children completed the Conners 
+Parent Rating Scales (CPRS) to assess the severity of ADHD 
+symptoms[18]. The CPRS is a widely used rating scale that can help 
+identify behavioral problems in children between 3 and 17 years of 
+age. It comprises six subscales: Conduct Problems, Anxiety, 
+Impulsivity–Hyperactivity, Learning Problems, Psychosomatic, and 
+Hyperactivity Indices. The CPRS was also used to detect ADHD in 
+ACCEPTED MANUSCRIPT
+10 
+ 
+the control subjects, who scored higher than 5 were excluded from 
+our study. The dietary habits were also obtained after their parents 
+finished eating behavior evaluation questionnaire, and children with 
+special dietary habits (vegetarian and non-vegetarian) were not 
+included in our study. The exclusion criteria for the present study 
+were use of probiotics or antibiotics during the 2 months prior to the 
+fecal sample collection, apparent gastrointestinal symptoms, 
+depressive or anxiety symptoms (assessed by CPRS), obesity, 
+common childhood atopic diseases such as asthma, eczema, allergic 
+rhinitis, or other severe diseases, and/or a history or current use of 
+ADHD drugs.  
+After receiving a written description of the aims of this study, all 
+parents provided written informed consent prior to enrollment. The 
+Ethics Committee of the Seventh People’s Hospital of Hangzhou 
+approved the study before the start of subject recruitment.  
+ 
+2.2 Fecal sample collection and DNA extraction 
+Parents collected fecal samples from children naïve to ADHD 
+pharmacotherapies in a sterile plastic cup and then immediately 
+froze the samples at -20°C at home. The samples were kept in an 
+icebox that was delivered to the laboratory within 30 min, and then 
+stored at -80°C. Fecal microbial DNA was extracted from 200 mg of 
+ACCEPTED MANUSCRIPT
+11 
+ 
+feces using the QIAamp DNA Stool Mini Kit (Qiagen; Hilden, 
+Germany) according to the manufacturer’s instructions, in 
+conjunction with additional glass-bead beating steps on a 
+Mini-beadbeater (FastPrep; Thermo Electron Corp.; Boston, MA, 
+USA). DNA was quantified using a NanoDrop ND-2000 
+spectrophotometer (Thermo Electron), and integrity and size were 
+assessed via 1.0% agarose gel electrophoresis on gels containing 0.5 
+mg/mL of ethidium bromide. DNA samples were stored at -20°C 
+prior to analysis. 
+ 
+2.3 Polymerase chain reaction analysis and pyrosequencing 
+The bacterial 16S ribosomal RNA gene V3–V4 region was 
+amplified 
+with 
+a 
+barcoded 
+primer 
+set 
+using 
+338F 
+ACTCCTACGGGAGGCAGCAG 
+and 
+806R 
+GGACTACHVGGGTWTCTAAT. Approximately 4 µl of 5× FastPfu 
+Buffer, 0.8 µl of 2.5 mM deoxyribonucleotide triphosphates dNTPs, 
+0.8 µl of 5 µM reverse primer, 0.4 µl of FastPfu Polymerase, and a 
+10 ng template were used for the polymerase chain reaction (PCR). 
+The cycling conditions for PCR were as follows: 3 min at 95°C and 
+then 27 cycles of 30 s at 95°C, 30 s at 55°C, 45 s at 72°C, and 10 
+min at 72°C. Amplified DNA was sequenced using the Illumina 
+MiSeq platform with a TruSeqTM DNA Sample Prep Kit (Illumina; 
+ACCEPTED MANUSCRIPT
+12 
+ 
+San Diego, CA, USA). 
+ 
+2.4 Bioinformatics and statistical analysis 
+The raw pyrosequencing reads obtained from the sequencer were 
+demultiplexed and quality-filtered using Trimmomatic and FLASH. 
+Chimera sequences arising from the PCR amplification were 
+detected and removed using UCHIME, and high-quality sequences 
+were assigned to samples according to the barcodes and clustered 
+into operational taxonomic units (OTUs) using QIIME (version 1.7; 
+http://qiime.org/home_static/dataFiles. html). Operational taxonomic 
+units (OTUs) were picked at 97% similarity cut-off. To compare the 
+microbial communities in ADHD versus HC samples, alpha 
+diversity and beta diversity were analyzed. Alpha diversity, which 
+represents the complexity of composition within members of a group, 
+was calculated using the metrics of Shannon, Simpson indices, ACE 
+and Chao1. Rarefaction curves were generated based on the alpha 
+diversity 
+estimators. 
+Beta 
+diversity, 
+which 
+represents 
+the 
+between-subject similarity of microbial composition and enables 
+identification of differences between samples within a group, was 
+estimated by computing unweighted, weighted UniFrac distances 
+and a Bray-Curtis Principal Coordinate Analysis (PCoA). 
+For the beta diversity measures, principal coordinate analyses 
+ACCEPTED MANUSCRIPT
+13 
+ 
+were performed at the OTU level for each sample. Microorganism 
+features that distinguished fecal microbiota specific to ADHD were 
+identified using the linear discriminant analysis (LDA) effect size 
+(LEfSe) 
+method 
+(http://huttenhower.sph.harvard.edu/lefse/) 
+for 
+biomarker discovery. The LEfSe method uses the Kruskal–Wallis 
+rank-sum test with a normalized relative abundance matrix to detect 
+features with significantly different abundances between assigned 
+taxa, and performs LDA to estimate the effect size of each feature; 
+LDA values >2 were considered to indicate statistical significance. 
+Correlations between variables were calculated using Pearson 
+correlation analyses. The Benjamini and Hochberg false discovery 
+rate (FDR) was used to correct for multiple tests of the hypothesis; 
+and values below the FDR-corrected threshold of 0.05 were 
+considered significant. All statistical analyses were performed using 
+SPSS ver. 16.0 data analysis software (SPSS, Inc.; Chicago, IL, 
+USA). 
+ACCEPTED MANUSCRIPT
+14 
+ 
+3. Results 
+3.1 Clinical characteristics and collection of 16s data 
+The cohort investigated in the present study included 51 
+treatment-naive ADHD patients and 32 HC subjects; the clinical data 
+of the two groups are presented in Table 1. There were no significant 
+differences between the groups in terms of age, gender, body mass 
+index, pattern of infant feeding, mode of delivery, duration of 
+pregnancy, or birth weight. However, the CPRS scores of the ADHD 
+group were significantly higher than those of the HC group for the 
+moral problems, learning problems, impulsive–hyperactivity, and 
+hyperactivity indices. Scores of the two groups on the 
+psychosomatic and anxious indices did not significantly differ. 
+Illumina sequencing captured a total of 3,095,739 high-quality 
+sequences from 81 fecal samples provided by participants for 
+phylogenetic analysis; 1,192,290 sequences were obtained from the 
+HC subjects, and 1,903,449 were obtained from the ADHD group.  
+ 
+3.2 Diversity analysis of the fecal microbiotas in ADHD and HC 
+subjects 
+Based on the sequencing data, the gut microbiotas of all samples 
+were classified into 779 OTUs, 16 phyla, 28 classes, 47 orders, 82 
+families, 250 genera, and 520 species. The number of shared OTUs 
+ACCEPTED MANUSCRIPT
+15 
+ 
+between the two groups is presented in a Venn diagram (Suppl. Fig. 
+S1); 740 and 645 OTUs were identified in the ADHD and HC 
+groups, respectively. 
+The alpha and beta diversity values of the fecal bacterial 
+communities in the ADHD and HC groups were assessed using 
+various indices based on the OTU level. To determine alpha diversity, 
+the mean ACE, Chao, Shannon, and Simpson reciprocal indices were 
+calculated, but there were no significant differences between the two 
+groups; detailed data on the estimators in each sample are presented 
+in Table S1. The rarefaction curves for the numbers of observed 
+operational OTUs per sample reached a plateau phase, indicating 
+that most bacterial species had been sufficiently captured by the 
+sequencing in all samples(Suppl. Fig. S2). In terms of beta diversity, 
+unweighted and weighted UniFrac distances and a Bray–Curtis 
+PCoA could not discriminate the ADHD from the HC group due to 
+significant individual variation (Suppl. Fig. S3). 
+ 
+3.3 Analyses of fecal bacterial community abundances in the ADHD 
+and HC groups 
+The association between fecal microbiota composition and ADHD 
+was analyzed using the FDR correction for multiple tests. Phylum 
+level is illustrated in Figure 1a; Firmicutes, Bacteroidetes, 
+ACCEPTED MANUSCRIPT
+16 
+ 
+Proteobacteria, and Actinobacteria constituted the four dominant 
+phyla in all samples, but there were no significant differences in the 
+four phyla between the ADHD and HC groups. At the family level, 
+there was a lower percentage of Alcaligenaceae but a greater 
+abundance of Peptostreptococcaceae in the ADHD group relative to 
+the HC group (Figure 1b). Comparisons of the genus composition 
+revealed that three genera differed between the two groups; the 
+levels of Faecalibacterium, Lachnoclostridium, and Dialister, were 
+decreased in the ADHD group(Figure 1c). To explore the robust of 
+our results, analyses in ADHD group were performed based on the 
+route of delivery (vaginal or caesarean) and the type of early 
+nutrition (breast milk or formula milk). Type of delivery has no 
+significant effect on the α-diversity, β-diversity or relative 
+abundance of associated ADHD taxa (Suppl. Fig. S4 and S5). 
+Furthermore, within-individual or between-individual diversity was 
+not significantly related to the type of feeding in our cohort (Suppl. 
+Fig. S6 and S7). 
+An LDA combined with LEfSe was applied to explore 
+significant differences between and the relative richness of the 
+bacterial communities in the ADHD and HC groups at the family 
+and genus levels. At the family level, Peptostreptococcaceae, 
+Moraxellaceae, Xanthomonadaceae, and Peptococcaceae were 
+ACCEPTED MANUSCRIPT
+17 
+ 
+increased, whereas Alcaligenaceae was decreased in ADHD patients 
+compared to the controls (Suppl. Fig. S8). At the genus level, 
+Faecalibacterium, Dialister, and Sutterella, which were abundant in 
+the HCs, were the key phylotypes that contributed to the differences 
+in intestinal microbiota composition between the ADHD and HC 
+groups(Figure 1d).  
+ 
+3.4 Correlations between overall fecal microbiota structure and 
+clinical parameters 
+To investigate the associations of the microbiotas with the 
+severity of clinical symptoms, ADHD patients whose microbiota 
+composition differed from that of the HCs were identified. To 
+accomplish this, Pearson correlation analyses were performed using 
+the 18 bacterial genera that were identified as showing a significant 
+case–control difference by the LefSe method. These analyses 
+revealed that the abundance of Faecalibacterium was negatively 
+associated with the total CPRS score and the hyperactivity index 
+score(Figure 1e and 1f).
+ACCEPTED MANUSCRIPT
+18 
+ 
+4. Discussion 
+To our knowledge, the present study is the first to define fecal 
+microbiota composition in young children with ADHD. This study 
+found differences between treatment-naïve ADHD patients and HCs 
+in gut microbial composition, with the genus Faecalibacterium 
+showing the greatest difference. Additionally, there were significant 
+relationships 
+between 
+the 
+fractional 
+representation 
+of 
+Faecalibacterium and parent-reported disease measures. In contrast 
+to our study, Aarts E et al.[19] observed an increased abundance of 
+Bifidobacterium and Eggerthella in ADHD adults. This variation in 
+composition of the gut microbiota might reflect differences in study 
+population, dietary habits, age and treatment between two studies. 
+The Western diet is high in fat and calories, while Chinese diets 
+typically include low levels of fat, sugar and meat, which may have 
+significant effects on the gut microbiota. Furthermore, as bacterial 
+diversity changes with age, the inconsistent results may be explained 
+by differences in age between the samples of the two studies. In 
+addition, their study was limited by a lack of drug use information, 
+considering that the results are likely to be affected by the use of 
+psychotic medications[20]. Hence, the complexity of the issue has led 
+to methodological discrepancies between studies that make it 
+difficult to compare results.  
+ACCEPTED MANUSCRIPT
+19 
+ 
+The most pronounced finding in the present study was the 
+general underrepresentation of Faecalibacterium in the ADHD 
+group. In both animal and human studies, low Faecalibacterium 
+levels are associated with a variety of unhealthy conditions including 
+asthma, eczema, and allergic rhinitis[21]. It has also been suggested 
+that atopic diseases are independently associated with ADHD in 
+childhood, and it has been shown that individuals with these diseases 
+have a 30–50% greater chance of developing ADHD compared to 
+controls[22]. In the present cohort, however, children with atopic 
+diseases were excluded based on a detailed medical history obtained 
+from their parents, so it is unlikely that atopic disease was a 
+confounding factor in this study. The anti-inflammatory properties of 
+Faecalibacterium, which have been identified by in vitro and in vivo 
+studies[23, 24], could influence organ systems outside the gut. A 
+recent systematic review[25] provided preliminary evidence 
+showing the presence of elevated markers of inflammation in an 
+ADHD population. Hence, hypotheses about the biological origins 
+of the association between Faecalibacterium and ADHD could 
+include the impact of inflammatory cytokines on the development of 
+the brain. Inflammatory cytokines released during conditions of low 
+Faecalibacterium levels in the gut have the ability to cross the 
+blood–brain barrier, which makes them likely candidates to play a 
+ACCEPTED MANUSCRIPT
+20 
+ 
+role in the development of ADHD[26].  
+Levels of the Faecalibacterium species are also lower in adults 
+with psychiatric diseases compared to HCs. For example, these 
+species are decreased in patients with major depressive disorder[10] 
+or bipolar disorder[9]; in particular, these studies found a negative 
+association between the abundance of this gut bacteria and the 
+severity of disease. Subjects with apparent anxious or depressive 
+symptoms were excluded from our studies, it should be noted that 
+some ADHD patients may present subclinical symptoms, which 
+could influence the relative abundance of Faecalibacterium in 
+ADHD. 
+In 
+this 
+case, 
+the 
+correlation 
+between 
+hyperactivity/inattention 
+and 
+Faecalibacterium 
+may 
+be 
+overestimated. Genome-wide association studies revealed shared 
+risk genes between ADHD and mental disorders such that more than 
+20% of ADHD subjects met the criteria for depression, bipolar 
+disorder, and/or generalized anxiety disorder in adulthood[27]. It is 
+possible that both the lower abundance of Faecalibacterium in 
+ADHD subjects and the presence of affective disorders could be 
+driven by shared genetic risks in the host[28].  
+In addition to scientific relevance, the association between 
+Faecalibacterium and ADHD may also have clinical relevance. 
+Faecalibacterium levels can be modified by a dietary approach; a 
+ACCEPTED MANUSCRIPT
+21 
+ 
+diet high in insulin, amylose maize starch, soluble corn fiber, and 
+resistant maltodextrin can raise Faecalibacterium levels[29, 30]. In a 
+clinical study[31] of an obese population, the abundance of 
+Faecalibacterium increased following long-term consumption of the 
+Mediterranean diet, which is characterized by high consumption of 
+vegetables, fruits, nuts, legumes, and unprocessed cereals. 
+Conversely, epidemiological study[32] has shown that poor 
+adherence to the Mediterranean diet is associated with increased 
+prevalence of ADHD. Furthermore, the ADHD diagnosis is 
+significantly higher among children who follow Western dietary 
+patterns (i.e., high intakes of fat, refined sugars, and sodium and low 
+intakes of fiber, folate, and omega-3 fatty acids)[33], which is 
+associated with low levels of Faecalibacterium[34]. Assuming that 
+the correlations identified in the present study contribute to ADHD, 
+a theoretical modulation of ADHD through diet may happen not only 
+via microbiota changes, and other mechanisms can be implicated 
+(e.g. inflammation, lipids, amines etc). Given the influences of 
+bacterial interaction networks and host genetics on the gut 
+microbiota, it is difficult to predict how a particular gut microbiome 
+will respond to a given dietary intervention. In any case, increasing 
+gut levels of Faecalibacterium may be beneficial for ADHD 
+patients. 
+ACCEPTED MANUSCRIPT
+22 
+ 
+The LEfSe approach in the present study also showed that the 
+levels of several genera differed. It is interesting that there was a 
+significant decrease in Dialister in ADHD patients compared to the 
+HCs. Previous studies[35, 36] have suggested that the activity 
+dimension of temperament is predictive of ADHD symptoms in 
+early adolescence. Christian et al.[37] reported that Dialister was 
+positively associated with measures of activity level and 
+high-intensity pleasure in toddler-aged children. In humans, 
+Dialister is also linked to lower levels of interleukin (IL)-6 after 
+exposure to a whole-grain diet[38]. As succinate-utilizing bacteria, 
+dietary carbohydrate positively correlated with Dialister[39]. It is 
+unclear why this taxon decreased in ADHD patients, though 
+inflammation or unhealthy diet are possibilities. Additionally, the 
+genus Sutterella was highly enriched in healthy control. A number 
+of studies have investigated the possible association between 
+Sutterella and autism, but results of previous studies have been 
+inconsistent. Wang et al[40] showed that numbers of Sutterella are 
+elevated in feces of ASD children relative to controls, whereas 
+Luna et al[41] found marked decrease in intestinal mucosa. Thus, it 
+is very complex to relate a specific bacteria genus/family with a 
+determined set of behaviors, mechanistic studies in rodent models 
+are warranted to investigate these hypotheses. 
+ACCEPTED MANUSCRIPT
+23 
+ 
+The main limitation of the present study was its cross-sectional 
+design, which prevents any conclusions about causality. For 
+example, it remains unclear whether the observed relationships 
+between 
+specific 
+gut 
+microbiota 
+genera 
+and 
+hyperactivity/inattention symptoms persist over time. However, the 
+fecal samples of the patients were obtained prior to any 
+pharmacological intervention, which suggests that the differences in 
+gut microbiota composition may be native to the illness. Future 
+research with repeated stool measurements using pre- and 
+post-intervention strategies and considerations of symptom severity 
+will be necessary to address this limitation. The present findings are 
+further limited by the small sample size of the study, and the results 
+will need to be evaluated using a validation cohort. 
+The present study also has several strengths. First, only 
+treatment-naïve ADHD juveniles were included, which excluded the 
+impact of treatment on the microbiota profiles. Second, sophisticated 
+statistical analyses using a relatively conservative FDR q-value were 
+performed to correct for multiple tests of the hypothesis. Third, the 
+use of the LDA effect size allowed for control of relative species 
+abundance and provided an estimate of the magnitude of the 
+observed differences. 
+In conclusion, the present study identified preliminary significant 
+ACCEPTED MANUSCRIPT
+24 
+ 
+differences in microbial numbers and composition between ADHD 
+patients and HCs indicating that Faecalibacterium was associated 
+with ADHD and was negatively correlated with the severity of 
+ADHD symptoms. Thus, studies investigating Faecalibacterium 
+interventions against ADHD will be necessary. Future studies are 
+needed to validate the present findings and elucidate the temporal 
+and causal relationships between the gut microbiota and ADHD.
+ACCEPTED MANUSCRIPT
+25 
+ 
+References 
+[1] J.F. Cryan, T.G. Dinan, Mind-altering microorganisms: the impact of the gut microbiota on brain and 
+behaviour, Nature reviews. Neuroscience 13(10) (2012) 701-12. 
+[2] Y. Wang, L.H. Kasper, The role of microbiome in central nervous system disorders, Brain, behavior, 
+and immunity 38 (2014) 1-12. 
+[3] Y.E. Borre, G.W. O'Keeffe, G. Clarke, C. Stanton, T.G. Dinan, J.F. Cryan, Microbiota and 
+neurodevelopmental windows: implications for brain disorders, Trends in molecular medicine 20(9) 
+(2014) 509-18. 
+[4] S. Leclercq, F.M. Mian, A.M. Stanisz, L.B. Bindels, E. Cambier, H. Ben-Amram, O. Koren, P. Forsythe, J. 
+Bienenstock, Low-dose penicillin in early life induces long-term changes in murine gut microbiota, 
+brain cytokines and behavior, Nature communications 8 (2017) 15062. 
+[5] T.L. Gur, L. Shay, A.V. Palkar, S. Fisher, V.A. Varaljay, S. Dowd, M.T. Bailey, Prenatal stress affects 
+placental cytokines and neurotrophins, commensal microbes, and anxiety-like behavior in adult 
+female offspring, Brain, behavior, and immunity 64 (2017) 50-58. 
+[6] C.G. de Theije, H. Wopereis, M. Ramadan, T. van Eijndthoven, J. Lambert, J. Knol, J. Garssen, A.D. 
+Kraneveld, R. Oozeer, Altered gut microbiota and activity in a murine model of autism spectrum 
+disorders, Brain, behavior, and immunity 37 (2014) 197-206. 
+[7] C. Newell, M.R. Bomhof, R.A. Reimer, D.S. Hittel, J.M. Rho, J. Shearer, Ketogenic diet modifies the 
+gut microbiota in a murine model of autism spectrum disorder, Molecular autism 7(1) (2016) 37. 
+[8] E. Schwarz, J. Maukonen, T. Hyytiainen, T. Kieseppa, M. Oresic, S. Sabunciyan, O. Mantere, M. 
+Saarela, R. Yolken, J. Suvisaari, Analysis of microbiota in first episode psychosis identifies preliminary 
+associations with symptom severity and treatment response, Schizophrenia research  (2017). 
+[9] S.J. Evans, C.M. Bassis, R. Hein, S. Assari, S.A. Flowers, M.B. Kelly, V.B. Young, V.E. Ellingrod, M.G. 
+McInnis, The gut microbiome composition associates with bipolar disorder and illness severity, Journal 
+of psychiatric research 87 (2017) 23-29. 
+[10] H. Jiang, Z. Ling, Y. Zhang, H. Mao, Z. Ma, Y. Yin, W. Wang, W. Tang, Z. Tan, J. Shi, L. Li, B. Ruan, 
+Altered fecal microbiota composition in patients with major depressive disorder, Brain, behavior, and 
+immunity 48 (2015) 186-94. 
+[11] M.C. Cenit, I.C. Nuevo, P. Codoner-Franch, T.G. Dinan, Y. Sanz, Gut microbiota and attention deficit 
+hyperactivity disorder: new perspectives for a challenging condition, European child & adolescent 
+psychiatry  (2017). 
+[12] A. Thapar, M. Cooper, Attention deficit hyperactivity disorder, Lancet (London, England) 
+387(10024) (2016) 1240-50. 
+[13] A. Thapar, M. Cooper, O. Eyre, K. Langley, What have we learnt about the causes of ADHD?, 
+Journal of child psychology and psychiatry, and allied disciplines 54(1) (2013) 3-16. 
+[14] A. Partty, M. Kalliomaki, P. Wacklin, S. Salminen, E. Isolauri, A possible link between early 
+probiotic intervention and the risk of neuropsychiatric disorders later in childhood: a randomized trial, 
+Pediatric research 77(6) (2015) 823-8. 
+[15] R.F. Slykerman, J. Thompson, K.E. Waldie, R. Murphy, C. Wall, E.A. Mitchell, Antibiotics in the first 
+year of life and subsequent neurocognitive outcomes, Acta paediatrica 106(1) (2017) 87-94. 
+[16] E.A. Curran, S.M. O'Neill, J.F. Cryan, L.C. Kenny, T.G. Dinan, A.S. Khashan, P.M. Kearney, Research 
+review: Birth by caesarean section and development of autism spectrum disorder and 
+attention-deficit/hyperactivity disorder: a systematic review and meta-analysis, Journal of child 
+ACCEPTED MANUSCRIPT
+26 
+ 
+psychology and psychiatry, and allied disciplines 56(5) (2015) 500-8. 
+[17] J. Kaufman, B. Birmaher, D. Brent, U. Rao, C. Flynn, P. Moreci, D. Williamson, N. Ryan, Schedule for 
+Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version 
+(K-SADS-PL): initial reliability and validity data, Journal of the American Academy of Child and 
+Adolescent Psychiatry 36(7) (1997) 980-8. 
+[18] Conners, Conners 3rd edition (3rd ed.). Toronto, Ontario, Canada: Multi-Health Systems.,  
+(2008). 
+[19] E. Aarts, T.H.A. Ederveen, J. Naaijen, M.P. Zwiers, J. Boekhorst, H.M. Timmerman, S.P. Smeekens, 
+M.G. Netea, J.K. Buitelaar, B. Franke, S. van Hijum, A. Arias Vasquez, Gut microbiome in ADHD and its 
+relation to neural reward anticipation, PloS one 12(9) (2017) e0183509. 
+[20] Q. Le Bastard, G.A. Al-Ghalith, M. Gregoire, G. Chapelet, F. Javaudin, E. Dailly, E. Batard, D. Knights, 
+E. Montassier, Systematic review: human gut dysbiosis induced by non-antibiotic prescription 
+medications, Alimentary pharmacology & therapeutics 47(3) (2018) 332-345. 
+[21] J. Penders, E.E. Stobberingh, P.A. van den Brandt, C. Thijs, The role of the intestinal microbiota in 
+the development of atopic disorders, Allergy 62(11) (2007) 1223-36. 
+[22] J.V. Schans, R. Cicek, T.W. de Vries, E. Hak, P.J. Hoekstra, Association of atopic diseases and 
+attention-deficit/hyperactivity disorder: A systematic review and meta-analyses, Neuroscience and 
+biobehavioral reviews 74(Pt A) (2017) 139-148. 
+[23] E. Quevrain, M.A. Maubert, C. Michon, F. Chain, R. Marquant, J. Tailhades, S. Miquel, L. Carlier, L.G. 
+Bermudez-Humaran, B. Pigneur, O. Lequin, P. Kharrat, G. Thomas, D. Rainteau, C. Aubry, N. Breyner, C. 
+Afonso, S. Lavielle, J.P. Grill, G. Chassaing, J.M. Chatel, G. Trugnan, R. Xavier, P. Langella, H. Sokol, P. 
+Seksik, Identification of an anti-inflammatory protein from Faecalibacterium prausnitzii, a commensal 
+bacterium deficient in Crohn's disease, Gut 65(3) (2016) 415-425. 
+[24] X. Qiu, M. Zhang, X. Yang, N. Hong, C. Yu, Faecalibacterium prausnitzii upregulates regulatory T 
+cells and anti-inflammatory cytokines in treating TNBS-induced colitis, Journal of Crohn's & colitis 7(11) 
+(2013) e558-68. 
+[25] R.H. Mitchell, B.I. Goldstein, Inflammation in children and adolescents with neuropsychiatric 
+disorders: a systematic review, Journal of the American Academy of Child and Adolescent Psychiatry 
+53(3) (2014) 274-96. 
+[26] M.L. Wong, A. Inserra, M.D. Lewis, C.A. Mastronardi, L. Leong, J. Choo, S. Kentish, P. Xie, M. 
+Morrison, S.L. Wesselingh, G.B. Rogers, J. Licinio, Inflammasome signaling affects anxiety- and 
+depressive-like behavior and gut microbiome composition, Molecular psychiatry 21(6) (2016) 797-805. 
+[27] H. Harmanci, F. Cam Celikel, I. Etikan, Comorbidity of Adult Attention Deficit and Hyperactivity 
+Disorder in Bipolar and Unipolar Patients, Noro psikiyatri arsivi 53(3) (2016) 257-262. 
+[28] S. El Aidy, A.S. Ramsteijn, F. Dini-Andreote, R. van Eijk, D.J. Houwing, J.F. Salles, J.D.A. Olivier, 
+Serotonin Transporter Genotype Modulates the Gut Microbiota Composition in Young Rats, an Effect 
+Augmented by Early Life Stress, Frontiers in cellular neuroscience 11 (2017) 222. 
+[29] L. Mayorga Reyes, R. Gonzalez Vazquez, S.M. Cruz Arroyo, A. Melendez Avalos, P.A. Reyes Castillo, 
+D.A. Chavaro Perez, I. Ramos Terrones, N. Ramos Ibanez, M.M. Rodriguez Magallanes, P. Langella, L. 
+Bermudez Humaran, A. Azaola Espinosa, Correlation between diet and gut bacteria in a population of 
+young adults, International journal of food sciences and nutrition 67(4) (2016) 470-8. 
+[30] W.S. Chung, A.W. Walker, P. Louis, J. Parkhill, J. Vermeiren, D. Bosscher, S.H. Duncan, H.J. Flint, 
+Modulation of the human gut microbiota by dietary fibres occurs at the species level, BMC biology 14 
+(2016) 3. 
+ACCEPTED MANUSCRIPT
+27 
+ 
+[31] C. Haro, M. Montes-Borrego, O.A. Rangel-Zuniga, J.F. Alcala-Diaz, F. Gomez-Delgado, P. 
+Perez-Martinez, J. Delgado-Lista, G.M. Quintana-Navarro, F.J. Tinahones, B.B. Landa, J. Lopez-Miranda, 
+A. Camargo, F. Perez-Jimenez, Two Healthy Diets Modulate Gut Microbial Community Improving 
+Insulin Sensitivity in a Human Obese Population, The Journal of clinical endocrinology and metabolism 
+101(1) (2016) 233-42. 
+[32] I. San Mauro Martin, J.A. Blumenfeld Olivares, E. Garicano Vilar, M. Echeverry Lopez, M. Garcia 
+Bernat, Y. Quevedo Santos, M. Blanco Lopez, P. Elortegui Pascual, E. Borregon Rivilla, M. Rincon 
+Barrado, Nutritional and environmental factors in attention-deficit hyperactivity disorder (ADHD): A 
+cross-sectional study, Nutritional neuroscience  (2017) 1-7. 
+[33] A.L. Howard, M. Robinson, G.J. Smith, G.L. Ambrosini, J.P. Piek, W.H. Oddy, ADHD is associated 
+with a "Western" dietary pattern in adolescents, Journal of attention disorders 15(5) (2011) 403-11. 
+[34] Q. Shen, L. Zhao, K.M. Tuohy, High-level dietary fibre up-regulates colonic fermentation and 
+relative abundance of saccharolytic bacteria within the human faecal microbiota in vitro, European 
+journal of nutrition 51(6) (2012) 693-705. 
+[35] J. Kerner Auch Koerner, N. Gust, F. Petermann, Developing ADHD in preschool: Testing the dual 
+pathway model of temperament, Applied neuropsychology. Child  (2017) 1-8. 
+[36] T. Einziger, L. Levi, Y. Zilberman-Hayun, J.G. Auerbach, N. Atzaba-Poria, S. Arbelle, A. Berger, 
+Predicting ADHD Symptoms in Adolescence from Early Childhood Temperament Traits, Journal of 
+abnormal child psychology  (2017). 
+[37] L.M. Christian, J.D. Galley, E.M. Hade, S. Schoppe-Sullivan, C. Kamp Dush, M.T. Bailey, Gut 
+microbiome composition is associated with temperament during early childhood, Brain, behavior, and 
+immunity 45 (2015) 118-27. 
+[38] I. Martinez, J.M. Lattimer, K.L. Hubach, J.A. Case, J. Yang, C.G. Weber, J.A. Louk, D.J. Rose, G. 
+Kyureghian, D.A. Peterson, M.D. Haub, J. Walter, Gut microbiome composition is linked to whole 
+grain-induced immunological improvements, The ISME journal 7(2) (2013) 269-80. 
+[39] M. Morotomi, F. Nagai, H. Sakon, R. Tanaka, Dialister succinatiphilus sp. nov. and Barnesiella 
+intestinihominis sp. nov., isolated from human faeces, International journal of systematic and 
+evolutionary microbiology 58(Pt 12) (2008) 2716-20. 
+[40] L. Wang, C.T. Christophersen, M.J. Sorich, J.P. Gerber, M.T. Angley, M.A. Conlon, Increased 
+abundance of Sutterella spp. and Ruminococcus torques in feces of children with autism spectrum 
+disorder, Molecular autism 4(1) (2013) 42. 
+[41] R.A. Luna, N. Oezguen, M. Balderas, A. Venkatachalam, J.K. Runge, J. Versalovic, J. 
+Veenstra-VanderWeele, G.M. Anderson, T. Savidge, K.C. Williams, Distinct Microbiome-Neuroimmune 
+Signatures Correlate With Functional Abdominal Pain in Children With Autism Spectrum Disorder, 
+Cellular and molecular gastroenterology and hepatology 3(2) (2017) 218-230. 
+ 
+ 
+ACCEPTED MANUSCRIPT
+28 
+ 
+ 
+ 
+Figure 1 Phylotypes significantly different between ADHD and HC 
+groups at (a) Phylum level (b) family level and (c) genus level, # 
+p<0.05. LEfSe identified the most differentially abundant taxons 
+between HC and ADHD groups at genus level. Taxonomic 
+cladogram obtained from LEfSe analysis of 16S sequences (relative 
+abundance >0.5%). HC-enriched taxa are indicated with a positive 
+LDA score (green), and taxa enriched in ADHD have a negative 
+score (red). Only taxa meeting an LDA significant threshold >2 are 
+shown (d). (e) and (f) Correlation between the relative abundance of 
+the genera Faecalibacterium and severity of ADHD symptoms. The 
+ACCEPTED MANUSCRIPT
+29 
+ 
+spearman rank correlation (R) and probability (P) were used to 
+evaluate statistical importance. 
+ACCEPTED MANUSCRIPT
+30 
+ 
+Table 1. Descriptive data of included children in the study 
+. 
+ADHD patients 
+Healthy controls 
+p value 
+Age (years; means ± SD)  
+8.47(8.47) 
+8.5(8.47) 
+0.914 
+Proportion of Females, No. (%) 
+13/51 
+10/32 
+0.57 
+BMI (means ± SD)  
+16.4(2.02) 
+16.09(2.02) 
+0.475 
+Pregnancy age (years; means ± SD)   
+27.6(3.57) 
+28.09(3.36) 
+0.54 
+Premature birth, No. (%) 
+3/51 
+1/32 
+0.58 
+Vaginal delivery 
+22/51 
+15/32 
+0.74 
+Breast feeding 
+33/51 
+15/32 
+0.13 
+Birth weight  (means ± SD) 
+3.7(1.23) 
+3.9(1.56) 
+0.76 
+Severity of ADHD symptoms 
+   Total CPRS score 
+10.5(3.7) 
+2(0.56) 
+<0.01 
+   Conduct problems 
+3(1.57) 
+0.15(0.28) 
+<0.01 
+   Learning problems 
+1.81(0.6) 
+0.2(0.32) 
+<0.01 
+   Impulsive–hyperactivity 
+1.5(0.64) 
+0.15(0.26) 
+<0.01 
+   Hyperactivity 
+3.26(1.34) 
+0.05(0.2) 
+<0.01 
+   Psychosomatic 
+0.41(0.44) 
+0.3(0.26) 
+0.56 
+   Anxiety 
+0.5(0.46) 
+0.3(0.32) 
+0.51 
+Richness estimator 
+   ACE 
+247.01(54.646) 
+229.08(52.249) 
+0.143 
+   Chao 1 
+246.12(58.394) 
+229.97(54.492) 
+0.212 
+Diversity index 
+  Shannon 
+3.361(0.437) 
+3.337(0.398) 
+0.8 
+  Simpson 
+0.082(0.041) 
+0.081(0.04) 
+0.974 
+ 
+ACCEPTED MANUSCRIP
+

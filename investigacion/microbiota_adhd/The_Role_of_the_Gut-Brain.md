@@ -1,0 +1,89 @@
+# The Role Of The Gut-Brain
+
+## Metadata
+- **Authors**: The Role of the Gut-Brain, Hyperactivity Disorder, Sarita A. Dam, MSca,*, Jeanette C. Mostert, PhDb,, Joanna W. Szopinska-Tokov, MScc, Mirjam Bloemendaal, PhDc,, Maria Amato, MScb, Alejandro Arias-Vasquez, PhDb,c
+- **Year**: 2019
+- **Journal**: The Role of the Gut-Brain
+- **DOI**: 10.1016/j.gtc.2019.05.001
+- **PDF Source**: The_Role_of_the_Gut-Brain.md
+
+## Abstract / Summary
+Research on the effects of the gut microbiome, via the GBA in ADHD introduces a
+novel paradigm and has the potential to set in motion a real conceptual change: neuro-
+developmental diseases such as ADHD (and related comorbidities) should no longer
+be considered brain disorders exclusively, but rather disorders that present as the ef-
+fect of interactions between the microbiome, host genetics, the gastrointestinal sys-
+tem, and the brain. REFERENCES
+1. Bastiaanssen TFS, Cowan CSM, Claesson MJ, et al. Making sense of.
+
+## Key Findings
+
+### Finding 1: Study Results
+- **Evidence**: See full PDF text below for detailed results.
+- **Mechanism**: Mechanism details in full text.
+- **ADHD Relevance**: Clinical relevance outlined in full PDF.
+
+## Methods
+, nor are interindividual
+differences or the mechanisms underlying effects of such components completely
+understood.67
+INTESTINAL BACTERIA AS A MECHANISTIC LINK BETWEEN DIET AND ATTENTION-
+DEFICIT/HYPERACTIVITY DISORDER
+Diet might influence ADHD-related behavioral processes acting directly on the
+en...
+
+## Clinical Implications
+See full PDF text for clinical applications.
+
+## Limitations
+Refer to full PDF for study limitations.
+
+## Full Citation
+The Role of the Gut-Brain, Hyperactivity Disorder, Sarita A. Dam, MSca,*, Jeanette C. Mostert, PhDb,, Joanna W. Szopinska-Tokov, MScc, Mirjam Bloemendaal, PhDc,, Maria Amato, MScb, Alejandro Arias-Vasquez, PhDb,c. [Article Title]. *The Role of the Gut-Brain*. 2019. doi:10.1016/j.gtc.2019.05.001
+
+## Keywords / Tags
+`#ADHD` `#research` `#gut-microbiota` `#neurobiology`
+
+---
+
+## FULL PDF TEXT (For Reference)
+
+```
+
+The Role of the Gut-Brain
+Axis in Attention-Deficit/
+Hyperactivity Disorder
+Sarita A. Dam, MSca,*, Jeanette C. Mostert, PhDb,
+Joanna W. Szopinska-Tokov, MScc, Mirjam Bloemendaal, PhDc,
+Maria Amato, MScb, Alejandro Arias-Vasquez, PhDb,c
+Disclosure Statement: None of the authors have actual or potential conflict of interest in rela-
+tion to this publication.
+Funding: The research leading to these results received funding from the European Commun-
+ity’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie
+grant agreement no. 643051 (MiND) and under grant agreement no. 728018 (Eat2BeNICE),
+and the Netherlands Organisation for Scientific Research (NWO) Food Cognition and Behavior
+Program in relation to the B3: Brain, Bacteria & Behavior project (grant agreement number
+057–14–005) and Radboudumc Junior researcher round 2018 Donders Centre for Medical
+Neuroscience(DCMN).
+a Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour,
+Radboud University Medical Center, Kapittelweg 29, 6525 EN, Nijmegen, The Netherlands;
+b Department of Human Genetics, Donders Institute for Brain, Cognition and Behaviour,
+Radboud University Medical Center, Geert Grooteplein Zuid 10, 6525 GA, Nijmegen, The
+Netherlands; c Department of Psychiatry, Donders Institute for Brain, Cognition and Behaviour,
+Radboud University Medical Center, Geert Grooteplein Zuid 10, 6525 GA, Nijmegen, The
+Netherlands
+* Corresponding author.
+E-mail address: Sarita.Dam@radboudumc.nl
+KEYWORDS
+ Gut-brain axis  Endocrine communication  Immunology  Metabolites
+ Nerval communication  Biomarkers  ADHD  Genetics
+KEY POINTS
+ Attention-deficit/hyperactivity disorder (ADHD) is a heterogeneous genetic neurodevelop-
+mental disorder, currently mainly treated with medication. Dietary interventions are prom-
+ising nonpharmacologic interventions for ADHD.
+ The gut-brain axis is a bidirectional communication mechanism between the gut and the
+brain that includes nerval
+...
+[See original PDF for complete text]
+
+```

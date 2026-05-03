@@ -1,0 +1,662 @@
+---
+# A Network-Based Neurobiological Model of PTSD: Evidence From Structural and Functional Neuroimaging Studies
+**Autores**: Teddy J. Akiki
+**Año**: 2017
+**Journal**: Curr Psychiatry Rep, doi:10.1007/s11920-017-0840-4
+**DOI/Link**: Posttraumatic stress disorder,Default mode network,Central executive network,Salience network,Functional magnetic resonance imaging,Structural MRI
+
+## Abstract
+Abstract
+Purpose of Review Although a fine-grained understanding of
+the neurobiology of posttraumatic stress disorder (PTSD) is
+yet to be elucidated, the last two decades have seen a rapid
+growth in the study of PTSD using neuroimaging techniques.
+The current review summarizes important findings from func-
+tional and structural neuroimaging studies of PTSD, by pri-
+marily focusing on their relevance towards an emerging
+network-based neurobiological model of the disorder.
+Recent Findings PTSD may be characterized by a weakly
+connected and hypoactive default mode network (DMN) and
+central executive network (CEN) that are putatively
+destabilized by an overactive and hyperconnected salience
+network (SN), which appears to have a low threshold for per-
+ceived saliency, and inefficient DMN-CEN modulation.
+Summary There is considerable evidence for large-scale func-
+tional and structural network dysfunction in PTSD.
+Nevertheless, several limitations and gaps in the literature
+need to be addressed in future research.
+Keywords Posttraumatic stress disorder . Default mode
+network . Central executive network . Salience network .
+Functional magnetic resonance imaging . Structural MRI
+Introduction
+Posttraumatic stress disorder (PTSD) is a debilitating psychi-
+atric illness that is characterized by persistent symptoms of re-
+experiencing, avoidance of trauma-related stimuli, negative
+thoughts and feelings, and arousal and reactivity that develops
+in certain individuals in the aftermath of a traumatic event [1].
+Prevalence rates of PTSD are estimated at 6.8% in the general
+population in the USA [2] and at 23% in US veterans [3]. A
+fine-grained understanding of the neurobiology of PTSD is
+yet to be elucidated. However, the last two decades have seen
+a rapid growth in the study of PTSD using neuroimaging
+techniques that were made possible by considerable advance-
+ments in the technology and
+
+## Key Findings
+discussion 2-4. https://doi.org/
+10.1002/hipo.1023.
+76.
+Winter H, Irle E. Hippocampal volume in adult burn patients with
+and without posttraumatic stress disorder. Am J Psychiatry.
+2004;161(12):2194–200. https://doi.org/10.1176/appi.ajp.161.12.
+2194.
+77.
+Gilbertson MW, Shenton ME, Ciszewski A, Kasai K, Lasko NB,
+Orr SP, et al. Smaller hippocampal volume predicts pathologic vul-
+nerability to psychological trauma. Nat Neurosci. 2002;5(11):
+1242–7. https://doi.org/10.1038/nn958.
+78.
+Kasai K, Yamasue H, Gilbertson MW, Shenton ME, Rauch SL,
+Pitman RK. Evidence for acquired pregenual anterior cingulate
+gray matter loss from a twin study of combat-related posttraumatic
+stress disorder. Biol Psychiatry. 2008;63(6):550–6. https://doi.org/
+10.1016/j.biopsych.2007.06.022.
+Curr Psychiatry Rep  (2017) 19:81 
+Page 9 of 10  81 
+79.
+Patriat R, Birn RM, Keding TJ, Herringa RJ. Default-mode network
+abnormalities in pediatric posttraumatic stress disorder. J Am Acad
+Child Adolesc Psychiatry. 2016;55(4):... (Extracted from Discussion)
+
+## Methodology
+methods.
+Advances in functional neuroimaging methods, such as
+functional magnetic resonance imaging (fMRI), positron
+emission tomography (PET), and single-photon emission
+computed tomography (SPECT), have enabled the explora-
+tion of dynamic neural changes involved in the pathophysiol-
+ogy of PTSD. In PET and SPECT, a radioactive tracer is ad-
+ministered to quantify regional brain metabolism or regional
+cerebral blood flow, providing a measure of neuronal activity.
+In contrast, fMRI is based on the intrinsic blood-oxygen-level
+dependent (BOLD) signal and does not require the adminis-
+tration of a tracer. By measuring regional metabolic or blood
+flow changes, PET and SPECT inherently provide a more
+direct estimates of neuronal activation; while in fMRI, several
+techniques have been developed to indirectly quantify this
+activity. For example, the amplitudes of low-frequency fluc-
+tuations (ALFFs) of the BOLD signal can be quantified as a
+Teddy J. Akiki and Christopher L. Averill contributed equally to this
+work.
+This article is part of the Topical Collection on Disaster Psychiatry:
+Trauma, PTSD, and Related Disorders
+* Chadi G. Abdallah
+chadi.abdallah@yale.edu
+1
+Clinical Neuroscience Division—National Center for PTSD, VA
+Connecticut Healthcare System, 950 Campbell Avenue, 151E, West
+Haven, CT 06516, USA
+2
+Department of Psychiatry, Yale University School of Medicine, New
+Haven, CT, USA
+Curr Psychiatry Rep  (2017) 19:81 
+DOI 10.1007/s11920-017-0840-4
+measure of intrinsic regional activity. Several meta-analyses
+have pooled multi-modal brain activation studies (PET,
+SPECT, and fMRI) using an activation likelihood estimation
+(ALE) approach, which may provide a more confirmatory
+evidence to complement findings from individual studies
+[4•, 5–7]. In addition to activation studies, functional connec-
+tivity has been also employed in the study of psychopatholo-
+gy. Functional connectivity usually refers to a functional cou-
+pling or association (e.g., Pearson correlation, granger causal-
+ity) between time series extracted from different voxels or
+regions of interest (ROIs). The structural characteristics of
+the brain can be assessed using structural MRI (sMRI). To
+date, the majority of sMRI studies in PTSD have focused on
+volumetric gray matter (GM) alterations, but a growing body
+of research includes measures such as cortical thickness and
+morphometry. Finally, white matter tract connectivity and in-
+tegrity can be studied using diffusion MRI (dMRI), which
+capitalizes on the diffusion of water molecules to create a
+contrast in the images, therefore identifying membrane-
+bound fibers (i.e., axons). The constraint of the movement of
+water molecules along a longitudinal tract can be quantified as
+fractional anisotropy (FA), where lower values may reflect
+impaired overall integrity of white matter tracts.
+As part of a Special Issue on PTSD, this selective review
+will summarize important findings from functional and struc-
+tural neuroimaging studies of PTSD, by primarily focusing on
+their relevance towards an emerging network-based neurobi-
+ological model of the disorder [8]. The readers are referred to
+[9, 10•, 11•, 12, 13] for complementary and alternative neuro-
+biological models of PTSD and to [4•, 5–7, 14•] for more
+comprehensive systematic reviews and meta-analyses.
+Network-Based Neurobiological Model of PTSD
+Traditionally, evidence of brain alterations in PTSD has
+been presented under a fronto-limbic model that in-
+cludes the amygdala, medial prefrontal cortex (mPFC),
+and hippocampus as core implicated structures. This
+model stipulates that an overactive amygdala is respon-
+sible for heightened arousal and exaggerated fear, aggra-
+vated by loss of top-down inhibition due to a dysfunc-
+tional mPFC; the hippocampus integrates into this pic-
+ture by failing to identify safe or otherwise non-
+threatening situations thereby contributing to avoidance
+and re-experiencing (referred to in the hippocampal lit-
+erature as pattern separation) [15]. Indeed, several lines
+of evidence from different imaging techniques have cor-
+roborated a disruption within these structures [9].
+However, it is becoming increasingly clear that the scope of
+the functional abnormalities requires a broader approach to
+better capture the complexity of the disorder. Compelling ev-
+idence suggests that the brain is organized into functionally
+distinct brain networks with high intrinsic connectivity—
+dubbed intrinsic connectivity networks (ICNs) [16]. ICNs
+are identified using data-driven decomposition methods, and
+therefore, their identification does not require a priori hypoth-
+eses [16]. Rather than constraining this review to alterations
+within discrete structures under the traditional fronto-limbic
+neurocircuitry model of PTSD, we attempt to present the ev-
+idence of functional alterations in the broader framework of
+large-scale network dysfunction (see Fig. 1 and Table 1).
+Generally, in PTSD, the vast majority of the evidence has
+fallen under one of three of such networks. They are known
+as the default mode, the central executive (also referred to as
+fronto-parietal control), and the salience (also referred to as
+ventral attention) networks. Collectively, disruption in these
+three networks has been dubbed the triple network model by
+Menon [8].
+One of the most robustly identifiable networks is known as
+the default mode network (DMN). In contrast to most ICNs,
+the DMN exhibits relative hypoactivity during cognitive and
+stimulus-driven tasks and is most active at rest. Indeed, some
+of the main functions of the DMN are thought to involve self-
+referential thought and other introspective processes—activi-
+ties that predominantly occur at rest. Structurally, this network
+consists of core regions in the posterior cingulate cortex
+(PCC), ventromedial prefrontal cortex (vmPFC), and medial
+temporal lobe (MTL; including the hippocampus) [49].
+Although ICNs constitute functionally coupled entities by def-
+inition, structures of the DMN seem to additionally exhibit
+strong structural interconnections, highlighting the evolution-
+ary importance of this network [50]. Given the known mani-
+festations of intrusive symptoms, dissociation, and avoidance
+in PTSD [1], it is possible that a dysfunction in core structures
+of the DMN, or functional or structural dysconnectivity be-
+tween these structures, may mirror these behavioral changes
+[8].
+The central executive network (CEN) is active during cog-
+nitively demanding tasks, goal-directed behavior, and cogni-
+tive control of emotions and is centered around the dorsolat-
+eral prefrontal cortex (dlPFC), encompassing the middle fron-
+tal gyrus, precuneus, and parts of the premotor cortex [8, 16].
+A disrupted CEN may contribute to the cognitive and memory
+deficits and the loss of top-down emotional control observed
+in PTSD [8].
+The salience network (SN) is involved in the detection
+of salient internal and external stimuli. Core structures that
+are part of the SN are the amygdala, insula, and dorsal
+anterior cingulate cortex (dACC) [8]. Within the SN,
+based on the perceived threat level, the anterior insula is
+thought to arbitrate/modulate the dynamics between CEN
+and DMN (switching between task-relevant and task-
+irrelevant behavior), and effective connectivity analyses
+have inferred its causal control over these two networks
+in the normal brain [8, 51]. Consequently, aberrancy in the
+ 81 
+Page 2 of 10
+Curr Psychiatry Rep  (2017) 19:81 
+Fig. 1 Network-based neurobiological model of PTSD. The figure shows
+the cortical representations of the salience network (SN; orange), default
+mode network (DMN; red), and central executive network (CEN; blue) in
+healthy individuals [16]; notable region of interests (ROIs) within these
+networks; the changes in PTSD predicted by the model; and the putative
+resulting phenotypic abnormalities. Alterations within and between the SN,
+the CEN, and the DMN may underlie the psychopathology of PTSD.
+According to this model, the SN is hyperconnected and hyperactive and
+has a low threshold for perceived saliency (underlying symptoms of
+hyperarousal) and is incapable of efficient DMN-CEN modulation (i.e.,
+switching between task-relevant and task-irrelevant behavior); the CEN is a
+weakly interconnected and hypoactive (paralleling impaired cognition) and is
+incapable of top-down SN regulation; finally, the DMN is a weakly
+interconnected and hypoactive resulting in disrupted ability to maintain a
+calm inner state (intrusive symptoms), altered sense of self/world
+(dissociation), and fear generalization (avoidance; mediated by the
+hippocampus). The asterisk denotes an altered between-network connectivity
+Table 1
+Summary of neuroimaging findings in PTSD
+Intrinsic Fc
+Functional activity Between-network Fc
+WM
+GM
+DMN ↓vmPFC-hippocampus [17], vmPFC-posterior
+hippocampus [18], PCC-posterior hippocampus
+[18], PCC-hippocampus [19], PCC-vmPFC [19],
+overall [20], PCC-vmPFC-MTL [21]
+↓vmPFC, PCC
+[4•, 5–7]
+↓↑hippocampus
+[5, 6]
+↑anterior
+hippocampus
+[6]
+↑increased
+insula--
+hippocampus [17],
+amygdala-vmPFC
+[22]
+↓FA in cingulum
+(vmPFC-PCC)
+[23–25]
+↓FA in
+vmPFC-hippocam-
+pus [26, 27]
+↓vmPFC [28]
+↓vmPFC [29],
+PCC [30], MTL
+[30–32],
+hippocampus
+[33]
+↓anterior
+hippocampus
+[34, 35]
+CEN
+↓premotor cortex-dlPFC, premotor cortex-parietal
+cortex/middle frontal gyrus [36], precuneus-CEN
+[21]
+↓dlPFC [4•, 6]
+↑precuneus [6]
+↑SN-CEN coupling
+[37]
+↑FA in dlPFC [38]
+↑↓dlPFC [39–42]
+SN
+↑amygdala-insula [17, 43], amygdala-dACC [22]
+↓dACC-SN [21]
+↑amygdala [4•, 5,
+6], dACC [6],
+anterior insula
+[4•, 6, 7]
+–
+↓FA in insula,
+cingulum
+[23, 24, 28]
+↓↑amygdala
+[44–46]
+↓dACC [14•, 29,
+47], insula
+[29, 42, 48]
+Fc functional connectivity, WM white matter, GM gray matter, DMN default mode network, CEN central executive network, SN salience network,
+vmPFC ventral prefrontal cortex, PCC posterior cingulate cortex, MTL medial temporal lobe, FA fractional anisotropy, dlPFC dorsolateral prefrontal
+cortex, dACC dorsal anterior cingulate cortex
+Curr Psychiatry Rep  (2017) 19:81 
+Page 3 of 10  81 
+SN may alter these threat detection functions and could
+underlie behaviors such as hyperarousal [8].
+Evidence from Structural and Functional
+Neuroimaging Studies
+Default Mode Network
+Resting-state ROI-to-ROI fMRI connectivity studies have
+demonstrated a decreased coupling between known structures
+of the DMN in PTSD, such as the vmPFC-hippocampus [17],
+PCC-hippocampus [19, 52], and PCC-vmPFC [19], often cor-
+relating with symptom severity. DMN functional
+dysconnectivity has also been replicated using approaches
+other than ROI-to-ROI connectivity. Using a more compre-
+hensive representation of the DMN and graph theoretical anal-
+ysis, one study showed a decrease in overall connectivity
+strength in the PTSD group [20]. Another study made use of
+signal decomposition methods and found evidence of de-
+creased affinity of the PCC to the rest of the DMN during an
+autobiographical memory task [21]. With regard to structural
+connectivity in PTSD, reduced FA has been described within
+the white matter of the vmPFC region [28], in the white matter
+linking vmPFC to PCC (i.e., cingulum bundle) [23–25] and in
+the white matter linking the vmPFC to the hippocampus [26,
+27]. These findings suggest that the structural changes may at
+least partly contribute to the alterations observed at the func-
+tional level. Structurally, localized GM reductions (i.e., vol-
+ume or thickness) have been described in the vmPFC [29],
+PCC [30], MTL [30–32], and hippocampus [33]. Functional
+imaging data here shows vmPFC and PCC hypoactivity
+across a range of symptom provocation and cognitive-
+emotional studies [5, 6] and during resting state (although less
+consistently) [4•, 7].
+With regard to functional activity in the hippocampus, the
+bulk of the evidence has shown increased activation in PTSD,
+though a number of studies have reported hypoactivation as
+well [5, 6]. The hippocampus is a functionally and structurally
+heterogeneous brain region and performs several functions. A
+particularly relevant division is along its long axis. The ante-
+rior part of the hippocampus is implicated in stress response,
+emotion-related memory, and pattern completion, mediated
+via strong connections to the amygdala [53, 54]; while the
+posterior portion is thought to be more involved in spatial
+functions, and pattern separation, and is anchored in the
+DMN proper [49, 54]. Focused structural (shape and volumet-
+ric) alterations in the anterior hippocampus have been de-
+scribed in the literature [34, 35] and in specific hippocampal
+subfields (e.g., cornu ammonis 3 and dentate gyrus) [9, 55]. A
+pattern of functional dysconnectivity between the anterior hip-
+pocampus and the rest of the brain is also emerging [56].
+Moreover, while the majority of ROI activation studies did
+not make the distinction between anterior vs. posterior hippo-
+campus, the hippocampal activation cluster that was identified
+in a whole-brain meta-analysis in PTSD was located anteriorly
+[6]. Here, hyperactivity could be a reflection of intrusive re-
+collections and a disruption in the extinction process [57].
+Fewer studies have reported on the posterior hippocampus.
+In a resting-state connectivity study, the posterior (but not
+anterior) hippocampus was found to have decreased connec-
+tivity to other regions primarily in the DMN (PCC, vmPFC,
+precuneus) in the PTSD group [18]. Another study found a
+loss of differentiation in anterior vs. posterior functional con-
+nectivity profile in the PTSD group compared to controls [58].
+Here, future ROI activation studies that make the distinction
+between the different parts of the hippocampus will be helpful
+in informing whether there is a differential activation pattern.
+Response to therapy has been linked to normalization of
+DMN abnormalities in some studies. For example, a trial of
+paroxetine in patients with PTSD showed an association be-
+tween increased hippocampal volume posttreatment and over-
+all symptom improvement [59]. Similarly, the response to
+psychotherapy has been linked to normalization in structural
+changes in the rostral anterior cingulate cortex (ACC)
+[60–62], hippocampus [63, 64], and PCC [30]. However, it
+remains unclear whether different types of therapy are associ-
+ated with specific changes. To date, response to both cognitive
+behavioral therapy and prolonged exposure therapy has been
+linked to rostral ACC [60, 62] and hippocampal [62, 63] GM
+increases. Conversely, an increase in the GM of the PCC may
+be more specific to response to eye movement desensitization
+and reprocessing therapy [30].
+Central Executive Network
+Although the CEN remains generally underinvestigated in
+PTSD, there is evidence of weaker functional connectivity
+within the CEN. A decreased connectivity between the
+premotor cortex and the dlPFC (middle frontal gyrus) was
+associated with increasing trauma exposure, while the reduced
+connectivity between premotor cortex and parietal cortex/
+middle frontal gyrus was associated with increased PTSD
+symptom severity [36]. In another fMRI connectivity study
+involving an autobiographical memory task, the CEN in
+PTSD patients showed decreased ability to recruit the
+precuneus [21]—another structure of the CEN. Connectivity
+between the CEN and the DMN also appears to be crucial, as
+increased dlPFC to PCC resting-state connectivity has been
+linked to response to mindfulness-based exposure therapy
+[65].
+In PTSD, the dlPFC shows hypoactivity at rest [4•] and
+across several cognitive-emotional tasks [6]. In contrast, other
+regions such as the precuneus may be hyperactive under emo-
+tional tasks [6]. These findings have been paralleled in the
+sMRI literature with evidence showing reduced dlPFC
+ 81 
+Page 4 of 10
+Curr Psychiatry Rep  (2017) 19:81 
+thickness in PTSD in cross-sectional studies [39–42]. In a
+longitudinal study of trauma victims, increased dlPFC thick-
+ness was found approximately 1 year after trauma [66].
+Moreover, greater dlPFC thickness initially was linked to later
+symptom reduction, earlier improvement, and gradual cortical
+thickness normalization later in the course (The cohort
+remained largely treatment naive throughout the study.) [66].
+The discrepancy between the cross-sectional and the longitu-
+dinal studies could be due to assessment at different time
+points and highlights the relevance of studying PTSD chro-
+nicity. Congruent with the findings from the longitudinal
+study, white matter FA in the dlPFC appears to be increased
+in PTSD [38].
+Taken together, these findings suggest that an increased
+emotional modulation burden on the CEN immediately after
+trauma could lead to compensatory increase in dlPFC cortical
+thickness and white matter FA. Functionally, the CEN may be
+invested in modulating outside ICNs (e.g., SN; see “Salience
+Network”) in order to dampen/compensate for trauma-
+induced changes in these networks (e.g., SN/amygdala hyper-
+activity). The outwards investment of the CEN comes at the
+expense of decreased within-CEN functional connectivity and
+hypoactivity, which could manifest as cognitive and attention-
+al symptoms. With recovery from PTSD, less demand on the
+CEN induces normalization (i.e., reduction) in dlPFC thick-
+ness. This is consistent with the known role of the CEN plays
+in top-down control [57].
+Salience Network
+Increased functional coupling, or ROI-to-ROI connectivity
+between paired regions of the SN, such as amygdala-insula
+[17, 43] and amygdala-dACC [22], has been generally de-
+scribed in PTSD at rest. In contrast, decreased connectivity
+between the dACC and the rest of the SN was reported during
+an autobiographical memory task [21]. Increased insula-
+hippocampus [17] and amygdala-vmPFC [22] connectivity
+at rest have been described and represent increased SN-
+DMN connectivity. Furthermore, during an autobiographical
+memory task, PTSD was associated with an aberrant recruit-
+ment of the amygdala into the DMN (rather than the SN) [21].
+Finally, increased SN to CEN coupling was also evident in
+PTSD under a threat processing paradigm [37]. Within PTSD,
+individuals with the dissociative subtype (PTSD + DS) appear
+to exhibit increased amygdala-dlPFC and amygdala-PCC
+connectivity compared to individuals with non-dissociative
+PTSD (PTSD-DS) [67].
+One of the most replicable findings in functional studies of
+PTSD has been the increased amygdala activity. This finding
+has been captured both at rest and across different task para-
+digms [4•, 5, 6]. The dACC, unlike the ventral or dorsolateral
+regions of the PFC, is also hyperactive in PTSD [6]. This is
+not surprising given the affiliation of the dACC to the SN (In
+contrast, the vmPFC is part of the DMN, and the dlPFC is part
+of the CEN.) [8]. In the insula, there have been some mixed
+
+## Results
+results with regard to its activity in PTSD [5]. Yet, a pattern is
+emerging where the anterior part show increased activity at
+rest and under various emotional and cognitive paradigms,
+while the posterior insula appears to be hypoactive [4•, 6, 7].
+This is better understood in the context of evidence that im-
+plicate the anterior insula in functions such as the arbitration
+between the CEN and DMN and the regulation of physiolog-
+ical changes during social-emotional tasks (anteroventrally;
+via connections to the amygdala) and cognitive-executive
+tasks (anterodorsally) [51, 68]. In contrast, posterior portions
+of the insula predominantly involve somatomotor functions
+[68]. Structurally, the integrity of core elements of the SN
+has been shown to be altered in PTSD. This is characterized
+by GM alterations in the amygdala [44–46], GM reductions in
+the dACC [14•, 29, 47], and abnormalities in the insula. The
+latter is evident by decreased GM [29], cortical thickness [42,
+48], and FA in the white matter [28], as well as by increased
+betweenness centrality [48]—a measure of the importance of a
+particular node in the network.
+Increased functional coupling and hyperactivity within the
+SN at rest may indicate a state of “primed” saliency.
+Weakened connectivity between the dACC and the rest of
+the SN becomes evident during tasks (e.g., autobiographical
+recall), potentially indicating a disrupted top-down inhibition
+under challenge. Exaggerated SN function could disrupt its
+ICN arbitration role, which is evident by increased SN-
+DMN and SN-CEN connectivity. Increased SN-CEN connec-
+tivity could alternatively be reflecting an augmented compen-
+satory CEN top-down function aimed at dampening SN hy-
+peractivity (though the two possibilities are not mutually ex-
+clusive). Furthermore, increased SN-CEN functional
+dysconnectivity in PTSD + DS vs. PTSD-DS may potentially
+represent emotional overmodulation in dissociative PTSD
+[69].
+A summary of the evidence for the network-based model
+has been provided in Table 1.
+
+## Clinical Significance
+Conclusions and Limitations
+Overall, there is considerable evidence for large-scale network
+dysfunction in PTSD. Altered dynamics within and between
+the DMN, CEN, and SN are potentially capable of accounting
+for the varying and heterogeneous endophenotypes of the dis-
+order. Generally, PTSD may be characterized by a weakly
+interconnected and hypoactive DMN, putatively destabilized
+by an overactive and hyperconnected SN. The latter appears to
+have a low threshold for saliency and to be incapable of effi-
+cient DMN-CEN modulation. Abnormalities within the CEN
+may underlie some of the cognitive, executive, and emotional
+regulatory dysfunctions in PTSD. An enhanced CEN to DMN
+Curr Psychiatry Rep  (2017) 19:81 
+Page 5 of 10  81 
+connectivity, which has been linked to treatment response,
+may be an acquired resilience or bypass mechanism by which
+trauma-exposed individuals adapt to/overcome a specific cir-
+cuit or nodal aberrancy.
+The chain of events and the causal interactions between
+these networks have not been studied in PTSD and may be
+crucial in forming a more complete understanding of the
+mechanism behind the disorder. Furthermore, it is unclear if
+structural changes underlie the functional abnormalities, or
+whether the chronicity of the functional abnormalities induces
+long-term structural changes [70]. Longitudinal multi-modal
+studies will be crucial in informing such questions. Several
+limitations in neuroimaging studies limit the interpretability
+and generalizability of the findings. Within the same imaging
+modality, different first-level processing pipelines result in
+considerable heterogeneity, and to date, no consensus has
+been reached for a “golden standard” that balances between
+sensitivity to detect subtle changes on one hand and improved
+resistance to noise/artifact on the other (e.g., test-retest perfor-
+mance). Since the majority of the functional connectivity lit-
+erature in PTSD consists of ROI-to-ROI studies, we had to
+approximate ICN-level changes from discrete ROI-to-ROI ob-
+servations. It is important to note that single ROIs oftentimes
+do not represent the entirety of the ICNs in question (e.g.,
+using dlPFC to PCC connectivity as a surrogate for CEN-
+DMN connectivity may be providing an incomplete picture).
+A more refined approach could entail using validated brain
+parcellation atlases, combined with parcel-to-ICN affiliation
+information, and graph theory tools to study whole-ICN con-
+nectivity [20, 71]. Other approaches that are also devoid of
+this limitation include the use of decomposition methods (e.g.,
+independent component analysis) to compare the spatial ex-
+tent of different ICNs (In this context, the interpretability of
+“reduced spatial extent of the DMN” would be analogous to
+“decreased connectivity within the DMN.”) [21]. Both of
+these approaches may provide essential information,
+complementing the findings from ROI-to-ROI connectivity
+studies. Task paradigms during imaging acquisition, which
+range from resting-state to symptom provocation, are a pow-
+erful way to probe various cognitive-emotional processes.
+Nonetheless, they may hinder generalizability of the findings
+and their replication across studies. This shortcoming could be
+addressed in the future by developing standardized “stress
+tests” of psychopathology, which preferably would consist
+of a battery of tasks aimed at highlighting changes within
+and across psychiatric disorders.
+Although not specifically a shortcoming of imaging tech-
+niques, the choice of the comparator group (i.e., matched
+healthy vs. trauma-exposed control) has a number of implica-
+tions that have not been addressed in this manuscript.
+Unifying the sample under a traumatic event may serve as a
+common ground to selectively probe dysfunctional trauma-
+induced changes. However, trauma-exposed individuals who
+do not develop PTSD may be a particularly resilient group
+with preexposure protective factors. They may also be char-
+acterized by posttrauma resilience-conferring behavioral and
+brain changes. This may affect the interpretability of results
+and may increase the prospect of confounding factors.
+For example, one study found that increased ACC volume
+may be a trait-like marker for a person’s ability to recover from
+trauma because it predicts improvement of PTSD symptoms
+but does not change during or after treatment [61]. An inves-
+tigation of trauma survivors who had not developed PTSD in
+the 8 years following the event found significantly greater
+cortical thickness in several areas of the temporal lobe com-
+pared to controls, suggesting that hypertrophy of the cortex
+may be either a premorbid protective factor or a resilience-
+related development following trauma [72]. As previously
+mentioned under “Central Executive Network,” a longitudinal
+study of victims of a subway arson attack showed that trauma-
+exposed victims with PTSD had significantly increased corti-
+cal thickness in the dlPFC compared to trauma-naive controls
+approximately 1 year following the trauma. Further, the larger
+this cortical thickness increase, the greater the ensuing reduc-
+tion of PTSD symptoms [66]. Collectively, the data suggests
+that the dorsolateral PFC may not only increase in response to
+trauma and/or PTSD, but that this may be an adaptive struc-
+tural alteration which could promote healing after a traumatic
+event. As the field continues to investigate the etiology and
+resultant pathophysiology of PTSD, additional possible pro-
+tective factors may be identified.
+Another clinically relevant question is whether the brain
+abnormality findings represent a premorbid vulnerability to
+develop PTSD, or are instead a consequence of the disorder
+(covered in detail in the following reviews: [73, 74]). This
+growing body of evidence suggests that some regions (such
+as the hippocampus) may at least partially predispose vulner-
+ability for PTSD [75–77], while others (like portions of the
+ACC) may be a consequence of the neurotoxic effects of
+chronic stress in those who develop PTSD following a trauma
+[78]. In general, current imaging-derived neurobiological
+models of PTSD are largely based on cross-sectional studies
+that lack multiple assessments over time within a longitudinal
+experimental design. Furthermore, participants in imaging
+studies that focus on PTSD related to childhood trauma are
+usually adults whose brains have matured. Any comprehen-
+sive model of PTSD-related structural and functional brain
+abnormalities should also include developmental data obtain-
+ed on traumatized children, since childhood trauma and PTSD
+appear to manifest differently in the pediatric brain [79] (see
+review by Herringa elsewhere in this Special Issue [80]).
+While the triple network model provides a framework to
+understand psychopathology, it is unlikely to account for all
+PTSD abnormalities. Thus, it is important for the field to con-
+tinue pursuing data-driven exploratory methods. For example,
+one structure that did not received much attention in PTSD,
+ 81 
+Page 6 of 10
+Curr Psychiatry Rep  (2017) 19:81 
+but has been repeatedly implicated by model-free whole-brain
+meta-analyses, is the cerebellum [4•, 5, 7]. Although there has
+been a recent increased interest in this structure [81, 82], the
+specific role of the cerebellum in stress-related psychopathol-
+ogy is yet to be fully elucidated.
+Acknowledgments
+The authors would like to thank the US
+Department of Veterans Affairs National Center for PTSD, the NIMH,
+and the Brain and Behavior Foundation for their support. We would also
+like to thank our colleagues for their thoughtful conversation while pre-
+paring this manuscript.
+Funding
+This work was supported by the US Department of Veterans
+Affairs (DVA) National Center for PTSD, NIH [MH-101498]; Brain and
+Behavior Foundation Young Investigator Award [NARSAD]. The con-
+tent is solely the responsibility of the authors and does not necessarily
+represent the official views of the sponsors. The sponsors had no role in
+the preparation, review, or approval of the manuscript.
+Compliance with Ethical Standards
+Conflict of Interest
+Teddy J. Akiki and Christopher L. Averill declare
+that they have no conflict of interest.
+Chadi G. Abdallah has received grants from the NIH [MH-101498],
+the Brain and Behavior Foundation Young Investigator Award
+[NARSAD], and the US Department of Veterans Affairs (DVA)
+National Center for PTSD. Dr. Abdallah has served as a consultant or
+on advisory boards for Genentech and Janssen. He also serves as editor
+for the journal Chronic Stress published by SAGE Publications, Inc.
+Human and Animal Rights and Informed Consent
+This article does
+not contain any studies with human or animal subjects performed by any
+of the authors.
+
+## References
+References
+Papers of particular interest, published recently, have been
+highlighted as:
+• Of importance
+1.
+American Psychiatric Association. Diagnostic and statistical man-
+ual of mental disorders (DSM-5®). American Psychiatric
+Association. Washington, D.C.: Amer Psychiatric Pub
+Incorporated; 2013.
+2.
+Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters
+EE. Lifetime prevalence and age-of-onset distributions of DSM-IV
+disorders in the National Comorbidity Survey Replication. Arch
+Gen P...
+---

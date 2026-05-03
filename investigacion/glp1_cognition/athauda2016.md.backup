@@ -1,0 +1,1563 @@
+# Accepted Manuscript
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2016
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: athauda2016.pdf
+
+## Abstract / Summary
+Accepted Manuscript
+Title: The glucagon-like peptide 1 (GLP) receptor as a
+therapeutic target in Parkinson’s disease: Mechanisms of
+action
+Author: Dilan Athauda Thomas Foltynie
+PII:
+S1359-6446(16)30001-0
+DOI:
+http://dx.doi.org/doi:10.1016/j.drudis.2016.01.013
+Reference:
+DRUDIS 1744
+To appear in:
+Received date:
+13-10-2015
+Revised date:
+3-12-2015
+Accepted date:
+25-1-2016
+Please cite this article as: Athauda, D., Foltynie, T.,The glucagon-like peptide 1 (GLP)
+receptor as a therapeutic target in Par... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Accepted Manuscript. 2016.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Accepted Manuscript
+Title: The glucagon-like peptide 1 (GLP) receptor as a
+therapeutic target in Parkinson’s disease: Mechanisms of
+action
+Author: Dilan Athauda Thomas Foltynie
+PII:
+S1359-6446(16)30001-0
+DOI:
+http://dx.doi.org/doi:10.1016/j.drudis.2016.01.013
+Reference:
+DRUDIS 1744
+To appear in:
+Received date:
+13-10-2015
+Revised date:
+3-12-2015
+Accepted date:
+25-1-2016
+Please cite this article as: Athauda, D., Foltynie, T.,The glucagon-like peptide 1 (GLP)
+receptor as a therapeutic target in Parkinson’s disease: mechanisms of action, Drug
+Discovery Today (2016), http://dx.doi.org/10.1016/j.drudis.2016.01.013
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that
+apply to the journal pertain.
+Page 1 of 21
+Accepted Manuscript
+Highlights
+GLP-1 analogs can cross the blood brain barrier and stimulate the GLP-1 receptor in the brain
+Stimulation of the GLP-1 receptor has shown beneficial effects on mitochondrial function, protein 
+aggregation, neuroinflammation, synaptic plasticity, learning and memory in multiple experimental 
+models of PD and AD.
+Parkinson’s disease and Type 2 diabetes share many common pathophysiological mechanisms
+A process analogous to peripheral insulin resistance may initiate/exacerbate neurodegeneration in 
+PD
+Restoration of brain insulin sensitivity is one possible explanation for the neuroprotective effects 
+seen in models of PD and AD.
+Page 2 of 21
+Accepted Manuscript
+The glucagon-like peptide 1 
+(GLP) receptor as a therapeutic 
+target in Parkinson’s disease: 
+mechanisms of action
+Dilan Athauda and Thomas Foltynie
+Sobell Department of Motor Neuroscience, UCL Institute of Neurology & The National Hospital for Neurology and 
+Neurosurgery, Queen Square, London, WC1N 3BG, UK
+Corresponding author: Athauda, D.S. (d.athauda@ucl.ac.uk)
+Keywords: Parkinson’s disease; glucagon-like-peptide-1; diabetes; neuroprotection.
+Teaser: Growing evidence suggests drugs that can activate the glucagon-like peptide-1 receptor can modulate a number 
+of the pathological processes underlying Parkinson’s disease. Here, we review the molecular mechanisms underlying 
+these potential neuroprotective effects.
+Author biographies
+Dilan Athauda
+Dilan Athauda is a specialist registrar in neurology and a clinical research fellow in the Department of Functional 
+Neurosurgery at the National Hospital for Neurology and Neurosurgery, Queen Square, London, investigating 
+disease-modifying therapy in Parkinson’s disease (PD). He graduated from King’s College, London, and is currently 
+a subinvestigator for a trial of exenatide, a GLP-1 agonist in PD.
+Tom Foltynie
+Tom Foltynie is senior lecturer and honorary consultant neurologist at the Sobell Department of Motor 
+Neuroscience at the UCL Institute of Neurology and National Hospital for Neurology and Neurosurgery, Queen 
+Square, London. He completed neurology training at Cambridge University, where he undertook his PhD in the 
+epidemiology & genetics of PD. He is chief investigator for a trial of exenatide, a potential neurorestorative 
+treatment for PD, as well as the lead clinician at UCL for a multicentre trial of foetal dopaminergic cell 
+transplantation for PD, and a proposed trial of deep brain stimulation (DBS) as a treatment for the cognitive 
+problems associated with advanced PD. Dr Foltynie is also leading a trial of DBS for the treatment of patients with 
+severe Tourette syndrome. Aside from trial involvement, patients with PD and without DBS are being recruited to 
+research looking at the influence of genetics on PD risk and clinical progression, and the use of functional imaging 
+to explore the mechanism of action of DBS surgery.
+Growing evidence suggests that agonists of the glucagon-like peptide 1 (GLP-1) receptor provide neuroprotection 
+across a range of experimental models of Parkinson’s disease (PD) and, recently, a small proof-of-concept, open-label 
+human trial of exenatide in the treatment moderate severity PD appeared to show persistent improvements in motor 
+and cognitive function. The underlying mechanisms of action remain unclear, but as evidence for the potential use of 
+GLP-1 agonists in treating several neurodegenerative disease mounts, and with several clinical trials of GLP-1 
+analogues in PD and Alzheimer’s disease (AD) currently underway, here we review the molecular mechanisms 
+underlying the neuroprotective effects of GLP-1 analogues in the laboratory and their potential therapeutic utility with 
+particular relevance to PD and PD dementia (PDD).
+Introduction
+PD is the second most common neurodegenerative disease and affects 1.5% of humans over 65 years of age globally. 
+Current treatments are aimed at dopamine (DA) replacement and, although these treatments can initially be 
+effective in relieving motor symptoms, over time complex motor fluctuations and dyskinesias can occur, which 
+negatively impact patients’ quality of life and mobility. Although more advanced therapies, including continuous 
+intraduodenal infusion of levodopa, subcutaneous apomorphine infusions, and deep brain stimulation, have varying 
+levels of success at minimising these motor complications, they ultimately have no effect on altering the progressive 
+nature of the disease. Furthermore, over time, the involvement of nondopaminergic systems influences the onset of 
+features such as depression, gait difficulties, and dementia, which are often refractory to treatment and have 
+profound effects on patients’ quality of life. Therefore, an urgent goal is to develop effective neuroprotective 
+treatments that target pathways common to neurodegeneration and affect both dopaminergic and nondopaminergic 
+systems and, therefore, that could slow the progression of the disease.
+The incretin hormone GLP-1 is best known for its effects on glucose homeostasis and facilitation of insulin 
+signalling and, as such, agents that activate the GLP-1 receptor (GLP-1R), such as GLP-1 analogues or dipeptidyl 
+peptidase 4 (DPP-IV) inhibitors, have been developed for use in the treatment of type 2 diabetes mellitus (T2DM). 
+Page 3 of 21
+Accepted Manuscript
+Accumulating evidence suggests that these GLP-1 analogues exert several extrapancreatic effects independent of 
+glucose homeostasis and can cross the blood–brain barrier (BBB) to influence several cellular pathways, such as 
+neuroinflammation, mitochondrial function, and cellular proliferation, within the central nervous system (CNS). 
+Furthermore, a growing number of studies have demonstrated neuroprotective effects of GLP-1 R stimulation in 
+models of PD, resulting in improvements in motor and non-motor deficits.
+The neuropathophysiology underlying cognitive decline in PD remains unclear, although deposition of Lewy 
+body-related pathology in neocortical and limbic areas is thought to represent one of the most significant factors. 
+However, accumulating evidence suggests that AD-type pathology is undoubtedly relevant for at least a subset of 
+individuals with PDD due to either superimposed AD-type pathology, or because of an interaction between amyloid 
+ (A) and the rate of progression of cortical Lewy body and/or alpha synuclein pathology [1]. In this review, we 
+discuss the effects of GLP-1R stimulation with respect to PD and, where relevant, the evidence emerging from 
+research into GLP-1 stimulation and AD-related pathology. We then follow by reviewing the proposed mechanisms 
+underlying its effects.
+The GLP-1 signalling pathway
+GLP-1 is an endogenous 30 amino-acid multifunctional peptide first recognised for its role in mediating the 
+‘incretin’ effect. Secreted from L cells in the small intestine in response to food ingestion, it stimulates glucose-
+induced insulin secretion, insulin biosynthesis, slows gut emptying, and inhibits glucagon secretion, to mediate 
+glucose homeostasis. In additional to its metabolic effects, it also exerts trophic effects, namely enhancing islet beta 
+cell proliferation differentiation, inhibiting apoptosis, and enhancing cell survival, thus regulating B cell mass [2,3].
+A small amount of GLP-1 is also produced in the brain, released from hypothalamic nuclei from nerve endings 
+with cell bodies in the nucleus of the solitary tract and caudal brainstem that project to cortical, hypothalamic, and 
+hippocampal nuclei. In its role as a neuropeptide, GLP-1 can diffuse within the brain to regulate many autonomic 
+and neuroendocrine functions, including promoting satiety, pancreatic secretions, slowing gastric emptying, and 
+regulating blood pressure and heart rate [4].
+The actions of GLP-1 are mediated by GLP-1R, a seven-transmembrane spanning G-protein-coupled receptor 
+(GPCR) that, although mainly expressed in pancreatic islets, is also selectively expressed throughout the brain, 
+with high densities in the frontal cortex, hypothalamus, thalamus, hippocampus, cerebellum, and substantia nigra 
+[5,6]. Similar to islet cells that can upregulate GLP-1 expression under stressful conditions, such as T2DM [7], it 
+was recently demonstrated that microglial cells can also increase GLP-1 and GLP-1R expression in response to 
+inflammatory stimuli [8], suggesting that endogenous GLP-1 is a natural response to limit harmful stimuli.
+Following activation of the alpha subunit of the GPCR, adenyl cyclase is activated, leading to an increase in 
+intracellular cAMP, which then activates protein kinase A (PKA) and phosphoinositide 3-kinase (PI3K), which 
+phosphorylates and activates a variety of downstream signalling pathways. These pathways can be simplified into 
+two branches: (i) the mitogen-associated protein kinase/extracellular signal-regulated kinase (MAPK/ERK; also 
+known as Ras-Raf-MEK-ERK); and (ii) PI3K/protein kinase B (AKT) pathways [9]. An important downstream 
+target of GLP-1 signalling is the AKT pathway, which acts as a major regulator of physiological responses to 
+normal ageing. AKT has the ability to phosphorylate over 50 substrate proteins, such as glycogen synthase kinase 3 
+beta (GSK-3B), Forkhead box protein O1 (FOXO1), and mechanistic target of rapamycin (mTOR), and can 
+modulate several cellular processes found to be disrupted in PD, such as protein synthesis, apoptosis, 
+inflammation, mitochondrial biogenesis, and autophagy. Broadly speaking, activation of these pathways promotes 
+cellular survival, while inhibiting proapoptotic pathways (Figure 1). Further details of the relation between these 
+processes and PD pathogenesis are discussed in subsequent sections of this article.
+Unfortunately, endogenous GLP-1 is rapidly rendered inactive by circulating enzyme dipeptidyl peptidase IV 
+(DPP-IV) into a metabolite that has no activity against GLP-1R [10–12]. However, the discovery of a naturally 
+occurring GLP-1 agonist resistant to DPP-IV degradation, named exendin-4, in the saliva of the Gila monster 
+(Heloderma suspectum), a venomous lizard native to the south-western USA and Mexico, has allowed researchers 
+to circumvent this obstacle. Subsequently, synthetic versions of exendin-4 and several other GLP-1 analogues have
+since been developed [13] for use in diabetes to utilise their insulinotrophic actions and include exenatide, 
+liraglutide, lixisenatide, and dulaglutide. These GLP-1 analogues have significantly longer half-lives than 
+endogenous GLP-1 and exert a dose-dependent pharmacological effect that can raise circulating levels of 
+endogenous GLP-1 levels eightfold [14]. Apart from dulaglutide, these peripherally administered drugs are all also 
+able to penetrate the BBB to some degree in experimental models [15,16] to exert central effects.
+Representing an alternative approach to GLP-1R stimulation, orally administered drugs have been developed 
+more recently that inhibit DPP-IV and can enhance endogenous levels of GLP-1 twofold. This class of drugs is 
+currently used an adjunctive therapy in diabetes and includes sitagliptin, saxagliptin, vildagliptin, and linagliptin.
+GLP-1R activation in models of PD and AD
+In view of the influence that GLP-1R activation has on diverse cellular processes, it is perhaps not surprising that 
+accumulating data indicate that agents that can activate GLP-1R have potential neuroprotective and 
+neurorestorative properties across a range of experimental models of PD and AD (Tables 1 and 2). In widely used 
+animal toxin models designed to mimic aspects of nigrostriatal degeneration seen in PD, exenatide-treated animals 
+can halt 6-OHDA, MPTP, and lipopolysaccharide (LPS)-induced dopaminergic degeneration and restore DA 
+imbalance, resulting in significant improvements in behaviour and motor function [17–20]. Interestingly, exenatide 
+Page 4 of 21
+Accepted Manuscript
+was also able to restore levels of other neurotransmitters depleted in PD. In a novel rodent model with 
+dopaminergic, serotonergic, and noradrenergic deficits, exenatide administration restored levels of these 
+neurotransmitters, leading to a reversal of neuropsychiatric dysfunction [21]. Similarly, newer GLP-1 analogues 
+with longer half-lives (liraglutide and lixisenatide) have also demonstrated protective effects and improved motor 
+function in the MPTP rodent model of PD [22].
+However, data from DPP-IV inhibitors in experimental models of PD are conflicting. Rats pretreated with 
+saxagliptin before the induction of rotenone-induced nigrostriatal lesions demonstrated enhanced striatal DA 
+synthesis and reduced dopaminergic neuronal loss, resulting in improved motor performance and coordination in a 
+rotarod test [23]. However, rats acutely or chronically pretreated with supramaximal doses of sitagliptin (a DPP-IV 
+inhibitor with a substantially longer half-life than saxagliptin) were not protected against MPTP-induced striatal 
+dopaminergic degeneration [24].
+GLP-1 analogues have also been studied in experimental models of AD for their effects on AD-related pathology 
+and cognition. Use of GLP-1 analogues has demonstrated significant effects on AD-related pathology and cognition,
+causing reductions in deposition of A, and A-induced proinflammatory responses, enhancing synaptic plasticity, 
+hippocampal neurogenesis, and long-term potentiation (LTP), translating to improvements in cognitive deficits [25–
+33].
+However, studies using DPP-IV inhibitors have somewhat conflicting results. Saxagliptin and sitagliptin 
+administration caused an increase in hippocampal GLP-1 levels in rodents injected with intracerebral 
+streptozotocin and transgenic (Tg) AD mice, respectively, accompanied by reduction in AD-related pathology and 
+inflammatory markers and improvements in memory impairments [34,35]. However, in diabetic rats and primary 
+cortical neurons, sitagliptin administration caused a paradoxical increase in tau phosphorylation [36].
+Despite the range of neuroprotective effects seen in various models, there remains an amount of mechanistic 
+uncertainty regarding the downstream effects of GLP-1R activation. However, growing evidence suggests that 
+GLP-1 analogues and DPP-IV inhibitors modulate several events that are of relevance to the pathogenesis of PD 
+(and AD).
+Neuroinflammation
+Inflammation is increasingly recognised as a key contributor to the pathogenesis of PD. Epidemiological studies 
+suggest nonsteroidal anti-inflammatory drug (NSAID) use confers a decreased risk of developing PD [37]; positron 
+emission tomography (PET) imaging of patients with early-stage PD showed significantly increased microglial 
+activation [38], which could drive neuronal loss in both PDD and AD [39]; sustained expression of the 
+proinflammatory cytokine tumour necrosis factor alpha (TNF-) is associated with neurodegeneration of 
+dopaminergic neurons [40]; and increased proinflammatory mediators are seen in the substantia nigra on 
+postmortem examination [41]. Moreover, genome-wide association studies (GWAS) have reported an association 
+between certain human leucocyte anagen (HLA) alleles and the risk of PD.
+GLP-1 analogues and DPP-IV inhibitors have demonstrated anti-inflammatory properties across a range of 
+experimental models of PD. Saxagliptin treatment in a rat rotenone model supressed production of TNF-, 
+inducible nitric oxide synthase (iNOS), and myeloperoxidase (MPO) [23]. Similarly, administering exendin-4 to 
+rodents following nigrostriatal lesions induced by LPS and MPTP toxins prevented toxin-induced microglial 
+activation and supressed production of proinflammatory cytokines, including TNF-and interleukin (IL)-1B. This 
+was associated with restoration of extracellular DA and tyrosine hydroxylase (TH) activity, with subsequent motor 
+and behavioural improvements [17,20]. More recently, in diabetic rat models, exenatide and liraglutide treatment 
+had antipsychotic, anxiolytic, and antidepressant effects [42–44], which have been speculated to be due, in part, to 
+its anti-inflammatory effects [45].
+Regulation of microglial activity is thought to have a critical role in neuroinflammation in PD. While microglial 
+activation might initially be protective in the initial stages, prolonged activation by alpha-synuclein, 
+proinflammatory cytokines, and neighbouring neuronal death [46–49] can lead to polarisation towards the cytotoxic 
+M1 phenotype. This can be severely damaging as the disease progresses [50], leading to a continuous and self-
+perpetuating persistent inflammatory environment [51,52], and has been identified as a major factor in driving 
+dopaminergic degeneration in PD [39]. Correspondingly, strategies to enhance the cytoprotective M2 microglial 
+response in models of PD have proven to be neuroprotective [53,54], highlighting the importance of microglia 
+regulation.
+The ability of GLP-1 analogues to supress cytotoxic microglial responses and enhance cytoprotective phenotypes 
+have demonstrated benefits across a variety of experimental models. GLP-1-mediated inhibitory effects on 
+microglia have resulted in: reduced infarct size and neuronal death in models of stroke [55–59]; reversal of 
+cognitive and behavioural impairments in rodent models of traumatic brain injury (TBI) [60–62]; prevention of 
+hippocampal synapse loss in (APP)/presenilin-1 (PSEN1) and intracerebroventricular (ICV) streptozotocin (STZ) 
+rodent models of AD [63,64]; reduced circulating monocyte cytokine production and psoriatic plaque severity in 
+patients with diabetes and psoriasis [65], and attenuation of atherosclerotic lesions in arterial walls in models of 
+myocardial ischaemia/reperfusion injury (reducing monocyte and/or macrophage accumulation) [66,67].
+The underlying mechanism responsible for GLP-1 analogues modulation of microglial function remains under 
+debate, but might involve regulation of the transcription factor nuclear factor (NF)-κB, an important downstream 
+target of the GLP-1R/PI3K/AKT pathway, which regulates inflammatory gene expression and mediates the 
+Page 5 of 21
+Accepted Manuscript
+proinflammatory response of microglial cells. Perhaps not unsurprisingly, NF-κB has also been implicated in the 
+pathogenesis of PD. Increased NF-κB activity is seen in TH+ dopaminergic neurons and in astrocytes and microglia 
+in the substantia nigra pars compacta (SNPc) of patients with PD and in animal models [68]. By contrast,
+inhibition of NF-κB is neuroprotective in models of PD [69,70] and retards ageing and increases lifespan in mice 
+[71]. Saxagliptin and vildagliptin have both been shown to significantly supress NF-κB expression (and subsequent 
+proinflammatory cytokine cascades) in a rotenone rodent model of PD [23,72]. Similarly, exendin-4 administration 
+has been shown to inhibit activation of NF-κB and the resultant inflammatory response in endothelial cells [73], 
+rodent models of obesity [73,74], and renal injury [75,76], resulting in improved cell survival. Although extensive 
+crosstalk exists because various proinflammatory mediators can directly activate NF-κB [77], upregulation of the 
+AKT pathway also upregulates IκBα, a specific endogenous inhibitor of NF-κB, resulting in reduced 
+neuroinflammation [78], suggesting a possible mechanism linking GLP-1R activation and inflammation.
+Mitochondrial function and/or oxidative stress
+As regulators of cellular energy homeostasis and cell death signalling, the continued integrity of mitochondria 
+within a cell is crucial for its sustained health. In particular, dopaminergic neurons of the SNPc have 
+characteristically long-range projections that require a high rate of mitochondrial oxidative metabolism and, 
+therefore, are vulnerable to events that interfere with mitochondrial function. In parallel, significant evidence 
+suggests that events that affect mitochondrial function, such as defective mitophagy, increased accumulation of 
+mtDNA mutations, defects of complex I of the respiratory chain, accumulation of alpha-synuclein, dysregulated 
+mitochondrial calcium homeostasis, and increased oxidative stress, are all involved in the pathogenesis of PD and,
+furthermore, can promote further injury to neighbouring mitochondria, creating a vicious cycle of further 
+degeneration [79,80].
+GLP-1R activation has demonstrated multiple beneficial actions on mitochondria across a range of experimental 
+models. Saxagliptin preserved mitochondrial function by elevating complex I and antiapoptotic protein B-cell 
+lymphoma 2 (Bcl-2) in a rat rotenone model of PD [23] and geniposide, a novel GLP-1 agonist, upregulated 
+expression of Bcl-2 with subsequent reduced caspase 3 activation, resulting in preservation of dopaminergic 
+neurons in an MPTP mouse model of PD [81]. Similarly, exendin-4 has been shown to increase mitochondrial 
+biogenesis, number, and mass in rat insulinoma cells [82,83], and to inhibit the mitochondrial apoptotic pathway,
+resulting in functional improvements in rat models of spinal cord injury [84] and protection of retinal cells in 
+diabetic rats [85]. In addition, exenatide was able to improve mitochondrial respiration and suppress the opening of 
+the mitochondrial permeability transition pore, resulting in attenuation of myocardial hypertrophy and oxidative 
+stress-induced injury in rodent models of myocardial ischaemia, leading to increased survival rates [86].
+Recent studies have suggested how GLP-1R activation influences mitochondrial function. In a mouse model of 
+amyotrophic lateral sclerosis (ALS), the neuroprotective effects of exendin-4 treatment were associated with 
+modulation of mitochondrial intracellular calcium [87] and increased expression of mitofusin-2 (Mfn2), an 
+endoplasmic reticulum (ER)–mitochondria-tethering protein that enhances ER–mitochondria coupling [88,89]. This 
+is particularly relevant because a recent study suggested that alpha-synuclein causes mitochondrial fragmentation
+and/or damage by reducing this ER–mitochondrial connectivity [90].
+Growing evidence also implicates the PI3K/AKT pathway as being partly responsible for the effects of GLP-1R 
+activation on mitochondria [91]. Activation of GLP-1R causes upregulation of AKT, leading to inhibition of FOXO1 
+and reduced production of proapoptotic proteins (BiM and FAS), while concurrent GLP-1R-induced elevation of 
+cAMP enhances upregulation of antiapoptotic proteins (Bcl-2 and Bcl-XL). Together, these actions contribute to 
+preserving mitochondrial function by helping stabilise the outer mitochondrial membrane, preventing efflux of 
+cytochrome c into the cytoplasm and reducing the activation of caspase 9 and 3, subsequently resulting in reduced 
+apoptosis and oxidative stress [92–94].
+In addition, a recent study highlighted another important pathway that might be involved in mitochondrial 
+biogenesis. Exendin-4 administration in pancreatic cells was associated with a twofold increase in the expression 
+of peroxisome proliferator-activated receptor-gamma coactivator 1α (PGC-1α) [83], a master regulator of 
+mitochondrial biogenesis. Perhaps highlighting the importance of mitochondrial function in the pathogenesis of PD, 
+growing evidence implicates dysregulated PGC-1a activity as playing a critical role in the pathogenesis of PD. 
+GWAS studies revealed the downregulation of PGC-1α -responsive genes in patients with early PD [95]; PGC-1α
+polymorphisms are associated with increased risk of early-onset PD [96] and in vitro studies indicate that loss of 
+PGC-1α is associated with increased accumulation of alpha-synuclein [97]. Conversely, overexpression or activation 
+of PGC-1α protects dopaminergic neurons from MPTP-induced degeneration in vivo, enhances mitochondrial 
+biogenesis, and prevents alpha-synuclein-induced dopaminergic neuronal loss [98].
+Importantly, post-translational mechanisms, such as acetylation and protein phosphorylation, can regulate the 
+activity of PGC-1α (and hence mitochondrial biogenesis), and can be influenced by genetic and environmental 
+factors.
+GLP-1 analogues have not been shown to interact with PGC-1α directly, but studies suggest that GLP-1R 
+activation can influence PGC-1α activity indirectly. In models of liver disease, exendin-4 treatment led to 
+upregulation of Sirtuin 1 (SIRT1; an NAD-dependent protein deacetylase and known upstream regulator of PGC-1α
+activation) [99,100], which, together with AMPK activation, resulted in enhanced PGC-1α activity, improvements 
+in mitochondrial function, and reduction in ER stress and inflammation [101,102]. Similar results demonstrated in 
+Page 6 of 21
+Accepted Manuscript
+models of CNS disease suggest that GLP-1 analogues also modulate the expression of SIRT1 in neurons. In mice 
+fed a high-fat diet, liraglutide decreased oxidative stress and inflammation, which was associated with increased 
+expression of SIRT1 [103]. Encouragingly, studies indicate that SIRT1 overexpression is protective in many cell 
+and animal models of PD [104]. Similarly, regular exercise, known to reduce the risk of PD and improve function 
+outcomes in patients with PD, induces upregulation of SIRT1 and, as a result, increases PGC-1α activity. In 
+addition, resveratrol, a potent activator of SIRT1, protects against 3-nitropropanoic acid (3-NP)-induced motor and 
+behavioural deficits and improved motor function in mice via increased PGC-1α activity and increased 
+mitochondrial biogenesis [105,106]. Taken together, there is accumulating evidence linking GLP-1R activation and 
+mitochondrial function.
+Protein aggregation
+Dysfunction of lysosomal systems, disruption of normal processes through which cells degrade abnormal proteins
+and/or cellular constituents (autophagy), and the aggregation of alpha-synuclein into toxic fibrils, are thought to be 
+crucial steps in the process leading to the degeneration of dopaminergic neurons in PD, and are also implicated in 
+PDD and Dementia with Lewy bodies (DLB). Recent studies indicate that 50% of patients with PDD also have A
+plaques and hyperphosphorylated tau-containing neurofibrillary tangles, which are usually seen in the brains of 
+patients with AD. Furthermore, A is an independent predictor of cognitive decline in PD [107] and this co-morbid 
+pathology might act synergistically with Lewy bodies and Lewy neurites to lead to toxic gain of function and confer 
+a worse prognosis [108–111]. This has led some to suggest that agents that can influence the development of AD-
+related pathology would be beneficial in a subset of patients with PDD.
+In vitro studies show that GLP-1 analogues can alter the cellular production and accumulation of A deposits, 
+reduce A-induced cell death and toxicity and levels of amyloid precursor protein (APP) [30,112], and decrease 
+levels of secreted A in human neuroblastoma cultures [113]. Similarly, in vivo treatment with the GLP-1 
+analogues exenatide, liraglutide and lixisenatide has been shown to reduce tau hyperphosphorylation [114,115], 
+amyloid plaque load, and soluble A levels across a range of models of AD, counteracting their toxic effects and 
+leading to improvements in memory performance and learning. Data regarding the effects of DPP-IV inhibitors on 
+AD-related pathology are conflicting: while saxagliptin, vildagliptin, and sitagliptin were shown to reduce tau and 
+A deposits in ICV STZ and APP/PSEN1 mice models of AD [35,34,116], in a Otsuka Long-Evans Tokushima fatty 
+(OLETF) T2DM rat model, sitagliptin paradoxically increased tau phosphorylation, although differences in 
+methodology might account for these observations [36].
+Studies indicate that the effects of GLP-1 analogues on amyloid aggregation are at least partially due to 
+activation of the PI3K/AKT pathway, resulting in increased phosphorylation (and inactivation) of downstream 
+target Glycogen synthase kinase 3 beta (GSK-3B) [117–119]. GSK-3B is a major kinase involved in promoting 
+phosphorylation of tau and aggregation of A through modulation of APP processing [120] and, correspondingly, 
+inhibition of GSK-3B activity has been linked with neuroprotection and reduced AD pathology. GSK-3B is also 
+involved in modulating autophagy, and dysregulated GSK-3B activity is implicated in PD pathogenesis and 
+promotion of Lewy body formation [121]. Correspondingly, studies demonstrate that inhibition of GSK-3B can 
+promote autophagy and halt the expression and aggregation of alpha-synuclein and its subsequent neurotoxic 
+effects in vitro and in vivo [122,123].
+GLP-1R activation-induced upregulation of SIRT1 in neurons might also contribute to beneficial effects on 
+protein aggregation [103]. As well as influencing mitochondrial function via modulation of PGC-1, SIRT1 is also 
+involved in the regulation of autophagy. In models of PD, increased expression of SIRT1 activated heat shock 
+protein 70 (Hsp70), a molecular chaperone that promotes normal folding of alpha-synuclein. Furthermore, in 
+models of AD, SIRT1 reduced plaque formation by activation of retinoic acid receptor β, which activates ADAM10 to 
+facilitate processing of APP along a nonamyloidogenic pathway, and can directly deacetylate tau, enabling 
+ubiquitin ligases to promote its clearance [104,124,125]. Correspondingly, in experimental models of PD and AD, 
+compounds that increase SIRT1 expression can reduce alpha-synuclein aggregation, and A and neurofibrillary tau 
+pathology, respectively, resulting in improved behaviour [104].
+Recently, geniposide was shown to upregulate expression of insulin-degrading enzyme (IDE), a zinc-
+metalloendopeptidase that can degrade insulin and other small peptides that can form -pleated sheets. IDE is 
+activated by PI3K and was recently shown to inhibit alpha-synuclein fibril formation in vitro by binding to alpha-
+synuclein oligomers, blocking them from forming fibres [129]. IDE can also bind and degrade A, halting their 
+neurotoxic toxic effects [130–132], and recent studies showed that upregulation of IDE by geniposide antagonized
+cell damage induced by Aβ1–42 exposure in primary cultured cortical neurons [126] and reduced Aβ1–42 levels in 
+diabetic rats [127] (reviewed in [128]).
+A recent study also showed that, via an increase in cAMP response element-binding protein (CREB; a 
+downstream effector of the PI3K/AKT pathway), exendin-4 caused upregulation of ADAM10 at the plasma 
+membrane in adult mice, which promoted a nonamyloidogenic APP-processing pathway, potentially representing 
+another mechanism responsible for reducing levels of Ain vivo [133].
+Neurogenesis
+Neurogenesis continues to occur throughout adulthood in the subgranular zone of the dentate gyrus in the 
+hippocampus and the subventricular zone (SVZ) near the lateral ventricle, although its levels decline with age. 
+These endogenous stem cells can migrate into the granule cell layer of the dentate gyrus, develop neuronal 
+Page 7 of 21
+Accepted Manuscript
+markers, and eventually become integrated within local circuits [134]. In particular, it is thought that the SVZ 
+continually provides GABA- and DA-containing interneurons for the olfactory bulb. However, postmortem studies 
+suggest that the age-related decline in adult neurogenesis is accelerated in patients with PD [135,136], possibly due 
+to dopaminergic depletion having a negative effect on cellular proliferation [137,138]. Although the relations are 
+not entirely understood, altered neurogenesis in the hippocampus in PD [135] might be linked with impairments 
+not only in memory processing, but also in olfaction and depression [137,139].
+GLP-1R are expressed in the hippocampus and SVZ and exendin-4 treatment has been shown not only to 
+stimulate cellular proliferation in human neuronal cell cultures [140–142], but to also promote differentiation into 
+more mature neuronal phenotypes [19,113,140,143]. In experimental models of PD, exendin-4 treatment 1 week 
+after 6-OHDA-induced nigrostriatal degeneration stimulated neurogenesis in the SVZ of the rat brain and 
+improved dopaminergic markers, leading to functional motor improvements and normalisation of behaviour [19]. 
+Similarly, chronic treatment of rodents with exendin-4 enhanced hippocampal neurogenesis and led to 
+improvements in reference memory performance and decreased immobility in the forced swim test, suggesting 
+improvements in cognitive function and mood disorders [143]. In both studies, these effects persisted weeks after 
+cessation of treatment, or became apparent only after chronic administration, suggesting possible 
+neuroregenerative effects. However, it is unclear whether the reduced TH+ staining seen in the striatum following 
+initial neurotoxin administration in these models represents a phenotypical shift in protein expression rather than 
+cell loss, and whether exendin-4 is able to ‘restore’ the phenotypic expression as a result of trophic effects rather 
+than to stimulate the generation of new neurons. In addition, improvements in cognitive performance following 
+liraglutide administration in rodent models of AD were associated with increases in hippocampal CA1 neuronal 
+numbers [32,144–146].
+How GLP-1R activation influences neurogenesis is unclear, but studies indicate that activation of the PI3K/AKT 
+pathway is needed for many of the effects on cellular proliferation and differentiation [147–150]. Recent studies 
+showed that liraglutide-induced hippocampal neurogenesis is accompanied by increased expression of Mash1, an 
+important regulator of neuronal precursor production [144,151] that is required for AKT-induced neuronal 
+differentiation [152]. However, because neurogenesis can be stimulated by diverse factors, such as exercise [153], 
+antidepressants [154], and neurotrophic factors [155], and is also decreased by ageing, insulin resistance [156], 
+microglial activation [157], loss of DA neurons [158], and aggregation of alpha-synuclein [137], it might be 
+reasonable to suggest that activation of GLP-1R indirectly influences neurogenesis through limiting effects on other 
+pathogenic processes. For example, the inhibitory effects of exendin-4 on microglial activation were associated with 
+increased stem and/or progenitor cell proliferation in the SVZ and neuroblast production in the striatum in a rodent 
+model of stroke [59].
+Trophic factors
+Trophic factors can influence cell survival and axonal growth and have the potential to protect degenerating DA 
+neurons as well as to promote regeneration of the nigrostriatal DA system [159]. Therefore, the exogenous 
+administration of neurotrophic factors to the PD midbrain and/or striatum to slow or halt degeneration of 
+dopaminergic neurons has become a promising active area of research. However, despite the potential of this 
+method, current studies have been hampered by the inherent poor ability of trophic factors to cross the BBB, 
+leading to alternative methods of administration using viral vectors [160] or intranasal delivery [161] being 
+explored.
+Despite their large molecular size, peripherally administered GLP-1 analogues can cross the BBB to facilitate 
+trophic factor expression. Brain-derived neurotrophic factor (BDNF), a trophic factor that can rescue dopaminergic 
+neurons, reverse synapse loss after disease onset [162], and promote neural progenitor cell differentiation and 
+survival, was shown to be upregulated by intraperitoneal exendin-4 administration in adult mice [133]. Similarly,
+the neuroprotective effects of saxagliptin in a rotenone model of PD were accompanied by an increase in striatal 
+BDNF [23].
+Studies show that GLP-1 analogues might also directly act as a neurotrophic factor. In PC12 cells, exendin-4 
+exposure induced neurite outgrowth in a manner similar to nerve growth factor (NGF) [140,163] and, furthermore, 
+these effects on neurite outgrowth translated to functional improvements in sensory electrophysiology and 
+behavioural sensory loss in models of diabetic polyneuropathy [164,165]. Importantly, these studies showed that 
+GLP-1R activation was able to rescue degenerating cells after NGF-mediated withdrawal, suggesting independent 
+trophic effects [166,167]. Furthermore, in different tissue models, pretreatment with exendin-4 improved the 
+survival, adhesion, and therapeutic efficacy of transplanted adipose-derived stem cells (ADSCs) in ischemic 
+myocardium [168–170] and islet cell transplants [171].
+These trophic effects might be mediated by activation of the AKT pathway and increases in intracellular cAMP, 
+given that BDNF is a transcriptional target of cAMP response element-binding protein (CREB), which are both 
+elevated in response to GLP-1R activation. Similar effects on neurite outgrowth effects are thought to be mediated 
+via the rise in intracellular cAMP and induction of the MAPK/ERK pathway, which promotes neuronal survival in 
+response to nutrient depletion [163,172].
+Learning and memory
+The clinical phenotype of PD evolves due not only to neurodegeneration, but also to abnormal patterns of firing of 
+interconnected neuronal pathways. Dysfunctional synaptic plasticity has been implicated in the initial onset of PD 
+Page 8 of 21
+Accepted Manuscript
+[173,174], has relevance in the development of the motor complications of PD, such as dyskinesias [174,175], and 
+also might partially contribute to the complex evolution of cognitive impairment. Dementia is common in the 
+advanced stages of PD, affecting up to 80% of patients [176], and often heralds impending residential care and 
+mortality; however, mild cognitive impairment (MCI) can occur in early stages and a quarter of patients already 
+have evidence of cognitive deficits at diagnosis [177,178].
+Given its role as an integrator of memory formation, alterations in hippocampal structure and function are 
+implicated in cognitive decline in PD [179,180], correlate with memory defects and behavioural abnormalities 
+[180,181], and might predict progression to PDD [182]. GLP-1R-activated signalling appears to be involved in 
+memory. GLP-1Rs are present in the CA2–CA3 region of the hippocampus in abundance [183] and studies have 
+shown that mice lacking GLP-1R have learning deficits and their neurons display impaired LTP (the cellular 
+correlate of memory formation)
+[184]. Conversely, GLP-1 analogue administration in rodents and rats 
+overexpressing GLP-1R demonstrate improved hippocampal CA1 LTP and synaptic plasticity, resulting in 
+subsequent improved spatial learning and memory performance [26,146,185], effects that were blocked in the 
+presence of a GLP-1R antagonist.
+Significant evidence also implicates the cholinergic system arising from the substantia innominate of the basal 
+forebrain as having a key role in cognitive decline in PD. Imaging combining PET with N-[11C]-methyl-4-piperidyl 
+acetate (MP4A) and 18F-fluorodopa (FDOPA) showed severe cholinergic deficit in temporal and parietal regions in 
+patients with PDD compared with patients with PD [186]. In addition, postmortem studies showed that patients 
+with PDD and AD had lost >90% of neurons in the nucleus basalis of Meynert (NBM) compared with age-matched 
+controls, resulting in a cortical cholinergic deficit [187,188]. More recent in vivo studies using PET and volumetric 
+magnetic resonance imaging (MRI) confirmed that this cortical cholinergic deficit is greater in patients with PDD 
+(or AD) compared with controls [189], and correlates to the degree of cognitive impairment [190,191]. Whereas
+augmentation of these neurotransmitter deficits with rivastigmine, an acetylcholinesterase inhibitor (and the only 
+licensed treatment for PDD and DLB), has positive effects on cognition and behavioural disturbance, it can often 
+worsen motor deficits [192].
+GLP-1 analogues can improve the functionality of cholinergic neurons; exendin-4 was shown to enhance 
+acetylcholine production [identified through elevated choline acetyltransferase (ChAT) activity] in NSC19 cells 
+[167]. Furthermore, in studies using ChAT-positive immunoreactivity as a marker for cholinergic cell bodies in 
+vivo, exendin-4 significantly reduced ibotenic acid-induced loss of cell bodies in NBM cholinergic neurons within the 
+basal forebrain in a rat compared with controls, demonstrating its ability to restore cholinergic marker function 
+following excitotoxic damage [166].
+In conclusion, activation of GLP-1R via GLP-1 analogues or indirectly via DPP-IV inhibition has a remarkable 
+array of protective effects on cellular proliferation, differentiation, inflammation, and mitochondrial function, and 
+also might be associated with reduced levels of alpha-synuclein and amyloid plaques in the brain.
+Insulin resistance
+A growing body of data suggests that T2DM and PD share common pathological mechanisms. Epidemiological 
+studies suggest that T2DM increases the risk of developing PD by 40%, whereas peripheral insulin resistance,
+broadly defined as reduced tissue responsiveness to insulin, is associated with a more severe clinical phenotype, 
+accelerated disease progression, and increased risk of cognitive decline [193]. Furthermore, studies indicate that a 
+process analogous to peripheral insulin resistance occurs in the brains of patients with PD and might be 
+responsible for initiating and/or exacerbating neurodegeneration [194–198].
+Within the CNS, although not directly involved in glucose uptake, insulin is able to modulate many processes 
+disrupted in PD, including apoptosis, autophagy, mitochondrial biogenesis, oxidative stress, neuroinflammation, 
+protein synthesis, alpha-synuclein aggregation, and synaptic plasticity [80,199]. These effects are mainly via 
+activation of two pathways (MAPK/ERK and PI3K/AKT) and, accordingly, experimental models of insulin 
+resistance demonstrate enhanced nigrostriatal neurodegeneration, accelerated microglia cell activation, and alpha-
+synuclein aggregation in both pancreas and midbrain [200] and altered DA turnover resulting in enhanced motor 
+deficits, impaired cognition, and behavioural disorders compared with matched controls [201–204].
+The relation between insulin resistance and neurodegeneration is not limited to PD, and similar links exist in 
+AD, where studies suggest prolonged metabolic stress and Aβ induce production of proinflammatory cytokines that 
+can phosphorylate and activate insulin receptor substrate 1 (IRS-1) serine kinases IκB kinase (IKK), Janus kinase 
+(JNK), and Erk2. In turn, these kinases ultimately phosphorylate IRS-1 at serine residues, causing inactivation 
+and inhibition of downstream insulin signalling [205–208].
+Although the cause of insulin resistance in PD is still be elucidated, recent studies suggest that alpha-synuclein 
+negatively regulates insulin signalling in a similar manner. Either through inhibition of protein phosphatase 
+(PP)2A activity, sustaining mTORC1 activation, enhancing an insulin-signalling negative feedback loop, and 
+increasing degradation of IRS-1 [209] or via alpha-synuclein-induced microglial production of proinflammatory 
+cytokines, leading to activation of IKK or JNK, and ultimately phosphorylation and inactivation of IRS-1 at serine 
+residues, thereby sustaining a vicious cycle of aggregation and neurodegeneration.[LM1]
+Consequently, because GLP-1R stimulation activates similar pathways ‘d-activated’ as a consequence of insulin 
+resistance, some have suggested that it is the ability to restore brain insulin sensitivity that is responsible for the 
+diverse range of its pleotropic effects. Exenatide and liraglutide have been shown to reduce levels of IRS-1pS616 
+Page 9 of 21
+Accepted Manuscript
+and IRS-1pS36 (putative biomarkers of neuronal insulin resistance in AD) in the APP/PSEN1 model of AD and
+diabetic mice, leading not only to facilitation of insulin signalling, but also the restoration of normal tissue 
+responses to insulin [118,210,211], resulting in improvements in AD pathology and functional improvements in 
+cognition. Similarly, a novel GLP-1R agonist, geniposide, attenuated insulin deficiency-induced Aβ accumulation in 
+a APP/PSEN1 Tg model of AD [212]
+GLP-1Rs are also ubiquitously distributed throughout the body and, as such, GLP-1R stimulation has an array 
+of systemic effects that might also be of relevance in regards to limiting neurodegeneration based on reducing 
+insulin resistance. Ageing, obesity (or rather increased adiposity), and metabolic stress (such as peripheral insulin 
+resistance) are risk factors for PD and contribute to a state of chronic systemic inflammation [201]. Furthermore,
+studies indicate that proinflammatory cytokines can cross the BBB to directly induce cell death and/or activate IRS 
+serine kinases, such as JNK, in a similar manner to activated microglia to induce and/or exacerbate neuronal 
+insulin resistance [213,214].
+Weight loss is an effective method in reducing the development of peripheral insulin resistance and GLP-1 
+analogues have long-lasting anorexic effects. The mechanism is uncertain but might involve increasing energy 
+expenditure [215–217], reducing gastric emptying, decreasing nutrient absorption, inducing nausea, or promoting 
+satiety through stimulation of hypocretin and/or orexin neurons in the lateral hypothalamus [216,218,219], which 
+ultimately can result in reduced levels of systemic inflammatory markers (as observed in patients with psoriasis) 
+[65].
+As well as driving systemic inflammation, excessive peripheral adipose tissue can alter lipid composition and 
+function of hippocampal synapses [220]. GLP-1 analogues can improve insulin sensitivity in obese mouse models by 
+directly inhibiting inflammatory pathways in adipocytes and, via upregulation of the transcription factor
+peroxisome proliferator-activated receptor gamma (PPAR-y), can regulate adipogenesis, promoting preadipocyte 
+proliferation, which reduces apoptosis [74,221,222]. Dysregulation of ceramides (lipids derived from fatty acid 
+metabolism) is altered in patients with PD and is associated with worse cognition [223,224]. Studies show that they 
+can cross the BBB to activate microglia, inducing central inflammation and cell death [225], and also directly 
+inhibit central insulin signalling leading to enhanced nigrostriatal degeneration [226]. In addition alterations in 
+their metabolism are associated with the misfolding and aggregation of alpha-synuclein [227]. Nonalcoholic 
+steatohepatitis (NASH) occurs frequently with T2DM and obesity, contributes to peripheral insulin resistance, and,
+via increased endogenous hepatic TNF-α expression, can increase the production of peripheral ceramides in adipose 
+tissue. This has been shown to contribute to CNS oxidative stress, insulin resistance, and neuronal cytoskeletal 
+collapse [226]. Recent studies have shown that exenatide reversed hepatosteatosis-induced cognitive and 
+behavioural deficits in rats, which were accompanied by reduced levels of brain TNF-α [228]. These effects were 
+thought to be mediated by increased expression of SIRT1 and activation of the AMPK pathway, leading to 
+beneficial effects on mitochondrial function, reduction in ER stress, and reduced lipogenesis, fat storage, and 
+inflammation [101,102].
+Taken together, due to the distribution of GLP-1Rs, stimulation with analogues or indirectly with DPP-IV 
+inhibitors can lead to wide-ranging systemic effects on whole-body metabolism, improving peripheral and central 
+insulin resistance.
+The AKT pathway
+Studies have implicated the involvement of PI3K/ERK/MAPK and PI3K/AKT-dependent pathways as being 
+important in GLP-1R activation in terms of diverting signalling away from apoptosis toward cell survival. Although 
+it difficult to separate the relative contribution of each pathway because extensive crosstalk exists, some studies 
+that utilise selective AKT inhibitors suggest that the AKT pathway is at least partially responsible for the effects of 
+GLP-1R stimulation on cellular proliferation [229], trophic effects [91], and antiapoptotic effects [230,231].
+Able to phosphorylate over 50 downstream protein substrates, AKT acts as a master regulator of cellular 
+function [232]. The AKT pathway has been identified as a central hub that might be responsible for degenerating 
+dopaminergic neurons in PD [233,234] and some important downstream effectors, such as GSK-3B, mTOR, 
+caspase-9, and the transcription factor FOXO1, have themselves been identified as novel targets for halting 
+neurodegeneration in PD. Substantial evidence suggests that loss of control of AKT signalling is involved in several
+age-related diseases, including AD [235], and growing evidence suggests that altered AKT signalling is also a key 
+component of PD pathogenesis and influences alpha-synuclein aggregation [236], providing a possible link between 
+insulin resistance and neurodegeneration in PD [232,233,236–240]. In parallel, studies using trophic factors or 
+small molecules to activate AKT appear to slow neurodegeneration in PD [241–243]. However, as with any 
+biological system, negative feedback control of AKT is essential to maintain optimal tissue function; for example, 
+although AKT usually inactivates FOXO, physiological FOXO activity is a critical counterbalance to allow 
+necessary transcription of stress-response genes and repair systems [244,245], and studies show that elevated AKT 
+phosphorylation is associated with levodopa (L-DOPA)-induced dyskinesias in MPTP-treated monkeys [246].
+Thus, the protective effects of restoration of insulin signalling might be due, in part, to an increase in the basal 
+activation of the AKT pathway, restoring the balance and activating signalling cascades that ultimately promote 
+cellular survival.
+The therapeutic potential of GLP-1R activation
+Page 10 of 21
+Accepted Manuscript
+In regards to their potential utility in PD, GLP-1 analogues and DPP-IV are emerging as promising therapeutic 
+agents in PD, regardless of whether their useful mechanisms of action in neurodegeneration are via an 
+insulinotrophic effect, an effect on IRS-1 phosphorylation, or GLP-1 receptor action on AKT. However, maximising 
+the translational potential of this approach is crucial, and significant differences regarding their 
+pharmacodynamics and pharmacokinetic properties exist between not only the drug classes, but also compounds of 
+the same class, which is reflected in variations in their efficacy in glycaemic control in diabetes. Thus, it might be 
+reasonable to assume that some might exert greater neuroprotective effects in PD than others, although current 
+comparable data in PD are sparse. Studies from diabetic populations suggest that the risk of inducing 
+hypoglycaemia with either GLP-1 analogues or DPP-IV inhibitors in a nondiabetic population is low; however, 
+weight loss and gastrointestinal adverse effects are less common with DPP-IV inhibitors than with GLP-1 
+analogues [247], which is potentially significant if utilising these drugs in older, often frail, populations.
+Although no clinical data yet exist, extrapolating the more positive results of DPP-IV inhibition seen in animal 
+models to humans might be difficult: doses of DPP-IV inhibitors used in these animal models are 10–20 times 
+higher than those used in T2DM and, as such, the high levels of brain GLP-1 in rats produced by DPP-IV inhibition 
+might be difficult to reproduce in humans. Similarly, DPP-IV inhibitors have low penetration of the BBB. 
+Conversely, GLP-1 analogues, with the exception of dulaglutide, are all able to penetrate the BBB to some degree 
+in experimental models [15,16] and exert central effects in doses comparable to those in humans [9].
+Similarly, data regarding the comparison between individual GLP-1 analogues in models of PD are limited. Data 
+from diabetic studies suggest that liraglutide is associated with greater effects on glucose homeostasis than 
+exenatide, but has greater incidence of adverse gastrointestinal effects [248], whereas exenatide has been linked to 
+a small increased risk of pancreatitis in patients with diabetes (although subsequent meta-analysis has not 
+supported this link). Few studies have attempted to compare the effects of GLP-1 analogues in models of PD: a 
+recent study indicated that, in comparison to liraglutide and lixisenatide, exenatide was unable to offer protection 
+against MPTP-induced dopaminergic degeneration in a mouse model [22] (which could be explained by differences 
+in equivalent dosing). Similarly, in mice, whereas liraglutide and lixisenatide were both able to cross the BBB and 
+enhance neurogenesis in the dentate gyrus, lixisenatide achieved significantly higher increases in cAMP compared 
+with liraglutide, and at lower doses [16].
+Data regarding GLP-1 analogues and/or DPP-IV inhibitor use in clinical trials of PD are limited but 
+encouragingly: exenatide exposure in a small, open-label randomized controlled trial in 45 patients with PD led to a 
+mean advantage of 7.0 points on the MDS-UPDRS Part III, which persisted after a 12-month ‘wash-out’ period, 
+together with improvements in the Mattis Dementia Rating scale and well as other non-motor areas [249,250]. The 
+single-blind design of this trial does not yet confirm proof of efficacy, but the encouraging results have prompted 
+conduct of a larger, double-blind trial using a once-weekly, long-acting form of exenatide in moderate-stage PD, 
+with results expected in May 2016 (Clinicaltrials.gov identifier NCT01971242).
+In parallel, encouraging results from an double-blind randomized controlled trial assessing the effects of 
+liraglutide on cerebral amyloid deposits in patients with AD have recently been reported, suggesting that 
+liraglutide treatment halted decline of the cerebral glucose metabolism compared with controls. This hints at an 
+ability of liraglutide to stabilise energy metabolism in areas of the brain that have been shown to correlate with 
+cognitive decline in patients with AD [251]. Similar trials evaluating GLP-1 analogues in AD are ongoing: a Phase 
+II trial evaluating exenatide in 230 patients with AD or MCI (NCT01255163) is currently underway and a 
+randomized placebo-controlled Phase II trial assessing the safety and efficacy of liraglutide in 206 patients with 
+early AD (NCT018430755) is continuing.
+In terms of future directions, although the current crop of GLP-1 analogues (exenatide, liraglutide, and 
+lixisenatide) are effective in reducing insulin resistance, newer molecules, such as unimolecular dual GLP-
+1/glucose-dependent insulinotrophic polypeptide (GIP) agonists or triple GLP-1/GIP/glucagon receptor agonists,
+have been shown to have superior efficacy in reducing peripheral insulin resistance compared with conventional 
+‘mono’ GLP-1 agonists [252,253] with additional benefits of reduction of adverse gastrointestinal effects. A novel 
+dual GLP-1/GIP receptor agonist was recently shown to attenuate dopaminergic cell death in an MPTP mouse 
+model of PD [254] and these newer agents might also deserve to have their potential effects explored in PD.
+Concluding remarks
+GLP-1R stimulation is associated with an impressive array of positive actions that are relevant to PD pathogenesis,
+such as enhancing mitochondrial biogenesis, supressing microglial activation and inflammation, enhancing 
+autophagy, and clearance of aggregated proteins, and it is likely that it is this combination of actions that accounts
+for its positive effects in models of not only PD, but also AD, Huntingdon’s disease, TBI, and ALS.
+Further research will clarify whether insulin resistance is a cause or consequence of neurodegeneration in PD, 
+but, if confirmed, this might offer clinicians a useful window to try to identify high-risk individuals (e.g., those with 
+metabolic syndrome or other genetic risk factors) and offer appropriate measures to slow this process (and thus 
+neurodegeneration).
+It is also becoming increasing clear that the pathophysiology of PD is not confined to a limited range of organs or 
+cell systems, but is rather a system-wide disorder, with complex interplay between peripheral and central organs. 
+This is supported by evidence of systemic dysregulated metabolism in patients often years before motor symptoms 
+become apparent, which more importantly can impact the course of degeneration within the CNS, suggesting a 
+Page 11 of 21
+Accepted Manuscript
+common pathological signalling system and/or axis (such as a ligand–receptor axis) present centrally and 
+peripherally, which, when disrupted by an initiating factor, leads to system-wide pathophysiological disruption. 
+This implies that a suitable agent might be able to modulate and restore these dysregulated networks in a whole-
+body approach, which by its nature is more efficient and likely to be more successful than an agent specially 
+targeting one aspect of the neurodegenerative pathway [255].
+Given its expression in a variety of tissues throughout the body and involvement in mediating systemic and 
+peripheral inflammation, metabolic homeostasis, gut–brain signalling, cardiovascular activity, and circadian 
+rhythms [256], GLP-1/GLP1R has been proposed as a likely candidate for one of the ligand–receptor signalling axes
+exerting multiple effects in PD [257]. Therefore, GLP-1R activation by agonists could explain the range of systemic 
+and neuroprotective effects of GLP-1 stimulation seen in models of PD.
+In future, research is focus on developing nonpeptidergic ligands that can modify the activity of the GLP-1R 
+itself, which, theoretically, would be able to exert more potent effects on GLP-1R at multiple levels, thus 
+maximising their effects. Although some novel compounds have been developed with evidence of efficacy at 
+increasing cAMP and insulin potentiation [258,259], further research will be needed to ascertain whether 
+maximising exploitation of this newly discovered signalling axis would offer greater benefits in the treatment of 
+neurodegenerative diseases.
+Acknowledgements
+T.F. has received grants from the Michael J. Fox Foundation, Brain Research Trust, Cure Parkinson’s Trust, Parkinson’s UK, and European Commission FP7.
+References
+1
+Irwin, D.J. et al. (2013) Parkinson’s disease dementia: convergence of α-synuclein, tau and amyloid-β pathologies. Nat. Rev. Neurosci. 14, 
+626–636
+2
+Lovshin, J.A. and Drucker, D.J. (2009) Incretin-based therapies for type 2 diabetes mellitus. Nat. Rev. Endocrinol. 5, 262–269
+3
+Drucker, D.J. et al. (2010) Incretin-based therapies for the treatment of type 2 diabetes: evaluation of the risks and benefits. Diabetes Care
+33, 428–433
+4
+Heppner, K.M. et al. (2015) Expression and distribution of glucagon-like peptide-1 receptor mRNA, protein and binding in the male 
+nonhuman primate (Macaca mulatta) brain. Endocrinology 156, 255–267
+5
+Alvarez, E. et al. (2005) The expression of GLP-1 receptor mRNA and protein allows the effect of GLP-1 on glucose metabolism in the 
+human hypothalamus and brainstem. J. Neurochem. 92, 798–806
+6
+Cork, S.C. et al. (2015) Distribution and characterisation of Glucagon-like peptide-1 receptor expressing cells in the mouse brain. Mol. 
+Metab. 4, 718–731
+7
+Habener, J.F. and Stanojevic, V. (2013) Alpha cells come of age. Trends Endocrinol. Metab. 24, 153–163
+8
+Kappe, C. et al. (2012) GLP-1 secretion by microglial cells and decreased CNS expression in obesity. J. Neuroinflammation 9, 276
+9
+Baggio, L.L. and Drucker, D.J. (2007) Biology of incretins: GLP-1 and GIP. Gastroenterology 132, 2131–2157
+10
+Kieffer, T.J. et al. (1995) Degradation of glucose-dependent insulinotropic polypeptide and truncated glucagon-like peptide 1 in vitro and in 
+vivo by dipeptidyl peptidase IV. Endocrinology 136, 3585–3596
+11
+Drucker, D.J. (2003) Therapeutic potential of dipeptidyl peptidase IV inhibitors for the treatment of type 2 diabetes. Expert Opin. Investig. 
+Drugs 12, 87–100
+12
+Holst, J.J. et al. (2011) Neuroprotective properties of GLP-1: theoretical and practical applications. Curr. Med. Res. Opin. 27, 547–558
+13
+Parkes, D.G. et al. (2013) Discovery and development of exenatide: the first antidiabetic agent to leverage the multiple benefits of the 
+incretin hormone, GLP-1. Expert Opin. Drug Discov. 8, 219–244
+14
+Gentilella, R. et al. (2009) Exenatide: a review from pharmacology to clinical practice. Diabetes. Obes. Metab. 11, 544–556
+15
+Kastin, A.J. and Akerstrom, V. (2003) Entry of exendin-4 into brain is rapid but may be limited at high doses. Int. J. Obes. Relat. Metab. 
+Disord. 27, 313–318
+16
+Hunter, K. and Hölscher, C. (2012) Drugs developed to treat diabetes, liraglutide and lixisenatide, cross the blood brain barrier and 
+enhance neurogenesis. BMC Neurosci. 13, 33
+17
+Harkavyi, A. et al. (2008) Glucagon-like peptide 1 receptor stimulation reverses key deficits in distinct rodent models of Parkinson’s disease. 
+J. Neuroinflammation 5, 19
+18
+Li, Y. et al. (2009) GLP-1 receptor stimulation preserves primary cortical and dopaminergic neurons in cellular and rodent models of stroke 
+and Parkinsonism. Proc. Natl. Acad. Sci. U. S. A. 106, 1285–1290
+19
+Bertilsson, G. et al. (2008) Peptide hormone exendin-4 stimulates subventricular zone neurogenesis in the adult rodent brain and induces 
+recovery in an animal model of Parkinson’s disease. J. Neurosci. Res. 86, 326–338
+20
+Kim, S. et al. (2009) Exendin-4 protects dopaminergic neurons by inhibition of microglial activation and matrix metalloproteinase-3 
+expression in an animal model of Parkinson’s disease. J. Endocrinol. 202, 431–439
+21
+Rampersaud, N. et al. (2012) Exendin-4 reverses biochemical and behavioral deficits in a pre-motor rodent model of Parkinson’s disease 
+with combined noradrenergic and serotonergic lesions. Neuropeptides 46, 183–193
+22
+Liu, W. et al. (2015) Neuroprotective effects of lixisenatide and liraglutide in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse model 
+of Parkinson’s disease. Neuroscience 303, 42–50
+23
+Nassar, N.N. et al. (2015) Saxagliptin: a novel antiparkinsonian approach. Neuropharmacology 89, 308–317
+24
+Ribeiro, C.A. et al. (2012) Sitagliptin does not protect against MPTP-induced dopaminergic striatal toxicity. pA2 Online 10, abst185P
+25
+McGovern, S.F.J. et al. (2012) Effects of the glucagon-like polypeptide-1 analogue (Val8)GLP-1 on learning, progenitor cell proliferation and 
+neurogenesis in the C57B/16 mouse brain. Brain Res. 1473, 204–213
+26
+Gengler, S. et al. (2012) Val(8)GLP-1 rescues synaptic plasticity and reduces dense core plaques in APP/PS1 mice. Neurobiol. Aging 33, 
+265–276
+27
+Wang, X.H. et al. (2010) Val8-glucagon-like peptide-1 protects against Aβ1-40-induced impairment of hippocampal late-phase long-term 
+potentiation and spatial learning in rats. Neuroscience 170, 1239–1248
+28
+Han, W-N. et al. (2013) Liraglutide protects against amyloid-β protein-induced impairment of spatial learning and memory in rats. 
+Neurobiol. Aging 34, 576–588
+29
+McClean, P.L. et al. (2010) Glucagon-like peptide-1 analogues enhance synaptic plasticity in the brain: a link between diabetes and 
+Alzheimer’s disease. Eur. J. Pharmacol. 630, 158–162
+30
+Perry, T. et al. (2003) Glucagon-like peptide-1 decreases endogenous amyloid-beta peptide (Abeta) levels and protects hippocampal neurons 
+from death induced by Abeta and iron. J. Neurosci. Res. 72, 603–612
+31
+Li, Y. et al. (2010) GLP-1 receptor stimulation reduces amyloid-beta peptide accumulation and cytotoxicity in cellular and animal models of 
+Alzheimer’s disease. J. Alzheimers. Dis. 19, 1205–1219
+Page 12 of 21
+Accepted Manuscript
+32
+Porter, D.W. et al. (2010) Four weeks administration of liraglutide improves memory and learning as well as glycaemic control in mice with 
+high fat dietary-induced obesity and insulin resistance. Diabetes. Obes. Metab. 12, 891–899
+33
+Hamilton, A. et al. (2011) Novel GLP-1 mimetics developed to treat type 2 diabetes promote progenitor cell proliferation in the brain. J. 
+Neurosci. Res. 89, 481–489
+34
+Kosaraju, J. et al. (2013) Saxagliptin: a dipeptidyl peptidase-4 inhibitor ameliorates streptozotocin induced Alzheimer’s disease. 
+Neuropharmacology 72, 291–300
+35
+D’Amico, M. et al. (2010) Long-term inhibition of dipeptidyl peptidase-4 in Alzheimer’s prone mice. Exp. Gerontol. 45, 202–207
+36
+Kim, D-H. et al. (2012) Sitagliptin increases tau phosphorylation in the hippocampus of rats with type 2 diabetes and in primary neuron 
+cultures. Neurobiol. Dis. 46, 52–58
+37
+Rees, K. et al. (2011) Non-steroidal anti-inflammatory drugs as disease-modifying agents for Parkinson’s disease: evidence from 
+observational studies. Cochrane Database Syst. Rev. 11, CD008454
+38
+Bartels, A.L. et al. (2010) [11C]-PK11195 PET: quantification of neuroinflammation and a monitor of anti-inflammatory treatment in 
+Parkinson’s disease? Parkinsonism Relat. Disord. 16, 57–59
+39
+Fan, Z. et al. (2015) Influence of microglial activation on neuronal function in Alzheimer’s and Parkinson’s disease dementia. Alzheimers 
+Dement. 11, 608–621
+40
+Leal, M.C. et al. (2013) Interleukin-1β and tumor necrosis factor-α: reliable targets for protective therapies in Parkinson’s Disease? Front. 
+Cell. Neurosci. 7, 53
+41
+Imamura, K. et al. (2003) Distribution of major histocompatibility complex class II-positive microglia and cytokine profile of Parkinson’s 
+disease brains. Acta Neuropathol. 106, 518–526
+42
+Dixit, T.S. et al. (2013) Antipsychotic-like effect of GLP-1 agonist liraglutide but not DPP-IV inhibitor sitagliptin in mouse model for 
+psychosis. Physiol. Behav. 114–115, 38–41
+43
+Komsuoglu Celikyurt, I. et al. (2014) Exenatide treatment exerts anxiolytic- and antidepressant-like effects and reverses neuropathy in a 
+mouse model of type-2 diabetes. Med. Sci. Monit. Basic Res. 20, 112–117
+44
+Sharma, A.N. et al. (2015) GLP-1 receptor agonist liraglutide reverses long-term atypical antipsychotic treatment associated behavioral 
+depression and metabolic abnormalities in rats. Metab. Brain Dis. 30, 519–527
+45
+Pessoa Rocha, N. et al. (2014) Depression and cognitive impairment in Parkinson’s disease: a role for inflammation and 
+immunomodulation? Neuroimmunomodulation 21, 88–94
+46
+Béraud, D. et al. (2013) Microglial activation and antioxidant responses induced by the Parkinson’s disease protein α-synuclein. J. 
+Neuroimmune Pharmacol. 8, 94–117
+47
+Blandini, F. (2013) Neural and immune mechanisms in the pathogenesis of Parkinson’s disease. J. Neuroimmune Pharmacol. 8, 189–201
+48
+Gallegos, S. et al. (2015) Features of alpha-synuclein that could explain the progression and irreversibility of Parkinson’s disease. Front. 
+Neurosci. 9, 59
+49
+Moehle, M.S. and West, A.B. (2014) M1 and M2 immune activation in Parkinson’s Disease: foe and ally? Neuroscience 27, 59–73
+50
+Sekiyama, K. et al. (2012) Neuroinflammation in Parkinson’s disease and related disorders: a lesson from genetically manipulated mouse 
+models of α-synucleinopathies. Parkinsons Dis. 2012, 271732
+51
+Ouchi, Y. et al. (2005) Microglial activation and dopamine terminal loss in early Parkinson’s disease. Ann. Neurol. 57, 168–175
+52
+Iannaccone, S. et al. (2013) In vivo microglia activation in very early dementia with Lewy bodies, comparison with Parkinson’s disease. 
+Parkinsonism Relat. Disord. 19, 47–52
+53
+Schwenkgrub, J. et al. (2013) Effect of human interleukin-10 on the expression of nitric oxide synthases in the MPTP-based model of 
+Parkinson’s disease. Pharmacol. Rep. 65, 44–49
+54
+Joniec-Maciejak, I. et al. (2014) The influence of AAV2-mediated gene transfer of human IL-10 on neurodegeneration and immune response 
+in a murine model of Parkinson’s disease. Pharmacol. Rep. 66, 660–669
+55
+Lee, C.H. et al. (2011) Ischemia-induced changes in glucagon-like peptide-1 receptor and neuroprotective effect of its agonist, exendin-4, in 
+experimental transient cerebral ischemia. J. Neurosci. Res. 89, 1103–1113
+56
+Teramoto, S. et al. (2011) Exendin-4, a glucagon-like peptide-1 receptor agonist, provides neuroprotection in mice transient focal cerebral 
+ischemia. J. Cereb. Blood Flow Metab. 31, 1696–1705
+57
+Briyal, S. et al. (2012) Repeated administration of exendin-4 reduces focal cerebral ischemia-induced infarction in rats. Brain Res. 1427, 23–
+34
+58
+Darsalia, V. et al. (2014) Exendin-4 reduces ischemic brain injury in normal and aged type 2 diabetic mice and promotes microglial M2 
+polarization. PLoS ONE 9, e103114
+59
+Darsalia, V. et al. (2012) Glucagon-like peptide-1 receptor activation reduces ischaemic brain damage following stroke in type 2 diabetic 
+rats. Clin. Sci. (Lond). 122, 473–483
+60
+Eakin, K. et al. (2013) Exendin-4 ameliorates traumatic brain injury-induced cognitive impairment in rats. PLoS ONE 8, e82016
+61
+Greig, N.H. et al. (2014) Incretin mimetics as pharmacologic tools to elucidate and as a new drug strategy to treat traumatic brain injury. 
+Alzheimers. Dement. 10, S62–S75
+62
+Tweedie, D. et al. (2013) Exendin-4, a glucagon-like peptide-1 receptor agonist prevents mTBI-induced changes in hippocampus gene 
+expression and memory deficits in mice. Exp. Neurol. 239, 170–182
+63
+McClean, P.L. et al. (2011) The diabetes drug liraglutide prevents degenerative processes in a mouse model of Alzheimer’s disease. J. 
+Neurosci. 31, 6587–6594
+64
+Solmaz, V. et al. (2015) Exenatide reduces TNF-α expression and improves hippocampal neuron numbers and memory in streptozotocin 
+treated rats. Eur. J. Pharmacol. 765, 482–487
+65
+Ahern, T. et al. (2013) Glucagon-like peptide-1 analogue therapy for psoriasis patients with obesity and type 2 diabetes: a prospective cohort 
+study. J. Eur. Acad. Dermatol. Venereol. 27, 1440–1443
+66
+Du, X. et al. (2014) Anti-inflammatory effect of exendin-4 postconditioning during myocardial ischemia and reperfusion. Mol. Biol. Rep. 41, 
+3853–3857
+67
+Arakawa, M. et al. (2010) Inhibition of monocyte adhesion to endothelial cells and attenuation of atherosclerotic lesion by a glucagon-like 
+peptide-1 receptor agonist, exendin-4. Diabetes 59, 1030–1037
+68
+Hunot, S. et al. (1997) Nuclear translocation of NF-kappaB is increased in dopaminergic neurons of patients with parkinson disease. Proc. 
+Natl. Acad. Sci. U. S. A. 94, 7531–7536
+69
+Ghosh, A. et al. (2007) Selective inhibition of NF-kappaB activation prevents dopaminergic neuronal loss in a mouse model of Parkinson’s 
+disease. Proc. Natl. Acad. Sci. U. S. A. 104, 18754–18759
+70
+Zhang, F. et al. (2010) Inhibition of IkappaB kinase-beta protects dopamine neurons against lipopolysaccharide-induced neurotoxicity. J. 
+Pharmacol. Exp. Ther. 333, 822–833
+71
+Zhang, G. et al. (2013) Hypothalamic programming of systemic ageing involving IKK-β, NF-κB and GnRH. Nature 497, 211–216
+72
+Abdelsalam, R.M. and Safar, M.M. (2015) Neuroprotective effects of vildagliptin in rat rotenone Parkinson’s disease model: role of RAGE-
+NFκB and Nrf2-antioxidant signaling pathways. J. Neurochem. 133, 700–707
+Page 13 of 21
+Accepted Manuscript
+73
+Han, L. et al. (2012) Exendin-4 directly improves endothelial dysfunction in isolated aortas from obese rats through the cAMP or AMPK-
+eNOS pathways. Diabetes Res. Clin. Pract. 97, 453–460
+74
+Lee, Y.-S. et al. (2012) Glucagon-like peptide-1 inhibits adipose tissue macrophage infiltration and inflammation in an obese mouse model of 
+diabetes. Diabetologia 55, 2456–2468
+75
+Chen, Y-T. et al. (2013) Exendin-4 and sitagliptin protect kidney from ischemia-reperfusion injury through suppressing oxidative stress and 
+inflammatory reaction. J. Transl. Med. 11, 270
+76
+Kodera, R. et al. (2011) Glucagon-like peptide-1 receptor agonist ameliorates renal injury through its anti-inflammatory action without 
+lowering blood glucose level in a rat model of type 1 diabetes. Diabetologia 54, 965–978
+77
+Oeckinghaus, A. et al. (2011) Crosstalk in NF-κB signaling pathways. Nat. Immunol. 12, 695–708
+78
+Khasnavis, S. et al. (2012) Suppression of nuclear factor-κB activation and inflammation in microglia by physically modified saline. J. Biol. 
+Chem. 287, 29529–29542
+79
+Hubbard, V.M. et al. (2012) Selective autophagy in the maintenance of cellular homeostasis in aging organisms. Biogerontology 13, 21–35
+80
+Schapira, A.H.V (2008) Mitochondria in the aetiology and pathogenesis of Parkinson’s disease. Lancet Neurol. 7, 97–109
+81
+Chen, Y. et al. (2015) Neuroprotective effects of geniposide in the MPTP mouse model of Parkinson’s disease. Eur. J. Pharmacol. XX, YYY–
+ZZZ[LM2]
+82
+Kang, M.Y. et al. (2014) Glucagon-like peptide 1 increases mitochondrial biogenesis and function in INS-1 Rat insulinoma cells. Endocrinol. 
+Metab. (Seoul, Korea) 30, 216–220
+83
+Kang, M.Y. et al. (2015) Glucagon-like peptide-1 increases mitochondrial biogenesis and function in INS-1 rat insulinoma cells. Endocrinol. 
+Metab. (Seoul, Korea) 30, 216–220
+[LM3]84
+Li, H. et al. (2015) Neuroprotective effects of exendin-4 in rat model of spinal cord injury via inhibiting mitochondrial apoptotic 
+pathway. Int. J. Clin. Exp. Pathol. 8, 4837–4843
+85
+Fan, Y. et al. (2014) Exendin-4 protects retinal cells from early diabetes in Goto-Kakizaki rats by increasing the Bcl-2/Bax and Bcl-xL/Bax 
+ratios and reducing reactive gliosis. Mol. Vis. 20, 1557–1568
+86
+DeNicola, M. et al. (2014) Stimulation of glucagon-like peptide-1 receptor through exendin-4 preserves myocardial performance and 
+prevents cardiac remodeling in infarcted myocardium. Am. J. Physiol. Endocrinol. Metab. 307, E630–E643
+87
+Sun, H. et al. (2013) Therapeutic potential of N-acetyl-glucagon-like peptide-1 in primary motor neuron cultures derived from non-
+transgenic and SOD1-G93A ALS mice. Cell. Mol. Neurobiol. 33, 347–357
+88
+Wiederkehr, A. and Wollheim, C.B. (2008) Impact of mitochondrial calcium on the coupling of metabolism to insulin secretion in the 
+pancreatic beta-cell. Cell Calcium 44, 64–76
+89
+Morales, P.E. et al. (2014) GLP-1 promotes mitochondrial metabolism in vascular smooth muscle cells by enhancing endoplasmic reticulum-
+mitochondria coupling. Biochem. Biophys. Res. Commun. 446, 410–416
+90
+Guardia-Laguarta, C. et al. (2014) α-Synuclein is localized to mitochondria-associated ER membranes. J. Neurosci. 34, 249–259
+91
+Zhou, H. et al. (2015) Effects of Exendin-4 on bone marrow mesenchymal stem cell proliferation, migration and apoptosis in vitro. Sci. Rep.
+5, 12898
+92
+Zhan, Y. et al. (2012) Glucagon-like peptide-1 (GLP-1) protects vascular endothelial cells against advanced glycation end products (AGEs)-
+induced apoptosis. Med. Sci. Monit. 18, BR286–BR291
+93
+Tews, D. et al. (2009) Anti-apoptotic action of exendin-4 in INS-1 beta cells: comparative protein pattern analysis of isolated mitochondria. 
+Horm. Metab. Res. 41, 294–301
+94
+Li, Z. et al. (2013) Exendin-4 protects mitochondria from reactive oxygen species induced apoptosis in pancreatic Beta cells. PLoS ONE 8, 
+e76172
+95
+Zheng, B. et al. (2010) PGC-1α, a potential therapeutic target for early intervention in Parkinson’s disease. Sci. Transl. Med. 2, 52ra73
+96
+Clark, J. et al. (2011) Association of PGC-1alpha polymorphisms with age of onset and risk of Parkinson’s disease. BMC Med. Genet. 12, 69
+97
+Ebrahim, A.S. et al. (2010) Reduced expression of peroxisome-proliferator activated receptor gamma coactivator-1alpha enhances alpha-
+synuclein oligomerization and down regulates AKT/GSK3beta signaling pathway in human neuronal cells that inducibly express alpha-
+synuclein. Neurosci. Lett. 473, 120–125
+98
+Zheng, B. et al. (2010) PGC-1α, a potential therapeutic target for early intervention in Parkinson’s disease. Sci. Transl. Med. 2, 52ra73
+99
+Boutant, M. and Cantó, C. (2014) SIRT1 metabolic actions: integrating recent advances from mouse models. Mol. Metab. 3, 5–18
+100 Cantó, C. and Auwerx, J. (2009) PGC-1alpha, SIRT1 and AMPK, an energy sensing network that controls energy expenditure. Curr. Opin. 
+Lipidol. 20, 98–105
+101 Xu, F. et al. (2014) SIRT1 mediates the effect of GLP-1 receptor agonist exenatide on ameliorating hepatic steatosis. Diabetes 63, 3637–3646
+102 Lee, J. et al. (2014) Exendin-4 attenuates endoplasmic reticulum stress through a SIRT1-dependent mechanism. Cell Stress Chaperones 19, 
+649–656
+103 Lennox, R. et al. (2014) Comparison of the independent and combined effects of sub-chronic therapy with metformin and a stable GLP-1 
+receptor agonist on cognitive function, hippocampal synaptic plasticity and metabolic control in high-fat fed mice. Neuropharmacology 86, 
+22–30
+104 Herskovits, A.Z. and Guarente, L. (2014) SIRT1 in neurodevelopment and brain senescence. Neuron 81, 471–483
+105 Kumar, P. et al. (2006) Effect of resveratrol on 3-nitropropionic acid-induced biochemical and behavioural changes: possible neuroprotective 
+mechanisms. Behav. Pharmacol. 17, 485–492
+106 Lagouge, M. et al. (2006) Resveratrol improves mitochondrial function and protects against metabolic disease by activating SIRT1 and 
+PGC-1alpha. Cell 127, 1109–1122
+107 Terrelonge, M. et al. (2015) CSF β-amyloid 1-42 predicts progression to cognitive impairment in newly diagnosed Parkinson disease. J. Mol. 
+Neurosci. XX, YYY–ZZZ[LM4]
+108 Masliah, E. et al. (2001) Beta-amyloid peptides enhance alpha-synuclein accumulation and neuronal deficits in a transgenic mouse model 
+linking Alzheimer’s disease and Parkinson’s disease. Proc. Natl. Acad. Sci. U. S. A. 98, 12245–12250
+109 Jellinger, K.A. et al. (2002) Impact of coexistent Alzheimer pathology on the natural history of Parkinson’s disease. J. Neural Transm. 109, 
+329–339
+110 Kotzbauer, P.T. et al. (2012) Pathologic accumulation of α-synuclein and Aβ in Parkinson disease patients with dementia. Arch. Neurol. 69, 
+1326–1331
+111 Compta, Y. et al. (2011) Lewy- and Alzheimer-type pathologies in Parkinson’s disease dementia: which is more important? Brain 134, 1493–
+1505
+112 Qin, Z. et al. (2008) Mutated recombinant human glucagon-like peptide-1 protects SH-SY5Y cells from apoptosis induced by amyloid-beta 
+peptide (1-42). Neurosci. Lett. 444, 217–221
+113 Li, H. et al. (2010) Chronic treatment of exendin-4 affects cell proliferation and neuroblast differentiation in the adult mouse hippocampal 
+dentate gyrus. Neurosci. Lett. 486, 38–42
+114 Xu, W. et al. (2015) Exendin-4, a glucagon-like peptide-1 receptor agonist, reduces Alzheimer disease-associated tau hyperphosphorylation 
+in the hippocampus of rats with type 2 diabetes. J. Investig. Med. 63, 267–272
+Page 14 of 21
+Accepted Manuscript
+115 Chen, S. et al. (2012) Amelioration of neurodegenerative changes in cellular and rat models of diabetes-related Alzheimer’s disease by 
+exendin-4. Age (Dordr). 34, 1211–1224
+116 Kosaraju, J. et al. (2013) Vildagliptin: an anti-diabetes agent ameliorates cognitive deficits and pathology observed in streptozotocin-
+induced Alzheimer’s disease. J. Pharm. Pharmacol. 65, 1773–1784
+117 Chen, S. et al. (2014) Glucagon-like peptide-1 protects hippocampal neurons against advanced glycation end product-induced tau 
+hyperphosphorylation. Neuroscience 256, 137–146
+118 Ma, D-L. et al. (2015) Early intervention with glucagon-like peptide 1 analog liraglutide prevents tau hyperphosphorylation IN DIABETIC 
+db/db mice. J. Neurochem. XX, YYY–ZZZ[LM5]
+119 Yang, Y. et al. (2013) Subcutaneous administration of liraglutide ameliorates Alzheimer-associated tau hyperphosphorylation in rats with 
+type 2 diabetes. J. Alzheimers. Dis. 37, 637–648
+120 Medina, M. and Avila, J. (2014) New insights into the role of glycogen synthase kinase-3 in Alzheimer’s disease. Expert Opin. Ther. Targets
+18, 69–77
+121 Golpich, M. et al. (2015) Glycogen synthase kinase-3 beta (GSK-3β) signaling: implications for Parkinson’s disease. Pharmacol. Res. 97, 16–
+26
+122 Duka, T. et al. (2009) Alpha-synuclein contributes to GSK-3beta-catalysed Tau phosphorylation in Parkinson’s disease models. FASEB J.
+23, 2820–2830
+123 Yuan, Y-H. et al. (2015) The molecular mechanism of rotenone-induced α-synuclein aggregation: emphasizing the role of the calcium/GSK3β
+pathway. Toxicol. Lett. 233, 163–171
+124 Donmez, G. and Outeiro, T.F. (2013) SIRT1 and SIRT2: emerging targets in neurodegeneration. EMBO Mol. Med. 5, 344–352
+125 Donmez, G. et al. (2012) SIRT1 protects against α-synuclein aggregation by activating molecular chaperones. J. Neurosci. 32, 124–132
+126 Yin, F. et al. (2012) Geniposide regulates insulin-degrading enzyme expression to inhibit the cytotoxicity of Aβ ₋ ₄ ₂  in cortical neurons. 
+CNS Neurol. Disord. Drug Targets 11, 1045–1051
+127 Liu, J. et al. (2013) Geniposide decreases the level of Aβ1-42 in the hippocampus of streptozotocin-induced diabetic rats. Acta Biochim. 
+Biophys. Sin. (Shanghai). 45, 787–791
+128 Liu, W. et al. (2015) Neuroprotective effects of geniposide on Alzheimer’s disease pathology. Rev. Neurosci. 26, 371–383
+129 Sharma, S.K. et al. (2015) Insulin-degrading enzyme prevents α-synuclein fibril formation in a nonproteolytical manner. Sci. Rep. 5, 12531
+130 Qiu, W.Q. and Folstein, M.F. (2006) Insulin, insulin-degrading enzyme and amyloid-beta peptide in Alzheimer’s disease: review and 
+hypothesis. Neurobiol. Aging 27, 190–198
+131 Vekrellis, K. et al. (2000) Neurons regulate extracellular levels of amyloid beta-protein via proteolysis by insulin-degrading enzyme. J. 
+Neurosci. 20, 1657–1665
+132 Sudoh, S. et al. (2002) Differential effects of proteases involved in intracellular degradation of amyloid beta-protein between detergent-
+soluble and -insoluble pools in CHO-695 cells. Biochemistry 41, 1091–1099
+133 Ohtake, N. et al. (2014) Exendin-4 promotes the membrane trafficking of the AMPA receptor GluR1 subunit and ADAM10 in the mouse 
+neocortex. Regul. Pept. 190–191, 1–11
+134 Zhao, C. et al. (2006) Distinct morphological stages of dentate granule neuron maturation in the adult mouse hippocampus. J. Neurosci. 26, 
+3–11
+135 Höglinger, G.U. et al. (2004) Dopamine depletion impairs precursor cell proliferation in Parkinson disease. Nat. Neurosci. 7, 726–735
+136 O’Keeffe, G.C. et al. (2009) Dopamine-induced proliferation of adult neural precursor cells in the mammalian subventricular zone is 
+mediated through EGF. Proc. Natl. Acad. Sci. U. S. A. 106, 8754–8759
+137 Regensburger, M. et al. (2014) Adult hippocampal neurogenesis in Parkinson’s disease: impact on neuronal survival and plasticity. Neural 
+Plast. 2014, 454696
+138 Lamm, O. et al. (2014) Harnessing neurogenesis for the possible treatment of Parkinson’s disease. J. Comp. Neurol. 522, 2817–2830
+139 Carlesimo, G.A. et al. (2012) Hippocampal abnormalities and memory deficits in Parkinson disease: a multimodal imaging study. Neurology
+78, 1939–1945
+140 Luciani, P. et al. (2010) Differentiating effects of the glucagon-like peptide-1 analogue exendin-4 in a human neuronal cell model. Cell. Mol. 
+Life Sci. 67, 3711–3723
+141 Salcedo, I. et al. (2012) Neuroprotective and neurotrophic actions of glucagon-like peptide-1: an emerging opportunity to treat 
+neurodegenerative and cerebrovascular disorders. Br. J. Pharmacol. 166, 1586–1599
+142 Belsham, D.D. et al. (2009) Ciliary neurotrophic factor recruitment of glucagon-like peptide-1 mediates neurogenesis, allowing 
+immortalization of adult murine hypothalamic neurons. FASEB J. 23, 4256–4565
+143 Isacson, R. et al. (2011) The glucagon-like peptide 1 receptor agonist exendin-4 improves reference memory performance and decreases 
+immobility in the forced swim test. Eur. J. Pharmacol. 650, 249–255
+144 Porter, W.D. et al. (2013) Liraglutide improves hippocampal synaptic plasticity associated with increased expression of Mash1 in ob/ob 
+mice. Int. J. Obes. (Lond). 37, 678–684
+145 Hansen, H.H. et al. (2015) The GLP-1 receptor agonist liraglutide improves memory function and increases hippocampal CA1 neuronal 
+numbers in a senescence-accelerated mouse model of Alzheimer’s disease. J. Alzheimers Dis. 46, 877–888
+146 Gault, V.A. and Hölscher, C. (2008) GLP-1 agonists facilitate hippocampal LTP and reverse the impairment of LTP induced by beta-
+amyloid. Eur. J. Pharmacol. 587, 112–117
+147 Read, D.E. and Gorman, A.M. (2009) Involvement of Akt in neurite outgrowth. Cell. Mol. Life Sci. 66, 2975–2984
+148 Grider, M.H. et al. (2009) Lipid raft-targeted Akt promotes axonal branching and growth cone expansion via mTOR and Rac1, respectively. 
+J. Neurosci. Res. 87, 3033–3042
+149 Ries, V. et al. (2009) Regulation of the postnatal development of dopamine neurons of the substantia nigra in vivo by Akt/protein kinase B. 
+J. Neurochem. 110, 23–33
+150 Ransome, M.I. and Hannan, A.J. (2013) Impaired basal and running-induced hippocampal neurogenesis coincides with reduced Akt 
+signaling in adult R6/1 HD mice. Mol. Cell. Neurosci. 54, 93–107
+151 Casarosa, S. et al. (1999) Mash1 regulates neurogenesis in the ventral telencephalon. Development 126, 525–534
+152 Oishi, K. et al. (2009) Selective induction of neocortical GABAergic neurons by the PDK1-Akt pathway through activation of Mash1. Proc. 
+Natl. Acad. Sci. U. S. A. 106, 13064–13069
+153 Petzinger, G.M. et al. (2013) Exercise-enhanced neuroplasticity targeting motor and cognitive circuitry in Parkinson’s disease. Lancet. 
+Neurol. 12, 716–726
+154 Kohl, Z. et al. (2012) Fluoxetine rescues impaired hippocampal neurogenesis in a transgenic A53T synuclein mouse model. Eur. J. Neurosci.
+35, 10–19
+155 Mohapel, P. et al. (2005) Platelet-derived growth factor (PDGF-BB) and brain-derived neurotrophic factor (BDNF) induce striatal 
+neurogenesis in adult rats with 6-hydroxydopamine lesions. Neuroscience 132, 767–776
+156 Ramos-Rodriguez, J.J. et al. (2014) Central proliferation and neurogenesis is impaired in type 2 diabetes and prediabetes animal models. 
+PLoS ONE 9, e89229
+Page 15 of 21
+Accepted Manuscript
+157 Ben-Hur, T. et al. (2003) Effects of proinflammatory cytokines on the growth, fate, and motility of multipotential neural precursor cells. 
+Mol. Cell. Neurosci. 24, 623–631
+158 Suzuki, K. et al. (2010) Destruction of dopaminergic neurons in the midbrain by 6-hydroxydopamine decreases hippocampal cell 
+proliferation in rats: reversal by fluoxetine. PLoS ONE 5, e9260
+159 Rangasamy, S.B. et al. (2010) Neurotrophic factor therapy for Parkinson’s disease. Prog. Brain Res. 184, 237–264
+160 Kelly, M.J. et al. (2015) Viral vector delivery of neurotrophic factors for Parkinson’s disease therapy. Expert Rev Mol Med. 17, e8
+161 Bender, T.S. et al. (2015) Intranasal administration of glial-derived neurotrophic factor (GDNF) rapidly and significantly increases whole-
+brain GDNF level in rats. Neuroscience 303, 569–576
+162 Nagahara, A.H. et al. (2009) Neuroprotective effects of brain-derived neurotrophic factor in rodent and primate models of Alzheimer’s 
+disease. Nat. Med. 15, 331–337
+163 Perry, T. et al. (2002) A novel neurotrophic property of glucagon-like peptide 1: a promoter of nerve growth factor-mediated differentiation 
+in PC12 cells. J. Pharmacol. Exp. Ther. 300, 958–966
+164 Himeno, T. et al. (2011) Beneficial effects of exendin-4 on experimental polyneuropathy in diabetic mice. Diabetes 60, 2397–2406
+165 Kan, M. et al. (2012) Glucagon-like peptide 1, insulin, sensory neurons, and diabetic neuropathy. J. Neuropathol. Exp. Neurol. 71, 494–510
+166 Perry, T. et al. (2002) Protection and reversal of excitotoxic neuronal damage by glucagon-like peptide-1 and exendin-4. J. Pharmacol. Exp. 
+Ther. 302, 881–888
+167 Li, Y. et al. (2012) Exendin-4 ameliorates motor neuron degeneration in cellular and animal models of amyotrophic lateral sclerosis. PLoS 
+ONE 7, e32008
+168 Zhou, H. et al. (2015) Exendin-4 enhances the migration of adipose-derived stem cells to neonatal rat ventricular cardiomyocyte-derived 
+conditioned medium via the phosphoinositide 3-kinase/Akt-stromal cell-derived factor-1α/CXC chemokine receptor 4 pathway. Mol. Med. 
+Rep. 11, 4063–4072
+169 Liu, J. et al. (2014) Exendin-4 pretreated adipose derived stem cells are resistant to oxidative stress and improve cardiac performance via 
+enhanced adhesion in the infarcted heart. PLoS ONE 9, e99756
+170 Liu, J. et al. (2014) The stem cell adjuvant with Exendin-4 repairs the heart after myocardial infarction via STAT3 activation. J. Cell. Mol. 
+Med. 18, 1381–1391
+171 Buss, J.L. et al. (2012) Exenatide pretreatment improved graft function in nonhuman primate islet recipients compared to treatment after 
+transplant only. J. Transplant. 2012, 382518
+172 Li, M. et al. (2015) Liraglutide promotes cortical neurite outgrowth via the MEK-ERK pathway. Cell. Mol. Neurobiol. 35, 987–993
+173 Schroll, H. et al. (2014) Dysfunctional and compensatory synaptic plasticity in Parkinson’s disease. Eur. J. Neurosci. 39, 688–702
+174 Picconi, B. et al. (2012) Synaptic dysfunction in Parkinson’s disease. Adv. Exp. Med. Biol. 970, 553–572
+175 Calabresi, P. et al. (2013) New experimental and clinical links between the hippocampus and the dopaminergic system in Parkinson’s 
+disease. Lancet. Neurol. 12, 811–821
+176 Hely, M.A. et al. (2008) The Sydney multicenter study of Parkinson’s disease: the inevitability of dementia at 20 years. Mov. Disord. 23, 
+837–844
+177 Williams-Gray, C.H. et al. (2013) The CamPaIGN study of Parkinson’s disease: 10-year outlook in an incident population-based cohort. J. 
+Neurol. Neurosurg. Psychiatry 84, 1258–1264
+178 Williams-Gray, C.H. et al. (2009) The distinct cognitive syndromes of Parkinson’s disease: 5 year follow-up of the CamPaIGN cohort. Brain
+132, 2958–2969
+179 Costa, C. et al. (2012) Mechanisms underlying the impairment of hippocampal long-term potentiation and memory in experimental 
+Parkinson’s disease. Brain 135, 1884–1899
+180 Bouchard, T.P. et al. (2008) Age and dementia-associated atrophy predominates in the hippocampal head and amygdala in Parkinson’s 
+disease. Neurobiol. Aging 29, 1027–1039
+181 Ibarretxe-Bilbao, N. et al. (2008) Hippocampal head atrophy predominance in Parkinson’s disease with hallucinations and with dementia. 
+J. Neurol. 255, 1324–1331
+182 Pan, P.L. et al. (2013) Gray matter atrophy in Parkinson’s disease with dementia: evidence from meta-analysis of voxel-based morphometry 
+studies. Neurol. Sci. 34, 613–619
+183 Merchenthaler, I. et al. (1999) Distribution of pre-pro-glucagon and glucagon-like peptide-1 receptor messenger RNAs in the rat central 
+nervous system. J. Comp. Neurol. 403, 261–280
+184 Abbas, T. et al. (2009) Impairment of synaptic plasticity and memory formation in GLP-1 receptor KO mice: Interaction between type 2 
+diabetes and Alzheimer’s disease. Behav. Brain Res. 205, 265–271
+185 During, M.J. et al. (2003) Glucagon-like peptide-1 receptor is involved in learning and neuroprotection. Nat. Med. 9, 1173–1179
+186 Hilker, R. et al. (2005) Dementia in Parkinson disease: functional imaging of cholinergic and dopaminergic pathways. Neurology 65, 1716–
+1722
+187 Perry, E.K. et al. (1985) Cholinergic correlates of cognitive impairment in Parkinson’s disease: comparisons with Alzheimer’s disease. J. 
+Neurol. Neurosurg. Psychiatry 48, 413–421
+188 Candy, J.M. et al. (1983) Pathological changes in the nucleus of Meynert in Alzheimer’s and Parkinson’s diseases. J. Neurol. Sci. 59, 277–
+289
+189 Bohnen, N.I. et al. (2003) Cortical cholinergic function is more severely affected in parkinsonian dementia than in Alzheimer disease: an in 
+vivo positron emission tomographic study. Arch. Neurol. 60, 1745–1748
+190 Bohnen, N.I. et al. (2006) Cognitive correlates of cortical cholinergic denervation in Parkinson’s disease and parkinsonian dementia. J. 
+Neurol. 253, 242–247
+191 Choi, S.H. et al. (2012) Volumetric analysis of the substantia innominata in patients with Parkinson’s disease according to cognitive status. 
+Neurobiol. Aging 33, 1265–1272
+192 Muslimovic, D. et al. (2005) Cognitive profile of patients with newly diagnosed Parkinson disease. Neurology 65, 1239–1245
+193 Santiago, J. and Potashkin, J. (2013) Shared dysregulated pathways lead to Parkinson’s disease and diabetes. Trends Mol. Med. 19, 176–
+186
+194 Morris, J.K. et al. (2014) Insulin resistance and gray matter volume in neurodegenerative disease. Neuroscience 270, 139–147
+195 Takahashi, M. et al. (1996) Insulin receptor mRNA in the substantia nigra in Parkinson’s disease. Neurosci. Lett. 204, 201–204
+196 Duarte, A.I. et al. (2012) Insulin in central nervous system: more than just a peripheral hormone. J. Aging Res. 2012, 384017
+197 Tong, M. et al. (2009) Brain insulin-like growth factor and neurotrophin resistance in Parkinson’s disease and dementia with Lewy bodies: 
+potential role of manganese neurotoxicity. J. Alzheimers. Dis. 16, 585–599
+198 Bassil, F. et al. Brain insulin resistance in Parkinson’s disease and multiple system atrophy. Submitted[LM6]
+199 Hirsch, E.C. et al. (2013) Pathogenesis of Parkinson’s disease. Mov. Disord. 28, 24–30
+200 Wang, L. et al. (2014) Metabolic inflammation exacerbates dopaminergic neuronal degeneration in response to acute MPTP challenge in 
+type 2 diabetes mice. Exp. Neurol. 251, 22–29
+Page 16 of 21
+Accepted Manuscript
+201 Morris, J.K. et al. (2010) Neurodegeneration in an animal model of Parkinson’s disease is exacerbated by a high-fat diet. AJP Regul. Integr. 
+Comp. Physiol. 299, R1082–R1090
+202 Morris, J.K. et al. (2011) Insulin resistance impairs nigrostriatal dopamine function. Exp. Neurol. 231, 171–180
+203 Choi, J-Y. et al. (2005) Enhanced susceptibility to 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine neurotoxicity in high-fat diet-induced 
+obesity. Free Radic. Biol. Med. 38, 806–816
+204 Kleinridders, A. et al. (2015) Insulin resistance in brain alters dopamine turnover and causes behavioral disorders. Proc. Natl. Acad. Sci. U. 
+S. A. 112, 3463–3468
+205 Hirosumi, J. et al. (2002) A central role for JNK in obesity and insulin resistance. Nature 420, 333–336
+206 Santos, F.R. and Diamond-Stanic, H.E. (2012) Contribution of the serine kinase c-Jun N-terminal kinase (JNK) to oxidant-induced insulin 
+resistance in isolated rat skeletal muscle. Arch. Physiol. Biochem. 118, 231–236
+207 De Felice, F.G. et al. (2014) How does brain insulin resistance develop in Alzheimer’s disease? Alzheimers. Dement. 10, S26–S32
+208 Ferreira, S.T. et al. (2014) Inflammation, defective insulin signaling, and neuronal dysfunction in Alzheimer’s disease. Alzheimer’s Dement.
+10, S76–S83
+209 Gao, S. et al. (2015) Alpha-synuclein overexpression negatively regulates insulin receptor substrate 1 by activating mTORC1/S6K1 
+signaling. Int. J. Biochem. Cell Biol. 64, 25–33
+210 Bomfim, T.R. et al. (2012) An anti-diabetes agent protects the mouse brain from defective insulin signaling caused by Alzheimer’s disease-
+associated Aβ oligomers. J. Clin. Invest. 122, 1339–1353
+211 Long-Smith, C.M. et al. (2013) The diabetes drug liraglutide ameliorates aberrant insulin receptor localisation and signalling in parallel 
+with decreasing both amyloid-β plaque and glial pathology in a mouse model of Alzheimer’s disease. Neuromolecular Med. 15, 102–114
+212 Zhang, Y. et al. (2015) Geniposide attenuates insulin-deficiency-induced acceleration of β-amyloidosis in an APP/PS1 transgenic model of 
+Alzheimer’s disease. Neurochem. Int. 89, 7–16
+213 Hsuchou, H. et al. (2012) Blood-borne metabolic factors in obesity exacerbate injury-induced gliosis. J. Mol. Neurosci. 47, 267–277
+214 Gonzales, M.M. et al. (2012) Indirect effects of elevated body mass index on memory performance through altered cerebral metabolite 
+concentrations. Psychosom. Med. 74, 691–698
+215 Hayes, M.R. et al. (2011) Intracellular signals mediating the food intake-suppressive effects of hindbrain glucagon-like peptide-1 receptor 
+activation. Cell Metab. 13, 320–330
+216 Bradley, D.P. et al. (2010) Exenatide and weight loss. Nutrition 26, 243–249
+217 Beiroa, D. et al. (2014) GLP-1 agonism stimulates brown adipose tissue thermogenesis and browning through hypothalamic AMPK. 
+Diabetes 63, 3346–3358
+218 Brunetti, L. et al. (2008) Glucagon-like peptide 1 (7-36) amide (GLP-1) and exendin-4 stimulate serotonin release in rat hypothalamus. 
+Peptides 29, 1377–1381
+219 Tong, J. and Sandoval, D.A. (2011) Is the GLP-1 system a viable therapeutic target for weight reduction? Rev. Endocr. Metab. Disord. 12, 
+187–195
+220 Sallam, H.S. et al. (2015) Peripheral adipose tissue insulin resistance alters lipid composition and function of hippocampal synapses. J. 
+Neurochem. 133, 125–133
+221 Yang, J. et al. (2013) Glucagon-like peptide 1 regulates adipogenesis in 3T3-L1 preadipocytes. Int. J. Mol. Med. 31, 1429–1435
+222 Challa, T.D. et al. (2012) Regulation of adipocyte formation by GLP-1/GLP-1R signaling. J. Biol. Chem. 287, 6421–6430
+223 Abbott, S.K. et al. (2014) Altered ceramide acyl chain length and ceramide synthase gene expression in Parkinson’s disease. Mov. Disord.
+29, 518–526
+224 Mielke, M.M. et al. (2013) Plasma ceramide and glucosylceramide metabolism is altered in sporadic Parkinson’s disease and associated with 
+cognitive impairment: a pilot study. PLoS ONE 8, e73094
+225 Bikman, B.T. (2012) A role for sphingolipids in the pathophysiology of obesity-induced inflammation. Cell. Mol. Life Sci. 69, 2135–2146
+226 Lyn-Cook, L.E. et al. (2009) Hepatic ceramide may mediate brain insulin resistance and neurodegeneration in type 2 diabetes and non-
+alcoholic steatohepatitis. J. Alzheimers. Dis. 16, 715–729
+227 Tayebi, N. et al. (2003) Gaucher disease with parkinsonian manifestations: does glucocerebrosidase deficiency contribute to a vulnerability 
+to parkinsonism? Mol. Genet. Metab. 79, 104–109
+228 Erbaş, O. et al. (2014) Fatty liver-induced changes in stereotypic behavior in rats and effects of glucagon-like peptide-1 analog on 
+stereotypy. Kaohsiung J. Med. Sci. 30, 447–452
+229 Wang, Q. et al. (2004) Glucagon-like peptide-1 regulates proliferation and apoptosis via activation of protein kinase B in pancreatic INS-1 
+beta cells. Diabetologia 47, 478–487
+230 Zhang, H. et al. (2015) Pro-GLP-1, a Pro-drug of GLP-1, is neuroprotective in cerebral ischemia. Eur. J. Pharm. Sci. 70, 82–91
+231 Wang, M-D. et al. (2012) Exendin-4 improved rat cortical neuron survival under oxygen/glucose deprivation through PKA pathway. 
+Neuroscience 226, 388–396
+232 Greene, L.A. et al. (2011) Akt as a victim, villain and potential hero in Parkinson’s disease pathophysiology and treatment. Cell. Mol. 
+Neurobiol. 31, 969–978
+233 Timmons, S. et al. (2009) Akt signal transduction dysfunction in Parkinson’s disease. Neurosci. Lett. 467, 30–35
+234 Elstner, M. et al. (2011) Expression analysis of dopaminergic neurons in Parkinson’s disease and aging links transcriptional dysregulation 
+of energy metabolism to cell death. Acta Neuropathol. 122, 75–86
+235 Griffin, R.J. et al. (2005) Activation of Akt/PKB, increased phosphorylation of Akt substrates and loss and altered distribution of Akt and 
+PTEN are features of Alzheimer’s disease pathology. J. Neurochem. 93, 105–117
+236 Kim, S.R. et al. (2011) Age and α-synuclein expression interact to reveal a dependence of dopaminergic axons on endogenous Akt/PKB 
+signaling. Neurobiol. Dis. 44, 215–222
+237 Malagelada, C. et al. (2008) RTP801 is induced in Parkinson’s disease and mediates neuron death by inhibiting Akt 
+phosphorylation/activation. J. Neurosci. 28, 14363–14371
+238 Xiromerisiou, G. et al. (2008) Association between AKT1 gene and Parkinson’s disease: a protective haplotype. Neurosci. Lett. 436, 232–234
+239 Xu, Y. et al. (2014) Activation of AMPK and inactivation of Akt result in suppression of mTOR-mediated S6K1 and 4E-BP1 pathways 
+leading to neuronal cell death in in vitro models of Parkinson’s disease. Cell. Signal. 26, 1680–1689
+240 Canal, M. et al. (2014) RTP801/REDD1: a stress coping regulator that turns into a troublemaker in neurodegenerative disorders. Front. 
+Cell. Neurosci. 8, 313
+241 Perrinjaquet, M. et al. (2010) Protein-tyrosine phosphatase SHP2 contributes to GDNF neurotrophic activity through direct binding to 
+phospho-Tyr687 in the RET receptor tyrosine kinase. J. Biol. Chem. 285, 31867–31875
+242 Yasuda, T. and Mochizuki, H. (2010) Use of growth factors for the treatment of Parkinson’s disease. Expert Rev. Neurother. 10, 915–924
+243 Foster, D.A. and Toschi, A. (2009) Targeting mTOR with rapamycin: one dose does not fit all. Cell Cycle 8, 1026–1029
+244 O’ Neill, C. (2013) PI3-kinase/Akt/mTOR signaling: impaired on/off switches in aging, cognitive decline and Alzheimer’s disease. Exp. 
+Gerontol. 48, 647–653
+245 Kloet, D.E.A. and Burgering, B.M.T. (2011) The PKB/FOXO switch in aging and cancer. Biochim. Biophys. Acta 1813, 1926–1937
+Page 17 of 21
+Accepted Manuscript
+246 Morissette, M. et al. (2010) Striatal Akt/GSK3 signaling pathway in the development of L-Dopa-induced dyskinesias in MPTP monkeys. 
+Prog. Neuropsychopharmacol. Biol. Psychiatry 34, 446–454
+247 Brunton, S. (2014) GLP-1 receptor agonists vs. DPP-4 inhibitors for type 2 diabetes: is one approach more successful or preferable than the 
+other? Int. J. Clin. Pract. 68, 557–567
+248 Buse, J.B. et al. (2013) Exenatide once weekly versus liraglutide once daily in patients with type 2 diabetes (DURATION-6): a randomised, 
+open-label study. Lancet 381, 117–124
+249 Aviles-Olmos, I. et al. (2013) Exenatide and the treatment of patients with Parkinson’s disease. Journal Title 123[LM7], XXX–YYY
+250 Aviles-Olmos, I. et al. (2014) Motor and cognitive advantages persist 12 months after exenatide exposure in Parkinson’s disease. J. 
+Parkinsons. Dis. XX, YYY–ZZZ[LM8]
+251 Gejl, M. et al. (2015) No decline of brain glucose metabolism in Alzheimer’s disease patients treated with liraglutide. American Diabetes 
+Association, 75th Annual Meeting, Boston, USA, June 5–9, 2015, abstr1309-P
+252 Finan, B. et al. (2015) A rationally designed monomeric peptide triagonist corrects obesity and diabetes in rodents. Nat. Med. 21, 27–36
+253 Finan, B. et al. (2013) Unimolecular dual incretins maximize metabolic benefits in rodents, monkeys, and humans. Sci. Transl. Med. 5, 
+209ra151
+254 Ji, C. et al. (2015) A novel dual GLP-1 and GIP receptor agonist is neuroprotective in the MPTP mouse model of Parkinson’s disease by 
+increasing expression of BNDF. Brain Res. XX, YYY–ZZZ[LM9]
+255 Janssens, J. et al. (2014) Systems-level G protein-coupled receptor therapy across a neurodegenerative continuum by the GLP-1 receptor 
+system. Front. Endocrinol. (Lausanne) 5, 142[LM10]
+256 Seufert, J. and Gallwitz, B. (2014) The extra-pancreatic effects of GLP-1 receptor agonists: a focus on the cardiovascular, gastrointestinal 
+and central nervous systems. Diabetes. Obes. Metab. 16, 673–688
+257 Janssens, J. et al. (2014) Systems-level G protein-coupled receptor therapy across a neurodegenerative continuum by the GLP-1 receptor 
+system. Front. Endocrinol. (Lausanne) 5, 142[LM11]
+258 Sloop, K.W. et al. (2010) Novel small molecule glucagon-like peptide-1 receptor agonist stimulates insulin secretion in rodents and from 
+human islets. Diabetes 59, 3099–3107
+259 Koole, C. et al. (2010) Allosteric ligands of the glucagon-like peptide 1 receptor (GLP-1R) differentially modulate endogenous and exogenous 
+peptide responses in a pathway-selective manner: implications for drug screening. Mol. Pharmacol. 78, 456–465
+Glossary
+Amyloid beta (A): peptides of 36–43 amino acids that are the main component of the amyloid plaques found in the brains of patients with AD.
+Alpha-synuclein: a major component of Lewy bodies, the pathological correlate found in the brains of patients with PD.
+Insulin resistance: a condition describing the reduced responsiveness of cells to the action of insulin.
+Insulin receptor substrate 1 (IRS-1): a critical component of intact insulin signalling; phosphorylation of IRS-1 on serine residues prevents insulin/IGF-1 binding to the 
+IR and subsequent activation of downstream effectors.
+Microglial cells: resident macrophages in the CNS that mediate a balance between neuroprotection and neurotoxicity; when activated, they can express a 
+cytoprotective M2 phenotype generally providing trophic support and inhibiting inflammation; however, continuous exposure to stress and prolonged microglial 
+activation can lead to polarisation towards the cytotoxic M1 phenotype, causing production of superoxide proinflammatory cytokines that leads to progressive oxidative 
+stress cell death.
+Figure 1. [LM12]Glucagon-like peptide 1 (GLP-1) receptor activation in neurons showing the influence of downstream pathways on Parkinson’s disease (PD) 
+pathogenesis. Stimulation of the GLP-1 receptor (GLP-1R) leads to an increase in intracellular cAMP, which then activates protein kinase A (PKA) and 
+phosphoinositide 3-kinase (PI3K), which phosphorylate and activate a variety of downstream signalling pathways that can be simplified into two branches: the mitogen-
+associated protein kinase/extracellular signal-regulated kinase (MAPK/ERK; also known as Ras-Raf-MEK-ERK) and PI3K/protein kinase B (AKT) pathways, which can 
+modulate intracellular events, such as activation of calcium channels, enhancing protein synthesis, cellular proliferation, and mitochondrial biogenesis while inducing 
+inhibition of apoptosis, inflammation, and protein aggregation, leading to improved cell survival. Abbreviations: Bcl-2, B cell lymphoma 2; BAD, (Bcl-2) antagonist of 
+death; Bcl-XL, B cell lymphoma 2 extra-large; cAMP, cyclic AMP; CREB, cAMP response element-binding protein; FoxO1/O3, Forkhead box O1/O3; GSK-3B, 
+Glycogen synthase 3 beta; LTP, long-term potentiation; mTOR, Mammalian target of rapamycin; NF-B, nuclear factor kappa-light-chain-enhancer of activated B cells; 
+TNF, tumour necrosis factor.
+Table 1. Effects of GLP-1 analogues and DPP-IV inhibitors in models of PD: data from experimental models and clinical trials
+Drug
+Experimental data
+Results and/or effects
+Human data
+Refs
+GLP-1 analogue
+In vitro PC12 cells
+Promoted NGF-initiated differentiation; rescued degenerating cells after 
+NGF-mediated withdrawal
+[159]
+In vitro 6-OHDA
+Increased number of TH+ striatal neurons; elevated antiapoptotic proteins 
+Bcl-2; reduced expression proapoptotic proteins caspase-3 and Bax 
+[16]
+Rat LPS
+Post-lesioning treatment restored depletion of extracellular DA and TH 
+activity back to normal levels, increased striatal tissue DA concentrations 
+and number of nigral TH+ neurons, reduced apomorphine-induced 
+rotations
+[15]
+Rat 6-OHDA
+Post-lesioning treatment protected DA neurons, increased striatal tissue 
+DA concentrations and number of nigral TH+ neurons, reduced 
+apomorphine-induced rotations 
+[15]
+Mouse MPTP
+Prelesioning treatment preserved TH+ neurons and preserved motor 
+function in rotarod and pole tests indistinguishable from controls
+Mouse MPTP
+Prelesioning treatment reduced loss of TH+ striatal neurons, halted 
+microglial activation and MPTP-induced expression of matrix 
+metalloproteinase 3, TNF- and IL1
+[18]
+Rat 6-OHDA
+Increased the number of TH- and VMAT2-positive neurons in the SN, 
+increased and normalised amphetamine-induced rotations
+[17]
+Exenatide
+Novel rodent model with 
+NA, SA and DA deficits
+Post-lesioning treatment restored extracellular/tissue levels of DA, NA and 
+SA and TH+ cell counts; reversed neuropsychiatric dysfunction 
+Open-label RCT in 45 
+patients which led to a 
+mean advantage of 7.0 
+points on MDS-UPDRS 
+Part III, which persisted 
+after a 12-month ‘wash-
+out’ period, together with 
+improvements in Mattis 
+Dementia Rating scale 
+and other non-motor areas 
+[243,244]; Phase II
+double-blind, placebo 
+controlled trial underway 
+(Clinicaltrials.gov 
+NCT01971242)
+[19,252]
+Liraglutide 
+Mouse MPTP
+Post-lesioning treatment preserved TH+ neurons in the SN; reduced 
+No human data currently
+[20]
+Page 18 of 21
+Accepted Manuscript
+levels of BAX and increased Bcl-2; prevented motor impairment in rotarod, 
+open-field locomotion, catalepsy tests 
+Lixisenatide 
+Mouse MPTP
+Post-lesioning treatment preserved TH+ neurons in the SN; reduced 
+levels of BAX and increased Bcl-2; prevented motor impairment in rotarod, 
+open-field locomotion, catalepsy tests
+No human data currently
+[22]
+[LM13]
+Dulaglutide 
+No experimental data
+No experimental data currently
+No human data currently
+DPP-IV inhibitor
+Saxagliptin
+Rat rotenone
+Preserved SNPc TH+ neurons; decreased NF-В, iNOS, TNF-, ICAM-1, 
+MPO, capase-3, increased Bcl-2, BDNF 
+No human data currently
+[21]
+Sitagliptin
+Mouse MPTP
+Did not prevent DA degeneration, TH depletion
+No human data currently
+[22]
+Table 2. Effects of GLP-1 analogues and DPP-IV inhibitors in models of AD: data from experimental models and clinical trials
+Drug
+Experimental model
+Results and/or effects
+Human data
+Refs
+GLP-1 analogue
+3 Tg-AD mice with and 
+without STZ-induced 
+diabetes.
+Protected neurons from Aoxidative-induced cell death, lowered brain 
+levels of APP and Aβ in vivo; tau levels unaffected 
+[29]
+ICV-STZ rats
+Reversed ICV-STZ-induced tau hyperphosphorylation leading to better 
+learning and memory performance in Morris water maze test 
+[112]
+PC12 cells treated with 
+glucose-bovine serum 
+albumin (BSA)
+Protected neurons: reduced cell tau phosphorylation induced by high 
+glucose 
+[114]
+T2DM rats
+Prevented hyperphosphorylation of tau in hippocampus and improved 
+insulin signalling 
+[111]
+In vitro hippocampal neurons
+and mice
+Reduced levels of Aβ in brain in vivo; reduced levels of APP in cell 
+cultures 
+[28]
+Exenatide
+Hippocampal rat neurons; 
+APP/PSEN1 mutant mice; A
+oligomer-induced toxicity in 
+nonhuman primates
+Neurons: prevented A oligomer-induced increase in IRS-1pSer, 
+improving impaired axonal transport; Tg mice: reduced brain levels of 
+IRS-1pSer636, IRS-1pSer312, and pJNK, with an improvement in 
+cognition 
+Phase II trial evaluating 
+exenatide in 230 patients 
+with AD or MCI 
+(NCT01255163) is underway
+[204]
+T2DM mice
+Reversed DM-induced brain and peripheral insulin sensitivity, halted 
+tau hyperphosphorylation 
+[116]
+ICV-STZ mice
+Decreased hyperphosphorylation of tau and neurofilament proteins; 
+improved learning and memory ability 
+[253]
+Senescence-accelerated 
+mouse prone 8 (SAMP8) 
+mice
+Delayed progressive decline in memory function; increased memory 
+retention and total hippocampal CA1 pyramidal neurons 
+[141]
+Db/db mice
+Prevented hyperphosphorylation of tau protein in hippocampus 
+[115]
+7-month-old APP/PSEN1 
+mice
+Prevented memory impairments in object recognition and water maze 
+tasks; reduced synapse loss; reduced amyloid and dense core plaque 
+load; reduced microglial activation 
+[61]
+Improved spatial learning and memory water maze tests; improved LTP 
+in hippocampal CA1 region 
+[26]
+A oligomer-induced toxicity 
+in rats
+Decreased levels of IRS-1pS616; reduced microglial activation; 
+decreased amyloid plaque load 
+[205]
+14-month-old APP/PSEN1
+mice
+Improved spatial memory; reduced total brain APP and Aβ levels; 
+increased IDE levels; increased neuronal progenitor cells and/or
+synapses in dentate gyrus 
+[254]
+Liraglutide 
+2-month-old APP/PSEN1 
+mice
+Prophylactic treatment improved memory formation in Morris water 
+maze; prevented synapse loss; reduced amyloid plaque load, including 
+dense core congophilic plaques; reduced activated microglia; enhanced 
+neurogenesis in dentate gyrus 
+Randomized, placebo-
+controlled Phase II trial 
+assessing safety and 
+efficacy of liraglutide in 206 
+patients with early AD 
+(NCT018430755) is 
+underway; trial assessing 
+effects of liraglutide on 
+cerebral amyloid deposits 
+(NCT01469351) is 
+underway; pilot trial of 
+liraglutide in patients with 
+DLB is in planning stages
+[255]
+APP/PSEN1 mice
+Increased LTP; prevented synapse loss; reduced amyloid plaque load; 
+reduced microglial activation 
+[256]
+Lixisenatide 
+A oligomer-induced toxicity 
+in rats
+Prevented Aβ-induced decline in spatial learning; improved LTP 
+[257]
+DPP-IV inhibitor
+Saxagliptin
+ICV-STZ mice
+Halted Aβ, tau phosphorylation; reduced inflammatory markers; 
+elevated hippocampal GLP-1; improved memory retention 
+[32]
+Vildagliptin
+ICV-STZ mice
+Improved memory retention and dose-dependent attenuation of Aβ, tau 
+phosphorylation, and inflammatory markers; elevated GLP-1 levels 
+[113]
+7-month-old APP/PSEN1
+mice
+Improved memory impairment in contextual fear conditioning test; 
+increased brain levels of GLP-1; reduced inflammation markers; 
+reduced APP and Aβ deposits 
+[33]
+OLETF T2DM rat model
+Increased tau phosphorylation; increased IRS-1sP616
+[34]
+Sitagliptin
+Sprague-Dawley rats
+Improved working memories; reduced insulin resistance; increased 
+acetylcholine content of hypothalamus and Adipo R1 expression 
+[258]
+Page 19 of 21
+Accepted Manuscript
+Author photos
+Page 20 of 21
+Accepted Manuscript
+Author photos
+Page 21 of 21
+Accepted Manuscript
+AKT
+PI3K
+MAPK
+PKA
+BAD /
+ Caspase
+Promotes cellular 
+proliferation, 
+diﬀerentiation, 
+synaptic plasticity
+Inhibits 
+pro-inﬂammatory 
+cascades
+Inhibits apoptosis
+Promotes neurite 
+outgrowth, neurite 
+branching
+Inhibits phosporylation 
+of tau, aggregation of 
+alpha-synuclein, AB
+Reduces oxidative stress
+Inhibits apoptosis
+Enhances mitochondrial 
+function
+Inhibits apoptosis
+Promotes neurogenesis
+Inhibits apoptosis and 
+uncontrolled autophagy
+Increases synapse 
+formation and induces 
+LTP
+Inhibits activation of microglia 
+and pro-inﬂammatory cytokines 
+e.g TNF-alpha
+cAMP
+GLP-1 Receptor
+L-type calcium channel
+Activation of Ca2+ 
+channels and 
+facilitation of 
+insulin / modula-
+tion of synaptic 
+neurotransmitter 
+release
+Activated
+Inhibited
+GSK-3B
+mTOR
+NF-kB
+FoxO1/
+O3
+CREB
+Bcl-2
+Bcl-XL
+Figure
+

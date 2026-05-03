@@ -1,0 +1,990 @@
+---
+# Amygdala reactivity and ventromedial prefrontal cortex coupling in the processing of emotional face stimuli in attention-deficit/hyperactivity disorder
+**Autores**: Tammo Viering 
+**Año**: 2020
+**Journal**: European Child & Adolescent Psychiatry, https://doi.org/10.1007/s00787-021-01809-3
+**DOI/Link**: ADHD,Emotion recognition,Emotion dysregulation,Task fMRI,Amygdala,Prefrontal cortex
+
+## Abstract
+Abstract
+Impaired emotion recognition is common in individuals with attention-deficit/hyperactivity disorder (ADHD) and may, via 
+deficient emotion self-regulation, relate to the frequently co-occurring affective and social problems. The present study used 
+an emotional face-matching task and functional magnetic resonance imaging (fMRI) to investigate neural responses during 
+the processing of angry and fearful faces and visuo-spatial control stimuli. Additionally, measures for emotion dysregulation, 
+ADHD type, and age were investigated in relation to the behavioral and neural fMRI data. We utilized a sample of 61 adoles-
+cents/young adults with ADHD and 51 age-matched healthy controls (age range: 12–28 years). Participants with ADHD had 
+higher emotion dysregulation scores than controls. They also reacted slower and less accurate in response to emotional but 
+not visuo-spatial control stimuli. Neural response differences between emotional and visuo-spatial trials were significantly 
+smaller in cases, particularly in the left amygdala. While coupling between the right amygdala and bilateral ventromedial 
+prefrontal cortex was stronger for emotional than visuo-spatial stimuli in control subjects, levels of positive coupling between 
+the trial types did not significantly differ in participants with ADHD. Neither emotion dysregulation scores, nor ADHD type 
+or age were related to the behavioral and neural processing alterations during the emotional face-matching task.
+
+## Key Findings
+Discussion
+We investigated neural processing patterns of 112 adoles-
+cents/young adults with ADHD and healthy controls during 
+the performance of an emotional face-matching task, and 
+considered the influence of ADHD type, emotion dysregula-
+tion, and age. Participants with ADHD were overall slower 
+and made more errors on emotional but not visuo-spatial 
+control trials. During the processing of emotional faces as 
+compared with the visuo-spatial stimuli, they showed less 
+activity in the left amygdala and hippocampus, occipital 
+regions, fusiform gyrus, and posterior fraction of the tem-
+poral cortex. The left amygdala finding was supported with 
+a subsequent ROI analysis. Furthermore, healthy controls 
+showed positive coupling between the right amygdala and 
+vmPFC during emotional but not visuo-spatial trials. On the 
+contrary, participants with ADHD showed negative coupling 
+between the two structures during emotional trials but posi-
+tive coupling during the visuo-spatial trials. F... (Extracted from Discussion)
+
+## Methodology
+Methods and material
+Participants and procedures
+Individuals with ADHD and healthy controls participated 
+in NeuroIMAGE II, the third wave of an integrated genet-
+ics-cognition-MRI-phenotype project focusing on ADHD 
+[31]. Initial inclusion criteria for first-wave participants with 
+ADHD were a combined type ADHD diagnosis, availability 
+of one or more siblings, age between 6 and 18 years, and 
+availability of the participant, sibling, and at least one bio-
+logical parent for DNA collection. Exclusion criteria apply-
+ing to all participants were IQ < 70, inability to understand 
+study procedures, diagnoses of autism or schizophrenia, 
+and neurological disorders. For controls, it was additionally 
+required that neither they, nor any of their first-degree rela-
+tives, had a prior ADHD diagnosis. The current wave took 
+place 9 years after the first wave.
+The diagnostic procedure was based on DSM-IV-TR cri-
+teria [34] and is described in more detail by van Rhein et al. 
+[31]. Clinical ADHD diagnoses conferred by experienced 
+clinicians were confirmed by combining information from 
+a semi-structured interview (Kiddie Schedule for Affective 
+Disorders (K-SADS [35])) and parent, teacher, and self-
+report versions of the Conners’ rating scale (CPRS-R:L 
+European Child & Adolescent Psychiatry	
+1 3
+[36], CTRS-R:L [37] & CAARS-R:L [38]). Emotion labil-
+ity scores (as an index for emotion dysregulation) were 
+derived from the parent-rated CPRS-R:L. The emotion 
+lability subscale consists of three items (i.e., unpredictable 
+mood changes, temper tantrums, and tearfulness) and has 
+been utilized repeatedly to assess emotion lability in ADHD 
+[39]. All data presented in this study, including the diagnos-
+tic questionnaires and emotional lability scores, refer to the 
+present wave of the project and were collected on the same 
+day as MRI scanning.
+The group examined here is a subsample of the 302 
+participants included in the third wave. The total group 
+is composed of individuals who took part in the previous 
+waves and new recruits added on account of dropouts (par-
+ticularly within the control group). For the present study, 
+however, only those individuals who could unambiguously 
+be assigned to either the control or ADHD group were con-
+sidered. These ambiguous or subthreshold participants had 
+a symptom count that was neither indicative of an ADHD 
+diagnosis (≤ 6 for children, ≤ 5 for adults) nor classified 
+them as unaffected (≥ 3 for children, ≥ 2 for adults). Also, 
+individuals who did not meet the criteria for daily living 
+impairments or onset-age but had multiple symptoms fell 
+into this category (for more details see von Rhein et al. [31]). 
+From this sample of 145 participants who also had available 
+fMRI data, a number of participants were removed prior to 
+analyses due to left-handedness (n = 21, only right handed 
+participants were studied to reduce variability due to lat-
+eralization differences), low quality of behavioral (partici-
+pants whose emotional face-matching accuracy was more 
+than three standard deviations worse than the group aver-
+age; n = 3), imaging data (n = 6, exclusion limit of 3 mm 
+on rotational and translational movement), and incomplete 
+diagnostic data (n = 3). This resulted in a final sample of 112 
+individuals (n = 61 ADHD, n = 51 healthy controls, similar 
+in age (12–28 years) and sex). Among the 61 participants 
+with ADHD, 36 had predominantly inattentive ADHD, 6 
+predominantly hyperactive/impulsive ADHD, and 19 com-
+bined ADHD. Due to the small number of participants with 
+hyperactive/impulsive ADHD, they were merged with par-
+ticipants with a combined diagnosis in all analyses.
+Stimulant medication was discontinued 48 hours prior to 
+testing. Data acquisition took place at the Donders Institute 
+for Cognitive Neuroimaging, Radboud University Nijmegen, 
+Netherlands. Participants (and their parents when < 18 years 
+old) gave written informed consent for participation. Ethical 
+approval was granted by the Regional Ethics Board (Cen-
+trale Commissie Mensgebonden Onderzoek: CMO Regio 
+Arnhem Nijmegen, ABR: NL41950.091.12).
+Neuropsychological task during fMRI
+In two emotion matching and three visuo-spatial control 
+blocks, each with six trials of 5 s in length, participants were 
+asked to match the facial emotion (fear or anger) or spa-
+tial orientation (vertical or horizontal ellipses) of an upper 
+stimulus with one of two lower stimuli, in line with a previ-
+ous study (31). The three simultaneously presented facial 
+stimuli always depicted faces of different individuals of the 
+same sex (taken from http://​www.​macbr​ain.​org). Half the 
+trials depicted women and the other half men. Ellipses of the 
+visuo-spatial trials consisted of scrambled face-stimuli pix-
+els. Responses were given with left or right button presses. 
+The task is well-established and served to investigate drug 
+effects on amygdala reactivity [17, 32, 33]. Instead of neutral 
+facial expressions, geometric shapes were used as control 
+stimuli, since the former could be perceived ambiguously 
+and could cause unwanted amygdala reactivity [33, 40]. Fig-
+ure 1 summarizes the applied task.
+fMRI data acquisition
+Functional MRI data acquisition was performed with a 1.5 T 
+Magnetom Avanto (Siemens AG, Erlangen, Germany). 
+To acquire T2*-weighted blood oxygen level dependent 
+(BOLD) images, accelerated multi-echo EPI sequences, 
+which additionally reduce image distortion and increase 
+BOLD sensitivity, were used (TR = 2660 ms, TE1/TE2/
+TE3/TE4/TE5 = 7.7/17.3/27.0/37.0/46.0 ms). For each vol-
+ume, 37 axial slices were generated in an interleaved and 
+ascending order (flip angle = 90°, FoV = 224 × 224 ­mm2, 
+voxel- size = 3.5 × 3.5 × 3.0 ­mm3, inter-slice gap = 0.5 mm, 
+GRAPPA 2). Echo-time (TE) weighted summation was used 
+to combine all five echoes into a single data set. T1-weighted 
+high-resolution structural volumes were acquired with 
+an MPRAGE sequence (TR = 2730  ms, TE = 2.95  ms, 
+TI = 900 ms, flip angle = 9°, FoV = 256 × 256 ­mm2, voxel- 
+size = 1.0 × 1.0 × 1.0 ­mm3, GRAPPA 2).
+Fig. 1   Illustration of the 
+emotional face-matching task 
+applied during fMRI scanning
+	
+European Child & Adolescent Psychiatry
+1 3
+Behavioral data analysis
+Reaction time and hit rate differences between the control 
+and ADHD group during the emotion matching task trials 
+were analyzed using mixed linear models with diagnostic 
+status as the grouping variable and task condition as the 
+repeated measures variable (one model for reaction time and 
+one for hit rate). Using partial sums of squares F tests we 
+investigated the impact of the different model regressors. 
+Emotion dysregulation, age, medication status, and sex were 
+entered as additional covariates. As an intrinsic component 
+of ADHD, IQ, with its typically strong relation with the 
+diagnostic status, was not considered. In cases of significant 
+interactions between diagnostic status and task condition, 
+Bonferroni-corrected t tests were applied to investigate the 
+diagnosis-specific differences within the different task con-
+ditions (corrected α = 0.0125). The statistical analysis of the 
+behavioral data was conducted with R software [41].
+fMRI data analysis
+FMRIB software library (FSL 5.0.11 [42]) was used for 
+fMRI data processing. Functional images were skull stripped 
+using FSL BET [43] and realigned to the middle volume of 
+each time series to correct for head motion. Motion param-
+eters for rotation and translation were calculated and the 
+exclusion limit was set to 3 mm of absolute movement. 
+Images were co-registered to the individual T1-weighted 
+structural images. The volumes were spatially smoothed 
+using a 6 mm full width at half maximum (FWHM) Gaussian 
+kernel. To remove secondary motion artifacts, ICA-AROMA 
+[44] was used. High-pass filtering was applied at 0.008 Hz 
+and nuisance regression was used to remove residual noise 
+of the white matter, cerebrospinal fluid (CSF), and linear 
+signal drifts of overall brain activity. We used CSF and white 
+matter masks obtained during a preceding segmentation of 
+the T1-weighted structural scan. Prior to subject-level analy-
+sis, the preprocessed images were warped to MNI152 space 
+(Montreal Neurological Institute, Montreal, Canada). During 
+quality assessment and all conducted preprocessing steps of 
+the individual fMRI datasets, researchers were unaware of 
+group memberships.
+At subject level, GLM were generated with FSL FEAT 
+[45] to estimate statistical parametric maps. GLM consisted 
+of four regressors modelling the emotion and visuo-spatial 
+control blocks (length 30 s) and their respective temporal 
+derivatives (Fig. 1). All regressors were convolved with 
+the double-gamma hemodynamic response function (HRF) 
+provided by FSL FEAT. The contrast of interest that was 
+used for subsequent second level analyses contrasted the 
+responses to blocks of angry or fearful face stimuli against 
+the responses to blocks of horizontally or vertically oriented 
+ellipses (emotion > shape). Due to the briefness of the fMRI 
+task and the high frequency of correct responses, an event-
+related model that differentiates between false and correct 
+trials or the gender of the respective stimuli could not be 
+used.
+With the individual beta contrast maps and associated 
+maps of variance estimates, FSL FLAME 1 was used to 
+calculate z value images for different contrasts and group-
+level models. Using the previously mentioned grouping 
+algorithm, a two-group GLM with binary regressors for 
+participants with ADHD and healthy controls was created 
+(ADHD-HC GLM, n = 112). Age and sex were demeaned 
+across participants and included as covariates of no inter-
+est. Since a somewhat lower IQ and use of medication is an 
+intrinsic feature of ADHD [46], IQ and medication status 
+were originally not added as covariates for the fMRI models. 
+To ensure that these two variables did not influence any rel-
+evant results, we ran an additional model with these covari-
+ates and found no main or interaction effects. Consequently, 
+they were not considered for the final model.
+Statistical maps were calculated for the groups’ mean 
+effects and the between group contrasts (ADHD > HC and 
+ADHD < HC). A similar model, but with binary regressors 
+for the groups with predominantly inattentive ADHD and 
+combined or hyperactive/impulsive ADHD, was created to 
+evaluate differences between ADHD participants with and 
+without hyperactive/impulsive symptoms. To investigate 
+possible age- and emotion dysregulation-dependent effects, 
+models for the two main participant groups in interaction 
+with these continuous covariates were used.
+Region of interest (ROI) analyses were conducted with 
+ROI masks of the left and right amygdala (240 and 280 vox-
+els per mask; calculated from the Harvard–Oxford Atlas, 
+thresholded at 50% and binarized; Fig. 3B). Hemisphere-
+specific masks were chosen because hemispheric differences 
+in emotion processing are suspected [47] and previous stud-
+ies have rarely found bilateral but rather mostly left-sided 
+effects [15, 17, 18]. Mean beta values (averaged across all 
+voxels within the ROI) were extracted from the individual 
+emotion > shape contrasts. Similar to the behavioral analy-
+sis, mixed linear models were constructed. Diagnostic status 
+and laterality, as repeated measure, were used as grouping 
+variables, while the aforementioned mean beta values of the 
+amygdala were added as dependent variable. Again, partial 
+sums of squares F tests were conducted and the same vari-
+ables that had been used for the behavioral analysis were 
+considered as covariates to investigate additional main or 
+interaction effects. Subsequent t tests were performed to 
+investigate the hemisphere-specific group mean differences. 
+The statistical analysis of the mean beta values was con-
+ducted with R software [41].
+Further analyses used psychophysiological interaction 
+(PPI) maps to investigate functional connectivity between 
+BOLD responses in the left and right amygdala and other 
+European Child & Adolescent Psychiatry	
+1 3
+parts of the brain (amygdala seeds were taken from the 
+Harvard–Oxford Atlas) [48]. PPI analyses identify areas 
+whose activation levels depend on the interaction between 
+a seed region and an experimental parameter. PPI estimate 
+contextual connectivity changes between seed regions 
+and other brain areas [48]. For the present analyses, the 
+convolutions of the double-gamma HRF with the emo-
+tion > shape contrasts were chosen as experimental param-
+eters. FSL FEAT with its standard procedures was used for 
+implementation. The group-level analysis was conducted 
+using the previously described two-group GLM. Follow-
+ing the PPI analyses, individual time series data of the 
+amygdala and clusters, whose coupling with the amygdala 
+was found to significantly depend on the trial condition, 
+were extracted to calculate estimates for condition-specific 
+amplitudes of covariance change. In other words, we cal-
+culated by how many multiples the average covariance 
+between activity of the amygdala and any psychophysi-
+ologically interacting area changed from the visuo-spatial 
+to the emotional condition. The alternative use of cor-
+relations for this purpose could be problematic for the 
+interpretation of the results since a certain ambiguity 
+arises with regard to shared and unshared signal compo-
+nents [49]. Results of the fMRI analyses are presented 
+at a significance level of p < 0.01 and after cluster-level 
+family-wise error (FWE) correction with cluster forming 
+thresholds of 2.3 [50].
+Results
+Sample characteristics
+Demographic details are provided in Table 1. Age and sex 
+did not significantly differ between the ADHD and healthy 
+control group. Participants with ADHD showed more 
+ADHD symptom and higher emotion dysregulation scores. 
+Compared to controls, participants with ADHD had a signif-
+icantly lower IQ (still in the normal range for both groups), 
+were more frequently diagnosed with oppositional defiant 
+disorder (ODD) or conduct disorder (CD), and used stimu-
+lant medication more often. ADHD type did not significantly 
+differ with age, sex, IQ, emotion dysregulation scores, and 
+stimulant use.
+Table 1   Sample characteristics of the healthy control and ADHD group as well as of presentation specific ADHD subgroups
+Means between groups were compared with independent sample t tests or Mann–Whitney U tests. Frequency distributions were compared with 
+Pearson’s chi-squared (χ2) test. For the CPRS-R:L t scores are presented, while for the K-SADS symptom counts are given
+N number of participants, n number of participants within subgroups, SD standard deviation, HC healthy controls, DSM-IV diagnostic and sta-
+tistical manual of mental disorders, 4th edition, ADHD attention-deficit/hyperactivity disorder IQ intelligence quotient, K-SADS Kiddie schedule 
+for affective disorders and schizophrenia, CPRS-R:L Conners’ parent rating scale, revised, long version, ODD oppositional defiant disorder, CD 
+conduct disorder
+ADHD
+Group
+HC
+Total
+Inattentive
+Combined and 
+hyperactive/
+impulsive
+HC vs. ADHD group comparisons
+N = 51
+N = 61
+N = 36
+N = 25
+Mean ± SD
+Mean ± SD
+Mean ± SD
+Mean ± SD
+Test statistic p value
+Effect-size
+Age (years)
+20.2 ± 3.2
+20.0 ± 3.5
+20.2 ± 3.7
+19.70 ± 3.2
+T = 0.2833
+0.778
+d = 0.053
+IQ (WISC/WAIS)
+114 ± 11.7
+97 ± 18.1
+98 ± 18.1
+94.4 ± 18.3
+T = 6.2708
+ < 0.001
+d = 1.146
+Emotional lability (CPRS-R:L)
+43.9 ± 3.1
+53.9 ± 13.2
+53.83 ± 13.9
+53.96 ± 12.4
+U = 740.5
+ < 0.001
+d = −0.524
+Median(range)
+Median(range)
+Median(range)
+Median(range)
+DSM-IV ADHD, inattentive 
+(K-SADS)
+0 (0–7)
+7 (4–9)
+7 (5–9)
+7 (4–9)
+U = 31.5
+d = −0.980
+DSM-IV ADHD, inattentive 
+(K-SADS)
+0 (0–7)
+7 (4–9)
+7 (5–9)
+7 (4–9)
+U = 31.5
+ < 0.001
+d = −0.980
+DSM-IV ADHD, hyperactive/impul-
+sive (K-SADS)
+0 (0–2)
+5 (0–9)
+4 (0–9)
+7 (6–9)
+U = 130
+ < 0.001
+d = −0.916
+n
+n
+n
+n
+Sex (male)
+29 (57%)
+38 (62%)
+22 (61%)
+16 (64%)
+χ2 = 0.152
+0.696
+φc = 0.001
+Stimulant user (yes)
+0 (0%)
+22 (36%)
+13 (36%)
+9 (36%)
+χ2 = 20.662
+ < 0.001
+φc = 0.430
+DSM-IV ODD (K-SADS)
+0 (0%)
+13 (21%)
+7 (19%)
+6 (24%)
+χ2 = 28.310
+ < 0.001
+φc = 0.503
+DSM-IV CD (K-SADS)
+0 (0%)
+2 (3%)
+1 (3%)
+1 (4%)
+χ2 = 9.180
+0.010
+φc = 0.286
+	
+European Child & Adolescent Psychiatry
+1 3
+Behavioral results
+Two mixed linear models were constructed and partial F 
+tests were used to investigate the ADHD- and task con-
+dition-specific influences on the behavioral results of the 
+emotional face-matching task. Neither for reaction times nor 
+for hit rates did the considered covariates show significant 
+effects. Thus, no additional covariates were entered into 
+the final models. Diagnostic status and task condition had 
+a significant interaction effect on the average reaction times 
+(F(1,110) = 20.814, p < 0.001, partial-η2 = 0.159). Post hoc 
+comparisons between the two participant groups indicated 
+significant mean difference in emotion and visuo-spatial tri-
+als (emotion trials: ADHD mean ± SD = 1.678 s ± 0.388 s, 
+healthy control mean ± SD = 1.378  s ± 0.244  s, 
+t(df = 103) = 4.946, p < 0.001, d = 0.9; visuo-spatial tri-
+als: ADHD mean ± SD = 0.913 s ± 0.166 s, healthy con-
+trol mean ± SD = 0.838 s ± 0.223 s, t(df = 109) = 2.053, 
+p < 0.001, d = 0.0.38). For mean hit rates, no significant 
+interaction effect of the diagnostic status and task condi-
+tion could be found. Solely a significant main effect of 
+the diagnostic status could be detected (F(1,110) = 7.919, 
+p = 0.006, partial-η2 = 0.159). Although not signifi-
+cant, the average mean difference in hit rates between 
+ADHD and healthy control subjects was more evident 
+in emotion trials than in visuo-spatial trials (emotion tri-
+als: ADHD mean ± SD = 0.915 s ± 0.092 s, healthy con-
+trol mean ± SD = 0.958 s ± 0.063 s; visuo-spatial trials: 
+ADHD mean ± SD = 0.926 s ± 0.074 s, healthy control 
+mean ± SD = 0.942 s ± 0.066 s).
+fMRI results
+Group comparison with whole‑brain analyses
+To detect brain activity differences in group-specific 
+BOLD activation during the emotion matching task (emo-
+tion > shape contrasts), the ADHD > HC and ADHD < HC 
+contrasts of the ADHD-HC GLM were used. The 
+ADHD > HC contrast did not reveal any significant clusters 
+after FWE cluster-level correction. For the ADHD < HC 
+contrast, significant clusters were present in the left amyg-
+dala, hippocampus, and subcallosal gyrus, cuneus and lin-
+gual gyrus, right superior and middle temporal, and left 
+lateral occipital cortex and fusiform gyrus. Figure 2 shows 
+neural activity in occipital and medial temporal regions 
+derived from the ADHD-HC GLM analysis. Unlike the main 
+ADHD-HC model, the models for ADHD with and without 
+hyperactivity/impulsivity, the effect of emotion dysregula-
+tion scores, and the effect of age did not reveal any relevant 
+significant results. For a complete overview of all significant 
+clusters, see Table 2.
+ROI analysis with left and right amygdala
+To study activation differences between emotion and shape 
+stimuli within the amygdala in more detail, an ROI analysis 
+was performed. None of the considered covariates showed 
+significant main or interaction effects. Accordingly, they 
+were not entered into the final model. Using partial F tests, 
+a trend towards statistical significance for the interaction 
+effect between diagnostic status and laterality was revealed 
+(F(1,110) = 3.120, p = 0.080, partial-η2 = 0.028). Further, 
+a significant main effect of diagnostic status was found 
+(F(1,110) = 4.401, p = 0.038, partial- η2 = 0.038).
+Participants with ADHD had smaller activity dif-
+ferences in both the right and left amygdala when 
+compared to healthy controls (Fig.  3A; left amyg-
+dala: ADHD mean ± SD = 1.95 ± 3.89, healthy con-
+trol mean ± SD = 4.34 ± 5.32; right amygdala: 
+ADHD mean ± SD = 2.97 ± 4.46, healthy control 
+mean ± SD = 3.88 ± 5.21). Using post hoc t tests, only the 
+mean difference of the left amygdala proved to be signifi-
+cant (t(df = 90) = 2.676, p value = 0.009, d = 0.522). Analy-
+ses of ADHD type, emotion dysregulation scores, reaction 
+Fig. 2   Neural activity for emotional faces versus a visuo-spatial con-
+trol condition. Single group and HC > ADHD contrasts are displayed 
+at Z = −16/−16/−19 (p < 0.05; FWE corrected; left/right reversed). 
+ADHD attention-deficit/hyperactivity disorder, AMYG amygdala, FuG 
+fusiform gyrus, HC healthy controls, HPC hippocampus, OC occipi-
+tal cortex, SCA subcallosal area
+European Child & Adolescent Psychiatry	
+1 3
+Table 2   Significant clusters 
+and cluster maxima for brain 
+regions with the individual 
+emotion > shape and the 
+left and right amygdala 
+psychophysiological interaction 
+contrasts
+Results are presented for the ADHD-HC GLM with groups’ mean effects and between group contrasts. 
+Testing was conducted after FWE-cluster-correction using a z-threshold of 2.3 and a significance threshold 
+of 0.01
+AMYG amygdala, CUN cuneus, FuG fusiform gyrus, FP frontal pole, HPC hippocampus, IFG inferior 
+frontal gyrus, LG lingual gyrus; LOC lateral occipital cortex, MFG middle frontal gyrus, MTG middle tem-
+poral gyrus, PHG parahippocampal gyrus, STG superior temporal gyrus, vmPFC ventromedial prefrontal 
+cortex
+MNI coordinates
+Cluster size
+Anatomical structures
+X
+Y
+Z
+Z value
+p value
+ADHD-HC model
+ HC
+  1
+40,191
+OP, FuG, LOC, IFG, MFG, AMYG, 
+HPC, vmPFC, FP
+−2
+52
+−20
+4.82
+ < 0.001 9
+ ADHD
+  4
+11,438
+FuG, LG, Cerebellum
+2
+−78
+−26
+4.84
+ < 0.001
+  3
+1785
+Right LOC, FuG
+46
+−70
+−16
+4.14
+ < 0.001
+  2
+1373
+Left MFG, IFG
+−32
+12
+32
+4.74
+ < 0.001
+  1
+796
+Left AMYG, HPC
+−14
+0
+−12
+3.70
+0.007
+ HC > ADHD
+  4
+311
+Subcallosal Cortex, HPC, left AMYG
+−2
+10
+−22
+3.55
+ < 0.001
+  3
+287
+CUN, LG
+4
+−76
+14
+3.43
+ < 0.001
+  2
+258
+Right STG, MTG
+48
+−32
+2
+3.90
+ < 0.001
+  1
+237
+Left LOC, FuG
+−34
+−84
+−26
+4.05
+0.002
+ ADHD > HC
+  No significant clusters
+PPI with left amygdala and ADHD-HC model
+ HC
+  2
+616
+FP, vmPFC
+−8
+60
+10
+4.21
+ < 0.001
+  1
+143
+Precuneus
+−2
+−64
+18
+3.48
+0.003
+ ADHD
+  2
+149
+Right SFG, FP
+20
+34
+50
+3.8
+0.003
+  1
+134
+Right LOC
+30
+−80
+14
+4.13
+0.008
+ HC > ADHD
+  1
+163
+left PHG
+16
+−34
+−20
+3.47
+ < 0.001
+ ADHD > HD
+  No significant clusters
+PPI with right amygdala and ADHD-HC model
+ HC
+  5
+662
+FP, vmPFC
+6
+66
+22
+4.13
+ < 0.001
+  4
+472
+OP
+−10
+−106
+2
+4.11
+ < 0.001
+  3
+302
+Cerebellum
+−18
+−70
+−34
+3.93
+ < 0.001
+  2
+161
+Left LOC, MTG
+48
+−62
+8
+3.55
+0.004
+  1
+148
+Right HPC
+14
+−40
+4
+3.79
+0.008
+ ADHD
+  1
+131
+FP
+4
+58
+16
+3.76
+0.008
+ HC > ADHD
+  4
+224
+Right LOC, MTG
+48
+−62
+8
+3.63
+ < 0.001
+  3
+218
+FP, vmPFC
+0
+70
+6
+3.62
+ < 0.001
+  2
+178
+OP
+−30
+−92
+−4
+3.37
+ < 0.001
+  1
+173
+vmPFC
+2
+44
+−22
+4.42
+0.001
+ ADHD > HC
+  1
+150
+Left STG
+−2
+−4
+74
+3.46
+0.004
+	
+European Child & Adolescent Psychiatry
+1 3
+times, accuracy, and age did not reveal any significant main 
+or interaction effects. However, we found a trend level sig-
+nificant interactive influence of group membership and left 
+amygdala activity on reaction times and accuracy during the 
+emotional trials.
+Psychophysiological interaction analysis for group 
+differences
+In a third step, we investigated whether task condition depend-
+ent functional connectivity between amygdala and prefrontal 
+structures differed between healthy controls and participants 
+with ADHD (HC > ADHD contrast). In controls, the right 
+amygdala showed significantly stronger positive coupling with 
+the bilateral vmPFC and frontal pole in emotional as compared 
+to visuo-spatial trials. In contrast, levels of coupling were not 
+significantly different between the two stimuli conditions in 
+participants with ADHD. Here, opposing tendencies were 
+observed. Low positive coupling between the amygdala and 
+vmPFC and frontal pole was seen during the visuo-spatial but 
+not the emotion condition. Statistical analysis confirmed that 
+healthy controls showed a significantly larger vmPFC and 
+frontal pole PPI effect than participants with ADHD (Fig. 4). 
+The average parameter estimate for the PPI effects of the con-
+trols was 0.040 ± 0.075 and −0.026 ± 0.067 for participants 
+with ADHD. The amplitude of average covariance change 
+from visuo-spatial to emotional stimuli was −6.729 for con-
+trols and −3.086 for ADHD. Changes occurred in opposite 
+directions (i.e., from negative to positive in controls and from 
+positive to negative in individuals with ADHD). While the 
+distribution of PPI estimates for participants with ADHD was 
+predominantly negative and showed slight negative skewness, 
+the distribution of controls proved to be mainly positive and 
+showed slight positive skewness. A complete overview of all 
+significant PPI clusters can be found in Table 2.
+
+## Results
+Results 
+indicate that emotion recognition deficits in ADHD are particularly associated with lower amygdala activation to emotional 
+stimuli and alterations in the functional connections of the amygdala to medial prefrontal areas. Emotion recognition deficits 
+and associated neural alterations were unrelated to emotion dysregulation, ADHD type, or age.
+Keywords  ADHD · Emotion recognition · Emotion dysregulation · Task fMRI · Amygdala · Prefrontal cortex
+ *	 Tammo Viering 
+	
+tammo.viering@uni-oldenburg.de
+1	
+Biological Psychology, Department of Psychology, School 
+of Medicine and Health Sciences, Carl-Von-Ossietzky 
+Universität Oldenburg, Postfach 2503, 26111 Oldenburg, 
+Germany
+2	
+Department of Child and Adolescent Psychiatry, University 
+Medical Center Groningen, University of Groningen, 
+Groningen, The Netherlands
+3	
+Department of Cognitive Neuroscience, Radboud University 
+Medical Center, Donders Institute for Brain, Cognition 
+and Behaviour, Nijmegen, The Netherlands
+4	
+Centre for Cognitive Neuroimaging, Radboud University, 
+Donders Institute for Brain, Cognition and Behaviour, 
+Nijmegen, The Netherlands
+5	
+Research Center Neurosensory Science, Carl-Von-Ossietzky 
+Universität Oldenburg, Oldenburg, Germany
+6	
+Cluster of Excellence “Hearing4all”, Carl-Von-Ossietzky 
+Universität Oldenburg, Oldenburg, Germany
+7	
+Department of Psychiatry and Psychotherapy, University 
+of Bonn, Bonn, Germany
+8	
+Department of Human Genetics, Radboud University 
+Medical Center, Donders Institute for Brain, Cognition 
+and Behaviour, Nijmegen, The Netherlands
+9	
+Department of Psychiatry, Radboud University Medical 
+Center, Donders Institute for Brain, Cognition and Behaviour, 
+Nijmegen, The Netherlands
+10	 Karakter Child and Adolescent Psychiatry University Centre, 
+Nijmegen, The Netherlands
+	
+European Child & Adolescent Psychiatry
+1 3
+Introduction
+With an estimated prevalence rate of 5.3% in children and 
+adolescents [1] and 2.5% in adults [2], attention-deficit/
+hyperactivity disorder (ADHD) is one of the most common 
+neurodevelopmental disorders. Besides core symptoms of 
+inattention and hyperactivity/impulsivity, emotion dysreg-
+ulation is a frequently reported problem [3, 4]. Emotion 
+dysregulation refers to the inability to appropriately modu-
+late emotional responses [5] and is present in as many as 
+25–45% of children and 30–70% of adults with ADHD [6]. 
+Its co-occurrence in ADHD is associated with worse clini-
+cal outcome, risky behavior, and social impairments [6–8].
+An important aspect of adequate emotion regulation is 
+the accurate recognition and interpretation of emotional 
+stimuli. Individuals with ADHD were found to be less 
+accurate in identifying emotions. Besides other factors, 
+such as subconscious and experience based reward estima-
+tions or cognitive reappraisal [9, 10], emotion dysregu-
+lation in ADHD may be related to emotion recognition 
+deficits [6], as both require the ability to direct attention 
+toward or away from emotional stimuli. Some of the inap-
+propriate emotional behavior may be attributed to emotion 
+recognition deficits [11–14].
+While most neuroimaging research in ADHD has 
+focused on frontostriatal, frontocerebellar, and frontopa-
+rietal circuits, few studies investigated the functional con-
+nections between the amygdala and the prefrontal cortex 
+during tasks requiring emotion recognition in ADHD. The 
+limited number of studies regarding emotion perception 
+and recognition/matching during functional magnetic reso-
+nance imaging (fMRI) revealed evidence for case–control 
+differences in affective arousal structures, including the 
+ventral striatum, cingulate cortex, anterior insula, and, 
+most consistently, (left) amygdala. Significant results have 
+been repeatedly shown for the amygdala, although with 
+inconsistency regarding the laterality or direction of the 
+effects [15–20]. Resting state fMRI and anatomical MRI 
+research in ADHD suggest altered connectivity in related 
+structures (anterior default mode network, ventromedial 
+prefrontal cortex (vmPFC), orbitofrontal cortex, and 
+insula), which have been frequently associated with emo-
+tion recognition and regulation [21–25]. Indeed, evidence 
+for a link between amygdala—prefrontal cortex coupling 
+and emotion recognition has been presented in healthy 
+individuals [26, 27]. Together with the well-established 
+association between frontostriatal network anomalies 
+and ADHD, particularly with impulsivity-hyperactivity 
+symptoms [3, 28], this suggests that the functional con-
+nections between amygdala and prefrontal cortex may be 
+related to emotion recognition deficits in ADHD. These, 
+in turn, may ultimately contribute to the frequent emotion 
+dysregulation problems seen in ADHD. However, it must 
+be emphasized that the mentioned structures and circuits 
+take over tasks beyond the correct recognition of emotions. 
+The frontostriatal networks, in particular, are essential for 
+reward estimation, decision-making, emotion processing, 
+and emotion regulation [9, 29].
+The main objective of the present study was to investigate 
+amygdala reactivity and functional connections of the amyg-
+dala and prefrontal cortex in adolescents and young adults 
+with ADHD as compared to healthy controls during the pro-
+cessing of fearful and angry facial stimuli. We chose match-
+ing of fear and anger given the previously reported conduct 
+problems and impairments to recognize these emotions in 
+children with ADHD [30]. A secondary objective was to 
+investigate whether amygdala reactivity or alterations of the 
+fronto-amygdala axis were associated with emotion dysregu-
+lation, as measured by the emotional lability subscale of the 
+Conners’ parent rating scale, with ADHD type, or age. The 
+study utilized data of the NeuroIMAGE study [31] with a 
+well-established fMRI emotional face-matching task [17, 32, 
+33]. We hypothesized that individuals with ADHD would 
+show longer reaction times and worse accuracy than controls 
+during the emotional trials of the task. Further, we expected 
+that this behavioral pattern would be accompanied by diver-
+gent amygdala activation and altered functional connectivity 
+between the amygdala and prefrontal structures.
+
+## Clinical Significance
+conclusion, the current study shows a possible link 
+between emotion recognition deficits and ADHD in ado-
+lescents and young adults. Results showed smaller BOLD-
+response differences between emotion and visuo-spatial 
+trials, particularly in the area of the left amygdala, and 
+dysfunctional connectivity between the right amygdala and 
+vmPFC. The results may indicate that emotion recognition 
+deficits in ADHD are associated with abnormalities in affec-
+tive arousal structures and their functional connections to 
+medial prefrontal areas. Participants with ADHD also had 
+more emotion regulation problems than healthy controls, 
+however, neither this, nor ADHD type, nor age were related 
+to emotion recognition and associated neural processing 
+alterations.
+Acknowledgements  The NeuroIMAGE project was supported by 
+NWO Large Investment Grant 175.010.2007.0100, Nederlandse 
+organisatie voor gezondheidsonderzoek en zorginnovatie (ZonMw) 
+Addiction: Risk Behaviour and Dependency Grant 31160209, Neder-
+landse Organisatie voor Wetenschappelijk Onderzoek Maatschappij- en 
+European Child & Adolescent Psychiatry	
+1 3
+Gedragswetenschappen (NWO MaGW) Grant 433-09-242, Neder-
+landse Organisatie voor Wetenschappelijk Onderzoek (NWO) National 
+Initiative Brain & Cognition Grant 056-13-015 (all to Jan K. Buitelaar), 
+and Nederlandse organisatie voor gezondheidsonderzoek en zorgin-
+novatie (ZonMw) Priority Medicines Kinderen 113202005 Grant (to 
+Pieter Hoekstra). Additional funding comes from the Radboud Univer-
+sity Nijmegen Medical Center, University Medical Center Groningen 
+and Accare, and VU University Amsterdam. Furthermore, funding was 
+contributed by the European Union’s Seventh Framework and Horizon 
+2020 Programmes under Grant agreement no 603016 (MATRICS) and 
+728018 (Eat2beNICE). This work reflects only the authors’ views and 
+the European Union is not liable for any use that may be made of the 
+information contained herein. Tammo Viering is funded by the Old-
+enburg–Groningen Joint Graduate Research Training Group “Trans-
+lational Research: From Pathological Mechanisms to Therapy”. Bar-
+bara Franke was supported by a Grant for the Dutch National Science 
+Agenda NeurolabNL project (Grant 400-17-602) and a personal Grant 
+from the Nederlandse Organisatie voor Wetenschappelijk Onderzoek 
+(NWO) Vici Innovation Program (Grant 016-130-669).
+Availability of data and materials  Data can be obtained from the PI of 
+NeuroImage, Prof. Jan Buitelaar.
+Declarations 
+Conflict of interest  Barbara Franke received educational speaking fees 
+from Medice. In the past 3 years, Jan K. Buitelaar has been a consult-
+ant to/member of advisory board of/and/or speaker for Shire, Roche, 
+Medice, and Servier. He is not an employee of any of these companies, 
+and not a stock shareholder of any of these companies. He has no other 
+financial or material support, including expert testimony, patents, and 
+royalties. During the last year, Dr Philipsen has been a member of ad-
+visory board and a speaker for Shire/Takeda, and Medice. She received 
+travel support from Janssen-Cilag, Shire/Takeda. She is an author of 
+books and articles on ADHD published by Elsevier, Hogrefe, Schat-
+tauer, Kohlhammer, Karger, and Oxford publishers. No other disclo-
+sures were reported.
+Ethics approval  Ethical approval was granted by the Regional Ethics 
+Board (Centrale Commissie Mensgebonden Onderzoek: CMO Regio 
+Arnhem Nijmegen, ABR: NL41950.091.12).
+Consent to participate  Participants (and their parents when < 18 years 
+old) gave written informed consent for participation.
+Consent for publication  All listed authors have approved the manu-
+script for publication.
+Open Access  This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+
+## References
+References
+	 1.	 Polanczyk G, Rohde LA (2007) Epidemiology of attention-
+deficit/hyperactivity disorder across the lifespan. Curr Opin 
+Psychiatry. https://​doi.​org/​10.​1097/​YCO.​0b013​e3281​568d7a
+	 2.	 Simon V, Czobor P, Bálint S et al (2009) Prevalence and cor-
+relates of adult attention-deficit hyperactivity disorder: meta-
+analysis. Br J Psychiatry 194:204–211. https://​doi.​org/​10.​1192/​
+bjp.​bp.​107.​048827
+	 3.	 Barkley RA (2015) Emotional dysregulation is a core compo-
+nent of ADHD...
+---

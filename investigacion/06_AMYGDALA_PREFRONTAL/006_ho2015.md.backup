@@ -1,0 +1,562 @@
+---
+# Intrinsic Affective Network Is Impaired in Children with Attention-Deficit/Hyperactivity Disorder
+**Autores**: New-Fei Ho, Joanna S. X. Chong, Hui Li Koh, Eleni Koukouna, Tih-Shih Lee, Daniel Fung, Choon Guan Lim, Juan Zhou
+**Año**: Not specified
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Abstract
+Deficits in impulsivity and affect dysregulation are key features of attention-deficit/hyper-
+activity disorder (ADHD) besides impairing levels of hyperactivity and/or inattention.
+However, the neural substrates underlying these traits are relatively under-investigated.
+In this study, we use resting-state functional magnetic resonance imaging to test the
+hypothesis of diminished functional integration within the affective/limbic network (which
+includes the amygdala, hippocampus, subgenual cingulate cortex, orbitofrontal cortex
+and nucleus accumbens) of children with ADHD, which is associated with their behav-
+ioral measures of emotional control deficits. Resting state-fMRI data were obtained from
+12 healthy control subjects and 15 children with ADHD, all who had a minimum one-
+month washout period for medications and supplements. Children with ADHD demon-
+strated less integrated affective network, evidenced by increased bilateral amygdalar
+and decreased left orbitofrontal connectivity within the affective network compared to
+healthy controls. The hyper-connectivity at the left amygdalar within the affective network
+was associated with increased aggressiveness and conduct problems, as well as decline
+in functioning in children with ADHD. Similar findings in affective network dysconnectivity
+were replicated in a subset of children with ADHD three months later. Our findings of
+divergent changes in amygdala and orbitofrontal intrinsic connectivity support the
+hypothesis of an impaired functional integration within the affective network in childhood
+ADHD. Larger prospective studies of the intrinsic affective network in ADHD are
+required, which may provide further insight on the biological mechanisms of emotional
+control deficits observed in ADHD.
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+1 / 15
+OPEN ACCESS
+Citation: Ho N-F, Chong JSX, Koh HL, Koukouna E,
+Lee T-S, Fung D, et al. (2015) Intrinsic Affective
+Network Is Impaired in Children with Attention-Deficit/
+Hyperactivity Disorder. PLoS ONE 10(9): e0139018.
+doi:10.1371/journal.pone.0139018
+Editor: Christian Schmahl, Central Institute of Mental
+Health, GERMANY
+Received: April 15, 2015
+Accepted: September 7, 2015
+Published: September 25, 2015
+Copyright: © 2015 Ho et al. This is an open access
+article distributed under the terms of the Creative
+Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper.
+Funding: This research was supported by the
+National Medical Research Council (NMRC) Centre
+Grant (Institute of Mental Health [New-Fei Ho] and
+the NMRC New Investigator Grant NIG11may025
+[Choon Guan Lim]). This research was also
+supported by Duke-NUS Graduate Medical School
+Signature Research Program funded by Ministry of
+Health, Singapore awarded to Juan Zhou. The
+funders had no role in study design, data collection
+and analysis, decision to publish, or preparation of
+the manuscript.
+Introduction
+Affect dysregulation is a key feature of attention-deficit/hyperactivity disorder (ADHD) in chil-
+dren [1,2]. Although not classified among the core symptoms of impairing and developmen-
+tally inappropriate levels of hyperactivity, impulsivity and/or inattention in more recent
+versions of the Diagnostic and Statistical Manual of Mental Disorders, deviations in affect were
+previously considered a primary clinical symptom in earlier classifications of childhood
+ADHD [3]. ADHD children with affect dysregulation often display uncontrolled outbursts of
+emotion, rapid and exaggerated changes in mood (emotional lability), and are easily frustrated
+with unexpected emotional challenges [2,4]. Also, affect dysregulation in childhood has been
+associated with subsequent psychopathology, poor psychosocial functioning and quality of life
+in ADHD well into adulthood [4–8].
+Abnormalities in large-scale, distributed brain networks are now widely thought to underlie
+the core features of mental disorders, including ADHD [9,10]. An increasingly popular
+approach to measure whole-brain networks is through the use of resting-state functional mag-
+netic resonance imaging (RS-fMRI) [9,10]. RS-fMRI
+
+## Key Findings
+Discussion
+We present evidence of abnormal affective network connectivity in children with ADHD.
+Compared to healthy controls, children with ADHD displayed reduced orbitofrontal connec-
+tivity and heightened amygdalar connectivity within the affective network. Critically, these
+intrinsic connectivity changes in ADHD remained after three months. The heightened amyg-
+dalar connectivity in children with ADHD significantly correlated with emotional dysregula-
+tion problems and a decline in general functioning. Our findings suggest a less integrated
+affective intrinsic network in children with ADHD that might underlie their emotional
+dysfunction.
+Impaired affective intrinsic connectivity in childhood ADHD
+Previous seed-based studies of the affective network have found mixed results of hyper-con-
+nected and hypo-connected affective network in ADHD [22,39,40]. Our findings, based on a
+data-driven approach to extract the entire affective network, also indicate the phenomenon of
+hyperconnectivi... (Extracted from Discussion)
+
+## Methodology
+methods examine the temporal correla-
+tions between the low-frequency oscillations in blood-oxygenation-level-dependent (BOLD)
+signals in different regions of the brain when subjects are lying quietly in the scanner without
+doing a task [11,12]. Many large-scale networks have been reliably identified using RS-fMRI
+methods in different populations across multiple investigator sites [13–15]. Measures of RS-
+fMRI brain networks or otherwise known as intrinsic connectivity networks [16] have been
+shown to be sensitive to the effects of disease and ageing [11,17]. The use of RS-fMRI to study
+brain networks in the young population, especially a clinical cohort like ADHD, is well suited
+(Uddin, 2010). Compared to task-based scans, resting-state scans are independent of cognitive
+demands and take a considerable shorter amount of time to collect [18].
+Two distinct methodological approaches are widely used to analyze RS-fMRI measures. The
+first approach is region-of-interest (ROI) or “seed”-based. It is a hypothesis-driven as one or
+two ROI/seeds are chosen a priori. The RS-fMRI measures of other regions, typically whole
+brain, are then correlated with the seed RS-fMRI measures to obtain a functional connectivity
+map of the seed [11,19]. The second approach is independent component analysis (ICA), a sta-
+tistical method that separates signals of no interest (such as those from the cerebrospinal fluid
+in the ventricles and the white matter, and those from motion) from the signals of interest (the
+low frequency spatially-distributed synchronization) [20]. It is data-driven as no prior infor-
+mation about spatial location, size and shape of a focal region-of-interest is required [13,20].
+The seed-based and ICA approaches have been applied in several studies of childhood ADHD
+[21–24]. Other methods to analyze RS-fMRI in childhood ADHD include using graph theory
+[25] and amplitude of low frequency fluctuations [24].
+Emerging RS-fMRI studies of ADHD have shown abnormalities in large-scale resting-state
+networks such as the frontoparietal, dorsal attention and default mode networks, which are
+associated with ADHD-related behaviors of impaired executive control, lack of attention, and
+mind-wandering [9,18,21,23,24,26–29]. However, the role of the resting-state affective network
+in ADHD remains relatively under-investigated. One of the earliest brain networks identified,
+the affective or limbic network has long been regarded as the “emotional brain” [30–32]. Both
+animal and human neuroimaging studies have shown the integral role of the affective network
+in emotion-based decision making, reward and motivation [33,34]. Key components of the
+affective network include hippocampus, parahippocampal gyrus, amygdala, orbitofrontal cor-
+tex, medial frontal cortex, nucleus accumbens (ventral striatum), subgenual anterior cingulate
+cortex and anterior insula. Task-based fMRI studies have shown impaired BOLD activation in
+key components of the affective network in subjects with ADHD. For instance, amygdalar
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+2 / 15
+Competing Interests: The authors have declared
+that no competing interests exist.
+hyperactivation, ventral striatum hypoactivation and orbitofrontal hyperactivation have been
+found during many emotional perception and reward processing tasks [1,28,35–38]. The
+abnormal BOLD activity elicited during these emotional task states suggests that the intrinsic
+affective networks in subjects with ADHD may be different from healthy subjects.
+Three recent seed-based RS-fMRI studies of ADHD—one conducted in the adult cohort
+and the other two in the child cohort, have examined components of the intrinsic affective net-
+work [39,40]. Hyperconnectivity of the superior parietal lobe and cerebellum to the anterior
+cingulate cortex was found in adults diagnosed with ADHD in childhood compared with
+healthy comparison adults [39]. Affective network hypoconnectivity, however, was found in
+medication naïve children with ADHD compared with healthy comparison children [40]. Spe-
+cifically, there was decreased connectivity between the following affective network regions:
+orbitofrontal cortex, hippocampus, and anterior prefrontal cortex, with the ventral striatum in
+children with ADHD [40]. The third study found hyperconnectivity between the amygdala
+and rostral anterior cingulate cortex in a subpopulation of ADHD children with high emo-
+tional lability [22]. The divergent findings of both hyperconnectivity and hypoconnectivity
+within the affective network, although shown by using different seeds, suggest that the intrinsic
+affective connectivity network in ADHD could be less integrated or even disorganized.
+In this study, we hypothesized a divergent, less integrated affective network (especially
+between the frontal and amygdalar regions) in children with ADHD, as compared to healthy
+controls. We predicted that the altered affective functional connectivity in ADHD is associated
+with behavioral measures of emotional control dysregulation. To complement the prior seed-
+based findings of the affective network in ADHD, we adopted a data-driven approach (ICA) to
+measure the functional connectivity within the affective network. This approach is indepen-
+dent of the seed definition and automatically removes motion and physiological noise [20].
+The spatial pattern of the affective network was based on one that has been identified in 500
+healthy adults and replicated with an independent cohort of 500 subjects [9,41]. We compared
+the intrinsic affective connectivity network between children with ADHD and healthy controls.
+We also measured the intrinsic affectivity network in a subset of children with ADHD three
+months later to investigate whether the group-based differences are enduring. In the overall
+ADHD cohort, as well as the hyperactive-impulsive/inattention subtype of ADHD subjects, we
+correlated the functional connectivity in affective regions exhibiting group-based differences
+with clinical measures of affect control.
+Materials and Methods
+Participants
+The investigation was carried out in accordance with the guidelines of the Institutional Review
+Board for the National Healthcare Group, the Singapore Health Services Group and National
+University of Singapore. Written informed consent from the parents and assent forms from
+the child to partake in the studies and to allow imaging data for further analyses were both
+obtained after the nature of the procedures had been fully explained.
+19 children with ADHD were recruited at the Child Guidance Clinic, Institute of Mental
+Health. The subjects with ADHD were diagnosed by child psychiatrists according to the Diag-
+nostic and Statistical Manual-Fourth Edition (DSM-IV) for ADHD. Additionally, parents were
+also interviewed using the Diagnostic Interview Schedule for Children (DISC), which is based
+on DSM-IV. The subjects with ADHD were either the inattentive or combined subtypes. 3 of
+the subjects with ADHD had a comorbidity of either developmental dyslexia and/or develop-
+mental reading disorder. Prior to the study, 3 subjects with ADHD were on methylphenidate
+and 5 subjects were taking fatty acid supplementation. They were only allowed to participate in
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+3 / 15
+study procedures after at least one month of washout. The rest of the subjects were medication
+naive. MRI scans from a subset of the subjects with ADHD (11 out of 19) were additionally col-
+lected three months later. Throughout this period, these follow-up subjects remained medica-
+tion and supplementation free. 16 demographically-matched healthy controls were recruited
+via advertisements from both the Child Guidance Clinic and National University of Singapore.
+The controls had no present or history of mental disorders. Exclusion criteria for all subjects
+included history of epileptic seizures, mental retardation and an IQ of less than 70.
+Neuropsychological assessments
+Neuropsychological assessments were administered on children with ADHD at baseline. No
+assessments were performed on healthy subjects or the children with ADHD at follow-up. The
+rating instruments used in this study are the Child Behavior Checklist-Parents (CBCL) [42]
+and Children Global Assessment Scale [43]. The CBCL is a parent-rated questionnaire
+designed to obtain descriptions of a child’s competencies and behavioral/emotional problems
+and consists of 118 items [44]. It provides both empirical-based symptoms and dimensional
+constructs for psychopathology, and is well validated [45]. Scores for 8 syndrome scales are
+derived from factor analyses of the CBCL. In addition, 6 DSM-5-oriented scales are also
+derived from the CBCL[44]. For this study, 4 syndrome scales (Aggression, Rule-breaking
+behavior, Affective problems, Anxiety-depression problems) were chosen as measures of dysre-
+gulated mood; these scales have been used in the scoring of aggression in ADHD, as well as
+anxiety-depression and affective problems in atypical developing children [46–48]. As dysregu-
+lated affect is also a core feature of clinically-overlapping disorders of oppositional defiant and
+conduct [49], the dimensional constructs of oppositional defiant and conduct problems were
+also selected for subsequent brain-behavior correlations.
+Additionally, as a marker of deficient emotional self-regulation (CBCL-DESR) in ADHD
+[50], t-scores from three items on the CBCL were summed, namely Anxiety/depression,
+Aggression and Attention to reflect intense emotions, aggression and impulsive behavior
+respectively. Separately, the Children Global Assessment Scale [43] was used to determine the
+child’s level of general functioning at home, school or with peers.
+Image acquisition
+All functional and structural images were collected at the Duke-National University of Singa-
+pore Graduate Medical School as part of a multi-modal imaging protocol using a 12-channel
+phase-array head coil on a 3-Tesla Tim Trio scanner (Siemens, Germany). The RS-fMRI data
+using T2-weighted echo planar images (repetition time = 2000 ms, echo time = 30 ms, flip
+angle = 90 degrees, field of view = 192 x 192 mm2, voxel size = 3.0 mm isotropic, slice thick-
+ness = 3 mm, no gap, 36 axial slices, interleaved collection) were collected while the subjects
+were asked to relax and stare at a cross centered on a screen. The RS-fMRI data collection (8
+minutes 12 seconds altogether; 246 volumes) was broken up into two consecutive short runs to
+minimize motion artifacts; the duration for each of the two runs were 4 min 6 seconds each.
+An eye tracker was used to ensure that the children stayed awake for the entire RS-fMRI scan.
+The high-resolution structural T1-weighted magnetization prepared rapid gradient echo
+images (repetition time = 2300 ms, echo time = 2.98 ms, inversion time = 900 ms, flip
+angle = 90 degrees, field of view = 256 x 256mm2, voxel size = 1.0 mm isotropic) were collected
+for atlas registration of the RS-fMRI images, as well as for subsequent structural analysis of
+voxel-based morphometry (VBM). After three months, an additional set of the same scans was
+collected from a subset of children with ADHD on the same scanner.
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+4 / 15
+Image preprocessing
+The task-free fMRI data were preprocessed using procedures outlined in a previous study [51]
+using the FMRIB Software Library (FSL) [52] and the Analysis of Functional NeuroImages
+software program [53]. The preprocessing included the following steps: 1) discarding the first 6
+volumes that were collected while the magnetic field has not yet stabilized, 2) correction for the
+intensity differences between odd and even volumes during the interleaved volume acquisition,
+3) motion correction, 4) skull stripping, 5) spatial smoothing using a 6 mm full width half max-
+imum (FWHM) Gaussian kernel to improve signal-to-noise ratio and to reduce inter-subject
+variability, and 6) co-registering to the structural MRI image using Boundary-Based Registra-
+tion [54] and then registering the image to the Montreal Neurological Institute (MNI) 152
+standard space of 2 mm isotropic resolution using a nonlinear registration tool (FNIRT). The
+preprocessed data of both runs were concatenated for further analyses.
+As excessive motion can introduce spurious functional correlations in intrinsic networks
+[55,56], high-motion frames for each individual were removed. These high-motion frames
+were identified through inter-frame motion parameters and intensity differences calculated
+during the pre-processing steps [55]. We removed frames with more than 0.5 framewise dis-
+placement (FD) and an inter-frame signal intensity difference [55] of more than 0.065 from
+each subject for analysis; the cut-off for the maximum number of frames that could be removed
+from each subject was less than 10%. For 4 of the initial 19 subjects with ADHD, 1 of the 11
+subjects with ADHD with a second scan, and 4 of the initial 16 healthy controls, their entire
+data were excluded from analyses as they moved excessively throughout the entire scan (i.e.
+percentage of high-motion frames were more than 10% of the entire set of RS-fMRI frames).
+Hence, the tally for subsequent analysis of MRI data was 12 healthy children volunteers, 15
+ADHD children with baseline data, and 10 ADHD children (out of the 15) with follow-up
+data.
+The structural T1-weighted MRI data of all subjects passed the visual check for motion arti-
+facts. VBM was performed for each subject using SPM8 (Wellcome trust centre for neuroimag-
+ing, http://www.fil.ion.ucl.ac.uk/spm/software/spm8/) [57],. Grey matter volume was obtained
+using the following preprocessing steps 1) segmentation of individual structural MRI into cere-
+bral spinal fluid, grey and white matter, 2) normalization of the resulting grey matter maps
+into the standard MNI space using a Diffeomorphic Anatomical Registration Through Expo-
+nentiated Lie Algebra (DARTEL) procedure, 3) nonlinear modulation of grey matter maps to
+compensate for spatial normalization effects, and 4) smoothing of the modulated images with a
+isotropic Gaussian kernel with 8mm FWHM [58]. The resulting grey matter probabilistic
+maps were used for atrophy correction.
+Intrinsic network extraction
+The pre-processed the RS-fMRI signals were decomponsed into spatially independent compo-
+nents using open-source Group ICA Toolbox (GIFT, Medical Image Analysis Lab; http://
+mialab.mrn.org/software/). To extract the spatial pattern of the affective network from each
+individual, the following steps were performed: 1) concatenating the preprocessed data of 2
+runs of 4 min 6s for each subject across groups, 2) combining the data across all groups
+(including healthy controls and ADHD subjects at baseline, as well as follow-up data from the
+ADHD subjects) into an aggregate dataset, 2) using principal component analysis to perform
+initial reduction of random variables, 3) extracting thirty group-level independent components
+using minimum description length criteria, with reference to previous studies [59,60], 4) visu-
+ally identifying the group-level independent component corresponding to the affective/limbic
+network with reference to previous published large-scale network templates identified based
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+5 / 15
+on 500 healthy adults and replicated with an independent cohort of 500 subjects [41], 5) back-
+projecting the affective network-related independent component from the aggregate dataset
+into each individual to yield individual-specific spatial maps of the affective network at baseline
+and follow-up [61].
+Statistical analysis
+Demographic and clinical differences between the groups (dataset 1: 15 subjects with ADHD
+and 10 healthy controls, and dataset 2: 10 subjects with ADHD that underwent additional MRI
+scans three months later and the same 10 healthy controls) were tested using either two-tailed
+independent sample t-tests (age, number of quality RS-fMRI frames used for analysis, parame-
+ters for motion displacement) or chi-squared tests (gender, ethnicity and handedness).
+To examine the validity of the affective networks identified in both datasets, group-level
+average functional connectivity map of the affective network were created using one-sample t-
+test across the individual spatial maps of the affective network (both controls and ADHD) [62],
+regressing out for the individual effects of age, gender, number of fMRI frames used in the anal-
+ysis, and mean maximal absolute signal displacement across the chosen frames, corrected at
+family-wise error (FWE) rate of p < .05. To compare the affective network connectivity
+between the subjects with ADHD and healthy subjects, two-sample t-tests with the same
+regressors were performed. Following our previous work [63], we identified significant clusters
+using a joint height (p<0.01) and extent (p<0.05, corresponding to a minimum cluster size of
+62 voxels as computed by SPM) probability threshold, corrected at whole-brain level [64]. The
+statistical maps were masked explicitly to the relevant affective network by binarizing the two-
+group average network map at a height threshold of p<0.001 (uncorrected). The Anatomical
+Automatic Labeling toolbox (http://www.gin.cnrs.fr/) was used to identify the specific brain
+region showing group-wise functional connectivity differences within the affective network.
+The MarsBar toolbox (http://marsbar.sourceforge.net/) was used to extract the subject-level
+mean affective network connectivity in the above regions with group-wise differences.
+To examine whether the group differences in functional connectivity of the affective net-
+work could be explained by the underlying grey matter volume, we performed the voxelwise
+grey matter volume correction following our previous method [63]. The Biological Parametric
+Mapping (BPM) toolbox [65] was used to incorporate the subject-level voxelwise grey matter
+volume probabilistic map derived by VBM, as well as age, gender, number of fMRI frames used
+in the analysis, and mean maximal absolute signal displacement across the chosen frames as
+covariates. The same thresholding was applied to determine group differences in functional
+connectivity.
+To examine whether there was a relationship between behavioral constructs of affect prob-
+lems in the 15 subjects with ADHD and the region displaying group-wise differences, post-hoc
+Pearson correlational analysis was performed on the six CBCL subscales. Multiple comparisons
+were performed using the Bonferroni-Holm method to control for Type 1 errors at a FWE p <
+.05. Additional clinical correlations were performed with scores on the CBCL-DESR, as well as
+the Child Global Assessment Scale. Furthermore, we conducted similar post-hoc correlational
+analyses on 10 subjects with the combined subtype of ADHD (hyperactive-impulsive and inat-
+tention), excluding 5 inattentive subtype ADHD subjects.
+
+## Results
+Results
+There were no significant differences in the demographic variables and imaging variables
+(including motion and number of RS-fMRI volumes used for analyses) between the ADHD
+cohort and healthy controls in either dataset 1 (Table 1) or dataset 2 (Table 2). The brain
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+6 / 15
+structures of the affective network identified by ICA were namely the amygdala, anterior hip-
+pocampus, parahippocampal gyrus, basal forebrain (subsuming nucleus accumbens and hypo-
+thalamus), subgenual anterior cingulate cortex, ventromedial prefrontal cortex subsuming the
+orbitofrontal cortex, anterior insula and cerebellum (Fig 1).
+Increased amygdalar connectivity and decreased orbitofrontal
+connectivity in childhood ADHD
+Compared to healthy subjects, children with ADHD in dataset 1 displayed greater left and
+right amygdala (left: -24, -4, -18; cluster of 169 voxels (p = .007), peak z-score of 3.20; and
+right: 28, -1, -13; cluster of 177 voxels (p = .009), peak z-score of 3.68) and decreased left orbito-
+frontal (-16, 20, -17; cluster of 218 voxels (p = .006), peak z-score of 3.98) connectivity within
+the affective network (Fig 2A & 2B). The findings of increased left amygdalar (-22, -2, -18;
+Table 1. Demographic, imaging and clinical information of participants in dataset 1.
+Healthy (N = 12)
+ADHD (N = 15)
+t or χ2 value
+p-value
+Gender
+10 males
+15 males
+2.7
+0.19
+Age (years)
+10.30 (2.31)
+9.40 (1.24)
+-1.35
+0.19
+Handedness
+11 right
+15 right
+1.3
+0.44
+Ethnicity
+12 Chinese
+14 Chinese, 1 Indian
+0.83
+1
+Number of good fMRI volumes
+199.25 (43.73)
+212.67 (26.69)
+0.93
+0.36
+Percentage of good fMRI volumes (%)
+92.52 (14.40)
+93.73 (8.17)
+0.28
+0.78
+Absolute motion displacement, mm
+1.01 (0.88)
+1.02 (0.90)
+0.03
+0.98
+ADHD Combined subtype (N)
+-
+10
+ADHD Inattentive subtype (N)
+-
+5
+Age onset of disorder (years)
+-
+5.0 (0.93)
+CBCL-DESR scores
+-
+193.87 (15.78)
+Children Global Assessment Scale
+-
+58.13 (5.45)
+Descriptive statistics of healthy participants and ADHD participants at the ﬁrst scan. Continuous variables are expressed as mean (standard deviation). N:
+number of subjects. CBCL-DESR: Child Behavioral Checklist (Parent)—Deﬁcit in Emotional Self-Regulation.
+doi:10.1371/journal.pone.0139018.t001
+Table 2. Demographic, imaging and clinical information of participants in dataset 2.
+Healthy (N = 12)
+ADHD-2 (N = 10)
+t or χ2 value
+p-value
+Gender
+10 males
+10 males
+1.83
+0.48
+Age
+10.30 (2.3)
+9.60 (1.5)
+-0.86
+0.4
+Handedness
+11 right
+10 right
+0.87
+1
+Ethnicity
+12 Chinese
+9 Chinese, 1 Indian
+1.26
+0.46
+Number of good fMRI volumes
+199.25 (43.73)
+210.40 (28.71)
+0.72
+0.48
+Percentage of good fMRI volumes (%)
+92.52 (14.40)
+91.85 (9.50)
+-0.13
+0.9
+Absolute motion displacement, mm
+1.01 (0.88)
+1.27 (0.99)
+0.64
+0.53
+ADHD Combined subtype (N)
+-
+6
+ADHD Inattentive subtype (N)
+-
+4
+Age onset of disorder (years)
+-
+5.10 (0.88)
+Descriptive statistics of the healthy participants (at the baseline scan) and the subgroup of ADHD participants at the follow-up scan. 10 out of 15 ADHD
+subjects scanned at baseline were scanned again after three months. Continuous variables are expressed as mean (standard deviation). N = number of
+subjects
+doi:10.1371/journal.pone.0139018.t002
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+7 / 15
+clusters of 87 voxels, peak z-score of 4.41) and marginally decreased left orbitofrontal (-18, 18,
+-16; cluster of 60 voxels, peak z-score of 3.22) connectivity were replicated in a subset of
+ADHD subjects three months later (Fig 2C & 2D).
+Abnormalities in intrinsic affective network connectivity in childhood
+ADHD could not be explained by grey matter volume
+When intra-subject variability in grey matter anatomy was accounted for, the group-based
+functional connectivity differences remained intact. i.e. the size and magnitude of the cluster
+either increased or were similar (left amygdala: cluster of 162 voxels (p = .006), peak z-score of
+Fig 1. Affective networks in healthy control and ADHD groups identified using independent
+component analysis (ICA). Resting-state data from all the subjects (healthy control children and children
+with ADHD) were aggregated into group-level ICA. The combined affective network across all the subjects
+was identified by visual spatial template matching with a previously identified affective/limbic network of 1000
+subjects [41]. Individual maps of the affective network were then constructed by back-projection. The group-
+level average affective network for healthy control children and ADHD children are presented here at p<0.05
+FWE corrected. Color bar represents t-statistics.
+doi:10.1371/journal.pone.0139018.g001
+Fig 2. Disrupted affective network connectivity in ADHD compared to healthy controls. Group
+comparisons of the affective network at baseline (dataset 1) show increased left amygdalar connectivity (A)
+and decreased left orbitofrontal cortex connectivity (B) in children with ADHD compared to healthy control
+children. Similar significant group-wise findings were observed in a subset of 10 ADHD children three months
+later compared to healthy subjects (C, D). E-G brain-behavior scatterplots: The increased left amygdalar
+connectivity in ADHD children correlated with increased scores of aggressiveness (E) and conduct problems
+(F). The correlation between left increased amygdalar connectivity and lower general functioning is also
+depicted (G). Children with the ADHD combined subtype (both inattention and impulsive) are labeled blue
+while children with ADHD inattention subtype are labeled green.
+doi:10.1371/journal.pone.0139018.g002
+Impaired Intrinsic Affective Network in Children with ADHD
+PLOS ONE | DOI:10.1371/journal.pone.0139018
+September 25, 2015
+8 / 15
+3.15; right amygdala: cluster of 160 voxels (p = .005), peak z-score of 4.03; and left orbitofrontal
+cortex: cluster of 216 voxels (p = .002), peak z-score of 3.94). The same was observed for the
+subset of ADHD after three months.
+Anomalies within the intrinsic affective network are associated with
+dysregulated emotional control in childhood ADHD
+Post-hoc correlations in dataset 1 revealed that the increase in left amygdalar connectivity sig-
+nificantly correlated with measures of conduct problems (r = 0.67, p = .0065) (Fig 2E) and
+aggressiveness (r = 0.64, p = .0075) after multiple comparisons (FWE rate p < .05). Positive
+trends in association were also noted for the other measures of emotional control (rule-break-
+ing: r = 0.62, oppositional defiant problems: r = 0.62, anxiety problems: r = 0.36, affective prob-
+lems: r = 0.35). An inverse correlation between increased amygdalar connectivity and lower
+global functioning was also found (r = -0.5, p = .04) (Fig 2F).
+Secondary analysis on ADHD combined subtypes
+Post-hoc analysis of ten children with ADHD with combined subtypes (i.e. excluding five sub-
+jects with inattention subtypes) compared to healthy controls, revealed enhanced significant
+associations between increased amygdalar connectivity and increased emotional control prob-
+lems (rule-breaking: r = 0.91, p = .0002; conduct problems: r = 0.88, p = .0009; aggressiveness:
+r = 0.86, p = .0016 and oppositional defiant problems: r = 0.85, p = .0017) after multiple com-
+parisons. Significant positive association with the CBCL-DESR (r = 0.67, p = .033) and negative
+association with the global function (r = -0.65, p = .03) were also found in children with
+ADHD-combined subtype.
+
+## Clinical Significance
+Conclusion
+The strengths of our study included a minimum one-month washout period for methylpheni-
+date and fatty acid supplementation (both which could influence the resting-state functional
+connectivity patterns) [37,75], and a three-month follow-up analysis to determine whether the
+findings of abnormal intrinsic affective network in ADHD are robust. The primary limitation
+of our study was the small sample size, which was further reduced by the removal of poor qual-
+ity data from children who moved excessively during the scan. Low statistical power has been
+shown to significantly inflate effect sizes of fMRI data [66], hence we cannot make firm conclu-
+sions from the brain-behavior correlations found in this study. We urge for further larger-scale
+studies of the under-investigated affective network in ADHD to be carried out. Additional limi-
+tations of our study included missing data on IQ and socioeconomic status. Also, the removal
+of RS-fMRI frames with excessive motion—though we had limited the removal to less than
+10% of the total number—may affect the temporal structure of the data. Further studies to
+examine whether RS-fMRI measures of affective network is similarly impaired in behaviorally-
+overlapping disorders such as impulsive-aggressive subtype of conduct disorder [49] and other
+disorders with severe emotional dysregulation phenotypes such as bipolar disorder [36] could
+provide additional insight as to whether this surrogate measure could reflect the dimensional
+construct of emotional disturbance across nosological boundaries [76]. Future work to examine
+the interaction of the affective network with other networks such as the executive control and
+salience networks could help elucidate how dsyregulated mood may influence or be influenced
+by higher order cognitive processes and sensitivity to external salience stimuli.
+In conclusion, our study supports the hypothesis that the affective network connectivity is
+abnormal in children with ADHD. Given that frontolimbic dysfunction continues till adult-
+hood in ADHD [39,77,78] and that emotional dysfunction predicts poor psychosocial long-
+term outcomes in ADHD [4–8] the role of the intrinsic affective network as a possible bio-
+marker of emotional deficits in larger, multi-site and prospective studies of ADHD should be
+more thoroughly investigated.
+Author Contributions
+Conceived and designed the experiments: NFH CGL JZ. Performed the experiments: JSXC
+HLK EK. Analyzed the data: NFH JSXC HLK JZ. Contributed reagents/materials/analysis
+tools: TSL DF CGL JZ. Wrote the paper: NFH DF CGL JZ.
+
+## References
+References
+1.
+Shaw P, Stringaris A, Nigg J, Leibenluft E (2014) Emotion dysregulation in attention deficit hyperactivity
+disorder. Am J Psychiatry 171: 276–293. doi: 10.1176/appi.ajp.2013.13070966 PMID: 24480998
+2.
+Barkley RA, Fischer M (2010) The unique contribution of emotional impulsiveness to impairment in
+major life activities in hyperactive children as adults. J Am Acad Child Adolesc Psychiatry 49: 503–513.
+PMID: 20431470
+3.
+Clements SD (1966) The child with minimal brain dysfunction. A mu...
+---

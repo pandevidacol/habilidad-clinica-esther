@@ -1,0 +1,2625 @@
+# Review
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2021
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Internal-senses-of-the-vagus-nerve.pdf
+
+## Abstract / Summary
+Review
+Internal senses of the vagus nerve
+Sara L. Prescott1,2 and Stephen D. Liberles1,*
+1Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+2Present address: Department of Biology, Massachusetts Institute of Technology, Boston, MA 02142, USA
+*Correspondence: stephen_liberles@hms.harvard.edu
+https://doi.org/10.1016/j.neuron.2021.12.020
+SUMMARY
+The vagus nerve is an indispensable body-brain connection that controls vital aspects of autonomic... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Review. 2021.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Review
+Internal senses of the vagus nerve
+Sara L. Prescott1,2 and Stephen D. Liberles1,*
+1Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+2Present address: Department of Biology, Massachusetts Institute of Technology, Boston, MA 02142, USA
+*Correspondence: stephen_liberles@hms.harvard.edu
+https://doi.org/10.1016/j.neuron.2021.12.020
+SUMMARY
+The vagus nerve is an indispensable body-brain connection that controls vital aspects of autonomic physi-
+ology like breathing, heart rate, blood pressure, and gut motility, reﬂexes like coughing and swallowing, and
+survival behaviors like feeding, drinking, and sickness responses. Classical physiological studies and recent
+molecular/genetic approaches have revealed a tremendous diversity of vagal sensory neuron types that
+innervate different internal organs, with many cell types remaining poorly understood. Here, we review the
+state of knowledge related to vagal sensory neurons that innervate the respiratory, cardiovascular, and
+digestive systems. We focus on cell types and their response properties, physiological/behavioral roles,
+engaged neural circuits and, when possible, sensory receptors. We are only beginning to understand the
+signal transduction mechanisms used by vagal sensory neurons and upstream sentinel cells, and future
+studies are needed to advance the ﬁeld of interoception to the level of mechanistic understanding previously
+achieved for our external senses.
+INTRODUCTION
+Sensory systems provide the brain with information about both
+the external world around us and the internal world within us.
+Our senses of smell, taste, touch, vision, and hearing enable
+us to perceive and react to our environment, and classical
+studies have revealed how external senses operate—from re-
+ceptors that detect light, sound, temperature, chemicals, and
+force to neural circuits that process stimulus features and
+evoke perceptions and motor responses. In parallel, the intero-
+ceptive nervous system provides sensory information to the
+brain from almost every organ system in the body and uses
+that information to ensure that key physiological needs are
+met, to preserve organ integrity, and to buffer against poten-
+tially harmful deviations from homeostasis on a moment-by-
+moment basis.
+The vagus nerve provides one major sensory pathway from
+the body to the brain that is both essential for life and relevant
+for disease. Vagal neurons make up a tiny proportion of the
+nervous system, yet they oversee a wide array of vital func-
+tions. In the early 20th century, key concepts in neuroscience
+and physiology were derived from studies of the vagus nerve
+and its frequent partner-in-crime, the glossopharyngeal nerve,
+including the identiﬁcation of the ﬁrst neurotransmitter (acetyl-
+choline, then called ‘‘vagusstoff’’) (Loewi, 1921), Lord Adrian’s
+all-or-none principle of nerve ﬁring (Adrian, 1926), and major
+autonomic reﬂexes, such as the baroreceptor reﬂex (Hering,
+1923) and the hypoxic ventilatory response (Heymans et al.,
+1930). After this early golden era, the vagus nerve remained
+less well studied using modern approaches, at least compared
+with external sensory systems, and molecular mechanisms of
+interoception remained largely mysterious. Interest in the va-
+gus nerve has recently resurged, and we attempt here a
+comprehensive review of vagal sensory biology that synthe-
+sizes insights derived from both classical and modern studies.
+Anatomy of the vagus nerve
+The vagus nerve is the 10th and longest cranial nerve, named
+for its wandering trajectory throughout the abdomen and thorax
+(Figure 1). The vagus nerve consists of co-fasciculating sensory
+and motor neurons, with most neurons (80%) being sensory
+(Foley and DuBois, 1937). The cell bodies of vagal sensory neu-
+rons are clustered bilaterally beneath each jugular foramen in
+superior and inferior ganglia, termed jugular and nodose
+ganglia, respectively. Vagal motor neurons, which are cholin-
+ergic ﬁbers that comprise the principal arm of the parasympa-
+thetic nervous system, are instead housed directly in brainstem
+regions termed the dorsal motor nucleus of the vagus nerve
+(DMV) and nucleus ambiguus. The jugular and nodose ganglia
+have different developmental origins and anatomical projec-
+tions and are distinct anatomical structures in humans; howev-
+er, in mice, they are typically fused together before birth along
+with the petrosal ganglion of the glossopharyngeal nerve, and
+additionally sometimes with the superior cervical ganglion,
+forming a large superganglion (Altschuler et al., 1989; Berthoud
+and Neuhuber, 2000; Bookout and Gautron, 2021; Figure 2).
+The number of vagal sensory neurons roughly scales across
+species with body size, as there are 2,300 vagal sensory neu-
+rons on each side of the body in mice, 20–30,000 in larger an-
+imals, such as cats, ferrets, and small primates, and as many
+as 100,000 in humans (Asala and Bower, 1986; Fox et al.,
+1995; Hoffman and Schnitzlein, 1961). Within vagal ganglia,
+sensory neuron soma coexist with satellite glial cells, Schwann
+ll
+Neuron 110, February 16, 2022 ª 2021 Elsevier Inc.
+579
+cells, endothelial cells, and resident immune cells (Waise
+et al., 2018).
+Each vagal sensory neuron extends a single pseudounipolar
+axon that projects bidirectionally toward the body and brain.
+Peripherally, the vagus nerve passes into the carotid sheath,
+where it runs alongside the carotid artery, sending off major
+branches to the neck, chest, and abdomen. Vagal neurons inner-
+vate many major organs and tissues, including the heart, lung,
+stomach, intestine, arteries, larynx, trachea, esophagus, liver,
+pancreas, thyroid, and ear. Within each target organ, vagal sen-
+sory neurons can display a diversity of terminals with different
+morphologies, sizes, molecular features, interacting cell part-
+ners, and anatomical distributions, with each terminal type pre-
+sumably detecting particular sensory cues. Centrally, vagal
+axons pass through the skull at the jugular foramina and target
+the brainstem. Nodose neurons principally target caudal aspects
+of the nucleus of the solitary tract (NTS), with some additionally
+innervating the area postrema, whereas jugular neurons instead
+target the paratrigeminal nucleus (Pa5), a subnucleus within the
+spinal trigeminal tract (Berthoud and Neuhuber, 2000; McGovern
+et al., 2015). Vagal axons release glutamate, which activates
+NTS neurons, and genetic tools targeting the glutamate trans-
+porter VGLUT2 (Slc17a6-ires-Cre mice) label >99% of vagal sen-
+sory neurons but not vagal motor neurons (Chang et al., 2015;
+Raab and Neuhuber, 2007). Some topography of vagal axon pro-
+jections to the NTS has been reported, based either on tissue of
+origin and/or gene-expression-deﬁned cell type (Altschuler et al.,
+1989; Bai et al., 2019; Chang et al., 2015; Han et al., 2018b; Katz
+and Karten, 1983; Williams et al., 2016), with the extent of viscer-
+otopy in NTS neuron responses debated (Paton, 1999).
+Gene expression proﬁling revealed striking cell diversity in
+vagal ganglia that includes dozens of intermingled sensory
+neuron types (Bai et al., 2019; Chang et al., 2015; Kupari et al.,
+2019; Mazzone et al., 2020; Prescott et al., 2020; Williams
+et al., 2016). Vagal sensory neuron diversity is presumably
+needed as the vagus nerve innervates vast terrain, projecting
+to many internal organs within the body, and detects an assort-
+ment of sensory cues. About 10–160 neurons per ganglion
+comprise each transcriptome-deﬁned cell type in mice (Prescott
+et al., 2020), suggesting that a small number of vagal sensory
+neurons may be sufﬁcient to detect a particular sensory stim-
+ulus. For comparison, somatosensory neurons of the dorsal
+root ganglia (DRG) are far more numerous, and DRG neurons
+provide high spatial acuity that may be lacking in at least some
+vagal responses (Abraira and Ginty, 2013). The number of sensa-
+tions mediated by the vagus nerve has not been quantiﬁed but is
+presumably large based on the underlying cellular diversity, with
+some neurons likely mediating internal organ sensory functions
+that have yet to be determined. We note that single-cell RNA
+sequencing in the DMV also revealed several vagal motor neuron
+types (Tao et al., 2021), suggesting that the parasympathetic
+nervous system is not a singular all-or-nothing switch but instead
+may enable more nuanced physiological control with each
+neuron type perhaps orchestrating a discrete multi-organ motor
+program or controlling a highly speciﬁc facet of autonomic phys-
+iology. Cell atlases of the vagus nerve have provided a road map
+for genetic approaches to chart and link the anatomical projec-
+tions, response properties, and functions of transcriptome-
+deﬁned vagal neuron types across physiological systems.
+Vagal sensory neurons in the respiratory system
+Breathing is essential for life and under precise and dynamic
+neuronal control to help ensure appropriate tissue oxygenation
+and carbon dioxide removal. Inputs to breathing-control circuits
+arise from a variety of central and peripheral pathways, with the
+vagus nerve providing the principal relay for sensory information
+from the lungs, trachea, and larynx (Coleridge and Coleridge,
+2011; Mazzone and Undem, 2016). Vagal inputs regulate various
+respiratory parameters, including breathing rate, tidal volume,
+and airway tone. Furthermore, as one of the body’s largest bar-
+rier tissues, the airway epithelial surface is under constant
+neuronal surveillance for early signs of obstruction or damage
+that might compromise gas exchange. Vagal sensory neurons
+detect threats to airway integrity and engage neuronal circuits
+that initiate a suite of protective reﬂexes, such as cough, swal-
+low, vocal cord adduction, and laryngeal closure (Prescott
+et al., 2020). Additionally, vagal sensory neurons may detect
+pathogens to evoke immune responses, airway hyperreactivity,
+sickness behaviors, and pain (sore throat), provide propriocep-
+tive feedback from the vocal folds for speech control, and evoke
+the sensation of air hunger (Baral et al., 2018; Mazzone and Un-
+dem, 2016).
+Vagal neurons reach the airways via several major axon
+branches, including (from proximal to distal airways) the pharyn-
+geal branch, superior laryngeal nerve (SLN), recurrent laryngeal
+nerve (RLN), and pulmonary branches. The pharyngeal branch
+carries mostly motor ﬁbers to pharyngeal muscles, whereas
+the internal branch of the SLN provides the major sensory
+Ear
+Heart
+Aortic arch
+Liver
+Stomach
+Pancreas
+Esophagus
+Larynx
+Vagal ganglia
+Lungs
+Intestine
+Figure 1. Anatomy of the sensory vagus nerve
+The cell bodies of vagal sensory neurons reside in left and right ganglia at the
+base of the neck, with each sensory neuron extruding a single long pseu-
+dounipolar axon that targets both the periphery and brain. Collectively, vagal
+sensory neurons target numerous organs within the body.
+ll
+580
+Neuron 110, February 16, 2022
+Review
+innervation of the caudal pharynx and larynx, efferent innervation
+to the only tensor muscle aiding phonation, the cricothyroid mus-
+cle, and some innervation of rostral trachea (DuBois and Foley,
+1936). The RLN carries both afferent and efferent ﬁbers to the
+vocal cords and tracheal sites, whereas the lungs receive inner-
+vation through pulmonary branches stemming off the vagal trunk
+near the main bronchi (Mazzone and Undem, 2016; Weijs et al.,
+2015). The SLN, RLN, and pulmonary branches contain a mixture
+of both jugular and nodose neurons in varying ratios, with most
+SLN-derived terminals in trachea, larynx, and pharynx being ju-
+gular derived (Mazzone and Undem, 2016). In addition, the air-
+ways from larynx to lungs also receive afferent innervation by
+DRG neurons (levels C1-T6) whose sensory functions remain
+poorly understood (Springall et al., 1987).
+Within each vagal nerve branch, sensory neurons display a
+multitude of epithelial and subepithelial terminal types from
+nasopharynx to distal lung areas, such as the alveoli and lung
+pleura. Axon terminal structures have been variably described
+as panicle-like endings (sometimes called ‘‘cough’’ or ‘‘irritant’’
+receptors), candelabra terminals, ivy-like (or hederiform) end-
+ings, corpuscular endings, free nerve endings, smooth mus-
+cle-associated receptors, and other epithelial and subepithelial
+terminals. Some vagal sensory neurons project near various
+epithelial cell types, which might serve as ﬁrst-order sensory
+cells, including laryngeal taste cells, tuft cells (also called brush
+cells or solitary chemosensory cells), and neuroendocrine cells,
+including lung neuroepithelial bodies (NEBs), as well as immune
+cells (Baral et al., 2018; Brouns et al., 2003; Chang et al., 2015;
+Chu et al., 2020; Krasteva et al., 2011; Prescott et al., 2020; Tiz-
+zano et al., 2010). The functions and response properties of
+various airway terminals have been difﬁcult to determine, as
+overlapping terminal ﬁelds have prevented assignments based
+on proximity to sensory hotspots. Furthermore, uniﬁed termi-
+nology and consistency across studies have been lacking; it is
+not clear whether various studies referred to the same terminal
+types with different descriptors or grouped together terminals
+with similar morphologies but different sensory functions. Add-
+ing complexity, airway innervation patterns reportedly vary
+across species, and given the issues mentioned earlier,
+additional studies are needed to understand the extent of
+Nodose
+Jugular
+Petrosal
+XI
+XII
+Tympanic branch (IX)
+Auricular branch (X)
+Auricular branch (X)
+SLN (X)
+Pharyngeal 
+branch (X)
+IX
+Vagus nerve (X)
+Carotid sinus 
+branch (IX)
+Common 
+carotid 
+artery
+Superior
+ cervical
+ganglion
+R
+C
+D
+V
+Nodose
+Jugular
+Petrosal
+XI
+XII
+SLN (X)
+Pharyngeal 
+branch (X)
+IX
+Vagus nerve (X)
+Carotid sinus 
+branch (IX)
+Common 
+carotid 
+artery
+Superior
+ cervical
+ganglion
+R
+C
+D
+V
+Mouse
+Human
+Tympanic branch (IX)
+Figure 2. Comparative anatomy of cranial
+ganglia and branches in mice and human
+Sensory ganglia and branches of cranial nerves IX
+(glossopharyngeal) and X (vagus) are depicted in
+relation to nearby anatomical structures. Adult
+mice display a fused nodose-petrosal-jugular
+superganglion ((right); in some animals, the su-
+perior cervical ganglion (depicted here separately)
+is additionally fused into the superganglion. In
+humans (left), vagal and petrosal ganglia are
+distinct anatomical structures. SLN, superior
+laryngeal nerve; R, rostral; C, caudal; D, dorsal; V,
+ventral.
+divergence or conservation of airway
+terminal types across evolution.
+Classical electrophysiological studies
+distinguished
+three
+major
+types
+of
+airway-innervating neurons based on
+the sensory stimuli they detect, as well as their conduction veloc-
+ities and adaptation rates: (1) slowly adapting stretch receptors
+(SARs), (2) rapidly adapting stretch receptors (RARs), and (3)
+chemoreceptors (Coleridge and Coleridge, 2011). RARs and
+SARs are fast-conducting A ﬁbers, whereas at least some che-
+moreceptors are slow-conducting C ﬁbers. C ﬁbers represent
+about 67% of vagal sensory neurons (Agostoni et al., 1957;
+Chang et al., 2015), and most vagal C ﬁbers express the capsa-
+icin receptor TRPV1, enabling pharmacological and genetic ap-
+proaches for targeted ablation (Baral et al., 2018; Tr€ankner et al.,
+2014). RARs and SARs are mechanosensitive afferents that
+reportedly differ in their anatomical projections, sensitivity to
+inﬂation and deﬂation, and activity across the respiratory cycle
+(Adrian, 1933; Kaufman et al., 1982; Knowlton and Larrabee,
+1946; Schelegle and Green, 2001). However, RARs and SARs
+are typically identiﬁed by punctate mechanical stimulation,
+which can potentially activate other mechanosensory neurons
+(such as ‘‘irritant’’ receptors or high-threshold C-ﬁber nocicep-
+tors) and may or may not correspond well to inﬂation-sensitive
+afferents in vivo. Furthermore, it has been debated whether
+RARs and SARs are truly different classes of mechanoreceptors
+(Yu, 2000), as distinct response dynamics could be due to differ-
+ences in terminal location or orientation relative to distended tis-
+sue rather than intrinsic neuronal properties.
+Recent expression proﬁling strategies and genetic ap-
+proaches revealed greater cellular diversity than was previously
+recognized for airway sensory neurons (Chang et al., 2015; Maz-
+zone et al., 2020; Prescott et al., 2020; Liu et al., 2021). Transcrip-
+tome analysis has been performed selectively on vagal sensory
+neurons labeled retrogradely by airway dye injection and/or
+has been coupled with genetic tools to map airway terminals
+of gene-expression-deﬁned neurons. Vagal axons can be visual-
+ized by injecting sensory ganglia of various Cre knockin mice
+with adeno-associated viruses (AAVs) encoding Cre-dependent
+ﬂuorescent or enzymatic reporters (Chang et al., 2015). Efforts to
+achieve a complete and uniﬁed taxonomy of airway-to-brain
+pathways is very much a work in progress, with genetic ap-
+proaches so far revealing at least ten terminal types that can
+be distinguished by different Cre lines, including epithelial chan-
+delier terminals in the larynx; epithelial free endings in alveola,
+ll
+Neuron 110, February 16, 2022
+581
+Review
+bronchioles, and upper airways; epithelial candalabra terminals
+in lung apposing NEBs; epithelial corpuscles apposing laryngeal
+taste cells; epithelial ﬂower spray endings; and subepithelial ter-
+minals around various airway muscles, vessels, and glands
+(Chang et al., 2015; Prescott et al., 2020; Su et al., 2021). Each
+of these neurons presumably detects particular sensory cues,
+which in most cases remain unknown (along with underlying sen-
+sory transduction mechanisms), and furthermore, additional ter-
+minal types are likely to be uncovered. Next, we discuss airway-
+to-brain sensory pathways that are best understood.
+Airway stretch sensation
+In 1868, Ewald Hering and Josef Breuer observed that increases
+in airway volume evoked a breathing pause or apnea character-
+ized by inhibition of inspiration and prolongation of expiration;
+this mechanosensory reﬂex is now termed the ‘‘Hering-Breuer
+inspiratory reﬂex’’ (Hering and Breuer, 1868). An opposing deﬂa-
+tion reﬂex whereby lung deﬂation increases respiratory rates and
+shortens expiration was also proposed. Sensation of airway vol-
+ume contributes to normal breathing patterns, may protect the
+airways from hyperinﬂation-induced injury, and regulates heart
+rate and vascular tone, perhaps contributing to respiratory sinus
+arrhythmia in which pulmonary circulation increases during high
+airway volumes to optimize gas exchange (Coleridge and Coler-
+idge, 2011; Schelegle and Green, 2001; Taha et al., 1995). Phys-
+iological states such as intense exercise as well as hypercapnic
+conditions can also dampen the sensitivity of the Hering-Breuer
+inspiratory reﬂex (Bouverot et al., 1970; Bradley et al., 1976;
+Phillipson et al., 1971).
+Vagal afferents are essential for the Hering-Breuer inspiratory
+reﬂex. Electrical or optogenetic stimulation of all vagal sensory
+neurons, but not motor ﬁbers, evokes a similar characteristic ap-
+nea (Chang et al., 2015; Widdicombe, 2006). Moreover, surgical
+transection of the vagus nerve bilaterally (vagotomy) eliminates
+the Hering-Breuer inspiratory reﬂex (Coleridge and Coleridge,
+2011). Complete vagotomy also causes severe respiratory
+depression and eventual death (Widdicombe, 2006), highlighting
+the importance of vagal information for breathing sustenance.
+Centrally, airway stretch activates second-order neurons in
+lateral NTS regions near the vagal nerve tract called ‘‘pump
+cells’’ and ‘‘inspiratory-b cells,’’ which then communicate with
+respiratory control centers in the brainstem (Kubin et al., 2006).
+Brainstem outputs are relayed to phrenic motor neurons, which
+control the contraction of the diaphragm, the primary muscle for
+respiration.
+Airway inﬂation stimulates vagal afferents, with similar re-
+sponses observed to distension by oxygen or nitrogen, consis-
+tent with a mechanosensory response (Adrian, 1933; Williams
+et al., 2016). Single-unit recordings and in vivo calcium imaging
+showed that airway stretch activates rare sensory neurons
+(90 neurons per mouse nodose ganglion), with most responses
+adapting slowly (SARs) (Adrian, 1933; Williams et al., 2016).
+Airway mechanoreceptors are activated by each inspiration dur-
+ing tidal breathing, indicating that threshold responses occur at
+physiological levels of airway distension (Adrian, 1933; Williams
+et al., 2016). The location and architecture of force-sensing ter-
+minals underlying the Hering-Breuer inspiratory reﬂex remain un-
+clear. At least some airway SARs are so-called ‘‘smooth muscle-
+associated receptors,’’ with terminals that appear as knobby,
+plate-like, and mitochondria-rich nerve terminals arranged in se-
+ries with airway smooth muscle ﬁbers (Larsell, 1921; von D€uring
+et al., 1974). Other stretch-sensitive afferents with different
+response thresholds and airway distributions in trachea, extrap-
+ulmonary bronchi, and intrapulmonary airways have also been
+reported (Schelegle and Green, 2001). It is unclear whether
+force-sensing neurons in these locations display distinct terminal
+morphologies, when mechanosensory neurons in different
+airway regions are engaged across the respiratory cycle, and
+which terminal morphology is required for mechanosensation
+underlying the Hering-Breuer inspiratory reﬂex or potentially
+other airway reﬂexes.
+Recent studies revealed an essential role for the mechanosen-
+sitive ion channel PIEZO2 in airway stretch sensation and the
+Hering-Breuer inspiratory reﬂex (Nonomura et al., 2017). PIEZOs
+are ion channels intrinsically gated by force in the absence of
+auxiliary factors (Syeda et al., 2016); PIEZO2 is required in so-
+matosensory neurons for light touch sensation and propriocep-
+tion (Ranade et al., 2014; Woo et al., 2015) and is additionally ex-
+pressed in a subset of vagal sensory neurons (Chang et al.,
+2015). Optogenetic activation of vagal PIEZO2 neurons caused
+an acute apnea reminiscent of the Hering-Breuer inspiratory re-
+ﬂex (Nonomura et al., 2017), with optogenetics-assisted con-
+duction velocity measurements revealing that PIEZO2 neurons
+are mostly A ﬁbers. In vivo calcium imaging in vagal ganglia
+demonstrated that airway stretch responses occurred primarily
+(>90%) in PIEZO2 neurons (Prescott et al., 2020). At birth, global
+knockout of PIEZO2 is lethal due to neonatal respiratory distress,
+but mice with cell-speciﬁc deletion of Piezo2 in Phox2b-express-
+ing cells (which include nodose but not jugular sensory neurons)
+survive to adulthood, permitting analysis of PIEZO2 function in at
+least some vagal sensory neurons (Nonomura et al., 2017). Mice
+with Phox2b-guided Piezo2 knockout have increased tidal vol-
+umes during passive breathing, have deﬁcient vagal responses
+to airway stretch, and lack the Hering-Breuer inspiratory reﬂex.
+Conditional deletion of Piezo2 in the adult also decreased airway
+stretch responses, consistent with a direct role for PIEZO2 in
+stretch sensation rather than only in neuronal development. Hu-
+man patients that lack normal PIEZO2 function display severe
+clinical problems that include breathing difﬁculties during infancy
+(Szczot et al., 2021). PIEZO2 is expressed in several airway-
+innervating sensory neurons (Prescott et al., 2020), as well as
+in pulmonary NEBs (Nonomura et al., 2017), and additional
+studies are needed to determine the structure of PIEZO2 termi-
+nals relevant for airway stretch sensation and the site of PIEZO2
+action in these terminals. Together, these ﬁndings indicate a key
+role for PIEZO2 as an airway stretch sensor that is critical for
+maintaining respiratory homeostasis.
+Cough and other airway protective reﬂexes
+One of the most important roles of the vagus nerve is to defend
+the airways from injury. Humans inhale hundreds of thousands of
+microbes each day, as well as pollen, dust, smoke, and pollution
+from the ambient air (Barbera´ n et al., 2015). Furthermore, in-
+gested food and liquid must transit over the airways en route
+to the gastrointestinal tract, whereas expelled stomach contents
+can travel in reverse. The larynx, as the proximal entry point to
+ll
+582
+Neuron 110, February 16, 2022
+Review
+the trachea and lungs, is densely innervated by vagal afferents
+that are on alert to detect airway insults (Bradley, 2000). Laryn-
+geal application of water, acid, high salt, or mechanical force,
+as well as electrical stimulation of the SLN, elicits characteristic
+reﬂexes that either guard or clear the airways (Bolser, 1991; Lu-
+dlow, 2015; Prescott et al., 2020). Airway guarding reﬂexes
+include apnea and physical occlusion reﬂexes, such as epiglottis
+descent, glottic closure, and bronchoconstriction, whereas
+expulsion reﬂexes include cough, gag, sneeze, expiratory
+reﬂexes, mucus secretion, and protective swallowing, with mul-
+tiple reﬂexes often engaged together or in close succession.
+Challenges to airway integrity can also arise deeper in the air-
+ways, and proinﬂammatory cytokines, irritants, and pathogen
+derivatives (such as Sulfolipid-1 from Mycobacterium tubercu-
+losis) also elicit cough from more distal airway sites in awake an-
+imals (Choudry et al., 1989; Karlsson and Fuller, 1999; Narula
+et al., 2014; Ruhl et al., 2020). Defects in airway threat detection
+are common in the elderly and cause severe clinical problems,
+such as difﬁculty swallowing, choking, and aspiration with an
+associated risk of lethal respiratory tract infection (Ludlow,
+2015; Santoso et al., 2019). Early models hypothesized that a
+single, broadly tuned sensory population may sense diverse
+airway threats and engage different protective reﬂexes depend-
+ing on discharge frequency (Storey, 1968). However, at least two
+types of cough afferents with different airway distributions have
+been proposed, including capsaicin- and anesthetic-sensitive C
+ﬁbers and anesthetic-insensitive A ﬁbers (Canning, 2011), and
+more recent studies have indicated an even more substantial di-
+vision of labor among primary afferent neurons (Mazzone et al.,
+2020; Prescott et al., 2020). We are only beginning to understand
+the diversity of vagal sensory neurons that guard the upper air-
+ways and how they detect threats, such as irritants, pathogens,
+force, and aspirated food and water.
+Several airway irritants directly engage cell surface receptors
+located on vagal sensory neurons. TRPV1 and TRPA1 are ion
+channels expressed on various vagal afferent types, and ago-
+nists for these receptors stimulate subsets of vagal sensory neu-
+rons (Bessac and Jordt, 2008). TRPV1 detects capsaicin found in
+hot peppers (Caterina et al., 1997), whereas TRPA1 is activated
+by various noxious electrophiles that covalently modify receptor
+cysteine residues, such as allyl isothiocyanate found in mustard,
+wasabi, and horseradish, acrolein in smoke and smog, gingerol
+found in ginger, and cinnamaldehyde, as well as noncovalent ag-
+onists, such as oxidants including hydrogen peroxide and hypo-
+chlorite (Bandell et al., 2004; Bautista et al., 2006; Bessac et al.,
+2008). TRPA1 and TRPV1 agonists cause cough, respiratory
+depression, and airway inﬂammation, with some neuronal and
+physiological
+responses
+lost
+following
+TRP
+knockout
+or
+blockade (Andre` et al., 2008; Bessac and Jordt, 2008). Ablation
+of TRPV1 vagal sensory neurons also impacts allergic airway hy-
+perreactivity and immune responses to respiratory infections
+(Baral et al., 2018; Tr€ankner et al., 2014), whereas ablation of
+TRPV1- and neuromedin-B-expressing trigeminal neurons im-
+pairs the sneezing reﬂex to airway threats in the nasal mucosa
+(Li et al., 2021). TRPV1 is expressed in many vagal sensory neu-
+rons (60%) and TRPA1 in 25%, most of which co-express
+TRPV1; at least two TRPA1 neuron types are distinguished by
+expression of NPY1R and NPY2R and form free endings in
+different airway regions (Chang et al., 2015; Prescott et al.,
+2020). Optogenetic stimulation of NPY1R neurons evokes airway
+defense responses, whereas optogenetic stimulation of NPY2R
+neurons causes rapid and shallow breathing (Chang et al., 2015;
+Prescott et al., 2020). Additional studies are needed to delineate
+which TRPV1- and TRPA1-expressing cells are devoted to
+airway defense and which might regulate other aspects of respi-
+ratory physiology.
+Vagal sensory neurons express other receptors for threat sur-
+veillance in the airways, as an agonist for the itch receptor
+MRGPRC11 stimulates vagal sensory neurons, and causes
+bronchoconstriction
+and airway hyperresponsiveness
+(Han
+et al., 2018a). Pathogen-derived chemicals can directly stimulate
+dissociated DRG nociceptors (Chiu et al., 2013), and it seems
+possible that they may similarly stimulate vagal sensory neurons
+in the airways. Other airway threats may instead act on upstream
+sentinel cells rather than directly on neurons. For example, vagal
+sensory neurons express receptors for numerous immune cell-
+derived molecules, including bradykinin, histamine, prostaglan-
+dins, and interferon gamma (Wang et al., 2017). Epithelial tuft
+cells in the airways, as well as the gut, are proposed to detect
+pathogen-derived metabolites from bacteria and (in the gut)
+parasitic helminth through bitter taste receptors (Luo et al.,
+2019; Tizzano et al., 2010). Tuft cells, as well as NEBs, are re-
+ported to release proinﬂammatory molecules, such as inter-
+leukin-25 and eicosanoids, as well as neurotransmitters, which
+may activate vagal afferents (Schneider et al., 2018). Neural cir-
+cuits engaged by pathogen-detection pathways can evoke gen-
+eral sickness behaviors, such as fever, lethargy, and decreased
+appetite, as well as responses tailored to the infection site, such
+as nausea, vomiting, diarrhea, cough, mucus secretion, and
+bronchoconstriction. In addition to transmitting sensory informa-
+tion to the brain, vagal sensory neurons also release peptides in
+the periphery, such as CGRP and substance P, to engage the im-
+mune system (Chu et al., 2020). Vagal motor neurons separately
+control systemic inﬂammatory responses and disease outcome
+through the ‘‘cholinergic anti-inﬂammatory pathway’’ in which
+neurons signal to splenic T cells (indirectly through postgangli-
+onic neurons) to suppress macrophage activation, providing a
+natural brake on innate immunity that protects against sepsis
+and lethal organ damage (Pavlov and Tracey, 2017). There ap-
+pears to be a diversity of pathways for pathogen and irritant
+detection in the airways, as well as motor programs to control
+different physiological responses, and additional investigation
+is required to understand when these various pathways are
+engaged across airway challenges.
+Cough can also be evoked by force, for example, by inhalation
+of particulate matter or mechanical probing throughout the
+tracheobronchial tree, especially in the larynx and carina (Widdi-
+combe, 1954). Punctate mechanical stimulation of the upper air-
+ways evokes exquisitely sensitive and rapidly adapting electro-
+physiological responses in vagal afferents (Canning et al.,
+2004). Neurons responsive to punctate stimulation (punctate
+mechanoreceptors) are distinct from other airway mechanore-
+ceptors as they do not respond to tissue stretch or changes in
+luminal pressure and have a slower conduction velocity
+(5 m/s, Ad-range). Several chemical irritants also activate
+punctate mechanoreceptors (Mazzone and Undem, 2016),
+ll
+Neuron 110, February 16, 2022
+583
+Review
+raising the possibility that these ﬁbers are broadly tuned polymo-
+dal ‘‘irritant receptors,’’ although it is possible that agents used in
+these studies elicit responses with secondary mechanical ef-
+fects on the airways, such as mucus secretion, edema, or bron-
+chospasm. A particular tracheal terminal type has been postu-
+lated to be a cough receptor (Canning et al., 2006), and it will
+be interesting to determine the response properties of these neu-
+rons and whether they function as low-threshold punctate mech-
+anoreceptors and/or polymodal irritant receptors. Coughs eli-
+cited by punctate stimulation are not inhibited by epithelium
+removal, the TRPV1 antagonist capsazepine, or the PIEZO
+antagonist gadolinium (Mazzone and Undem, 2016). Additional
+studies are needed to determine the identity of force-sensing
+molecules in punctate mechanoreceptors of the airways.
+Airway defense reﬂexes are also evoked during meal con-
+sumption, for example, when food or water accidentally goes
+down the wrong pipe. Laryngeal water is among the most potent
+inducers of airway defense reﬂexes, provoking cough, swallow-
+ing, and apnea (Canning et al., 2004; Shingai et al., 1989). Re-
+sponses to laryngeal water vary with age, species, and depth
+of anesthesia; in newborns, laryngeal water causes an unrelent-
+ing apnea rather than a cough (Boggs and Bartlett, 1982), sug-
+gesting developmental plasticity in responding neural circuits.
+It has been debated whether water directly activates vagal affer-
+ents or upstream sentinel cells, and adding complexity, multiple
+vagal sensory pathways for water have been proposed, perhaps
+with different receptor mechanisms and relevance for thirst, ﬂuid
+homeostasis, and airway defense. One water-sensing pathway
+in the upper airways involves a small cluster of 100 vagal neu-
+rons (NP19 neurons), which are marked in P2ry1-ires-Cre mice
+(Prescott et al., 2020). Optogenetic stimulation of vagal P2RY1
+neurons in the SLN evokes a coordinated motor program of
+airway defense, including expiratory reﬂexes, vocal fold adduc-
+tion, apnea, and ﬁctive swallow, whereas ablation of vagal
+P2RY1 neurons eliminates protective responses to laryngeal wa-
+ter (Prescott et al., 2020). Vagal P2RY1 neurons are fast-con-
+ducting A ﬁbers (Chang et al., 2015) that form corpuscular termi-
+nals in the larynx that directly appose laryngeal taste cells
+(Prescott et al., 2020). Knockout of ionotropic ATP receptor
+genes (P2x2/P2x3), which eliminates gustatory taste cell trans-
+mission (Finger et al., 2005), likewise eliminates airway protective
+responses to laryngeal water (Prescott et al., 2020). Responses
+to laryngeal acid were partially reduced by vagal P2RY1 neuron
+ablation or P2x2/P2x3 knockout, but responses to high salt or
+mechanical
+force
+in
+the
+larynx
+persisted,
+demonstrating
+P2RY1 neuron-independent sensory pathways for these cues.
+Together, these ﬁndings indicate that laryngeal taste cells or
+other epithelial cells sense water and release ATP to communi-
+cate with a small cohort of vagal P2RY1 neurons. Vagal P2RY1
+neurons then relay that information centrally, engaging neural
+circuits that coordinate a multi-pronged motor program to pro-
+tect and clear the airways. P2x2/P2x3 knockout eliminates laryn-
+geal water-evoked swallow, but not water-evoked nerve re-
+sponses (Ohkuri et al., 2012), consistent with a role for other
+water-sensing pathways through the vagus nerve, and additional
+studies are needed to uncover sensory transduction mecha-
+nisms engaged by laryngeal water. Interestingly, P2X antago-
+nists are clinically approved for chronic cough (Abdulqawi
+et al., 2015). Since knockout of ionotropic ATP receptors im-
+pacts some laryngeal responses but not others, understanding
+the diversity of airway protective pathways and how they operate
+may be essential for designing antitussive therapies effective for
+all patients.
+Vagal sensory neurons in the cardiovascular system
+All tissues must be supplied with a steady source of oxygenated
+blood. Peripheral sensory neurons innervate the heart and
+vasculature, providing moment-by-moment feedback to stabi-
+lize cardiac and respiratory outputs. Classical studies have re-
+vealed mechanosensory and chemosensory neurons in both
+the heart and great arteries that monitor the ﬂow and chemical
+composition of blood, respectively, including (1) arterial mecha-
+noreceptors underlying the baroreceptor reﬂex, (2) cardiac
+mechanoreceptors underlying the Bainbridge reﬂex, (3) arterial
+chemoreceptors underlying the hypoxic ventilatory response,
+and (4) cardiac chemoreceptors underlying the Bezold-Jarisch
+reﬂex. Each of these reﬂexes is discussed below, and adding
+complexity, some cardiovascular afferents may have polymodal
+responses, variable response thresholds or chemical sensitiv-
+ities, or even functions that have not been identiﬁed. Studying in-
+dividual reﬂex arcs in isolation has been tremendously chal-
+lenging due to the closed-loop structure of the cardiovascular
+system, with genetic approaches potentially providing a strategy
+moving forward for selective neuron manipulation.
+Sensory neurons are strategically placed throughout the circu-
+latory system (Figure 3). The carotid artery and aortic arch are
+two hotspots for neuronal innervation within the vasculature,
+monitoring blood immediately after it exits the left ventricle en
+route to the brain and body, respectively. Neurons at these loca-
+tions are exposed to freshly oxygenated blood pumped away
+from the heart and thus report on the starting points of both
+blood pressure and oxygenation gradients in the circulatory sys-
+tem. Vagal afferents provide the dominant sensory innervation of
+the heart, aorta, and other vessels below the diaphragm, with (1)
+cardiac branches stemming off the main vagal trunk reaching the
+heart and pulmonary vessels, (2) a branch termed the aortic
+depressor nerve accessing the aortic arch and the right subcla-
+vian artery near its bifurcation with the common carotid artery,
+and (3) the hepatic branch providing innervation of blood vessels
+in the liver. In addition, glossopharyngeal afferents innervate the
+carotid body and sinus, key sites of arterial chemosensation and
+baroreception in the neck, via a branch called the carotid sinus
+nerve. Here, we discuss both glossopharyngeal and vagal sen-
+sory neurons because their cell bodies coalesce into the same
+ganglia in several species (including mice), and they cooperate
+to mediate several cardiovascular reﬂexes.
+Arterial chemosensors for respiratory gases
+The principal function of the cardiovascular system is to deliver
+key substrates for aerobic cellular respiration, such as oxygen
+and glucose, to peripheral tissues while removing byproducts,
+such as carbon dioxide. Decreased oxygen (hypoxia) or
+increased carbon dioxide (hypercapnia) in circulation are symp-
+toms of inefﬁcient gas exchange, and without appropriate
+compensation by ventilatory reﬂexes, benign conditions such
+as exercise, high altitude, or even mild pulmonary disease would
+ll
+584
+Neuron 110, February 16, 2022
+Review
+lead to dangerous ﬂuctuations in blood gas levels. Detection of
+systemic hypoxia and hypercapnia evokes neuronal reﬂexes
+that correct blood gas levels through increased respiration. Cor-
+neille Heymans identiﬁed the critical site of acute hypoxia sensa-
+tion as the carotid body (Heymans et al., 1930), a sensory struc-
+ture located at the carotid artery bifurcation that is anatomically
+privileged to monitor blood composition. Related structures
+termed aortic bodies are present in the aortic arch but are
+smaller and less well studied. Although the carotid body is the
+primary mediator of systemic hypoxia responses, other central
+and peripheral chemoreceptors play major roles in hypercapnic
+responses (Guyenet and Bayliss, 2015).
+The carotid body is a small organ composed of two principal,
+intrinsic cell types: glomus cells, which are ﬁrst-order chemosen-
+sory cells, and glia-like sustentacular cells. Dense fenestrated
+capillaries provide glomus cells with privileged access to sample
+blood contents, efﬁciently perfusing them with circulating respi-
+ratory gases. Glomus cells are polymodal sensors that directly
+respond to low oxygen, high carbon dioxide, low pH, glucose,
+lactate, and other stimuli in ex vivo preparations (Ortega-Sa´ enz
+and Lo´ pez-Barneo, 2020). Chronic hypoxia, as from living at
+high altitude, increases the number of glomus cells, with susten-
+tacular cells capable of acting as stem cells that convert into
+glomus cells (Pardal et al., 2007). The hypoxia-responsive tran-
+scription factor HIF2a controls the gene expression program,
+which enables glomus cells to respond to acute hypoxia, and
+could serve as a master developmental regulator of glomus cells
+and/or a mediator of cellular adaptations to chronic hypoxia (Ma-
+cias et al., 2018; Moreno-Domı´nguez et al., 2020).
+Glomus cells are neural crest derived and display several char-
+acteristics of neurons as they are electrically excitable, loaded
+with dense core vesicles, and communicate with afferent nerves
+through synapses. Similar to taste cells, glomus cells release
+ATP extracellularly when activated (Buttigieg and Nurse, 2004),
+and ATP stimulates ionotropic receptors expressed on afferent
+nerves (Rong et al., 2003). Mice lacking ionotropic ATP receptors
+lose carotid sinus nerve activity and ventilatory responses
+following hypoxic challenge (Rong et al., 2003). Glomus cells
+also release a suite of other hormones and neuromodulators
+that act on afferent nerves, sustentacular cells, and other glomus
+cells, including acetylcholine, dopamine, and gaseous transmit-
+ters (Iturriaga et al., 2021), and additionally form electrical synap-
+ses with neighboring glomus cells. Carotid body glomus cells
+communicate with glossopharyngeal afferents, whereas aortic
+bodies are instead innervated by vagal afferents, with individual
+afferent neurons contacting 10–60 glomus cells (Torrealba and
+Alcayaga, 1986). The central terminals of carotid body-inner-
+vating afferents are located in the NTS, which, in turn, relays
+chemoreceptor inputs to brainstem motor circuits that control
+breathing (Finley and Katz, 1992).
+Mechanisms underlying acute glomus cell responses to hyp-
+oxia are incompletely understood. As in pancreatic beta cells,
+a key step in glomus cell activation involves closure of potassium
+channels, cell depolarization, and engagement of voltage-gated
+calcium channels (Ortega-Sa´ enz and Lo´ pez-Barneo, 2020).
+Interestingly though, glomus cells and pancreatic beta cells
+display an opposite relationship between electron transport
+chain activity and cell depolarization. In beta cells, glucose
+drives insulin release through increased metabolic ﬂux, ATP pro-
+duction, and ATP-mediated closure of potassium channels. In
+contrast, in glomus cells, inhibition of the electron transport
+chain, for example, through cyanide, carbon monoxide, or rote-
+none, promotes cell ﬁring (Ortega-Sa´ enz et al., 2003), with a pre-
+vailing model for hypoxia sensation involving a mitochondria-
+derived signal that impacts potassium channel opening. Glomus
+cells express specialized electron transport chain subunits, and
+several molecular sensors for low oxygen have been proposed
+(Iturriaga et al., 2021). For example, knockout of the Complex I
+subunit NDUFS2 or the Complex IV subunit COX4I2 eliminates
+acute glomus cell hypoxia responses (Ferna´ ndez-Ag€uera et al.,
+2015; Moreno-Domı´nguez et al., 2020). Complex IV (cytochrome
+c oxidase) directly transfers electrons to oxygen, and it is
+possible that carotid body Complex IV displays a decreased ox-
+ygen binding capacity to match the physiologically relevant dy-
+namic range of oxygen present in arteries. Hypoxia-induced
+stalling of ﬂux through the carotid body electron transport chain
+could lead to shunting of electrons into reactive oxygen species
+or NADPH, decreased ATP production, and/or increased/
+decreased synthesis of other second messengers. It is possible
+that any or several of these factors engage potassium channels.
+Adding complexity and perhaps redundancy, roles for other ox-
+ygen-dependent enzymes, signals (such as CO and H2S), and
+channels have been proposed (Prabhakar et al., 2018). Addi-
+tional studies are needed to pinpoint how hypoxia speciﬁcally
+ADN
+Carotid body
+Common
+carotid
+arteries
+Right subclavian 
+artery
+ Carotid sinus nerve (CSN)
+Glossopharyngeal nerve (IX)
+Vagus nerve (X)
+SLN
+Aorta
+)
+Left subclavian 
+artery
+Aortic body
+Carotid 
+sinus
+A
+P
+L
+R
+Blood from 
+left ventricle
+To lower body
+Figure 3. Innervation of the great arteries
+Sensory neurons in the great arteries mediate classical reﬂexes, including the
+baroreceptor reﬂex and hypoxic ventilatory response. Vagal afferents reach
+the aortic arch and subclavian artery via the aortic depressor nerve (ADN),
+which branches from the superior laryngeal nerve (SLN). Glossopharyngeal
+afferents reach the carotid body and sinus via the carotid sinus nerve (CSN),
+which branches from the main glossopharyngeal trunk. A, anterior; P, poste-
+rior; R, right; L, left.
+ll
+Neuron 110, February 16, 2022
+585
+Review
+impacts mitochondrial function in glomus cells, what hypoxia-
+induced or hypoxia-inhibited signals are transmitted from mito-
+chondria to the membrane and which potassium channel sub-
+units are gated to cause cell depolarization.
+Glomus cell responses to hypercapnia involve a mechanism
+that is at least partially distinct. Disrupting the mitochondrial
+electron transport chain through NDUFS2 knockout eliminates
+glomus cell responses to hypoxia but not hypercapnia (Ferna´ n-
+dez-Ag€uera et al., 2015). A key role has instead been proposed
+for carbonic anhydrase, which converts carbon dioxide into car-
+bonic acid (Iturriaga et al., 1991), with intracellular acidiﬁcation
+potentially impacting the activity of various ion channels and
+leading to cell depolarization. Interestingly, a subset of olfactory
+sensory neurons senses carbon dioxide through a somewhat
+related pathway involving carbonic anhydrase, guanylyl cyclase
+D, and a cGMP-gated ion channel (Hu et al., 2007), whereas sour
+taste cells sense carbonation through acidity changes catalyzed
+by extracellular carbonic anhydrase (Chandrashekar et al.,
+2009). Central chemoreceptors located in the retrotrapezoid nu-
+cleus play a major role in systemic hypercapnic responses and
+detect elevated carbon dioxide through dual pH-dependent
+mechanisms involving the G-protein-coupled receptor GPR4
+and the potassium channel TASK-2 (Kumar et al., 2015). Addi-
+tional studies are needed into how glomus cells detect and inte-
+grate changing levels of respiratory gases and other blood con-
+stituents to initiate ﬁring and neuronal reﬂexes resulting in
+hyperventilation.
+Neuronal sensation of blood pressure and the
+baroreceptor reﬂex
+Mean arterial blood pressure is typically maintained within a nar-
+row physiological range to ensure adequate tissue perfusion. A
+few key ﬁndings made over several decades led to the concept
+of the baroreceptor reﬂex, a negative feedback loop in which
+mechanosensitive afferents detect increases (or decreases) in
+arterial blood pressure and, in response, engage neural circuits
+to decrease (or increase) both heart rate and arterial pressure.
+First, in the 1860s, the French physiologist Etienne-Jules Marey
+observed an inverse relationship between blood pressure and
+heart rate (now known as Marey’s Law) (Marey, 1863). In the
+1920s, Heinrich Ewald Hering, the son of Ewald Hering who
+helped discover the Hering-Breuer inspiratory reﬂex, observed
+that electrical stimulation of afferents from the carotid sinus
+evoked reﬂexive bradycardia and hypotension (Hering, 1923).
+Subsequently, in 1933, Lord Adrian observed that a subpopula-
+tion of vagal sensory neurons ﬁred with each heartbeat and,
+moreover, that ﬁring magnitude correlated closely with blood
+pressure (Adrian, 1933).
+Neuronal baroreceptors are mechanosensory neurons that act
+in real time, detecting momentary blood pressure ﬂuctuations
+that occur during movement or postural changes, and work
+across a large dynamic range (Brown, 1980; Kirchheim, 1976;
+Landgren, 1952). The baroreceptor reﬂex can be experimentally
+observed through pharmacological agents such as phenyleph-
+rine that induce vasoconstriction and elevate blood pressure,
+through non-invasive pressure manipulations such as the Val-
+salva maneuver, the neck chamber technique, or carotid sinus
+massage, or through measurement of spontaneous blood pres-
+sure changes and correlated heart rate changes that occur natu-
+rally over time (Wehrwein and Joyner, 2013). Baroreceptor infor-
+mation is ﬁrst transmitted centrally to the NTS, a key site for
+state-dependent modulation, and then to autonomic motor
+nuclei, decreasing sympathetic output and increasing parasym-
+pathetic output to lower heart rate and blood pressure (Guyenet,
+2006; Kumada et al., 1990).
+The nervous system monitors blood pressure at two major
+hotspots in the great arteries: the carotid sinuses and the aortic
+arch. Carotid sinus and aortic baroreceptors are, respectively,
+part of glossopharyngeal and vagus nerve branches termed
+the carotid sinus nerve and aortic depressor nerve, and poten-
+tially provide differential reporting of blood ﬂow to the brain
+and body. Arterial regions innervated by blood-pressure-sensing
+neurons are highly elastic due to local smooth muscle thinning
+and changes in elastin and collagen ﬁber abundance (Kirchheim,
+1976; Rees, 1968). With each heartbeat, the pulse of blood ﬂow
+radially distends the elastic vessel wall. Baroreceptors are acti-
+vated by blood vessel distension, ﬁre in a pulsatile manner timed
+to the cardiac cycle, and convey information about both pulse
+magnitude and frequency (Brown, 1980; Kirchheim, 1976; Ku-
+mada et al., 1990).
+One feature of baroreceptors with particular clinical impor-
+tance is their plasticity. The sensitivity and/or set point of the
+baroreceptor reﬂex can change across physiological states (ex-
+ercise, hypovolemia) (Dampney, 2017). Furthermore, raising or
+lowering arterial pressure, even for a few minutes, can acutely
+and reversibly reset baroreceptor thresholds (Kunze, 1985).
+Angiotensin II dampens and/or shifts baroreceptor responses,
+allowing the renin-angiotensin system to control blood pressure
+over a longer term while minimizing compensatory heart rate
+changes (Reid, 1992). Chronic and less plastic changes in baro-
+receptor sensitivity can also arise during aging and disease due
+to both adaptations in neuronal circuitry and structural changes
+to the arterial wall, such as thickening during atherosclerosis,
+and are predictive of serious coronary disease (La Rovere
+et al., 2008).
+Classical studies equated aortic depressor nerve stimulation
+with baroreceptor activation, but recent anatomical and func-
+tional studies revealed (at least) three major sensory neuron
+types in both the aortic arch and carotid sinus: end-net endings
+(baroreceptors), glomus cell contacts (chemoreceptors), and
+ﬂower spray terminals (unknown function) (Cheng et al., 1997a;
+Min et al., 2019). As discussed earlier, chemoreceptors innervate
+carotid and aortic bodies, detect changes in circulating levels of
+respiratory gases, and induce hyperventilation to promote gas
+exchange. Flower spray terminals, named for the characteristic
+morphology of their complex punctate endings (Aumonier,
+1972), are the most common vagal endings in the aortic arch
+and are enriched in a saddle-like pattern in the rostral aorta.
+Flower spray endings are marked in Mc4r-p2a-Cre mice, and op-
+togenetic activation of all vagal MC4R neurons, or those in the
+aortic depressor nerve, caused a minor decrease in blood pres-
+sure and, unlike the baroreceptors, did not impact heart rate (Min
+et al., 2019). Moreover, genetic ablation of vagal MC4R neurons
+effectively removed arterial ﬂower spray endings, but the barore-
+ceptor reﬂex remained intact (Min et al., 2019). Additional studies
+are needed to understand the sensory properties and functions
+ll
+586
+Neuron 110, February 16, 2022
+Review
+of arterial ﬂower spray endings, but they appear to be dispens-
+able for the baroreceptor reﬂex.
+Instead, the aortic and carotid sinus baroreceptors are both
+marked in Piezo2-ires-Cre mice (Min et al., 2019). Optogenetic
+activation of aortic PIEZO2 neurons causes reﬂexive decreases
+in heart rate and blood pressure reminiscent of the baroreceptor
+reﬂex (Min et al., 2019; Zeng et al., 2018). Moreover, genetic
+ablation of vagal and glossopharyngeal PIEZO2 neurons elimi-
+nated the baroreceptor reﬂex and the ability of the aortic
+depressor nerve to alter heart rate (Min et al., 2019). Anatomical
+tracing of PIEZO2 neurons in the great arteries revealed that they
+form characteristic linear branches termed as end-net endings
+(Min et al., 2019). PIEZO2 neurons arrive at the peak of the aortic
+arch and bifurcate into dorsal and ventral branches, which
+circumnavigate the aorta, extending beyond the saddle region
+where ﬂower spray terminals are concentrated. Dorsal and
+ventral branches converge near the arterial ligament at the aortic
+base in a claw-like structure, with end-net endings ramifying
+outward.
+Mechanosensory ion channels that sense blood pressure and
+mediate the baroreceptor reﬂex have been a long-standing mys-
+tery since the reﬂex was ﬁrst described about a century ago.
+Several candidate baroreceptors have been proposed, and
+although some of these candidates may contribute to barore-
+ceptor function in important ways, residual force-evoked cur-
+rents and/or physiological responses in knockout mice suggest
+a role for another primary sensory receptor (Drummond et al.,
+1998; Lau et al., 2016; Lu et al., 2009; Sun et al., 2009). The baro-
+receptor reﬂex was lost after ablation of vagal and glossophar-
+yngeal PIEZO2 neurons (Min et al., 2019); yet, it surprisingly
+remained intact after cell-speciﬁc knockout of Piezo2 in
+Phox2b-expressing cells (Zeng et al., 2018), which includes the
+relevant baroreceptor sensory neurons of both the nodose and
+petrosal ganglia. Interestingly, a dual requirement for both
+PIEZO1 and PIEZO2 in baroreception was observed, as targeted
+knockout of both Piezo ion channel genes in Phox2b-expressing
+cells, but not Piezo1 or Piezo2 individually, abolished phenyleph-
+rine-induced baroreﬂex responses and aortic depressor nerve
+activity (Zeng et al., 2018). Awake, behaving animals with cell-
+speciﬁc Piezo knockout had labile hypertension and increased
+blood pressure variability, as is similarly observed after barore-
+ceptor denervation or failure (Zeng et al., 2018). Interestingly,
+Piezo1 is also required for sensing ﬂuid ﬂow in endothelial cells
+and other blood cells (Cahalan et al., 2015; Li et al., 2014), sug-
+gesting that PIEZOs mediate multiple physiological responses to
+forces within the cardiovascular system. In Phox2b-driven Piezo
+knockout mice, electrical stimulation of the aortic depressor
+nerve still evoked baroreceptor-associated heart rate and blood
+pressure changes, and the anatomy of baroreceptor neurons, at
+least at a gross morphological level, appeared similar (Min et al.,
+2019); these observations suggest that phenotypes of Piezo
+knockout mice are not due to changes in neural circuits down-
+stream of baroreceptors or sensory neuron morphology but
+instead are consistent with a direct role for PIEZOs in blood pres-
+sure sensation. Additional studies are needed to determine
+where PIEZO proteins are localized within end-net endings to
+sense arterial wall distension. Moreover, the mechanisms by
+which PIEZO1 and PIEZO2 cooperate to mediate the barore-
+ceptor reﬂex are unclear. Both PIEZOs act in neurons marked
+in Phox2b-Cre and Piezo2-ires-Cre mice, and a parsimonious
+interpretation is that both PIEZO1 and PIEZO2 act in the same
+sensory neurons where either is sufﬁcient. An alternative model
+involves baroreceptor heterogeneity with some cells expressing
+PIEZO2 transiently or at low levels that are sufﬁcient to drive re-
+porter expression in Piezo2-ires-Cre mice but instead relying pri-
+marily on PIEZO1 for force sensation. Together, these ﬁndings
+reveal that PIEZO1 and PIEZO2 are the long-sought mechano-
+sensory channels critical for acute blood pressure control and
+the baroreceptor reﬂex.
+Cardiac sensory neurons: Buffering a change of heart
+In 1915, Francis Bainbridge observed that increasing blood vol-
+ume by injection of isotonic saline or blood into a jugular vein
+caused reﬂexive tachycardia (Bainbridge, 1915). This reﬂex
+(termed the Bainbridge reﬂex) is initiated by mechanosensory af-
+ferents of the vagus nerve that ﬁre in response to atrial ﬁlling and/
+or cardiac muscle contraction, and report on the extent and rate
+of venous return, as well as heart rate. Increases in atrial pressure
+raise heart rate, while decreases in atrial pressure are proposed
+to instead slow heart rate (termed the ‘‘reverse Bainbridge re-
+ﬂex’’) (Crystal and Salem, 2012); changes in atrial pressure
+also change renal blood ﬂow to inﬂuence diuresis (Henry and
+Pearce, 1956). These various effects ensure that circulating
+blood volume and venous return are coupled with cardiac output
+and stay within a tight physiological range.
+The Bainbridge reﬂex has been notably difﬁcult to study in
+isolation because the cardiovascular system is a closed loop,
+and manipulations that increase the activity of atrial mechanore-
+ceptors could also impact baroreceptor afferents, ventricular af-
+ferents, and circulating levels of hormones, such as angiotensin
+II and atrial natriuretic peptide. It is debated when the Bainbridge
+reﬂex is naturally engaged and the extent to which it contributes
+to heart rate changes associated with hypovolemia, hypervole-
+mia, hemorrhage, anesthesia/surgery, and application of lower
+body negative pressure (Crystal and Salem, 2012). Adding
+complexity, the Bainbridge reﬂex may vary in strength across
+species and appears diminished in rodents and primates
+compared with other species, hindering investigation (Boettcher
+et al., 1982). The Bainbridge reﬂex and the baroreceptor reﬂex
+have opposing effects on heart rate; neural circuits that measure
+differential activity between baroreceptor afferents and atrial vol-
+ume receptors could in principle accelerate or decelerate blood
+transfer from veins to arteries by inﬂuencing heart rate, helping to
+equilibrate pressure across the vasculature. By employing me-
+chanosensory neurons at various strategic locations throughout
+the cardiovascular system, the nervous system can potentially
+interpret changing blood ﬂow patterns for context-appropriate
+physiological responses that maintain cardiac output and effec-
+tive circulating blood volume.
+Mechanoreceptors are present in both the right and left atria,
+near the junctions with the vena cava and pulmonary veins,
+respectively (Hainsworth, 1991). Many terminal structures have
+been described in the heart, including ‘‘end-net’’ terminals be-
+tween the endocardium and myocardium, ‘‘ﬂower spray’’ termi-
+nals (also called complex unencapsulated endings) in the endo-
+cardium, Rufﬁni types, ﬂat plates, intramuscular arrays in the
+ll
+Neuron 110, February 16, 2022
+587
+Review
+myocardium, and contacts with intrinsic cardiac ganglia (Cheng
+et al., 1997b; Hainsworth, 1991; Miller and Kasahara, 1964). The
+sensory properties and physiological functions of neurons that
+form various heart terminal types are not clear, with unencapsu-
+lated endings speculated to be atrial mechanoreceptors based
+on their general proximity to mechanosensitive sites. Further-
+more, different types of atrial mechanoreceptors (Type A and
+B) have been proposed based on their ﬁring rate across the car-
+diac cycle and their differential sensitivity to stretch and tension
+(Paintal, 1953), although it has been debated whether these ac-
+tivity differences are due to intrinsic neuronal properties or termi-
+nal position within the heart (Arndt et al., 1974). Additional
+studies are needed to reveal force sensors present in atrial vol-
+ume receptors underlying the Bainbridge reﬂex.
+The functions of other vagal afferents in the heart are even
+more mysterious. In 1867, von Bezold and Hirt observed that
+intravenous injection of veratrum alkaloids induced a triad of
+bradycardia, hypotension, and vasodilation (von Bezold and
+Hirt, 1867), as well as an apnea that was later ascribed to non-
+cardiac sensory neurons. Jarisch and colleagues subsequently
+showed that cardiovascular responses to veratrum alkaloids
+required intact vagal cardiac branches (Jarisch and Richter,
+1939); henceforth, the reﬂex became known as the ‘‘Bezold-Jar-
+isch reﬂex.’’ Similar depressor responses can be evoked using
+other chemicals that stimulate some C ﬁbers, such as capsaicin,
+nicotine, and phenyl diguanide; therefore, the reﬂex is attributed
+to unmyelinated vagal afferents, which display the highest den-
+sity in the left ventricle (Hainsworth, 1991). These chemicals do
+not stimulate arterial baroreceptors or glomus-cell-associated
+chemoreceptors at concentrations necessary to elicit depressor
+responses; therefore, the Bezold-Jarisch reﬂex represents a
+distinct sensory pathway (Coleridge and Coleridge, 1977; Kauf-
+man et al., 1980). However, known stimuli that activate cardiac C
+ﬁbers are not normally abundant in the blood, and it is unclear
+when or if these neurons are physiologically engaged or whether
+they act as silent nociceptors. Adding complexity, at least some
+cardiac C ﬁbers are mechanosensory neurons activated by inﬂa-
+tion and/or deﬂation (Gupta and Thames, 1983), and it is debated
+whether they are normally engaged by changing forces across
+the cardiac cycle. As with atrial mechanoreceptors, roles for car-
+diac C ﬁbers in systemic responses to hypotension, hypovole-
+mia, ischemia, and anesthesia have been postulated but
+debated. It remains unknown which transcriptome-deﬁned neu-
+rons mediate the Bezold-Jarisch reﬂex, what their terminals look
+like, what they respond to physiologically, and how they function.
+Generally, additional studies are needed to examine the diversity
+of cardiac neurons of the vagus nerve, including the physiolog-
+ical response properties/sensory mechanisms of neurons medi-
+ating the Bezold-Jarisch reﬂex.
+Vagal sensory neurons and the gut-brain axis
+Obesity and related metabolic disorders are associated with
+increased morbidity and represent major healthcare challenges
+of the 21st century. Feeding behavior in most animals occurs
+in bursts or meals, which are followed by periods of feeding
+quiescence. The gut-brain axis relays short-term information
+about the quantity and quality of recently consumed food and
+mediates the sensation of meal-induced fullness (Richards
+et al., 2021). Disrupting or artiﬁcially stimulating meal-derived
+signals of the gut-brain axis changes meal patterns and can
+durably alter energy homeostasis. As will be discussed below,
+glucagon-like peptide 1 (GLP1) is a gut-derived incretin released
+after nutrient ingestion that suppresses feeding behavior through
+neuronal circuits. Agonists of the GLP1 receptor (GLP1R) are
+clinically approved for obesity treatment, providing an illustrative
+example of how artiﬁcially stimulating components of the gut-
+brain axis may provide therapeutic beneﬁt. Likewise, bariatric
+surgery to re-structure the gastrointestinal tract alters appetite,
+body weight, and metabolism (Arble et al., 2015), further high-
+lighting the importance of gut-derived signals in long-term
+feeding control.
+The gut-brain axis not only controls appetite but also coordi-
+nates physiological responses that promote digestion, absorp-
+tion, and systemic changes in energy utilization. Neuronal path-
+ways inﬂuence the release of metabolic hormones, blood
+glucose levels, enzyme secretion, gallbladder contraction, gut
+motility, gastric acidiﬁcation, and gastric emptying (Brookes
+et al., 2013; Gribble and Reimann, 2019; Travagli et al., 2006).
+Gut-innervating sensory neurons have been proposed to guide
+food preference and avoidance behavior, and to detect (directly
+or indirectly) non-food cues, such as water or high salt for control
+of thirst and ﬂuid homeostasis, danger signals from pathogens,
+toxins, or food allergens, and microbiome-derived metabolites
+(Babic and Browning, 2014; Han et al., 2018b; Lai et al., 2020;
+Muller et al., 2020; Tan et al., 2020; Zimmerman et al., 2019).
+Gut-innervating sensory neurons may also mediate poorly un-
+derstood sensations, such as ‘‘hunger pangs,’’ visceral pain,
+and ‘‘butterﬂies in the stomach’’; the latter is evoked by nervous-
+ness and anxiety, consistent with a role for the gut-brain axis in
+mood control, and perhaps occurs through an inverted reﬂex
+arc involving brain-to-gut-to-brain transmission. Gut-innervating
+vagal neurons have additionally been proposed to mediate path-
+ological a-synuclein transmission in Parkinson’s disease (Kim
+et al., 2019).
+The brain receives meal-related information from the gastroin-
+testinal tract through several routes, including from neuronal af-
+ferents, circulating gut-derived hormones, and nutrients them-
+selves. The entire length of the alimentary canal is heavily
+innervated by both intrinsic and extrinsic neurons. Ingested
+food is ﬁrst detected in the mouth by gustatory afferents report-
+ing on taste quality (from the facial and glossopharyngeal
+nerves), olfactory sensory neurons that detect food odors, and
+trigeminal afferents thought to measure features such as food
+texture and temperature. After food is swallowed, it is monitored
+by different extrinsic nerves in the pharynx (glossopharyngeal,
+vagal), esophagus (vagal), stomach (mostly vagal, some DRG),
+intestine (vagal, DRG), and rectum (DRG) (Berthoud and Neu-
+huber, 2000). Vagal sensory neurons densely innervate the prox-
+imal small intestine, whereas DRG neurons dominate the inner-
+vation of the distal intestine (Blackshaw et al., 2007). In
+addition to extrinsic innervation, the esophagus, stomach, intes-
+tine, and other organs contain an extensive network of intrinsic
+(enteric) neurons. Enteric neurons are closely associated with
+extrinsic motor neurons and at least some extrinsic sensory neu-
+rons and play vital functions in local gut physiology, as well as
+possibly interorgan cross talk and behavior.
+ll
+588
+Neuron 110, February 16, 2022
+Review
+The vagus nerve is a key component of the gut-brain axis and
+transecting the vagus nerve below the diaphragm (subdiaphrag-
+matic vagotomy) decreases body weight, perhaps due to the
+loss of motor-ﬁber-mediated effects on absorption, digestion,
+and metabolism and/or disruption of sensory afferents that inﬂu-
+ence feeding (Aklan et al., 2020; Berthoud et al., 2021; Chen
+et al., 2020). Perhaps paradoxically, vagal nerve stimulation
+through electrical or optogenetic approaches also reportedly in-
+hibits feeding behavior (Bai et al., 2019; Borgmann et al., 2021;
+Burneo et al., 2002), and it is important to consider that other
+sensations, such as air hunger, laryngeal aspiration, or esopha-
+geal distension may suppress feeding through mechanisms un-
+related to satiety. Classic studies of the vagus nerve revealed a
+few different sensory neuron types in the gut: (1) mucosal end-
+ings, including chemoreceptors in intestinal villi and crypt end-
+ings, (2) mechanoreceptors that form intraganglionic laminar
+endings (IGLEs), and (3) intramuscular arrays (IMAs), which
+may also be mechanoreceptors (Brookes et al., 2013). Recent
+expression proﬁling approaches revealed a greater diversity of
+transcriptome-deﬁned vagal and spinal sensory neurons in the
+digestive system (Bai et al., 2019; Hockley et al., 2019; Kupari
+et al., 2019; Prescott et al., 2020; Williams et al., 2016), and we
+are only beginning to understand the sensory properties, func-
+tions, and receptor mechanisms of different gut-brain communi-
+cation pathways.
+Nutrient responses along the gut-brain axis
+Ingestion of energy-rich nutrients is powerfully rewarding.
+Although the gustatory system ﬁrst detects nutrients in food,
+taste-blind mice still develop a preference for sugar-rich foods.
+Subdiaphragmatic vagotomy abolishes post-ingestive sugar
+preference (de Araujo et al., 2008; Fernandes et al., 2020; Han
+et al., 2018b; Tan et al., 2020), and mice can develop a prefer-
+ence for sugar over artiﬁcial sweeteners, consistent with a taste
+receptor-independent sugar reinforcement pathway (Sclafani
+et al., 2015; Tan et al., 2020). Teaching signals from ingested nu-
+trients are powerfully rewarding, as Pavlov observed, and enable
+particular sights, sounds, and smells to be associated with food
+and subsequently trigger brain-to-gut signaling that helps pre-
+pare the digestive system for an upcoming meal.
+Upon ingestion, food is broken down by the digestive system
+into building blocks of simple sugars, amino acids, and free fatty
+acids. In the intestine, simple nutrients are detected by special-
+ized epithelial sensory cells termed enteroendocrine cells, which
+rapidly trigger a variety of physiological and neuronal responses
+before nutrients are absorbed into the bloodstream (Baggio and
+Drucker, 2007; Gribble and Reimann, 2019). After absorption,
+nutrients themselves exert effects on virtually every tissue, pro-
+mote the release of metabolic hormones such as insulin, and
+can even directly engage neurons in the brain. The relative
+importance of different direct and indirect nutrient detection
+pathways in guiding satiety and reinforcement behavior remains
+an active area of investigation, with enteroendocrine cells poised
+to play an important role in rapid, systemic nutrient responses.
+Vagal and DRG afferents do not directly access the intestinal
+lumen; therefore, extrinsic chemosensory neurons in the gut
+function as second-order neurons that receive sensory inputs
+from enteroendocrine cells and perhaps other cell types, such
+as tuft cells, immune cells, and enteric neurons. Although it re-
+mains unclear which enteroendocrine cell types communicate
+with vagal afferents, we focus our attention here generally on en-
+teroendocrine cell biology, as they are the ﬁrst-order nutrient-
+sensing cells in the intestine that provide at least some inputs
+to vagal afferents.
+Enteroendocrine cells are sparse sentinel cells dispersed
+along the gastrointestinal tract and represent 1% of all
+intestinal epithelial cells. Given the length of the intestine,
+enteroendocrine cells collectively represent the most abundant
+hormone-producing cell type in the body. Similar to taste cells,
+enteroendocrine cells are specialized epithelial cells rather
+than neurons but share many features with neurons as they
+are electrically excitable, display calcium-dependent vesicle
+release, and communicate with downstream vagal, spinal, and/
+or enteric neurons at synaptic terminals (Gribble and Reimann,
+2019), sometimes called neuropods (Kaelberer et al., 2018).
+Many enteroendocrine cells directly access the gastrointestinal
+lumen at their apical end (but not all, such as ghrelin-producing
+cells of the stomach) and, at their basolateral end, release hor-
+mones that can both engage nearby neurons and enter the
+bloodstream. Enteroendocrine cells, similar to all cells in the in-
+testinal epithelium, are short-lived and undergo constant turn-
+over and renewal throughout life. The intestinal epithelium turns
+over every 3–5 days, with new cells born in intestinal crypts and
+migrating in a conveyor belt-like manner toward intestinal villi
+where they are ultimately shed (Barker et al., 2007). Enteroendo-
+crine cells undergo a similar but slower life cycle as other epithe-
+lial cells, with some lingering in crypts for longer periods of time
+(Gehart et al., 2019). It is unclear whether synaptic contacts with
+neurons persist or change during enteroendocrine cell move-
+ment and maturation.
+Enteroendocrine cells have historically been classiﬁed, and
+their functions inferred, by the various hormones they produce,
+which include cholecystokinin (CCK), glucagon-like peptide 1
+(GLP1), peptide YY, ghrelin, gastric inhibitory polypeptide
+(GIP),
+serotonin,
+secretin,
+neurotensin,
+and
+somatostatin
+(Gribble and Reimann, 2019). These gut hormones exert various
+physiological effects that are sometimes opposing and other
+times redundant. CCK, GLP1, and PYY are released following
+nutrient injection and suppress feeding, whereas ghrelin is
+released by fasting, is downregulated by nutrient ingestion,
+and stimulates feeding. GLP1 and GIP are both incretins that
+rapidly stimulate insulin release and alter metabolism before in-
+gested glucose is even absorbed into circulation (Baggio and
+Drucker, 2007). As such, small molecules that activate the
+GLP1 receptor (GLP1R) or that enhance GLP1 durability in circu-
+lation by inhibiting its proteolysis are clinical mainstays for treat-
+ing diabetes (Richards et al., 2021), although, at higher concen-
+trations, GLP1R agonists cause nausea (Drucker and Nauck,
+2006). CCK, serotonin, and other gut hormones additionally
+regulate a variety of digestive functions, including gut motility,
+gastric emptying, absorption, gallbladder contraction, and
+exocrine pancreatic secretion.
+Time-resolved transcriptional analysis identiﬁed ﬁve principal
+enteroendocrine cell lineages leading to cells that produce
+GIP, ghrelin, serotonin (called enterochromafﬁn cells), somato-
+statin, or a combination of GLP1, CCK, and/or neurotensin
+ll
+Neuron 110, February 16, 2022
+589
+Review
+(Gehart et al., 2019). Use of an elegant genetically encoded ﬂuo-
+rescent clock to superimpose cell birthdate on the enteroendo-
+crine cell atlas revealed that cell identity can be dynamic, with
+individual cells capable of switching hormone synthesis as
+they mature (Gehart et al., 2019). Since Cre-based genetic tools
+provide a stable readout for transient developmental states, dy-
+namic changes in hormone expression should be considered
+when using genetic approaches to access enteroendocrine cells
+for functional analysis.
+Enteroendocrine cell-derived hormones can enter the circula-
+tion to exert pleiotropic effects and can also be detected locally
+by neurons. Some vagal sensory neurons express multiple re-
+ceptors for gut hormones, including CCK, GLP1, and PYY (Wil-
+liams et al., 2016), and CCK directly evokes calcium transients
+and action potentials in a subset of vagal sensory neurons
+(Blackshaw and Grundy, 1990; Schwartz et al., 1993; Williams
+et al., 2016). Gut hormone receptors are additionally expressed
+in various brain regions, spinal neurons, and enteric neurons,
+and the relative contributions of different hormone detection
+pathways in exerting control of physiology and behavior remain
+actively investigated. Cell-speciﬁc knockout and rescue experi-
+ments revealed that GLP1 induces satiety through a distributed
+network of GLP1R neurons in the hypothalamus and caudal
+brainstem, whereas GLP1 induces nausea-related behaviors
+through a more focal brainstem response (McLean et al., 2021;
+Zhang et al., 2021). Fiber photometry experiments revealed
+that gastric nutrient infusion decreased the activity of hunger-
+associated neurons in the hypothalamus that express Agouti-
+related peptide (AGRP) (Beutler et al., 2017). Nerve transection
+experiments indicated that fat decreases AGRP neuron activity
+through the vagus nerve but sugar does so through spinal affer-
+ents (Goldstein et al., 2021). Intersectional genetic approaches
+for chemogenetic inhibition of most DRG sensory neurons
+(involving Wnt1-Cre and Nav1.8-p2a-Dre) increased food intake
+(Borgmann et al., 2021), a ﬁnding consistent with a role for DRG
+afferents in acute feeding regulation. In separate studies, stimu-
+lating gut-innervating vagal afferents activated dopaminergic
+reward circuits, whereas branch-selective vagotomy inhibited
+sugar-evoked dopaminergic neuron activity and post-ingestive
+sugar preference (Fernandes et al., 2020; Han et al., 2018b;
+Tan et al., 2020). Together, these ﬁndings raise the possibility
+that there are multiple nutrient-response pathways relevant for
+different behaviors.
+Genetic approaches to eliminate enteroendocrine cells have
+not been selective but have hinted that they play a vital role in
+gastrointestinal physiology. Knockout of key developmental fac-
+tors, such as Neurogenin3 or Math1, eliminates intestinal enter-
+oendocrine cells and causes lethality, but Neurogenin3 knockout
+also eliminates pancreatic endocrine cells, whereas Math1
+knockout also eliminates other intestinal secretory cells, such
+as Paneth and goblet cells (Li et al., 2011). Human patients
+with more subtle Neurogenin3 point mutations retained pancre-
+atic islet function but lost enteroendocrine cells and displayed
+severe malabsorptive diarrhea (Wang et al., 2006). Chemoge-
+netic activation of cells producing insulin-like peptide 5, which
+is expressed in enteroendocrine cells of the distal colon, simulta-
+neously blocked feeding behavior through a PYY receptor
+(NPY2R), improved glucose tolerance through GLP1, and
+increased defecation through a serotonin receptor (HTR3A)
+(Lewis et al., 2020), suggesting that individual enteroendocrine
+cell types can exert a multi-pronged physiological program via
+different hormones. Additional genetic tools that enable selec-
+tive elimination and activation of all enteroendocrine cells, or
+particular subtypes, would provide valuable insights into their
+physiological functions.
+Glucose directly triggers calcium inﬂux and electrical re-
+sponses in enteroendocrine cells that lead to hormone release
+(Reimann et al., 2008). Enteroendocrine cells are one of several
+sites of nutrient detection in the body, and they utilize a different
+sugar-sensing mechanism from both taste cells and pancreatic
+beta cells. Taste cells use a heterodimer of G-protein-coupled
+receptors (T1R2/T1R3) to detect extracellular sugars, whereas
+pancreatic beta cells instead release insulin after glucose meta-
+bolism-induced ATP production, leading to closure of ATP-
+gated potassium channels, cell depolarization, calcium inﬂux
+through voltage-gated calcium channels, and calcium-mediated
+release of insulin vesicles. Although taste receptors are report-
+edly expressed in enteroendocrine cells (Jang et al., 2007),
+GLP1 release persists in taste receptor knockout mice and is
+not evoked by artiﬁcial sweeteners (Fujita et al., 2009; Reimann
+et al., 2008). Instead, knockout mice lacking the glucose-sodium
+symporter SGLT1 lack sugar-induced release of both GIP and
+GLP1, as well as the incretin effect (Gorboulev et al., 2012; Ro¨ der
+et al., 2014). SGLT1 is expressed in several intestinal cell types,
+including both enterocytes and some enteroendocrine cells, and
+in enterocytes is thought to use sodium co-transport to drive
+glucose absorption up a steep concentration gradient. In addi-
+tion to deﬁcits in GLP1 release, SGLT1 knockout mice display
+a lethal sucrose malabsorption syndrome on normal chow but
+can survive on a diet lacking monosaccharides and disaccha-
+rides (Gorboulev et al., 2012). Glucose analogs that act as
+SGLT1 transport substrates but cannot be metabolized to form
+ATP still stimulate GLP1 release (Moriya et al., 2009), suggesting
+that SGLT1-mediated sodium transport is the key signal in enter-
+oendocrine cells that leads to depolarization. Interestingly,
+SGLT1 knockout also eliminated sugar preference behavior
+(Sclafani et al., 2016), and SGLT1 inhibition blocked sugar-
+induced AGRP neuron activity decreases (Goldstein et al.,
+2021). Likewise, non-metabolizable SGLT1 transport substrates
+also mimicked the ability of sucrose to condition preference
+behavior and inhibit AGRP neurons (Goldstein et al., 2021; Tan
+et al., 2020). These ﬁndings suggest a common role for
+SGLT1-mediated sodium transport/depolarization in various
+sugar-evoked physiological responses, and additional studies
+are needed to determine whether enteroendocrine cells or other
+cell types support each SGLT1-mediated response.
+In addition to detecting sugars, enteroendocrine cells also
+detect other nutrients, such as fats and amino acids. Different
+classes of nutrients not only trigger common responses, such
+as satiety, but can also evoke nutrient-speciﬁc digestive and
+metabolic programs. Each nutrient class triggers release of a
+complex and at least partially overlapping mixture of gut hor-
+mones, as expected since gut hormones, such as CCK, PYY,
+and GLP1, are frequently co-expressed in the same enteroendo-
+crine cells (Gribble and Reimann, 2019). Although sugars stimu-
+late incretin release through a GPCR-independent pathway
+ll
+590
+Neuron 110, February 16, 2022
+Review
+involving SGLT1, a role for GPCRs in hormone release by enter-
+oendocrine cells is also suggested by pharmacological experi-
+ments targeting GPCR-gated second messengers (Reimann
+et al., 2008). Enteroendocrine cells express many GPCRs and
+other cell surface receptors that potentially detect fatty acids
+and amino acids; for example, the free fatty acid receptors
+GPR40 and GPR120 are abundantly expressed by enteroendo-
+crine cells on their basolateral surfaces, and receptor agonists
+promote gut hormone release (Edfalk et al., 2008; Hirasawa
+et al., 2005). Knockout mice lacking these receptors have pro-
+duced mixed ﬁndings, perhaps due to the existence of redun-
+dant fat-sensing pathways, and additional studies are needed
+to understand both the relative roles of particular receptors in
+nutrient sensation and how nutrient-speciﬁc responses emerge.
+Chemosensory cells of the gut-brain axis also detect stimuli
+other than nutrients. Enterochromafﬁn cells are a specialized en-
+teroendocrine cell class that releases serotonin and responds to
+various non-nutritive signals, including TRPA1-activating irri-
+tants, catecholamines, such as epinephrine, norepinephrine,
+and dopamine, and small-chain fatty acids that activate olfactory
+receptor 558 (OLFR558) (Bellono et al., 2017), as well as force
+through PIEZO2 (Alcaino et al., 2018). In addition to promoting
+serotonin
+release
+through
+OLFR558,
+microbiome-derived
+small-chain fatty acids, as well as bile acids, stimulate GLP1
+release through other GPCRs, such as GPR41, GPR43, and
+TGR5 (Thomas et al., 2009; Tolhurst et al., 2012).
+In opposition to sugar-responsive reward pathways, the gut-
+brain axis also contains aversion-promoting nociceptor path-
+ways associated with nausea, gut malaise, and pain. Nerve
+transections and genetic ablations have implicated the vagus
+nerve in nausea-associated responses in some studies but
+not others (Babic and Browning, 2014; Gupta et al., 2017).
+Some gut-derived vagal sensory neurons project to the area
+postrema, a brainstem nucleus that in various species mediates
+nausea, vomiting, and/or behavioral aversion to visceral poi-
+sons (Borison, 1989). The area postrema is a sensory circum-
+ventricular organ that receives inputs from both hormones
+and vagal afferents, and one area postrema neuron subtype
+co-expresses receptors for several nausea-inducing chemi-
+cals, including GLP1R, GFRAL (the GDF15 receptor), and the
+calcium-sensing receptor, and also projects to CGRP-express-
+ing alarm neurons in the parabrachial nucleus (Sabatini et al.,
+2021; Zhang et al., 2021). Chemogenetic stimulation of these
+area postrema neurons induced ﬂavor avoidance in mice,
+whereas ablation eliminated behavioral responses to several
+nausea-inducing toxins (Sabatini et al., 2021; Zhang et al.,
+2021). Moreover, area postrema-targeted deletion and rescue
+of Glp1r revealed a key role for area postrema neurons in behav-
+ioral aversion imposed by GLP1R agonists (Zhang et al., 2021).
+It remains unclear whether area postrema GFRAL neurons
+receive inputs from particular vagal afferents, and how a dual
+requirement for vagal and area postrema pathways may
+emerge in gut nociception. The serotonin receptor HTR3A is
+highly expressed in vagal afferents (Williams et al., 2016), and
+HTR3A antagonists, such as ondansetron are widely used in
+the clinic as anti-nausea prophylactics (Smith et al., 2012), high-
+lighting the potential therapeutic importance of understanding
+signaling pathways that lead to gut malaise.
+Gut mechanosensation and the control of feeding
+behavior
+Food and drink consumed during a meal physically distend the
+stomach and intestine, activating mechanosensory neurons of
+the gut-brain axis and evoking the sensation of fullness. Both
+vagal and DRG sensory neurons innervate the gastrointestinal
+tract and respond to tissue distension (Paintal, 1954; Qin et al.,
+2007), with experiments involving subdiaphragmatic vagotomy
+revealing a crucial role for vagal sensory neurons in gut
+stretch-induced satiety (Gonzalez and Deutsch, 1981). Bariatric
+surgery to re-shape the gastrointestinal tract decreases its stor-
+age capacity, resulting in tissue distension and presumably gut
+mechanoreceptor activation at lower food volumes. Perhaps
+shifting the sensory thresholds of gut mechanosensory neurons
+contributes to the clinically beneﬁcial effects of bariatric surgery.
+Understanding neural pathways responsive to gut distension
+and how they can be modulated or artiﬁcially stimulated may
+provide new therapeutic targets to limit appetite.
+Vagal sensory neurons are activated by increases in gut vol-
+ume that occur naturally during a meal (Umans and Liberles,
+2018). Separate and large cohorts of vagal sensory neurons
+detect acute distension of the stomach and intestine (Bai et al.,
+2019; Williams et al., 2016), with responses graded to the magni-
+tude of distension (Iggo, 1955; Paintal, 1954). Increases in stom-
+ach volume both enhance the responses of individual neurons
+and recruit additional responding neurons (Williams et al.,
+2016). It is possible that neurons display different activation
+thresholds or that enhancing tissue distension recruits additional
+neurons with more remote receptive ﬁelds but otherwise iden-
+tical intrinsic properties. Vagal sensory neurons generally ﬁre
+for the duration of distension with little or no adaptation and
+stop ﬁring upon withdrawal of the distension stimulus and deﬂa-
+tion to resting volume (Iggo, 1955; Paintal, 1954; Williams et al.,
+2016). Cellular imaging and optogenetics-assisted conduction
+velocity measurements revealed that vagal mechanosensory
+neurons
+are
+predominantly
+capsaicin-sensitive,
+slow-con-
+ducting C ﬁbers (Williams et al., 2016).
+Vagal sensory neurons form a few distinct terminal types in the
+stomach and intestine. Some chemosensory neurons form
+mucosal endings (see earlier), whereas other vagal sensory neu-
+rons form subepithelial endings that include IGLEs and IMAs
+(Brookes et al., 2013). IGLEs are endings that appose ganglia
+of enteric neurons in the myenteric plexus located between
+layers of longitudinal and circular muscle (Rodrigo et al., 1975).
+Both vagal and DRG sensory neurons can form IGLEs, and
+IGLEs occur across the gastrointestinal tract, including in the
+esophagus, stomach, small intestine, and large intestine (Ber-
+thoud et al., 1997). IGLEs were initially proposed to be mechano-
+sensory terminals since stomach regions that evoked vagal
+nerve responses upon punctate von Frey hair stimulation were
+closer to IGLEs (142 mm) than randomly selected stomach re-
+gions (1,500 mm) (Zagorodnyuk et al., 2001). Genetic tools
+involving Cre-based anatomical mapping and in vivo calcium im-
+aging provided a direct link between neuron anatomy and
+response property. Vagal sensory neurons that express GLP1R
+are marked in Glp1r-ires-Cre mice, form IGLEs in stomach and
+intestine, and account for most neurons (81% in stomach)
+acutely
+activated
+by
+balloon-
+or
+gas-induced
+distension
+ll
+Neuron 110, February 16, 2022
+591
+Review
+(Williams et al., 2016). In addition, neurons marked in Oxtr-Cre
+mice, which are mostly distinct from GLP1R neurons based on
+single-cell transcriptional proﬁling, also form IGLEs enriched in
+the intestine compared with the stomach (Bai et al., 2019), as
+well as IGLEs in the esophagus (unpublished data, Rachel
+Greenberg, S.L.P., S.D.L.). IMAs are instead long and parallel
+muscular ﬁbers that resemble muscle spindle afferents involved
+in proprioception and have thus been proposed to be mechano-
+sensory terminals (Powley and Phillips, 2011). Cre lines that
+enable selective targeting of IMAs would be valuable to deter-
+mine their sensory properties and physiological roles.
+Gut mechanoreceptors frequently co-express receptors for
+several gut satiety hormones, including GLP1, CCK, and
+PYY (Williams et al., 2016). Vagal sensory neurons that detect
+gut distension are generally distinct from mucosal chemosen-
+sory neurons and do not typically ﬁre in response to ingested
+nutrients that promote CCK, GLP1, and PYY release (Williams
+et al., 2016). It is possible that these and other appetite-con-
+trol hormones such as leptin or ghrelin modulate the sensi-
+tivity, activity rate, and/or presynaptic release properties of
+gut mechanoreceptors. Adding complexity, these hormones
+activate different intracellular signaling pathways, with leptin
+receptors engaging JAK/STAT pathways, GLP1R stimulating
+Gas and cAMP levels, and CCK evoking calcium transients
+and action potentials in vagal sensory neurons by coupling
+to Gaq. Additional studies are needed to understand when
+and how gut hormones act physiologically on vagal mechano-
+sensory
+neurons
+and
+whether
+they
+enhance
+distension-
+induced satiety when physiologically appropriate, such as
+after a meal.
+It also remains mysterious why mechanosensory vagal affer-
+ents form such close contacts with enteric neurons. Perhaps in-
+formation is transferred between neurons at IGLEs, or perhaps
+enteric neurons simply serve as developmental guideposts for
+extrinsic neurons. Vagal motor neurons also access enteric neu-
+rons through a similar honeycomb pattern and critically rely on
+synaptic transmission to enteric neurons to exert parasympa-
+thetic control. It has been proposed that vagal mechanosensory
+neurons directly detect force, as responses are rapid (within
+6 ms) and persist in the absence of extracellular calcium (Zagor-
+odnyuk et al., 2003), although it should be noted that transmis-
+sion at some synapses can be faster than 6 ms. Supporting
+the notion that enteric neuron input is dispensable for mechano-
+sensory responses, colonic DRG neurons in a mouse model of
+Hirschsprung’s disease lacking colonic enteric neurons fail to
+form their characteristic IGLE terminal morphology yet retain at
+least some responsiveness to tissue distension (Spencer et al.,
+2008). Electron microscopy of vagal sensory neurons in the
+esophagus suggested that some vagal afferents are presynaptic
+to intrinsic myenteric neurons (Neuhuber, 1987). One model is
+that IGLE-forming extrinsic afferents are the primary mechano-
+sensors, which simultaneously relay inputs to the brain to control
+behavior and to enteric neurons at IGLEs for control of local gut
+function. Other possible models are that extrinsic neurons
+instead receive neuromodulatory or mechanosensory informa-
+tion from enteric neurons at IGLEs, or that both extrinsic and
+enteric neurons are inherently mechanosensitive. Additional ev-
+idence is needed to support the existence, directionality, and
+physiological role of information transfer between neurons
+at IGLEs.
+Gut mechanosensation is a classical stimulus that evokes
+satiety and aborts ingestion of food and drink. Optogenetic
+and chemogenetic stimulation of vagal GLP1R neurons partially
+reduced feeding and decreased blood glucose levels, whereas
+activating vagal OXTR neurons more dramatically reduced
+feeding without evoking or conditioning place preference or
+avoidance (Bai et al., 2019; Borgmann et al., 2021). Chemoge-
+netic, but not optogenetic, activation of OXTR neurons also
+decreased water intake (Bai et al., 2019). It should be considered
+that some existing genetic tools are selective among classes of
+gut-innervating afferents but may additionally label sensory neu-
+rons in other physiological systems that could secondarily
+impact food consumption.
+Genetically guided anatomical mapping revealed that vagal
+GLP1R and OXTR neurons project to NTS subregions and the
+adjacent area postrema (Bai et al., 2019; Williams et al., 2016),
+with GLP1R neurons targeting an NTS region that displays Fos
+induction after gastric distension (Williams et al., 2016; Willing
+and Berthoud, 1997). Furthermore, chemogenetic activation of
+vagal GLP1R and OXTR neurons induced Fos expression in
+the NTS and different regions of the parabrachial nucleus, with
+GLP1R neurons engaging neurons marked by CGRP expression
+(Borgmann et al., 2021). Parabrachial CGRP neurons function as
+alarm neurons engaged by multiple threats and also contribute
+to meal-induced satiety, as silencing them increases meal size
+(Campos et al., 2016). Other prodynorphin-expressing neurons
+in the parabrachial nucleus respond to mechanosensory signals
+across the digestive tract related to water and food ingestion,
+including vagally mediated gastric distension, and evoke an
+aversive appetite-suppressing signal at least in part through pro-
+jections to the paraventricular hypothalamus (Kim et al., 2020).
+Hypothalamic neurons expressing AGRP promote food intake
+during hunger, and ﬁber photometry experiments revealed that
+chemogenetic activation of both vagal GLP1R and OXTR neu-
+rons rapidly decreased AGRP neuron activity, with GLP1R
+neuron effects being transient and OXTR neuron effects more
+sustained (Bai et al., 2019).
+Receptors that mediate vagal responses to gut mechanosen-
+sation remain elusive. Vagal sensory neurons express ASIC
+channels, and a pharmacological antagonist of ENaC/ASIC
+channels at high concentrations (benzamil, 100 mM) blocks me-
+chanosensory responses in an IGLE-rich esophagus preparation
+(Zagorodnyuk et al., 2003). However, gut mechanosensory re-
+sponses persist in ASIC knockout mice (Page et al., 2005), sug-
+gesting a role for another mechanosensor and/or redundant
+roles for multiple mechanosensors. PIEZOs are also candidates
+to consider given their established mechanosensory roles in
+other internal organs and that a key role for Drosophila Piezo in
+gut mechanosensation and feeding behavior was revealed (Min
+et al., 2021; Wang et al., 2020). Additional studies are needed
+to clarify how IGLEs respond to force.
+CONCLUSIONS
+The vagus nerve is a crucial body-brain connection that plays a
+major role in interoception. Classical schemes to categorize
+ll
+592
+Neuron 110, February 16, 2022
+Review
+vagal sensory neurons were based on cellular features, such as
+conduction velocity, morphology, developmental origin, and/or
+electrophysiological response characteristics, but did not cap-
+ture the full extent of sensory neuron diversity. Single-cell RNA
+sequencing and genetic approaches revealed a staggering di-
+versity of vagal sensory neuron types, with more neuron classes
+observed than known vagal reﬂexes. The functions and sensory
+properties of many neuron types with particular transcriptional
+signatures or terminal morphologies remain mysterious (we
+affectionately call them the ‘‘dark matter’’ of the vagus nerve).
+Furthermore, vagal afferents project to many organs other than
+those discussed in this review, whose sensory properties and
+functions are not well understood. It is worth noting that cell clus-
+tering in single-cell transcriptomic approaches may or may not
+be based on genes that guide neuronal response properties,
+innervation patterns, or other deﬁning cell characteristics; com-
+plementary genetic approaches are essential to understand
+whether transcriptome-deﬁned cell clusters are in fact function-
+ally uniform and distinct. It is exciting to consider that additional
+body-brain communication pathways and autonomic reﬂexes of
+the vagus nerve may remain undiscovered.
+Genetic approaches that allow for selective marking of
+different vagal afferents within a target organ enable linkages be-
+tween neuronal morphology, responses, transcriptomes, and
+physiological functions. Cre lines have been identiﬁed that
+mark neurons underlying classical reﬂexes from the respiratory,
+cardiovascular, and digestive systems. For example, PIEZO2
+neurons mediate the baroreceptor reﬂex and the Hering-Breuer
+inspiratory reﬂex (Min et al., 2019; Nonomura et al., 2017), P2RY1
+and TRPA1/TRPV1 neurons mediate different airway protective
+responses (Bessac and Jordt, 2008; Chang et al., 2015; Prescott
+et al., 2020), and GLP1R and OXTR neurons sense gut distension
+(Bai et al., 2019; Williams et al., 2016). It is important to consider
+that Cre lines frequently mark multiple types of vagal sensory
+neurons; therefore, pinpointing which transcriptionally deﬁned
+cell type mediates a particular reﬂex is still very much a work in
+progress. Advances may require application of intersectional ge-
+netics (Borgmann et al., 2021) and/or interpreting results from
+large numbers of Cre lines, as was done to deﬁne a role for
+NP19 neurons in airway defense (Prescott et al., 2020). More-
+over, Cre lines may selectively mark a sensory neuron type within
+an organ but also afferent ﬁbers in other organs. It seems
+possible that a single cell type deﬁned by transcriptome and/or
+genetic analysis may be constituted by neurons that innervate
+different organs but display similar sensory properties, such as
+detection of tissue stretch or pathogens.
+As in the somatosensory system, the physiological attributes
+of vagal neurons are dictated not only by their molecular proper-
+ties but also by their terminal structures and strategic positioning
+within the body. For example, various chemosensory neurons
+respond to the same neurotransmitter but are positioned near
+different upstream sensory cells and thus convey different types
+of sensory inputs to the brain. Furthermore, vagal mechanosen-
+sory neurons display diverse terminal structures across or-
+gans—including IGLEs in the gastrointestinal tract, end-net end-
+ings in the aorta, smooth-muscle-associated receptors in the
+airways, and perhaps intramuscular arrays in the stomach. Addi-
+tional studies are needed to determine whether these distinct
+terminal morphologies convey unique sensory attributes to
+each neuron type.
+Understanding what each vagal afferent type detects will
+enable mechanistic studies to identify sensory receptors and
+associated signaling pathways. Many vagal afferents are sec-
+ond-order neurons that receive inputs from upstream sentinel
+cells, including glomus cells, taste cells, enteroendocrine cells,
+tuft cells, NEBs, and immune cells (Figure 4). These upstream
+sentinel cells express primary sensory receptors and signaling
+molecules, which are reported in a few cases, including
+ATP
+Neurotransmitters
+Peptides
+    Hormones
+Neur
+Pept
+    Ho
+Carotid body
+Larynx 
+Lung
+Intestine
+Esophagus,
+stomach, intestine
+Aortic arch,
+carotid sinus
+Sensory neuron
+Sensory neuron
+and/or enteric neuron
+Glomus cell
+Laryngeal
+taste cell
+Neuroepithelial
+bodies
+Enteroendocrine cell
+Hypoxia, force
+irritants
+Hypoxia, hypercapnia 
+lactate
+Gut nutrients 
+microbial metabolites
+catecholamines
+Water, acid
+ATP
+ATP
+A
+Lumen
+Lumen
+Lumen
+First-order
+sensory cell
+Anatomical site
+Proposed stimuli
+Morphology
+Physiological
+response 
+Neurotransmitter
+?
+Gut distension
+Arterial distension
+?
+Hypoxic ventilatory response
+(  respiration)
+Satiety
+metabolism control
+Airway protection
+(cough/swallow/apnea)
+Satiety
+Baroreflex
+(  heart rate/blood pressure)
+IGLE
+End-net
+ terminals
+End-net
+ terminals
+Chemosensory neurons
+Mechanosensory neurons
+Figure 4. Examples of sensory terminals involved in interoception
+Vagal and glossopharyngeal sensory neurons include second-order chemosensory neurons that receive inputs from upstream sentinel cells, including glomus
+cells, taste cells, NEBs, and enteroendocrine cells, as well as mechanosensory neurons that form IGLEs and end-net endings. Various neuron types project to
+different organs, directly or indirectly detect different stimuli, display different terminal morphologies, and evoke different physiological responses.
+ll
+Neuron 110, February 16, 2022
+593
+Review
+SGLT-1 in sugar-sensing enteroendocrine cells (Reimann et al.,
+2008), non-classical mitochondrial subunits involved in glomus
+cell hypoxia sensing (Moreno-Domı´nguez et al., 2020), and bitter
+receptors in tuft cells (Krasteva et al., 2011). Sentinel cells then
+release neurotransmitters, such as ATP from taste cells and
+glomus cells, serotonin and CCK from enteroendocrine cells,
+and cytokines from immune cells that can activate vagal affer-
+ents. Other vagal sensory neurons are ﬁrst-order sensory neu-
+rons that directly sense internal organ cues. In the airways,
+some vagal sensory neurons directly detect agonists of TRP
+channels and MRGPRC11 (Bessac and Jordt, 2008; Han et al.,
+2018a). Other airway sensory neurons use PIEZO2 to detect
+airway stretch underlying the Hering-Breuer inspiratory reﬂex
+(Nonomura et al., 2017), whereas mechanosensory neurons in
+the arteries use both PIEZO1 and PIEZO2 to sense force under-
+lying the baroreceptor reﬂex (Zeng et al., 2018). Sensory recep-
+tors and mechanisms remain undeﬁned for most vagal afferents
+and upstream sentinel cells.
+Unraveling mechanisms of vagus nerve biology—from chart-
+ing newly identiﬁed sensory neurons to discovering additional in-
+ternal organ sensory receptors and signal transduction path-
+ways—will build the groundwork for the emerging ﬁeld of
+interoception. Exciting questions will then lie on the horizon,
+and there will be new opportunities to investigate neural circuitry,
+development, evolution, and therapeutic impact of vagal sensory
+biology. For example, ascending neural circuits encode a diver-
+sity of vagal sensory inputs that control autonomic physiology in
+different ways that are sometimes convergent (such as mecha-
+nosensory and chemosensory neurons that induce satiety or
+cough), sometimes opposing (such as the Bainbridge and baro-
+receptor reﬂexes), sometimes orthogonal (such as neurons that
+only inﬂuence gut or respiratory physiology), and sometimes
+partially overlapping (such as certain cardiovascular and respira-
+tory reﬂexes). The brainstem presumably acts as an autonomic
+switchboard that routes particular sensory inputs into appro-
+priate physiological outputs, behaviors, and perceptions and
+may also generate and/or be dynamically modulated by brain
+states. The vagus nerve is also a fascinating playground for un-
+derstanding principles of developmental biology. How do indi-
+vidual neurons ﬁnd the correct target organs, contact the appro-
+priate cell partners in the periphery and brain, and form the
+proper terminal morphologies? How may vagal sensory neurons
+be dynamically regulated following injury or experience? Over a
+longer timescale, the sensory pathways of the vagus nerve vary
+dramatically across evolution—from gill innervation in ﬁsh and
+stomach innervation in ruminants, to respiratory gas sensation
+in species that live at high altitudes or dive to ocean depths. Little
+is also understood about genetic variation in vagal sensory pro-
+cessing across human individuals that may impact susceptibility
+to autonomic dysfunction. The vagus nerve impacts such vital
+physiology, and approaches to toggle vagus nerve activity may
+provide an immense untapped opportunity for therapeutic inter-
+vention. Vagotomy (subdiaphragmatic) and vagus nerve electri-
+cal stimulation are potentially useful to treat a variety of clinical
+conditions but lack speciﬁcity and conﬂate contributions from
+various sensory and motor neurons. Understanding vagal sen-
+sory mechanisms may provide new and more selective strate-
+gies to stimulate or inhibit particular afferent types, thus
+providing new ways to manipulate the autonomic nervous sys-
+tem in health and disease.
+ACKNOWLEDGMENTS
+We thank Michael Schappe, Chen Ran, Soohong Min, and Rachel Greenberg
+for comments. The work was supported by NIH grant DP1 AT009497 to S.D.L.
+and by the Food Allergy Science Initiative. S.L.P. was an Open Philanthropy
+Fellow of the Life Sciences Research Foundation and is a Warren Alpert distin-
+guished scholar. S.D.L. is an investigator of the Howard Hughes Medical
+Institute.
+DECLARATION OF INTERESTS
+S.D.L. is a consultant for Kallyope.
+REFERENCES
+Abdulqawi, R., Dockry, R., Holt, K., Layton, G., McCarthy, B.G., Ford, A.P., and
+Smith, J.A. (2015). P2X3 receptor antagonist (AF-219) in refractory chronic
+cough: a randomised, double-blind, placebo-controlled phase 2 study. Lancet
+385, 1198–1205.
+Abraira, V.E., and Ginty, D.D. (2013). The sensory neurons of touch. Neuron 79,
+618–639.
+Adrian, E.D. (1926). The impulses produced by sensory nerve endings: part I.
+J. Physiol. 61, 49–72.
+Adrian, E.D. (1933). Afferent impulses in the vagus and their effect on respira-
+tion. J. Physiol. 79, 332–358.
+Agostoni, E., Chinnock, J.E., De Daly, M.B., and Murray, J.G. (1957). Func-
+tional and histological studies of the vagus nerve and its branches to the heart,
+lungs and abdominal viscera in the cat. J. Physiol. 135, 182–205.
+Aklan, I., Sayar Atasoy, N., Yavuz, Y., Ates, T., Coban, I., Koksalar, F., Filiz, G.,
+Topcu, I.C., Oncul, M., Dilsiz, P., et al. (2020). NTS catecholamine neurons
+mediate hypoglycemic hunger via medial hypothalamic feeding pathways.
+Cell Metab 31, 313–326, e5.
+Alcaino, C., Knutson, K.R., Treichel, A.J., Yildiz, G., Strege, P.R., Linden, D.R.,
+Li, J.H., Leiter, A.B., Szurszewski, J.H., Farrugia, G., and Beyder, A. (2018). A
+population of gut epithelial enterochromafﬁn cells is mechanosensitive and re-
+quires Piezo2 to convert force into serotonin release. Proc. Natl. Acad. Sci.
+USA 115, E7632–E7641.
+Altschuler, S.M., Bao, X.M., Bieger, D., Hopkins, D.A., and Miselis, R.R. (1989).
+Viscerotopic representation of the upper alimentary tract in the rat: sensory
+ganglia and nuclei of the solitary and spinal trigeminal tracts. J. Comp. Neurol.
+283, 248–268.
+Andre` , E., Campi, B., Materazzi, S., Trevisani, M., Amadesi, S., Massi, D.,
+Creminon, C., Vaksman, N., Nassini, R., Civelli, M., et al. (2008). Cigarette
+smoke-induced neurogenic inﬂammation is mediated by alpha,beta-unsatu-
+rated aldehydes and the TRPA1 receptor in rodents. J. Clin. Invest. 118,
+2574–2582.
+Arble, D.M., Sandoval, D.A., and Seeley, R.J. (2015). Mechanisms underlying
+weight loss and metabolic improvements in rodent models of bariatric surgery.
+Diabetologia 58, 211–220.
+Arndt, J.O., Brambring, P., Hindorf, K., and Ro¨ hnelt, M. (1974). The afferent
+discharge pattern of atrial mechanoreceptors in the cat during sinusoidal
+stretch of atrial strips in situ. J. Physiol. 240, 33–52.
+Asala, S.A., and Bower, A.J. (1986). An electron microscope study of vagus
+nerve composition in the ferret. Anat. Embryol. (Berl) 175, 247–253.
+Aumonier, F.J. (1972). Histological observations on the distribution of barore-
+ceptors in the carotid and aortic regions of the rabbit, cat and dog. Acta Anat.
+(Basel) 82, 1–16.
+Babic, T., and Browning, K.N. (2014). The role of vagal neurocircuits in the
+regulation of nausea and vomiting. Eur. J. Pharmacol. 722, 38–47.
+ll
+594
+Neuron 110, February 16, 2022
+Review
+Baggio, L.L., and Drucker, D.J. (2007). Biology of incretins: GLP-1 and GIP.
+Gastroenterology 132, 2131–2157.
+Bai, L., Mesgarzadeh, S., Ramesh, K.S., Huey, E.L., Liu, Y., Gray, L.A., Aitken,
+T.J., Chen, Y., Beutler, L.R., Ahn, J.S., et al. (2019). Genetic identiﬁcation of
+vagal sensory neurons that control feeding. Cell 179, 1129–1143, e23.
+Bainbridge, F.A. (1915). The inﬂuence of venous ﬁlling upon the rate of the
+heart. J. Physiol. 50, 65–84.
+Bandell, M., Story, G.M., Hwang, S.W., Viswanath, V., Eid, S.R., Petrus, M.J.,
+Earley, T.J., and Patapoutian, A. (2004). Noxious cold ion channel TRPA1 is
+activated by pungent compounds and bradykinin. Neuron 41, 849–857.
+Baral, P., Umans, B.D., Li, L., Wallrapp, A., Bist, M., Kirschbaum, T., Wei, Y.,
+Zhou, Y., Kuchroo, V.K., Burkett, P.R., et al. (2018). Nociceptor sensory neu-
+rons suppress neutrophil and gd T cell responses in bacterial lung infections
+and lethal pneumonia. Nat. Med. 24, 417–426.
+Barbera´ n, A., Ladau, J., Leff, J.W., Pollard, K.S., Menninger, H.L., Dunn, R.R.,
+and Fierer, N. (2015). Continental-scale distributions of dust-associated bac-
+teria and fungi. Proc. Natl. Acad. Sci. USA 112, 5756–5761.
+Barker, N., van Es, J.H., Kuipers, J., Kujala, P., van den Born, M., Cozijnsen,
+M., Haegebarth, A., Korving, J., Begthel, H., Peters, P.J., and Clevers, H.
+(2007). Identiﬁcation of stem cells in small intestine and colon by marker
+gene Lgr5. Nature 449, 1003–1007.
+Bautista, D.M., Jordt, S.E., Nikai, T., Tsuruda, P.R., Read, A.J., Poblete, J., Ya-
+moah, E.N., Basbaum, A.I., and Julius, D. (2006). TRPA1 mediates the inﬂam-
+matory actions of environmental irritants and proalgesic agents. Cell 124,
+1269–1282.
+Bellono, N.W., Bayrer, J.R., Leitch, D.B., Castro, J., Zhang, C., O’Donnell, T.A.,
+Brierley, S.M., Ingraham, H.A., and Julius, D. (2017). Enterochromafﬁn cells are
+gut chemosensors that couple to sensory neural pathways. Cell 170,
+185–198, e16.
+Berthoud, H.R., Albaugh, V.L., and Neuhuber, W.L. (2021). Gut-brain commu-
+nication and obesity: understanding functions of the vagus nerve. J. Clin.
+Invest. 131.
+Berthoud, H.R., and Neuhuber, W.L. (2000). Functional and chemical anatomy
+of the afferent vagal system. Auton. Neurosci. 85, 1–17.
+Berthoud, H.R., Patterson, L.M., Neumann, F., and Neuhuber, W.L. (1997).
+Distribution and structure of vagal afferent intraganglionic laminar endings
+(IGLEs) in the rat gastrointestinal tract. Anat. Embryol. (Berl) 195, 183–191.
+Bessac, B.F., and Jordt, S.E. (2008). Breathtaking TRP channels: TRPA1 and
+TRPV1 in airway chemosensation and reﬂex control. Physiology (Bethesda)
+23, 360–370.
+Bessac, B.F., Sivula, M., von Hehn, C.A., Escalera, J., Cohn, L., and Jordt, S.E.
+(2008). TRPA1 is a major oxidant sensor in murine airway sensory neurons.
+J. Clin. Invest. 118, 1899–1910.
+Beutler, L.R., Chen, Y., Ahn, J.S., Lin, Y.-C., Essner, R.A., and Knight, Z.A.
+(2017). Dynamics of gut-brain communication underlying hunger. Neuron 96,
+461–475.e5.
+Blackshaw, L.A., Brookes, S.J., Grundy, D., and Schemann, M. (2007). Sen-
+sory transmission in the gastrointestinal tract. Neurogastroenterol. Motil.
+19, 1–19.
+Blackshaw, L., and Grundy, D. (1990). Effects of cholecystokinin (CCK-8) on
+two classes of gastroduodenal vagal afferent ﬁbre. J Auton Nerv Syst 31,
+191–201.
+Boettcher, D.H., Zimpfer, M., and Vatner, S.F. (1982). Phylogenesis of the
+Bainbridge reﬂex. Am. J. Physiol. 242, R244–R246.
+Boggs, D.F., and Bartlett, D., Jr. (1982). Chemical speciﬁcity of a laryngeal
+apneic reﬂex in puppies. J. Appl. Physiol. Respir. Environ. Exerc. Physiol.
+53, 455–462.
+Bolser, D.C. (1991). Fictive cough in the cat. J. Appl. Physiol. (1985) 71,
+2325–2331.
+Bookout, A.L., and Gautron, L. (2021). Characterization of a cell bridge variant
+connecting the nodose and superior cervical ganglia in the mouse: prevalence,
+anatomical features, and practical implications. J. Comp. Neurol. 529,
+111–128.
+Borgmann, D., Ciglieri, E., Biglari, N., Brandt, C., Cremer, A.L., Backes, H., Titt-
+gemeyer, M., Wunderlich, F.T., Br€uning, J.C., and Fenselau, H. (2021). Gut-
+brain communication by distinct sensory neurons differently controls feeding
+and glucose metabolism. Cell Metab 33, 1466–1482, e7.
+Borison, H.L. (1989). Area postrema: chemoreceptor circumventricular organ
+of the medulla oblongata. Prog. Neurobiol. 32, 351–390.
+Bouverot, P., Crance, J.P., and Dejours, P. (1970). Factors inﬂuencing the in-
+tensity of the Breuer-Hering inspiration-inhibiting reﬂex. Respir. Physiol. 8,
+376–384.
+Bradley, G.W., Noble, M.I., and Trenchard, D. (1976). The direct effect on pul-
+monary stretch receptor discharge produced by changing lung carbon dioxide
+concentration in dogs on cardiopulmonary bypass and its action on breathing.
+J. Physiol. 261, 359–373.
+Bradley, R.M. (2000). Sensory receptors of the larynx. Am. J. Med. 108,
+47S, –50S.
+Brookes, S.J., Spencer, N.J., Costa, M., and Zagorodnyuk, V.P. (2013).
+Extrinsic primary afferent signalling in the gut. Nat. Rev. Gastroenterol. Hepa-
+tol. 10, 286–296.
+Brouns, I., Van Genechten, J., Hayashi, H., Gajda, M., Gomi, T., Burnstock, G.,
+Timmermans, J.P., and Adriaensen, D. (2003). Dual sensory innervation of pul-
+monary neuroepithelial bodies. Am. J. Respir. Cell Mol. Biol. 28, 275–285.
+Brown, A.M. (1980). Receptors under pressure. An update on baroreceptors.
+Circ. Res. 46, 1–10.
+Burneo, J.G., Faught, E., Knowlton, R., Morawetz, R., and Kuzniecky, R.
+(2002). Weight loss associated with vagus nerve stimulation. Neurology 59,
+463–464.
+Buttigieg, J., and Nurse, C.A. (2004). Detection of hypoxia-evoked ATP release
+from chemoreceptor cells of the rat carotid body. Biochem. Biophys. Res.
+Commun. 322, 82–87.
+Cahalan, S.M., Lukacs, V., Ranade, S.S., Chien, S., Bandell, M., and Patapou-
+tian, A. (2015). Piezo1 links mechanical forces to red blood cell volume. eLife 4,
+e07370.
+Campos, C.A., Bowen, A.J., Schwartz, M.W., and Palmiter, R.D. (2016). Para-
+brachial CGRP neurons control meal termination. Cell Metab 23, 811–820.
+Canning, B.J. (2011). Functional implications of the multiple afferent pathways
+regulating cough. Pulm. Pharmacol. Ther. 24, 295–299.
+Canning, B.J., Mazzone, S.B., Meeker, S.N., Mori, N., Reynolds, S.M., and Un-
+dem, B.J. (2004). Identiﬁcation of the tracheal and laryngeal afferent neurones
+mediating cough in anaesthetized guinea-pigs. J. Physiol. 557, 543–558.
+Canning, B.J., Mori, N., and Mazzone, S.B. (2006). Vagal afferent nerves regu-
+lating the cough reﬂex. Respir. Physiol. Neurobiol. 152, 223–242.
+Caterina, M.J., Schumacher, M.A., Tominaga, M., Rosen, T.A., Levine, J.D.,
+and Julius, D. (1997). The capsaicin receptor: a heat-activated ion channel in
+the pain pathway. Nature 389, 816–824.
+Chandrashekar, J., Yarmolinsky, D., von Buchholtz, L., Oka, Y., Sly, W., Ryba,
+N.J., and Zuker, C.S. (2009). The taste of carbonation. Science 326, 443–445.
+Chang, R.B., Strochlic, D.E., Williams, E.K., Umans, B.D., and Liberles, S.D.
+(2015). Vagal sensory neuron subtypes that differentially control breathing.
+Cell 161, 622–633.
+Chen, J., Cheng, M., Wang, L., Zhang, L., Xu, D., Cao, P., Wang, F., Herzog, H.,
+Song, S., and Zhan, C. (2020). A vagal-NTS neural pathway that stimulates
+feeding. Curr. Biol. 30, 3986–3998, e5.
+Cheng, Z., Powley, T.L., Schwaber, J.S., and Doyle, F.J., 3rd. (1997a). A laser
+confocal microscopic study of vagal afferent innervation of rat aortic arch: che-
+moreceptors as well as baroreceptors. J. Auton. Nerv. Syst. 67, 1–14.
+Cheng, Z., Powley, T.L., Schwaber, J.S., and Doyle, F.J., 3rd. (1997b). Vagal
+afferent innervation of the atria of the rat heart reconstructed with confocal mi-
+croscopy. J. Comp. Neurol. 381, 1–17.
+ll
+Neuron 110, February 16, 2022
+595
+Review
+Chiu, I.M., Heesters, B.A., Ghasemlou, N., Von Hehn, C.A., Zhao, F., Tran, J.,
+Wainger, B., Strominger, A., Muralidharan, S., Horswill, A.R., et al. (2013). Bac-
+teria activate sensory neurons that modulate pain and inﬂammation. Nature
+501, 52–57.
+Choudry, N.B., Fuller, R.W., and Pride, N.B. (1989). Sensitivity of the human
+cough reﬂex: effect of inﬂammatory mediators prostaglandin E2, bradykinin,
+and histamine. Am. Rev. Respir. Dis. 140, 137–141.
+Chu, C., Artis, D., and Chiu, I.M. (2020). Neuro-immune interactions in the tis-
+sues. Immunity 52, 464–474.
+Coleridge, H.M., and Coleridge, J.C. (2011). Reﬂexes evoked from tracheo-
+bronchial tree and lungs. In Comprehensive Physiology, R. Terjung, ed. (Amer-
+ican Physiological Society), pp. 395–429.
+Coleridge, J.C., and Coleridge, H.M. (1977). Afferent C-ﬁbers and cardiorespi-
+ratory chemoreﬂexes. Am. Rev. Respir. Dis. 115, 251–260.
+Crystal, G.J., and Salem, M.R. (2012). The Bainbridge and the ‘‘reverse’’ Bain-
+bridge reﬂexes: history, physiology, and clinical relevance. Anesth. Analg. 114,
+520–532.
+Dampney, R.A.L. (2017). Resetting of the baroreﬂex control of sympathetic
+vasomotor activity during natural behaviors: description and conceptual
+model of central mechanisms. Front. Neurosci. 11, 461.
+de Araujo, I.E., Oliveira-Maia, A.J., Sotnikova, T.D., Gainetdinov, R.R., Caron,
+M.G., Nicolelis, M.A., and Simon, S.A. (2008). Food reward in the absence of
+taste receptor signaling. Neuron 57, 930–941.
+Drucker, Daniel, and Nauck, Michael (2006). The incretin system: glucagon-
+like peptide-1 receptor agonists and dipeptidyl peptidase-4 inhibitors in type
+2 diabetes. Lancet 368, 1696–1705.
+Drummond, H.A., Price, M.P., Welsh, M.J., and Abboud, F.M. (1998). A molec-
+ular component of the arterial baroreceptor mechanotransducer. Neuron 21,
+1435–1441.
+DuBois, F.S., and Foley, J.O. (1936). Experimental studies on the vagus and
+spinal accessory nerves in the cat. Anat. Rec. 64, 285–307.
+Edfalk, S., Steneberg, P., and Edlund, H. (2008). Gpr40 is expressed in enter-
+oendocrine cells and mediates free fatty acid stimulation of incretin secretion.
+Diabetes 57, 2280–2287.
+Fernandes, A.B., Alves da Silva, J., Almeida, J., Cui, G., Gerfen, C.R., Costa,
+R.M., and Oliveira-Maia, A.J. (2020). Postingestive modulation of food seeking
+depends
+on
+vagus-mediated
+dopamine
+neuron
+activity.
+Neuron
+106,
+778–788, e6.
+Ferna´ ndez-Ag€uera, M.C., Gao, L., Gonza´ lez-Rodrı´guez, P., Pintado, C.O.,
+Arias-Mayenco, I., Garcı´a-Flores, P., Garcı´a-Pergan˜ eda, A., Pascual, A., Or-
+tega-Sa´ enz, P., and Lo´ pez-Barneo, J. (2015). Oxygen sensing by arterial che-
+moreceptors depends on mitochondrial complex I signaling. Cell Metab 22,
+825–837.
+Finger, T.E., Danilova, V., Barrows, J., Bartel, D.L., Vigers, A.J., Stone, L., Hel-
+lekant, G., and Kinnamon, S.C. (2005). ATP signaling is crucial for communica-
+tion from taste buds to gustatory nerves. Science 310, 1495–1499.
+Finley, J.C., and Katz, D.M. (1992). The central organization of carotid body
+afferent projections to the brainstem of the rat. Brain Res 572, 108–116.
+Foley, J.O., and DuBois, F.S. (1937). Quantitative studies of the vagus nerve in
+the cat. I. The ratio of sensory to motor ﬁbers. J. Comp. Neurol. 67, 49–67.
+Fox, A.J., Urban, L., Barnes, P.J., and Dray, A. (1995). Effects of capsazepine
+against capsaicin- and proton-evoked excitation of single airway C-ﬁbres and
+vagus nerve from the guinea-pig. Neuroscience 67, 741–752.
+Fujita, Y., Wideman, R.D., Speck, M., Asadi, A., King, D.S., Webber, T.D., Ha-
+neda, M., and Kieffer, T.J. (2009). Incretin release from gut is acutely enhanced
+by sugar but not by sweeteners in vivo. Am. J. Physiol. Endocrinol. Metab. 296,
+E473–E479.
+Gehart, H., van Es, J.H., Hamer, K., Beumer, J., Kretzschmar, K., Dekkers,
+J.F., Rios, A., and Clevers, H. (2019). Identiﬁcation of enteroendocrine regula-
+tors by real-time single-cell differentiation mapping. Cell 176, 1158–1173, e16.
+Goldstein, N., McKnight, A.D., Carty, J.R.E., Arnold, M., Betley, J.N., and Alha-
+deff, A.L. (2021). Hypothalamic detection of macronutrients via multiple gut-
+brain pathways. Cell Metab 33, 676–687, e5.
+Gonzalez, M.F., and Deutsch, J.A. (1981). Vagotomy abolishes cues of satiety
+produced by gastric distension. Science 212, 1283–1284.
+Gorboulev, V., Sch€urmann, A., Vallon, V., Kipp, H., Jaschke, A., Klessen, D.,
+Friedrich, A., Scherneck, S., Rieg, T., Cunard, R., et al. (2012). Na(+)-D-glucose
+cotransporter SGLT1 is pivotal for intestinal glucose absorption and glucose-
+dependent incretin secretion. Diabetes 61, 187–196.
+Gribble, F.M., and Reimann, F. (2019). Function and mechanisms of enteroen-
+docrine cells and gut hormones in metabolism. Nat. Rev. Endocrinol. 15,
+226–237.
+Gupta, B.N., and Thames, M.D. (1983). Behavior of left ventricular mechanore-
+ceptors with myelinated and nonmyelinated afferent vagal ﬁbers in cats. Circ.
+Res. 52, 291–301.
+Gupta, R.G., Schafer, C., Ramaroson, Y., Sciullo, M.G., and Horn, C.C. (2017).
+Role of the abdominal vagus and hindbrain in inhalational anesthesia-induced
+vomiting. Auton. Neurosci. 202, 114–121.
+Guyenet, P.G. (2006). The sympathetic control of blood pressure. Nat. Rev.
+Neurosci. 7, 335–346.
+Guyenet, P.G., and Bayliss, D.A. (2015). Neural control of breathing and CO2
+homeostasis. Neuron 87, 946–961.
+Hainsworth, R. (1991). Reﬂexes from the heart. Physiol. Rev. 71, 617–658.
+Han, L., Limjunyawong, N., Ru, F., Li, Z., Hall, O.J., Steele, H., Zhu, Y., Wilson,
+J., Mitzner, W., Kollarik, M., et al. (2018a). Mrgprs on vagal sensory neurons
+contribute to bronchoconstriction and airway hyper-responsiveness. Nat.
+Neurosci. 21, 324–328.
+Han, W., Tellez, L.A., Perkins, M.H., Perez, I.O., Qu, T., Ferreira, J., Ferreira,
+T.L., Quinn, D., Liu, Z.-W., Gao, X.B., et al. (2018b). A neural circuit for gut-
+induced reward. Cell 175, 665–678, e623.
+Henry, J.P., and Pearce, J.W. (1956). The possible role of cardiac atrial stretch
+receptors in the induction of changes in urine ﬂow. J. Physiol. 131, 572–585.
+Hering, E., and Breuer, J. (1868). Die Selbststeuerung der Athmung durch den
+Nervus vagus. Sitzungsber. Akad. Wiss. Wien 57, 672–677.
+Hering, H. (1923). Der Karotisdruckversuch. M€unch. Med. Wochenschr. 70,
+1278–1290.
+Heymans, C., Bouckaert, J.J., and Dautrebande, L. (1930). Sinus carotidien et
+re´ ﬂexes respiratoires. II. Inﬂuences respiratoires re´ ﬂexes de l’acidoˆ se de l’al-
+calose, de l’anhydride carbonique, de l’ion hydroge´ ne et de l’anoxe´ mie: Sinus
+carotidiens et e´ changes respiratoires dans le poumons et au dela´ des pou-
+mons. Arch. Int. Pharmacodyn. 39, 400–448.
+Hirasawa, A., Tsumaya, K., Awaji, T., Katsuma, S., Adachi, T., Yamada, M., Su-
+gimoto, Y., Miyazaki, S., and Tsujimoto, G. (2005). Free fatty acids regulate gut
+incretin glucagon-like peptide-1 secretion through GPR120. Nat. Med.
+11, 90–94.
+Hockley, J.R.F., Taylor, T.S., Callejo, G., Wilbrey, A.L., Gutteridge, A., Bach, K.,
+Winchester, W.J., Bulmer, D.C., McMurray, G., and Smith, E.S.J. (2019). Sin-
+gle-cell RNAseq reveals seven classes of colonic sensory neuron. Gut 68,
+633–644.
+Hoffman, H.H., and Schnitzlein, H.N. (1961). The numbers of nerve ﬁbers in the
+vagus nerve of man. Anat. Rec. 139, 429–435.
+Hu, J., Zhong, C., Ding, C., Chi, Q., Walz, A., Mombaerts, P., Matsunami, H.,
+and Luo, M. (2007). Detection of near-atmospheric concentrations of CO2
+by an olfactory subsystem in the mouse. Science 317, 953–957.
+Iggo, A. (1955). Tension receptors in the stomach and the urinary bladder.
+J. Physiol. 128, 593–607.
+Iturriaga, R., Alcayaga, J., Chapleau, M.W., and Somers, V.K. (2021). Carotid
+body chemoreceptors: physiology, pathology, and implications for health
+and disease. Physiol. Rev. 101, 1177–1235.
+Iturriaga, R., Lahiri, S., and Mokashi, A. (1991). Carbonic anhydrase and
+chemoreception in the cat carotid body. Am. J. Physiol. 261, C565–C573.
+ll
+596
+Neuron 110, February 16, 2022
+Review
+Jang, H.J., Kokrashvili, Z., Theodorakis, M.J., Carlson, O.D., Kim, B.-J., Zhou,
+J., Kim, H.H., Xu, X., Chan, S.L., Juhaszova, M., et al. (2007). Gut-expressed
+gustducin and taste receptors regulate secretion of glucagon-like peptide-1.
+Proc. Natl. Acad. Sci. USA 104, 15069–15074.
+Jarisch, A., and Richter, A. (1939). Die afferenten Bahnen des Veratrineeffekts
+in den Herznerven. Arch. Exp. Pathol. Pharmakol. 193, 355–371.
+Kaelberer, M.M., Buchanan, K.L., Klein, M.E., Barth, B.B., Montoya, M.M.,
+Shen, X., and Boho´ rquez, D.V. (2018). A gut-brain neural circuit for nutrient
+sensory transduction. Science 361, eaat5236.
+Karlsson, J.A., and Fuller, R.W. (1999). Pharmacological regulation of the
+cough reﬂex – from experimental models to antitussive effects in Man. Pulm.
+Pharmacol. Ther. 12, 215–228.
+Katz, D.M., and Karten, H.J. (1983). Visceral representation within the nucleus
+of the tractus solitarius in the pigeon, Columba livia. J. Comp. Neurol.
+218, 42–73.
+Kaufman, M.P., Coleridge, H.M., Coleridge, J.C., and Baker, D.G. (1980). Bra-
+dykinin stimulates afferent vagal C-ﬁbers in intrapulmonary airways of dogs.
+J. Appl. Physiol. Respir. Environ. Exerc. Physiol. 48, 511–517.
+Kaufman, M.P., Iwamoto, G.A., Ashton, J.H., and Cassidy, S.S. (1982). Re-
+sponses to inﬂation of vagal afferents with endings in the lung of dogs. Circ.
+Res. 51, 525–531.
+Kim, D.-Y., Heo, G., Kim, M., Kim, H., Jin, J.A., Kim, H.-K., Jung, S., An, M.,
+Ahn, B.H., Park, J.H., et al. (2020). A neural circuit mechanism for mechano-
+sensory feedback control of ingestion. Nature 580, 376–380.
+Kim, S., Kwon, S.-H., Kam, T.-I., Panicker, N., Karuppagounder, S.S., Lee, S.,
+Lee, J.H., Kim, W.R., Kook, M., Foss, C.A., et al. (2019). Transneuronal prop-
+agation of pathologic alpha-synuclein from the gut to the brain models Parkin-
+son’s disease. Neuron 103, 627–641, e7.
+Kirchheim, H.R. (1976). Systemic arterial baroreceptor reﬂexes. Physiol. Rev.
+56, 100–177.
+Knowlton, G.C., and Larrabee, M.G. (1946). A unitary analysis of pulmonary
+volume receptors. Am. J. Physiol. 147, 100–114.
+Krasteva, G., Canning, B.J., Hartmann, P., Veres, T.Z., Papadakis, T.,
+M€uhlfeld, C., Schliecker, K., Tallini, Y.N., Braun, A., Hackstein, H., et al.
+(2011). Cholinergic chemosensory cells in the trachea regulate breathing.
+Proc. Natl. Acad. Sci. USA 108, 9478–9483.
+Kubin, L., Alheid, G.F., Zuperku, E.J., and McCrimmon, D.R. (2006). Central
+pathways of pulmonary and lower airway vagal afferents. J. Appl. Physiol.
+(1985) 101, 618–627.
+Kumada, M., Terui, N., and Kuwaki, T. (1990). Arterial baroreceptor reﬂex: its
+central and peripheral neural mechanisms. Prog. Neurobiol. 35, 331–361.
+Kumar, N.N., Velic, A., Soliz, J., Shi, Y., Li, K., Wang, S., Weaver, J.L., Sen, J.,
+Abbott, S.B., Lazarenko, R.M., et al. (2015). PHYSIOLOGY. Regulation of
+breathing by CO(2) requires the proton-activated receptor GPR4 in retrotrape-
+zoid nucleus neurons. Science 348, 1255–1260.
+Kunze, D.L. (1985). Role of baroreceptor resetting in cardiovascular regulation:
+acute resetting. Fed. Proc 44, 2408–2411.
+Kupari, J., H€aring, M., Agirre, E., Castelo-Branco, G., and Ernfors, P. (2019). An
+atlas of vagal sensory neurons and their molecular specialization. Cell Rep 27,
+2508–2523, e4.
+La Rovere, M.T., Pinna, G.D., and Raczak, G. (2008). Baroreﬂex sensitivity:
+measurement and clinical implications. Ann. Noninvasive Electrocardiol. 13,
+191–207.
+Lai, N.Y., Musser, M.A., Pinho-Ribeiro, F.A., Baral, P., Jacobson, A., Ma, P.,
+Potts, D.E., Chen, Z., Paik, D., Soualhi, S., et al. (2020). Gut-innervating noci-
+ceptor neurons regulate Peyer’s patch microfold cells and SFB levels to
+mediate Salmonella host defense. Cell 180, 33–49, e22.
+Landgren, S. (1952). On the excitation mechanism of the carotid baroceptors.
+Acta physiol. Scand. 26, 1–34.
+Larsell, O. (1921). Nerve terminations in the lung of the rabbit. J. Comp. Neurol.
+33, 105–131.
+Lau, O.C., Shen, B., Wong, C.O., Tjong, Y.W., Lo, C.Y., Wang, H.C., Huang, Y.,
+Yung, W.H., Chen, Y.C., Fung, M.L., et al. (2016). TRPC5 channels participate
+in pressure-sensing in aortic baroreceptors. Nat. Commun. 7, 11947.
+Li, F., Jiang, H., Shen, X., Yang, W., Guo, C., Wang, Z., Xiao, M., Cui, L., Luo,
+W., Kim, B.S., et al. (2021). Sneezing reﬂex is mediated by a peptidergic
+pathway from nose to brainstem. Cell 184, 3762–3773, e10.
+Lewis, J.E., Miedzybrodzka, E.L., Foreman, R.E., Woodward, O.R.M., Kay,
+R.G., Goldspink, D.A., Gribble, F.M., and Reimann, F. (2020). Selective stimu-
+lation of colonic L cells improves metabolic outcomes in mice. Diabetologia 63,
+1396–1407.
+Li, J., Hou, B., Tumova, S., Muraki, K., Bruns, A., Ludlow, M.J., Sedo, A., Hy-
+man, A.J., McKeown, L., Young, R.S., et al. (2014). Piezo1 integration of
+vascular architecture with physiological force. Nature 515, 279–282.
+Li, H.J., Ray, S.K., Singh, N.K., Johnston, B., and Leiter, A.B. (2011). Basic he-
+lix-loop-helix transcription factors and enteroendocrine cell differentiation.
+Diabetes Obes Metab 13, 5–12.
+Liu, Y., Arcede, A.J.D., and Krasnow, M.A. (2021). Molecular, anatomical, and
+functional organization of lung interoceptors. bioRxiv.
+Loewi, O. (1921). U¨ ber humorale €ubertragbarkeit der Herznervenwirkung.
+Pﬂ€ugers Arch. 189, 239–242.
+Lu, Y., Ma, X., Sabharwal, R., Snitsarev, V., Morgan, D., Rahmouni, K., Drum-
+mond, H.A., Whiteis, C.A., Costa, V., Price, M., et al. (2009). The ion channel
+ASIC2 is required for baroreceptor and autonomic control of the circulation.
+Neuron 64, 885–897.
+Ludlow, C.L. (2015). Laryngeal reﬂexes: physiology, technique, and clinical
+use. J. Clin. Neurophysiol. 32, 284–293.
+Luo, X.C., Chen, Z.H., Xue, J.B., Zhao, D.X., Lu, C., Li, Y.H., Li, S.M., Du, Y.W.,
+Liu, Q., Wang, P., et al. (2019). Infection by the parasitic helminth Trichinella
+spiralis activates a Tas2r-mediated signaling pathway in intestinal tuft cells.
+Proc. Natl. Acad. Sci. USA 116, 5564–5569.
+Macias, D., Cowburn, A.S., Torres-Torrelo, H., Ortega-Sa´ enz, P., Lo´ pez-Bar-
+neo, J., and Johnson, R.S. (2018). HIF-2a is essential for carotid body devel-
+opment and function. eLife 7, e34681.
+Marey, E.J. (1863). Physiologie Medicale de la Circulation due Sang (Adrien
+Delahaye), pp. 202–226.
+Mazzone, S.B., Tian, L., Moe, A.A.K., Trewella, M.W., Ritchie, M.E., and Mc-
+Govern, A.E. (2020). Transcriptional proﬁling of individual airway projecting
+vagal sensory neurons. Mol. Neurobiol. 57, 949–963.
+Mazzone, S.B., and Undem, B.J. (2016). Vagal afferent innervation of the air-
+ways in health and disease. Physiol. Rev. 96, 975–1024.
+McGovern, A.E., Driessen, A.K., Simmons, D.G., Powell, J., Davis-Poynter, N.,
+Farrell, M.J., and Mazzone, S.B. (2015). Distinct brainstem and forebrain cir-
+cuits receiving tracheal sensory neuron inputs revealed using a novel condi-
+tional anterograde transsynaptic viral tracing system. J. Neurosci. 35,
+7041–7055.
+McLean, B.A., Wong, C.K., Campbell, J.E., Hodson, D.J., Trapp, S., and
+Drucker, D.J. (2021). Revisiting the Complexity of GLP-1 Action from Sites of
+Synthesis to Receptor Activation. Endocr Rev 42, 101–132.
+Miller, M.R., and Kasahara, M. (1964). Studies on the nerve endings in the
+heart. Am. J. Anat. 115, 217–233.
+Min, S., Chang, R.B., Prescott, S.L., Beeler, B., Joshi, N.R., Strochlic, D.E., and
+Liberles, S.D. (2019). Arterial baroreceptors sense blood pressure through
+decorated aortic claws. Cell Rep 29, 2192–2201, e3.
+Min, S., Oh, Y., Verma, P., Whitehead, S.C., Yapici, N., Van Vactor, D., Suh,
+G.S., and Liberles, S. (2021). Control of feeding by Piezo-mediated gut mecha-
+nosensation in Drosophila. eLife 10, e63049.
+Moreno-Domı´nguez, A., Ortega-Sa´ enz, P., Gao, L., Colinas, O., Garcı´a-Flores,
+P., Bonilla-Henao, V., Aragone´ s, J., H€uttemann, M., Grossman, L.I., Weiss-
+mann, N., et al. (2020). Acute O2 sensing through HIF2a-dependent expres-
+sion of atypical cytochrome oxidase subunits in arterial chemoreceptors.
+Sci. Signal. 13, eaay9452.
+ll
+Neuron 110, February 16, 2022
+597
+Review
+Moriya, R., Shirakura, T., Ito, J., Mashiko, S., and Seo, T. (2009). Activation of
+sodium-glucose cotransporter 1 ameliorates hyperglycemia by mediating in-
+cretin
+secretion
+in
+mice.
+Am.
+J.
+Physiol.
+Endocrinol.
+Metab.
+297,
+E1358–E1365.
+Muller, P.A., Schneeberger, M., Matheis, F., Wang, P., Kerner, Z., Ilanges, A.,
+Pellegrino, K., Del Ma´ rmol, J., Castro, T.B.R., Furuichi, M., et al. (2020). Micro-
+biota modulate sympathetic neurons via a gut-brain circuit. Nature 583,
+441–446.
+Narula, M., McGovern, A.E., Yang, S.K., Farrell, M.J., and Mazzone, S.B.
+(2014). Afferent neural pathways mediating cough in animals and humans.
+J. Thorac. Dis. 6, S712–S719.
+Neuhuber, W.L. (1987). Sensory vagal innervation of the rat esophagus and
+cardia: a light and electron microscopic anterograde tracing study. J. Auton.
+Nerv. Syst. 20, 243–255.
+Nonomura, K., Woo, S.H., Chang, R.B., Gillich, A., Qiu, Z., Francisco, A.G., Ra-
+nade, S.S., Liberles, S.D., and Patapoutian, A. (2017). Piezo2 senses airway
+stretch and mediates lung inﬂation-induced apnoea. Nature 541, 176–181.
+Ohkuri, T., Horio, N., Stratford, J.M., Finger, T.E., and Ninomiya, Y. (2012). Re-
+sidual chemoresponsiveness to acids in the superior laryngeal nerve in ‘‘taste-
+blind’’ (P2X2/P2X3 double-KO) mice. Chem. Senses 37, 523–532.
+Ortega-Sa´ enz, P., and Lo´ pez-Barneo, J. (2020). Physiology of the carotid
+body: from molecules to disease. Annu. Rev. Physiol. 82, 127–149.
+Ortega-Sa´ enz, P., Pardal, R., Garcı´a-Fernandez, M., and Lo´ pez-Barneo, J.
+(2003). Rotenone selectively occludes sensitivity to hypoxia in rat carotid
+body glomus cells. J. Physiol. 548, 789–800.
+Page, A.J., Brierley, S.M., Martin, C.M., Price, M.P., Symonds, E., Butler, R.,
+Wemmie, J.A., and Blackshaw, L.A. (2005). Different contributions of ASIC
+channels 1a, 2, and 3 in gastrointestinal mechanosensory function. Gut 54,
+1408–1415.
+Paintal, A.S. (1953). A study of right and left atrial receptors. J. Physiol. 120,
+596–610.
+Paintal, A.S. (1954). A study of gastric stretch receptors; their role in the periph-
+eral mechanism of satiation of hunger and thirst. J. Physiol. 126, 255–270.
+Pardal, R., Ortega-Sa´ enz, P., Dura´ n, R., and Lo´ pez-Barneo, J. (2007). Glia-like
+stem cells sustain physiologic neurogenesis in the adult mammalian carotid
+body. Cell 131, 364–377.
+Paton, J.F. (1999). The Sharpey-Schafer prize lecture: nucleus tractus solitarii:
+integrating structures. Exp. Physiol. 84, 815–833.
+Pavlov, V.A., and Tracey, K.J. (2017). Neural regulation of immunity: molecular
+mechanisms and clinical translation. Nat. Neurosci. 20, 156–166.
+Phillipson, E.A., Hickey, R.F., Graf, P.D., and Nadel, J.A. (1971). Hering-Breuer
+inﬂation reﬂex and regulation of breathing in conscious dogs. J. Appl. Physiol.
+31, 746–750.
+Powley, T.L., and Phillips, R.J. (2011). Vagal intramuscular array afferents form
+complexes with interstitial cells of Cajal in gastrointestinal smooth muscle: an-
+alogues of muscle spindle organs? Neuroscience 186, 188–200.
+Prabhakar, N.R., Peng, Y.J., and Nanduri, J. (2018). Recent advances in under-
+standing the physiology of hypoxic sensing by the carotid body. F1000Res
+7, F1000.
+Prescott, S.L., Umans, B.D., Williams, E.K., Brust, R.D., and Liberles, S.D.
+(2020). An airway protection program revealed by sweeping genetic control
+of vagal afferents. Cell 181, 574–589, e14.
+Qin, C., Chen, J.D., Zhang, J., and Foreman, R.D. (2007). Duodenal afferent
+input converges onto T9-T10 spinal neurons responding to gastric distension
+in rats. Brain Res 1186, 180–187.
+Raab, M., and Neuhuber, W.L. (2007). Glutamatergic functions of primary
+afferent neurons with special emphasis on vagal afferents. Int. Rev. Cytol.
+256, 223–275.
+Ranade, S.S., Woo, S.H., Dubin, A.E., Moshourab, R.A., Wetzel, C., Petrus, M.,
+Mathur, J., Be´ gay, V., Coste, B., Mainquist, J., et al. (2014). Piezo2 is the major
+transducer of mechanical forces for touch sensation in mice. Nature 516,
+121–125.
+Rees, P.M. (1968). Electron microscopical observations on the architecture of
+the carotid arterial walls, with special reference to the sinus portion. J. Anat.
+103, 35–47.
+Reid, I.A. (1992). Interactions between ANG II, sympathetic nervous system,
+and baroreceptor reﬂexes in regulation of blood pressure. Am. J. Physiol.
+262, E763–E778.
+Reimann, F., Habib, A.M., Tolhurst, G., Parker, H.E., Rogers, G.J., and Gribble,
+F.M. (2008). Glucose sensing in L cells: a primary cell study. Cell Metab 8,
+532–539.
+Richards, P., Thornberry, N.A., and Pinto, S. (2021). The gut-brain axis: iden-
+tifying new therapeutic approaches for type 2 diabetes, obesity, and related
+disorders. Mol. Metab. 46, 101175.
+Ro¨ der, P.V., Geillinger, K.E., Zietek, T.S., Thorens, B., Koepsell, H., and Daniel,
+H. (2014). The role of SGLT1 and GLUT2 in intestinal glucose transport and
+sensing. PLOS One 9, e89977.
+Rodrigo, J., Herna´ ndez, J., Vidal, M.A., and Pedrosa, J.A. (1975). Vegetative
+innervation of the esophagus. II. Intraganglionic laminar endings. Acta Anat.
+(Basel) 92, 79–100.
+Rong, W., Gourine, A.V., Cockayne, D.A., Xiang, Z., Ford, A.P., Spyer, K.M.,
+and Burnstock, G. (2003). Pivotal role of nucleotide P2X2 receptor subunit of
+the ATP-gated ion channel mediating ventilatory responses to hypoxia.
+J. Neurosci. 23, 11315–11321.
+Ruhl, C.R., Pasko, B.L., Khan, H.S., Kindt, L.M., Stamm, C.E., Franco, L.H.,
+Hsia, C.C., Zhou, M., Davis, C.R., Qin, T., et al. (2020). Mycobacterium tuber-
+culosis Sulfolipid-1 activates nociceptive neurons and induces cough. Cell
+181, 293–305, e11.
+Sabatini, P.V., Frikke-Schmidt, H., Arthurs, J., Gordian, D., Patel, A., Rupp,
+A.C., Adams, J.M., Wang, J., Beck Jørgensen, S., Olson, D.P., et al. (2021).
+GFRAL-expressing neurons suppress food intake via aversive pathways.
+Proc. Natl. Acad. Sci. USA 118, e2021357118.
+Santoso, L.F., Kim, D.Y., and Paydarfar, D. (2019). Sensory dysphagia: a case
+series and proposed classiﬁcation of an under recognized swallowing disor-
+der. Head Neck 41, E71–E78.
+Schelegle, E.S., and Green, J.F. (2001). An overview of the anatomy and phys-
+iology of slowly adapting pulmonary stretch receptors. Respir. Physiol.
+125, 17–31.
+Schneider, C., O’Leary, C.E., von Moltke, J., Liang, H.E., Ang, Q.Y., Turn-
+baugh, P.J., Radhakrishnan, S., Pellizzon, M., Ma, A., and Locksley, R.M.
+(2018). A metabolite-triggered tuft cell-ILC2 circuit drives small intestinal re-
+modeling. Cell 174, 271–284, e14.
+Schwartz, G.J., McHugh, P.R., and Moran, T.H. (1993). Gastric loads and
+cholecystokinin synergistically stimulate rat gastric vagal afferents. American
+Journal of Physiology-Regulatory, Integrative and Comparative Physiology
+265, R872–R876.
+Sclafani, A., Koepsell, H., and Ackroff, K. (2016). SGLT1 sugar transporter/
+sensor is required for post-oral glucose appetition. Am. J. Physiol. Regul.
+Integr. Comp. Physiol. 310, R631–R639.
+Sclafani, A., Zukerman, S., and Ackroff, K. (2015). Postoral glucose sensing,
+not caloric content, determines sugar reward in C57BL/6J mice. Chem.
+Senses 40, 245–258.
+Shingai, T., Miyaoka, Y., Ikarashi, R., and Shimada, K. (1989). Swallowing re-
+ﬂex elicited by water and taste solutions in humans. Am. J. Physiol. 256,
+R822–R826.
+Smith, H.S., Cox, L.R., and Smith, E.J. (2012). 5-HT3 receptor antagonists for
+the treatment of nausea/vomiting. Ann. Palliat. Med. 1, 115–120.
+Spencer, N.J., Kerrin, A., Zagorodnyuk, V.P., Hennig, G.W., Muto, M.,
+Brookes, S.J., and McDonnell, O. (2008). Identiﬁcation of functional intramus-
+cular rectal mechanoreceptors in aganglionic rectal smooth muscle from
+piebald lethal mice. Am. J. Physiol. Gastrointest. Liver Physiol. 294,
+G855–G867.
+Springall, D.R., Cadieux, A., Oliveira, H., Su, H., Royston, D., and Polak, J.M.
+(1987). Retrograde tracing shows that CGRP-immunoreactive nerves of rat
+ll
+598
+Neuron 110, February 16, 2022
+Review
+trachea and lung originate from vagal and dorsal root ganglia. J. Auton. Nerv.
+Syst. 20, 155–166.
+Storey, A.T. (1968). A functional analysis of sensory units innervating epiglottis
+and larynx. Exp. Neurol. 20, 366–383.
+Su, Y., Barr, J., Jaquish, A., Xu, J., Verheyden, J.M., and Sun, X. (2021). Map-
+ping the central and peripheral projections of lung innervating sensory neu-
+rons. bioRxiv. https://doi.org/10.1101/2021.05.05.442702.
+Sun, H., Li, D.P., Chen, S.R., Hittelman, W.N., and Pan, H.L. (2009). Sensing of
+blood pressure increase by transient receptor potential vanilloid 1 receptors on
+baroreceptors. J. Pharmacol. Exp. Ther. 331, 851–859.
+Syeda, R., Florendo, M.N., Cox, C.D., Kefauver, J.M., Santos, J.S., Martinac,
+B., and Patapoutian, A. (2016). Piezo1 channels are inherently mechanosensi-
+tive. Cell Rep 17, 1739–1746.
+Szczot, M., Nickolls, A.R., Lam, R.M., and Chesler, A.T. (2021). The form and
+function of PIEZO2. Annu. Rev. Biochem. 90, 507–534.
+Taha, B.H., Simon, P.M., Dempsey, J.A., Skatrud, J.B., and Iber, C. (1995).
+Respiratory sinus arrhythmia in humans: an obligatory role for vagal feedback
+from the lungs. J. Appl. Physiol. (1985) 78, 638–645.
+Tan, H.E., Sisti, A.C., Jin, H., Vignovich, M., Villavicencio, M., Tsang, K.S.,
+Goffer, Y., and Zuker, C.S. (2020). The gut-brain axis mediates sugar prefer-
+ence. Nature 580, 511–516.
+Tao, J., Campbell, J.N., Tsai, L.T., Wu, C., Liberles, S.D., and Lowell, B.B.
+(2021). Highly selective brain-to-gut communication via genetically deﬁned va-
+gus neurons. Neuron 109, 2106–2115, e4.
+Thomas, C., Gioiello, A., Noriega, L., Strehle, A., Oury, J., Rizzo, G., Macchiar-
+ulo, A., Yamamoto, H., Mataki, C., Pruzanski, M., et al. (2009). TGR5-mediated
+bile acid sensing controls glucose homeostasis. Cell Metab 10, 167–177.
+Tizzano, M., Gulbransen, B.D., Vandenbeuch, A., Clapp, T.R., Herman, J.P.,
+Sibhatu, H.M., Churchill, M.E., Silver, W.L., Kinnamon, S.C., and Finger, T.E.
+(2010). Nasal chemosensory cells use bitter taste signaling to detect irritants
+and bacterial signals. Proc. Natl. Acad. Sci. USA 107, 3210–3215.
+Tolhurst, G., Heffron, H., Lam, Y.S., Parker, H.E., Habib, A.M., Diakogiannaki,
+E., Cameron, J., Grosse, J., Reimann, F., and Gribble, F.M. (2012). Short-chain
+fatty acids stimulate glucagon-like peptide-1 secretion via the G-protein-
+coupled receptor FFAR2. Diabetes 61, 364–371.
+Torrealba, F., and Alcayaga, J. (1986). Nerve branching and terminal
+arborizations in the carotid body of the cat. A light microscopic study following
+anterograde injury ﬁlling of carotid nerve axons with horseradish peroxidase.
+Neuroscience 19, 581–595.
+Tr€ankner, D., Hahne, N., Sugino, K., Hoon, M.A., and Zuker, C. (2014). Popu-
+lation of sensory neurons essential for asthmatic hyperreactivity of inﬂamed
+airways. Proc. Natl. Acad. Sci. USA 111, 11515–11520.
+Travagli, R.A., Hermann, G.E., Browning, K.N., and Rogers, R.C. (2006). Brain-
+stem circuits regulating gastric function. Annu. Rev. Physiol. 68, 279–305.
+Umans, B.D., and Liberles, S.D. (2018). Neural sensing of organ volume.
+Trends Neurosci 41, 911–924.
+von Bezold, A., and Hirt, L. (1867). Uber die physiologischen Wirkungen des
+essingsauren Veratrins. Unters Physiol Lab Wurtzburg. 1, 75–76.
+von D€uring, M., Andres, K.H., and Iravani, J. (1974). The ﬁne structure of the
+pulmonary stretch receptor in the rat. Kidney Int 5, 215–222.
+Waise, T.M.Z., Dranse, H.J., and Lam, T.K.T. (2018). The metabolic role of
+vagal afferent innervation. Nat. Rev. Gastroenterol. Hepatol. 15, 625–636.
+Wang, J., Kollarik, M., Ru, F., Sun, H., McNeil, B., Dong, X., Stephens, G., Kor-
+olevich, S., Brohawn, P., Kolbeck, R., and Undem, B. (2017). Distinct and com-
+mon expression of receptors for inﬂammatory mediators in vagal nodose
+versus jugular capsaicin-sensitive/TRPV1-positive neurons detected by low
+input RNA sequencing. PLoS One 12, e0185985.
+Wang, J., Cortina, G., Wu, S.V., Tran, R., Cho, J.-H., Tsai, M.-J., Bailey, T.J.,
+Jamrich, M., Ament, M.E., Treem, W.R., et al. (2006). Mutant neurogenin-3 in
+congenital malabsorptive diarrhea. N Engl J Med 355, 270–280.
+Wang, P., Jia, Y., Liu, T., Jan, Y.N., and Zhang, W. (2020). Visceral mechano-
+sensing neurons control Drosophila feeding by using piezo as a sensor.
+Neuron 108, 640–650, e4.
+Wehrwein, E.A., and Joyner, M.J. (2013). Regulation of blood pressure by the
+arterial baroreﬂex and autonomic nervous system. Handb. Clin. Neurol.
+117, 89–102.
+Weijs, T.J., Ruurda, J.P., Luyer, M.D., Nieuwenhuijzen, G.A., van Hillegers-
+berg, R., and Bleys, R.L. (2015). Topography and extent of pulmonary vagus
+nerve supply with respect to transthoracic oesophagectomy. J. Anat. 227,
+431–439.
+Widdicombe, J. (2006). Reﬂexes from the lungs and airways: historical
+perspective. J. Appl. Physiol. (1985) 101, 628–634.
+Widdicombe, J.G. (1954). Respiratory reﬂexes from the trachea and bronchi of
+the cat. J. Physiol. 123, 55–70.
+Williams, E.K., Chang, R.B., Strochlic, D.E., Umans, B.D., Lowell, B.B., and
+Liberles, S.D. (2016). Sensory neurons that detect stretch and nutrients in
+the digestive system. Cell 166, 209–221.
+Willing, A.E., and Berthoud, H.R. (1997). Gastric distension-induced c-fos
+expression in catecholaminergic neurons of rat dorsal vagal complex. Am. J.
+Physiol. 272, R59–R67.
+Woo, S.H., Lukacs, V., de Nooij, J.C., Zaytseva, D., Criddle, C.R., Francisco,
+A., Jessell, T.M., Wilkinson, K.A., and Patapoutian, A. (2015). Piezo2 is the prin-
+cipal mechanotransduction channel for proprioception. Nat. Neurosci. 18,
+1756–1762.
+Yu, J. (2000). Spectrum of myelinated pulmonary afferents. Am. J. Physiol.
+Regul. Integr. Comp. Physiol. 279, R2142–R2148.
+Zagorodnyuk, V.P., Chen, B.N., and Brookes, S.J. (2001). Intraganglionic
+laminar endings are mechano-transduction sites of vagal tension receptors
+in the guinea-pig stomach. J. Physiol. 534, 255–268.
+Zagorodnyuk, V.P., Chen, B.N., Costa, M., and Brookes, S.J. (2003). Mecha-
+notransduction by intraganglionic laminar endings of vagal tension receptors
+in the guinea-pig oesophagus. J. Physiol. 553, 575–587.
+Zeng, W.Z., Marshall, K.L., Min, S., Daou, I., Chapleau, M.W., Abboud, F.M.,
+Liberles, S.D., and Patapoutian, A. (2018). PIEZOs mediate neuronal sensing
+of blood pressure and the baroreceptor reﬂex. Science 362, 464–467.
+Zhang, C., Kaye, J.A., Cai, Z., Wang, Y., Prescott, S.L., and Liberles, S.D.
+(2021). Area postrema cell types that mediate nausea-associated behaviors.
+Neuron 109, 461–472, e5.
+Zimmerman, C.A., Huey, E.L., Ahn, J.S., Beutler, L.R., Tan, C.L., Kosar, S., Bai,
+L., Chen, Y., Corpuz, T.V., Madisen, L., et al. (2019). A gut-to-brain signal of
+ﬂuid osmolarity controls thirst satiation. Nature 568, 98–102.
+ll
+Neuron 110, February 16, 2022
+599
+Review
+

@@ -1,0 +1,2725 @@
+# Nature Aging
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2024
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Activation-of-AMPK-by-GLP-1R-agonists-mitigates-Alzheimer-related-phenotypes-in-transgenic.pdf
+
+## Abstract / Summary
+Nature Aging
+nature aging
+https://doi.org/10.1038/s43587-025-00869-3
+Article
+Activation of AMPK by GLP-1R agonists 
+mitigates Alzheimer-related phenotypes in 
+transgenic mice
+ 
+Yun Zhang 
+  1,2,10 
+, Huaqiu Chen2,10, Yijia Feng 
+  3,4,10, Mingjing Liu5, Zhi Lu6, 
+Bolang Hu3,4, Lifen Chen4, Yang Zhang7, Jiawen Liu2, Fang Cai4, Yifan Zhao3,4, 
+Wenhao Pan3,4, Xinxin Liao8, Sipei Pan4, Isabel Bestard-Lorigados9, Yili Wu3,4 & 
+Weihong Song 
+  3,4,9 
+Individuals with type 2 diabetes mellitus have an i... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Nature Aging. 2024.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Nature Aging
+nature aging
+https://doi.org/10.1038/s43587-025-00869-3
+Article
+Activation of AMPK by GLP-1R agonists 
+mitigates Alzheimer-related phenotypes in 
+transgenic mice
+ 
+Yun Zhang 
+  1,2,10 
+, Huaqiu Chen2,10, Yijia Feng 
+  3,4,10, Mingjing Liu5, Zhi Lu6, 
+Bolang Hu3,4, Lifen Chen4, Yang Zhang7, Jiawen Liu2, Fang Cai4, Yifan Zhao3,4, 
+Wenhao Pan3,4, Xinxin Liao8, Sipei Pan4, Isabel Bestard-Lorigados9, Yili Wu3,4 & 
+Weihong Song 
+  3,4,9 
+Individuals with type 2 diabetes mellitus have an increased risk of 
+developing Alzheimer’s disease (AD). GLP-1 receptor agonists (GLP-1RAs) are 
+used for glycemic control in diabetes and show potential neuroprotective 
+properties, but their effects on AD and the underlying mechanisms are 
+not well understood. Here we demonstrate that GLP-1RAs can alleviate 
+AD-related phenotypes by activating 5′ AMP-activated protein kinase 
+(AMPK) signaling. We found that plasma GLP-1 levels were decreased in 
+AD model mice and negatively correlated with amyloid-beta (Aβ) load in 
+patients with AD. Enhancing GLP-1 signaling through GLP-1RAs increased 
+CaMKK2–AMPK signaling, which subsequently reduced BACE1-mediated 
+cleavage of amyloid precursor protein (APP) and Aβ generation. GLP-1RAs 
+also increased AMPK activity in microglia, inhibiting neuroinflammation 
+and promoting Aβ phagocytosis. Consequently, GLP-1RAs inhibited plaque 
+formation and improved memory deficits in AD model mice. Our findings 
+indicate that AMPK activation mediates the effects of GLP-1RAs on AD, 
+highlighting the therapeutic potential of GLP-1RAs for the treatment of AD.
+Alzheimer’s disease (AD) is the most prevalent form of dementia, and 
+neuritic plaques, neurofibrillary tangles and neuronal loss are the hall-
+marks of AD neuropathology1. Amyloid β (Aβ) protein, the principal 
+component of plaques, is generated through cleavages of amyloid 
+precursor protein (APP) by β-secretase and γ-secretase2. Beta-site 
+APP cleaving enzyme 1 (BACE1) is the β-secretase cleaving APP at 
+two β-sites, Asp+1 and Glu+11, within the Aβ domain to generate the 
+membrane-bound APP C-terminal fragments (CTFs) C99 and C89, 
+respectively3,4. Subsequently, γ-secretase cleaves C99, leading to the 
+release of Aβ and the CTFγ5,6.
+Individuals with type 2 diabetes mellitus (T2DM) have an increased 
+risk of developing AD7,8. Impaired glucose homeostasis in the brain 
+plays an important role in AD pathogenesis9–12. Individuals may develop 
+insulin resistance and impaired glucose metabolism more than 10 years 
+before the occurrence of Alzheimer’s symptoms, suggesting that insu-
+lin resistance and glucose metabolism could serve as a biomarker for 
+early diagnosis of the disease13,14. Impaired insulin signaling and high 
+glucose also disrupts both the processing of APP and the clearance of 
+Aβ15,16. Reduced neuronal glucose uptake is associated with hyperphos-
+phorylation of tau proteins, compromised synaptic plasticity, deficits 
+in neurotransmitters and the initiation of inflammatory cascades, 
+leading to neurodegenerative disease17. These findings have raised 
+the possibility that anti-diabetic medication may provide therapeutic 
+benefits for AD18.
+Glucagon-like peptide-1 (GLP-1) is an incretin hormone19. It is pro-
+duced through cleavages of the proglucagon peptide by prohormone 
+convertase 1/3 (PC1/3) and prohormone convertase 2 (PC2)20. After 
+its generation, GLP-1 (1–37) undergoes further processing to release 
+Received: 12 October 2024
+Accepted: 7 April 2025
+Published online: xx xx xxxx
+ Check for updates
+A full list of affiliations appears at the end of the paper. 
+ e-mail: zhangyun_202104@163.com; weihong@wmu.edu.cn
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+AD mice (Fig. 1c). Furthermore, we observed a reduction in the expres-
+sion (Fig. 1d,e and Extended Data Fig. 1a,b) and membrane transloca-
+tion (Fig. 1d,f) of glucose transporter 3 (GLUT3), which is the primary 
+glucose transporter in neurons. Considering that approximately 
+20% of the brain’s total energy consumption is derived from FAO36, 
+we performed a Seahorse XF96 Cell Mito Stress Test to measure the 
+oxygen consumption rate (OCR) and ATP production in astrocytes 
+(Fig. 1g,h and Extended Data Figs. 2 and 3). Compared to WT mice, AD 
+mice exhibited reductions in basal respiration, maximal respiration 
+and spare respiratory capacity, ultimately resulting in a decrease in 
+OXPHOS-dependent ATP synthesis (Fig. 1h). Using 18F-AV45 positron 
+emission tomography (PET) imaging to evaluate brain amyloid load in 
+patients with AD, we identified a strong negative correlation between 
+plasma GLP-1 levels and Aβ plaque accumulation in the hippocampus 
+(R = −0.825, P = 0.0017; Fig. 1i). Among the participants, the individual 
+with the lowest plasma GLP-1 level (4.22 pg ml−1) exhibited a significantly 
+higher hippocampal amyloid load (standardized uptake value ratio 
+(SUVR) = 1.44) compared to the individual with the highest plasma GLP-1 
+level (19.23 pg ml−1), who had an SUVR of 0.87 (Fig. 1j). These findings 
+suggest that lower plasma GLP-1 levels are associated with increased 
+amyloid burden in the hippocampus.
+Next, we administered exendin-4, a GLP-1RA, to enhance GLP-1 
+signaling, which successfully restored glucose uptake capacity (Fig. 1b) 
+and ATP generation (Fig. 1c) in AD neurons as well as FAO (Fig. 1g,h and 
+Extended Data Figs. 2 and 3) in AD astrocytes. However, exendin-4 treat-
+ment did not have an impact on glycolysis in AD astrocytes (Extended 
+Data Fig. 4). Exendin-4 also alleviated the AD-induced reductions 
+in the levels of GLUT3 and the mitochondrial regulator peroxisome 
+proliferator-activated receptor γ co-activator 1α (PGC-1α) (Fig. 1d–f 
+and Extended Data Fig. 1c,d). We then further explored the impact of 
+exendin-4 on neuronal glycolysis and OXPHOS by conducting OCR and 
+extracellular acidification rate (ECAR) analysis. The results revealed 
+that, after the improvement in glucose uptake, exendin-4 treatment 
+notably enhanced both OXPHOS (Extended Data Fig. 5a–e) and gly-
+colytic capacity (Extended Data Fig. 5f–i) in AD neurons. In addition, 
+we assessed cellular metabolites such as pyruvate and reactive oxygen 
+species (ROS). Exendin-4 did not alter pyruvate levels (Extended Data 
+Fig. 5j) but significantly reduced the AD-induced increase in ROS, 
+indicating its role in preventing excessive OXPHOS (Extended Data 
+Fig. 5k,l). Furthermore, we observed that the administration of com-
+pound C, a widely used AMPK inhibitor, counteracted the beneficial 
+effects of exendin-4, suggesting that the actions of exendin-4 are closely 
+linked to AMPK activity (Fig. 1b–h and Extended Data Figs. 1–3 and 5).
+GLP-1RA enhances CaMKK2-mediated AMPK phosphorylation
+To examine the effect of GLP-1 signaling on AMPK activity, primary 
+neurons isolated from WT mouse embryos (embryonic day (E) 17) 
+were treated with exendin-4 or tirzepatide, a dual gastric inhibitory 
+polypeptide (GIP)/GLP-1R co-agonist37. Treatment with exendin-4 at 
+concentrations of 0.25 µM, 0.5 µM and 1 µM significantly increased 
+the levels of phosphorylated AMPK to 251.2% ± 7.9% (P = 0.0006), 
+two active forms: GLP-1 (7–36) amide and GLP-1 (7–37)21. Secreted by 
+intestinal L-cells in response to food intake, GLP-1 plays a key role in 
+glucose metabolism and homeostasis22. GLP-1 receptor (GLP-1R) is 
+a G-protein-coupled receptor (GPCR) predominantly expressed in 
+pancreatic islet β-cells as well as in the brain, heart, gastrointestinal 
+tract and kidney23. The receptor features a large N-terminal extracel-
+lular domain connected to seven α-helices by three extracellular and 
+intracellular loops, along with a C-terminal intracellular helix24. Upon 
+binding to GLP-1R, GLP-1 exerts its effects, including enhancing insulin 
+secretion, reducing glucagon levels and increasing feelings of fullness25. 
+These actions collectively contribute to lower blood glucose levels, 
+making GLP-1 signaling a key target for modification of T2DM.
+Glucagon-like peptide-1 receptor agonists (GLP-1RAs), such as 
+liraglutide, semaglutide and exenatide, mimic the action of GLP-1 and 
+have a prolonged half-life, positioning them as first-line or second-line 
+medications for lowering blood glucose levels in patients with T2DM. 
+Clinical studies demonstrated that GLP-1RAs effectively lower hemo-
+globin A1c levels and promote weight loss in individuals with T2DM26,27. 
+Recent studies showed that GLP-1RA reduces the risk of neurodegen-
+erative diseases, such as AD. Data from a large Danish registry-based 
+cohort study involving 120,054 patients revealed a lower incidence of 
+dementia among those treated with GLP-1RAs28. A phase 2 clinical trial 
+in over 200 patients with mild cognitive impairments or AD showed that 
+liraglutide decreased neuronal loss29. Several studies indicated that 
+GLP-1RAs, including liraglutide, exenatide and lixisenatide, reduce Aβ 
+accumulation, tau hyperphosphorylation and neuroinflammation30–33. 
+However, the mechanisms underlying these effects remain elusive.
+In the present study, we found a reduction of GLP-1 levels in AD and 
+a correlation between plasma GLP-1 levels and brain energy metabo-
+lism as well as neuropathology in patients with AD. Administration of 
+GLP-1RAs increases calcium/calmodulin-dependent protein kinase 
+kinase (CaMKK) activity, which further activates 5′ AMP-activated 
+protein kinase (AMPK) signaling to increase fatty acid oxidation (FAO), 
+oxidative phosphorylation (OXPHOS), glycolysis and adenosine 
+triphosphate (ATP) synthesis in brain cells. The GLP-1RA-induced AMPK 
+activation decreases Aβ production by modulating BACE1 expres-
+sion via nuclear factor kappa B (NF-κB) signaling. GLP-1RAs promote 
+Aβ phagocytosis by activation of AMPK in microglia. Consequently 
+GLP-1RA treatment reduces neuritic plaque formation and improves 
+cognitive deficits in AD transgenic mice, providing evidence that acti-
+vating AMPK by GLP-1RAs could represent an effective therapeutic 
+strategy for AD.
+Results
+Plasma GLP-1 is reduced and linked to Aβ load in AD
+To explore the role of GLP-1 in the pathogenesis of AD, we conducted 
+a comparative analysis of plasma GLP-1 levels between wild-type (WT) 
+mice and the AD transgenic mice APP23/PS45 (refs. 34,35). We found 
+that plasma GLP-1 levels in APP23/PS45 were significantly reduced to 
+nearly half of those in WT mice (P = 0.0288; Fig. 1a), along with reduced 
+glucose uptake (Fig. 1b) and ATP generation in neurons derived from 
+Fig. 1 | Plasma GLP-1 levels are associated with disturbed brain energy 
+metabolism and Aβ pathology. a, Plasma samples were collected from WT and 
+APP23/PS45 AD transgenic mice to measure GLP-1 levels. Twelve mice (six males 
+and six females) of each group. A two-tailed Student’s t-test was performed for 
+statistical analysis. Primary neurons were isolated from embryonic WT and 
+APP23 AD mice (E17) and subjected to glucose uptake assay (b) as well as ATP 
+production assay (c). n = 3 independent experiments. One-way ANOVA followed 
+by Tukey’s multiple comparisons test was performed for statistical analysis.  
+d, Immunocytochemistry was performed for measuring GLUT3 expression. 
+Images were acquired using a Zeiss Apotome. The regions within the box were 
+enlarged and displayed in the bottom line with intensity traces (indicated 
+by white offset lines). Scale bar, 5 μm. The expression (e) and translocation 
+(f) of GLUT3 in neurons were quantified. n = 10 cells from two independent 
+experiments. One-way ANOVA followed by Tukey’s multiple comparisons test  
+was performed for statistical analysis. Primary astrocytes isolated from 
+embryonic WT and APP23 AD mice (E17) were used for a Seahorse XF96 Cell 
+Mito Stress Test to measure OCR (g and h). n = 3 independent experiments. 
+One-way ANOVA followed by Tukey’s multiple comparisons test was performed 
+for statistical analysis. Twelve patients with AD (six males and six females) 
+underwent 18F-AV45 PET/MR scans to assess brain amyloid load, and their blood 
+samples were collected to measure plasma GLP-1 levels. i, The correlation 
+between plasma GLP-1 levels and brain Aβ pathology in patients with AD was 
+analyzed. j, 18F-AV45 PET/MR images of the patient with the lowest plasma GLP-1 
+level (Patient 1: 4.22 pg ml−1) and the patient with the highest plasma GLP-1 
+level (Patient 2: 19.23 pg ml−1) are presented. All the results are expressed as 
+mean ± s.e.m. C.C, compound C; EX-4, exendin-4.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+WT
+AD
+0
+50
+100
+150
+200
+250
+Plasma active GLP-1 level (%)
+a
+b
+c
+d
+e
+f
+GLUT3
+DiO
+GLUT3
+DiO
+GLUT3
+DiO
+GLUT3
+DiO
+g
+h
+i
+j
+AD neuron
+WT neuron
+Glucose uptake (fold)
+Ctrl
+EX-4
+EX-4 + C.C
+WT neuron
+Ctrl
+EX-4
+EX-4 + C.C
+AD neuron
+WT neuron
+Ctrl
+EX-4
+EX-4 + C.C
+AD neuron
+ATP (nmol mg–1 protein)
+0
+2
+4
+6
+8
+GLUT3 mean intensity/cell (%)
+WT neuron
+Ctrl
+EX-4
+EX-4 + C.C
+AD neuron
+WT neuron
+AD neuron
+AD neuron
++ EX-4
+AD neuron
++ EX-4 + C.C
+Distance (µm)
+Distance (µm)
+Distance (µm)
+Distance (µm)
+Intensity (a.u.)
+Intensity (a.u.)
+Intensity (a.u.)
+Intensity (a.u.)
+OCR (pmol/min/5,000 cells)
+OCR (pmol/min/5,000 cells)
+Time (minutes)
+Basal
+respiration
+Maximal
+respiration
+Spare respiratory
+capacity
+ATP
+production
+18F-AV45 SUVR
+Plasma GLP-1 level (pg ml–1)
+MR
+Patient 1
+Patient 2
+SUVR
+0
+0.5
+1.0
+1.5
+0
+50
+100
+150
+GLUT3
+DiO
+Merge
+0
+2
+4
+6
+0
+2
+4
+6
+0
+2
+4
+6
+0
+2
+4
+6
+0.75
+0
+2
+4
+6
+0
+2
+4
+6
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+200
+0
+50
+100
+150
+200
+0
+2
+4
+6
+0
+2
+4
+6
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+0
+20
+40
+60
+80
+100
+120
+Oligomycin
+FCCP
+R/A
+WT astrocyte
+AD astrocyte
+AD astrocyte + EX-4
+AD astrocyte + EX-4 + C.C
+WT astrocyte
+AD astrocyte
+AD astrocyte + EX-4
+AD astrocyte + EX-4 + C.C
+0
+50
+100
+150
+0
+2.5
+4
+8
+12
+16
+1.00
+1.25
+P = 0.0288
+P = 0.0015
+P = 0.0468
+P = 0.0112
+P = 0.0074
+P = 0.0451
+P = 0.0057
+P < 0.0001
+P < 0.0001
+P < 0.0001
+P = 0.0002
+P = 0.0069
+P = 0.0074
+P = 0.0015
+P = 0.0131
+P = 0.0137
+P = 0.0224
+P = 0.0319
+P = 0.003
+P = 0.5217
+P = 0.3057
+P = 0.8163
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+258.9% ± 23.7% (P = 0.0005) and 275.0% ± 12.5% (P = 0.0002), respec-
+tively (Fig. 2a,b). The activation of AMPK resulted in a further increase 
+in the levels of phosphorylated acetyl-CoA carboxylase (ACC) to 
+174.5% ± 13.3% (P = 0.0169), 163.5% ± 10.8% (P = 0.0378) and 194.1% ± 17.9 
+(P = 0.0044), respectively (Fig. 2a,b). Similarly, tirzepatide at 0.1 µM, 
+0.25 µM and 0.5 µM also markedly elevated the levels of phosphoryl-
+ated AMPK to 150.9% ± 13.4% (P = 0.0151), 155.1% ± 15.1% (P = 0.0103) 
+and 162.2% ± 0.5% (P = 0.0055), respectively (Fig. 2c,d). To confirm that 
+these effects of GLP-1RAs were dependent on the binding of GLP-1 to its 
+receptors GLP-1R, primary neurons were transduced with a lentiviral 
+short hairpin RNA (shRNA) vector to knock down GLP-1R expression. 
+Inhibition of GLP-1R expression resulted in a diminished response to 
+GLP-1RAs (Fig. 2e,f). It is known that elevated intracellular calcium 
+levels trigger AMPK phosphorylation, a process mediated by CaMKK2 
+(ref. 38). Treatment with exendin-4 significantly enhanced calcium 
+influx into the neurons (Fig. 2g,h), which further increased CaMKK2 
+levels to 137.1% ± 7.5% (P = 0.0331) (Fig. 2i,j). Furthermore, the appli-
+cation of STO609, a CaMKK inhibitor, significantly attenuated the 
+effect of exendin-4 on AMPK phosphorylation (Fig. 2k,l). Liver kinase 
+B1 (LKB1) is recognized to directly phosphorylate threonine 172 (Thr172) 
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+EX-4 (µM)
+0
+0.25
+0.5
+1
+40
+70
+70
+Size
+(kDa)
+p-ACC
+t-ACC
+250
+250
+a
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+p-AMPK/t-AMPK
+ratio (%)
+0
+0.1
+0.25
+0.5
+TZP (µM)
+40
+70
+70
+0
+100
+100
+150
+200
+Size
+(kDa)
+200
+300
+400
+Protein level (%)
+b
+c
+d
+p-AMPK/t-AMPK
+p-ACC/t-ACC
+0 µM
+0.25 µM
+0.5 µM
+1 µM
+0
+50
+e
+Fluo-4 AM
+j
+i
+g
+h
+k
+l
+–
+–
++
+–
++
++
+–
+–
++
++
++
+–
+f
+–
++
+–
++
+Fluo-4 AM
+GLP-1R shRNA
+EX-4
+p-AMPK
+(Thr172)
+t-AMPK
+GLP-1R
+Actin
+p-AMPK/t-AMPK ratio (%)
+Scramble ctrl
+Scramble ctrl + EX-4
+GLP-1R shRNA
+GLP-1R shRNA + EX-4
+GLP-1R level (%)
+Actin
+LKB1
+CaMKK2
+EX-4
+EX-4
+Ctrl
+CaMKK2
+LKB1
+Protein level (%)
+Ctrl
+EX-4
+Ctrl
+EX-4
+Fluo-4AM mean intensity/cell (%)
+EX-4
+STO609
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+p-AMPK/t-AMPK ratio (%)
+Ctrl
+EX-4
+EX-4 + STO609
+0
+40
+70
+70
+70
+0
+50
+100
+150
+200
+0
+50
+100
+150
+Size
+(kDa)
+40
+70
+70
+Size
+(kDa)
+0
+50
+100
+150
+200
+40
+70
+70
+Size
+(kDa)
+200
+400
+600
+800
+0
+50
+100
+150
+200
+250
+0
+0.1
+0.25
+0.5
+P = 0.0006
+P = 0.0005
+P = 0.0002
+P = 0.0169
+P = 0.0378
+P = 0.0044
+P = 0.0151
+P = 0.0103
+P = 0.0055
+P = 0.0326
+P = 0.0009
+P = 0.0014 P = 0.0008
+P = 0.0331
+P = 0.5792
+P < 0.0001
+P = 0.027
+P = 0.0284
+(µM)
+Fig. 2 | GLP-1RAs induce AMPK phosphorylation via Ca2+-mediated CaMKK2 
+activation. Primary neurons isolated from WT mouse embryos were cultured 
+and treated with different doses of exendin-4 (a and b) and tirzepatide (c and d)  
+for 24 h. Cell lysates were subjected to western blot analysis for detecting 
+phosphorylated AMPK, phosphorylated ACC, total AMPK and total ACC. β-actin 
+was detected as the internal control. n = 3 independent experiments. One-
+way ANOVA followed by Dunnett’s multiple comparisons test was performed 
+for statistical analysis. e,f, Primary neurons were transduced with a lentiviral 
+shRNA vector to reduce the expression of GLP-1Rs and then treated with or 
+without exendin-4. Control shRNA lentivirus was used as a negative control. 
+Phosphorylated AMPK, total AMPK and GLP-1R were detected by performing 
+immunoblot analysis. n = 3 independent experiments. One-way ANOVA followed 
+by Tukey’s multiple comparisons test was performed for statistical analysis. 
+g,h, Primary WT mouse neurons were labeled with Fluo-4 AM to measure 
+intracellular Ca2+. Green fluorescent signals were analyzed. Scale bar, 100 μm. 
+n = 3 independent experiments. A two-tailed Student’s t-test was performed for 
+statistical analysis. i,j, Primary WT mouse neurons were treated with exendin-4 
+and subjected to immunoblot for detecting CaMKK2 and LKB1 levels. n = 3 
+independent experiments. A two-tailed Student’s t-test was performed for 
+statistical analysis. k,l, Primary WT mouse neurons were treated with exendin-4 
+with or without STO609, a CaMKK2 inhibitor. Cell lysates were subjected to 
+western blot analysis for detecting phosphorylated AMPK and total AMPK. 
+β-actin was detected by anti-actin antibody AC-15 as the internal control.  
+n = 3 independent experiments. One-way ANOVA followed by Tukey’s multiple 
+comparisons test was performed for statistical analysis. All the results are 
+expressed as mean ± s.e.m. EX-4, exendin-4; TZP, tirzepatide.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+of AMPKα39. Our findings indicated that GLP-1RAs had no significant 
+effect on LKB1 expression (P = 0.5729) (Fig. 2i,j). These results suggest 
+that GLP-1RAs enhance AMPK activity through a mechanism mediated 
+by CaMKK2.
+AMPK phosphorylation by GLP-1RA reduces BACE1 and Aβ 
+production
+It was reported that GLP-1RAs modulate Aβ metabolism40. However, 
+the exact mechanisms, particularly the role of AMPK signaling, remain 
+unclear. We found that exendin-4 at a concentration of 1 µM significantly 
+reduced BACE1 levels in both primary mouse neurons and the human 
+Swedish mutant APP stable cell line 20E2 to 53.6% ± 6.6% (P = 0.0349) 
+(Fig. 3a,b) and 39.8% ± 10.5% (P = 0.035) (Fig. 3c,d), respectively. The 
+treatment significantly decreased the levels of the β-secretase cleav-
+age product APP C99 to 65.2% ± 5.6% (P = 0.0143) (Fig. 3c,d). However, 
+exendin-4 treatment did not have a significant effect on APP expres-
+sions (P = 0.4649) (Fig. 3c,d). To assess the levels of Aβ40 and Aβ42 
+in the conditioned media of 20E2 cells, an Aβ ELISA was performed. 
+Exendin-4 markedly reduced the levels of Aβ40 and Aβ42 to 65.1% ± 8.7% 
+(P = 0.043) (Fig. 3e) and 52.8% ± 4.6% (P = 0.0031) (Fig. 3f), respectively. 
+In contrast, the addition of compound C to inhibit AMPK activity sig-
+nificantly diminished the effects of exendin-4 on BACE1 expression 
+(Fig. 3a–d) as well as C99 and Aβ production (Fig. 3c–f). To confirm 
+our results, we further infected primary APP23 mouse neurons with 
+AMPK-targeted shRNA and found that reduction of AMPK expression 
+markedly mitigated the impact of exendin-4 on BACE1-mediated APP 
+processing (Extended Data Fig. 6a,b) and Aβ generation (Extended Data 
+Fig. 6c). In addition, by inhibiting FAO in AD astrocytes, we observed 
+a notable alteration of the effect of exendin-4 on BACE1 expression 
+(Extended Data Fig. 2f,g) as well as the amyloidogenic process of APP 
+for Aβ generation (Extended Data Fig. 2h). Furthermore, we also dem-
+onstrated the effect of exendin-4 on AKT and PKA signaling, which, 
+along with AMPK signaling, regulated BACE1 expression (Extended Data 
+Fig. 2i–k). These findings clearly demonstrate that exendin-4 inhibited 
+BACE1-mediated APP processing to generate Aβ and the effects, at least 
+in part, mediated by AMPK activity.
+NF-κB mediates AMPK-induced transcription of BACE1
+To determine how AMPK regulates BACE1 expression, we first con-
+ducted a BACE1 gene promoter assay for its transcriptional regulation. 
+The BACE1 promoter construct pB1-luc was constructed by cloning the 
+human BACE1 promoter region spanning from −1,942 bp to +292 bp into 
+the promoterless vector pGL3-basic upstream of the firefly luciferase 
+reporter gene35,41 (Fig. 4a). N2a cells were transfected with the promoter 
+construct and were subsequently treated with an AMPK inhibitor (com-
+pound C) or an AMPK activator (5-aminoimidazole-4-carboxamide 
+ribonucleoside (AICAR)). Inhibition of AMPK signaling by compound 
+C at 50 μM or 100 μM significantly elevated the promoter activity to 
+343.5% ± 28.0% (P = 0.0011) and 499.8% ± 33.7% (P = 0.0003), respec-
+tively (Fig. 4a). In contrast, boosting AMPK activity with AICAR treat-
+ment at 1 mM or 2 mM markedly reduced the promoter activity to 
+60.7% ± 2.1% (P = 0.0061) and 50.7% ± 1.8% (P = 0.0026), respectively 
+a
+–
+–
+–
+–
++
+b
+–
+–
+–
+–
++
+–
+–
++
+c
+APP
+BACE1
+C99
+d
+e
+f
+–
+–
+–
+–
++
+(µM)
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+BACE1
+EX-4
+C.C
+BACE1 level (%)
+p-AMPK/t-AMPK ratio (%)
+APP
+BACE1
+C99
+C83
+Actin
+EX-4
+C.C
+Protein level (%)
+Aβ40 level (%)
+Aβ42 level (%)
+Size
+(kDa)
+70
+70
+70
+40
+0
+0.25
+0.5
+1
+1
+0
+50
+100
+150
+EX-4
+C.C
+(µM)
+0
+0.25
+0.5
+1
+1
+0
+100
+200
+300
+EX-4
+C.C
+(µM)
+0
+0.25
+0.5
+1
+1
+0
+1
+1 (µM)
+150
+70
+15
+40
+Size
+(kDa)
+0
+50
+100
+150
+Ctrl
+EX-4
+EX-4 + C.C
+Ctrl
+EX-4
+EX-4 + C.C
+Ctrl
+EX-4
+EX-4 + C.C
+0
+50
+100
+150
+200
+0
+50
+100
+150
+P = 0.0349
+P = 0.0153
+P = 0.003
+P = 0.0025
+P = 0.0004
+P = 0.4649
+P = 0.3157
+P = 0.035
+P = 0.0328
+P = 0.0143
+P = 0.0025
+P = 0.043
+P = 0.0444
+P = 0.0031
+P = 0.001
+Fig. 3 | AMPK phosphorylation reduces BACE1-mediated APP processing. 
+a,b, Primary WT mouse neurons were treated with different doses of exendin-4 
+with or without compound C, an AMPK inhibitor. Western blot analysis was 
+performed for detecting endogenous BACE1, phosphorylated AMPK and total 
+AMPK levels. β-actin was detected by anti-actin antibody AC-15 as the internal 
+control. n = 3 independent experiments. One-way ANOVA followed by Tukey’s 
+multiple comparisons test was performed for statistical analysis. c,d, Swedish 
+mutant APP stable cell line 20E2 was cultured and treated with exendin-4 with or 
+without compound C to inhibit AMPK activity. Full-length APP and the APP CTFs 
+were detected with C20 antibody. Endogenous BACE1 was detected with anti-
+BACE1 antibody. β-actin was detected by anti-actin antibody AC-15 as the internal 
+control. n = 3 independent experiments. One-way ANOVA followed by Tukey’s 
+multiple comparisons test was performed for statistical analysis. Aβ ELISA was 
+conducted to detect Aβ40 (e) and Aβ42 (f) in conditioned medium from 20E2 
+cells. n = 3 independent experiments. One-way ANOVA followed by Tukey’s 
+multiple comparisons test was performed for statistical analysis. All the results 
+are expressed as mean ± s.e.m. C.C, compound C; EX-4, exendin-4.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+(Fig. 4a). Consistently, inhibition of AMPK by compound C also 
+increased the mRNA levels (Fig. 4b) and protein levels of BACE1 in 
+primary mouse neurons (Fig. 4c,d), whereas stimulation of AMPK 
+activity by AICAR significantly decreased the mRNA levels (Fig. 4b) 
+and protein levels of BACE1 (Fig. 4c,d). Our previous study showed 
+that NF-κB significantly enhanced the BACE1 promoter activity35,42. 
+To investigate whether the effect of AMPK on BACE1 expression is 
+mediated by NF-κB, primary APP23 mouse neurons were treated with 
+compound C or AICAR and then subjected to subcellular fractionation 
+(Fig. 4e). Treatment with AICAR notably decreased nuclear NF-κB p65 
+levels to 65.0% ± 9.7% (P = 0.0343) compared to the control (Fig. 4f). 
+Additionally, AICAR treatment also reduced cytosolic NF-κB p65 levels 
+to 65.1% ± 8.9% (P = 0.0262) compared to the control (Fig. 4f). These 
+findings indicate that activation of AMPK by AICAR leads to a reduc-
+tion in NF-κB activity by lowering NF-κB p65 levels. Furthermore, we 
+performed a chromatin immunoprecipitation (ChIP) assay, which 
+demonstrated that the suppression of AMPK significantly enhanced 
+the binding of NF-κB p65 to the BACE1 promoter, leading to an increase 
+in BACE1 expression (Fig. 4g). Overall, our results suggest that NF-κB 
+signaling plays a role in mediating the regulatory effect of GLP-1RAs 
+on BACE1 gene expression.
+GLP-1RAs–induced AMPK activation promotes microglial 
+phagocytosis
+We observed that GLP-1RAs, including exendin-4 and tirzepatide, also 
+enhanced AMPK phosphorylation to 124.6% ± 6.1% (P = 0.0132) and 
+129.8% ± 4.0% (P = 0.0056) in the microglial cell line BV2, respectively 
+(Fig. 5a,b). To identify the biological functions influenced by GLP-1RAs 
+in microglia, RNA sequencing (RNA-seq) analyses were performed to 
+detect differentially expressed genes (DEGs) between cells cultured 
+with Aβ oligomers and those pre-treated with exendin-4 before being 
+cultured with Aβ oligomers. Our results showed that exendin-4 treat-
+ment increased the expressions of genes associated with phagocytosis 
+while reducing the expressions of disease-associated microglia (DAM) 
+genes and genes related to inflammation (Fig. 5c). In addition, Gene 
+Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+pathway analyses were performed to further explore the biological pro-
+cess involved. Treatment with exendin-4 enhanced the expressions of 
+b
+c
+e
+a
+40
+70
+70
+–
+–
+–
+–
++
++
+Size
+(kDa)
+NF-κB p65
+Relative Bace1 mRNA level
+Ctrl
+C. C
+AICAR
+BACE1 level (%)
+Ctrl
+C. C
+AICAR
+0
+100
+200
+300
+d
+Ctrl
+C. C
+AICAR
+Nuclear p65 level (%)
+0
+50
+100
+150
+200
+f
+Ctrl
+C. C
+AICAR
+Cytosolic p65 level (%)
+0
+50
+100
+150
+200
+–
+–
+–
+–
++
++
+70
+40
+Size
+(kDa)
+BACE1 promoter activity (%)
+600
+400
+200
+0
+Ctrl
+25
+50
+100
+0.5
+1
+2
+C. C (µM)
+AICAR (mM)
+BACE1
+C. C
+AICAR
+Actin
+C. C
+AICAR
+Nuclear
+Cytosolic
+Actin
+g
+0
+0.5
+1.0
+1.5
+2.0
+2.5
+Relative enrichment
+0
+1
+2
+3
+Ctrl
+AMPK shRNA
+AMPK shRNA
++Helenalin
+P = 0.0011
+P = 0.0003
+P = 0.0061
+P = 0.0026
+P = 0.0013
+P = 0.0277
+P = 0.035
+P = 0.0371
+P = 0.045
+P = 0.0343
+P = 0.0141
+P = 0.0262
+P = 0.0019
+P = 0.0002
+Fig. 4 | AMPK regulation of BACE1 transcription is dependent on NF-κB p65 
+activity. a, The human Bace1 promoter was transfected into N2a cells and treated 
+with different doses of compound C or AICAR. AMPK activity regulated the 
+luciferase activity. n = 3 independent experiments. One-way ANOVA followed 
+by Dunnett’s multiple comparisons test was performed for statistical analysis. 
+Primary mouse neurons were treated with compound C or AICAR. b, RNA was 
+extracted, and qPCR was performed to measure endogenous mouse BACE1 
+mRNA levels. One-way ANOVA followed by Dunnett’s multiple comparisons test 
+was performed for statistical analysis. c,d, Western blot analysis was performed 
+to measure the levels of endogenous BACE1 proteins. n = 3 independent 
+experiments. One-way ANOVA followed by Dunnett’s multiple comparisons 
+test was performed for statistical analysis. e, Primary APP23 mouse neurons 
+were treated with compound C or AICAR for 24 h, followed by cell fractionation. 
+Cytosolic and nuclear fractions were subjected to SDS-PAGE. AMPK activity 
+regulated NF-κB p65 levels in the nuclear and cytosolic fraction (f). n = 3 
+independent experiments. One-way ANOVA followed by Dunnett’s multiple 
+comparisons test was performed for statistical analysis. N2a cells were infected 
+with lentivirus carrying scramble sequence or shRNA sequence targeting AMPK, 
+with or without the administration of helenalin, an inhibitor of NF-κB. g, A 
+ChIP assay was performed to detect the binding of NF-κB with Bace1 promoter. 
+n = 3 independent experiments. One-way ANOVA followed by Tukey’s multiple 
+comparisons test was performed for statistical analysis. All the results are 
+expressed as mean ± s.e.m. C.C, compound C.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+genes related to AMPK signaling pathway (Fig. 5d) and glucose metabo-
+lism, including genes involved in glucose catabolism, gluconeogen-
+esis and glucose transmembrane transport (Fig. 5e). Furthermore, 
+inflammation-related biological processes were also downregulated 
+after exendin-4 treatment (Fig. 5f). To further validate the results of the 
+RNA-seq analyses, we conducted immunocytochemistry (Fig. 5g–i) and 
+western blot analyses (Extended Data Fig. 7). Exendin-4 or tirzepatide 
+significantly increased expressions of cluster of differentiation 68 
+(CD68) (Fig. 5g,h and Extended Data Fig. 7a,b) and lysosomal-associated 
+membrane protein 1 (LAMP1) (Fig. 5g,i and Extended Data Fig. 7a,c) in 
+BV2 cells, two well-established markers for microglial phagocytosis 
+and lysosomal degradation43.
+To further assess whether GLP-1RAs promote microglial phago-
+cytosis, we measured the uptake of carboxyfluorescein (FAM)-labeled 
+Aβ42 (FAM-Aβ42) by BV2 cells. Both exendin-4 and tirzepatide signifi-
+cantly enhanced the phagocytic activity of BV2 cells (Fig. 5j,k). Previous 
+studies demonstrated that GLP-1RAs possess anti-inflammatory prop-
+erties that may be beneficial for treating lung injury44. Our study found 
+that GLP-1RAs also significantly reduced Aβ-induced inflammatory 
+cytokines produced by BV2 cells, including decreases in interleukin 
+(IL)-1β, IL-6 and tumor necrosis factor (TNF) (Extended Data Fig. 8a–c), 
+while increasing the production of the anti-inflammatory cytokine 
+TGF-β (Extended Data Fig. 8d). Moreover, the application of com-
+pound C to inhibit AMPK activity attenuated the effects of GLP-1RAs 
+on neuroinflammation (Extended Data Fig. 8). These results suggest 
+that the anti-inflammatory effects of GLP-1RAs are mediated through 
+AMPK signaling.
+GLP-1RAs regulate BACE1 expression and Aβ production 
+in vivo
+To investigate the effect of GLP-1RAs on AMPK activity and APP pro-
+cessing in vivo, we first assessed AMPK phosphorylation, APP CTFs 
+and Aβ production in the brain of APP23/PS45 mice. APP23/PS45 mice 
+express both the familial AD-associated human Swedish mutant APP751 
+transgene and G384A mutant presenilin-1 (PS1) transgene, and the 
+double transgenic mice developed neuritic plaques in the neocor-
+tex and hippocampus and cognitive impairments34. The mice were 
+administered with exendin-4 (25 nmol kg−1) daily for 8 weeks start-
+ing at 6 weeks of age, whereas age-matched control mice received a 
+vehicle solution. Treatment with exendin-4 significantly increased 
+the levels of phospho-AMPK proteins in the brain to 174.9% ± 20.6% 
+(P = 0.0186) (Fig. 6a,b), which correlated with decreased levels of the 
+β-secretase-generated C99 in both cortex (56.4% ± 3.5%, P = 0.001) 
+and hippocampus (42.7% ± 3.4%, P = 0.0006) compared to controls 
+(Fig. 6c,d). Compared to controls, the cortical levels of Aβ40 and Aβ42 
+in exendin-4-treated mice were reduced to 77.7% ± 5.7% (P = 0.0055) 
+and 81.5% ± 4.3% (P = 0.0034), respectively (Fig. 6e). The hippocampal 
+levels of Aβ40 and Aβ42 in exendin-4-treated mice were also decreased 
+to 75.1% ± 4.9% (P = 0.0009) and 78.1% ± 4.4% (P = 0.0021), respectively 
+(Fig. 6e). These results indicate that enhanced AMPK activity due to 
+GLP-1RA treatment reduces β-secretase cleavage of APP and Aβ pro-
+duction in vivo.
+Furthermore, we investigated whether the expression of BACE1 
+was affected by GLP-1RA treatment in vivo. Western blot analysis 
+revealed that exendin-4 treatment significantly reduced the protein 
+level of BACE1 in both cortex (58.7% ± 2.0%, P = 0.0003) and hippocam-
+pus (62.3% ± 7.1%, P = 0.0102), compared to control mice, with no sig-
+nificant impact on APP protein levels (P > 0.05) (Fig. 6c,d). Our in vitro 
+study demonstrated that GLP-1RAs regulated the transcription of the 
+BACE1 gene. To confirm that the reduction in BACE1 protein levels in 
+the brains of the exendin-4-treated mice was due to decreased BACE1 
+gene transcription, the endogenous Bace1 mRNA levels were measured 
+(Fig. 6f). Exendin-4 treatment markedly reduced Bace1 mRNA level to 
+0.36 ± 0.14 (P = 0.0052), whereas no significant change was observed in 
+the App mRNA level (Fig. 6f). Furthermore, AD mice were injected with 
+exendin-4 in conjunction with compound C to inhibit AMPK activity. 
+The results demonstrated that the inhibition of AMPK activity notably 
+alleviated the impact of exendin-4 on the regulation of BACE1 expres-
+sion and BACE1-mediated amyloidogenic processing of APP in both 
+the cortex and hippocampus (Extended Data Fig. 9). These findings 
+indicate that, in line with the in vitro findings, GLP-1RAs inhibit BACE1 
+gene expression and its β-secretase activity in vivo through the regula-
+tion of AMPK activity.
+GLP-1RAs reduce AD pathology and cognitive deficits in mice
+To investigate the specific effect of GLP-1RAs on AD pathogenesis, 
+4G8 immunostaining and thioflavin S staining were used to detect 
+Aβ-containing neuritic plaques in the brain of APP23/PS45 mice 
+(Fig. 7a). Treatment with exendin-4 significantly decreased plaque 
+numbers to approximately half in APP23/PS45 mice compared to the 
+vehicle-treated group (18.9 ± 1.4 versus 35.2 ± 2.0 per slice, P < 0.0001; 
+Fig. 7b). We further found that exendin-4 treatment markedly reduced 
+the levels of pro-inflammatory cytokines in mouse brains, with IL-1β, 
+IL-6 and TNF levels decreasing to 83.3% ± 1.8% (P = 0.0008), 70.0% ± 2.5% 
+(P < 0.0001) and 48.1% ± 2.4 (P < 0.0001), respectively (Extended Data 
+Fig. 10a–d). In addition, there was an increase in CD68 expression with 
+the treatment of exendin-4 (Extended Data Fig. 10e,f). To assess the 
+impact of exendin-4 treatment on cognitive deficits, we conducted a 
+Morris water maze test after 8 weeks of exendin-4 treatment in APP23/
+PS45 mice. In the visible platform trials, both exendin-4-treated and 
+control APP23/PS45 mice exhibited similar escape latencies (29.2 ± 1.5 s 
+versus 28.8 ± 1.8 s, P = 0.8691) (Fig. 7c) and path lengths (4.5 ± 0.2 m 
+versus 3.9 ± 0.4 m, P = 0.2525) (Fig. 7d), indicating that exendin-4 treat-
+ment did not affect mouse mobility or visual acuity. During the hid-
+den platform trials, mice treated with exendin-4 showed significant 
+improvements compared to the vehicle-treated controls. The escape 
+latencies on the fourth and fifth days of the hidden platform trials were 
+shorter (30.2 ± 2.9 s and 29.9 ± 2.8 s) for the exendin-4-treated mice than 
+that of the vehicle-treated mice (40.0 ± 2.8 s and 42.3 ± 2.8 s) (Fig. 7e). 
+In addition, the exendin-4-treated mice swam shorter distances to 
+reach the platform compared to the control mice on the fourth day 
+(2.8 ± 0.3 m versus 5.3 ± 0.6 m, P = 0.0007) (Fig. 7f). In the probe trial 
+on the final testing day, when the platform was removed, exendin-4 
+treatment notably improved the spatial memory in the APP23/PS45 
+Fig. 5 | GLP-1RAs promote microglial phagocytosis and inhibit 
+neuroinflammation. BV2 cells were treated with exendin-4 or tirzepatide for 
+24 h. a,b, Western blot analysis was performed for detecting phosphorylated 
+AMPK and total AMPK levels. β-actin was detected by anti-actin antibody  
+AC-15 as the internal control. n = 3 independent experiments. One-way  
+ANOVA followed by Dunnett’s multiple comparisons test was performed for 
+statistical analysis. BV2 cells cultured with Aβ oligomers or pre-treated with 
+exendin-4 before being cultured with Aβ oligomers. After RNA extraction,  
+the samples were used for the RNA-seq analyses. c, DEGs were measured  
+by using DESeq2 (version 1.40.2) with the default parameters. d–f, GO and  
+KEGG pathway analyses were performed to explore the biological process.  
+Total samples = 6. One-sided hypergeometric test was used, and the  
+Benjamini–Hochberg method was employed to control the false discovery rate 
+for multiple comparisons. BV2 cells were treated with exendin-4 or tirzepatide 
+for 24 h. g–i, Immunocytochemistry was performed. Images were acquired 
+using a Zeiss microscope. Scale bar, 20 μm. n = 6 images from three independent 
+experiments for quantifications. One-way ANOVA followed by Dunnett’s 
+multiple comparisons test was performed for statistical analysis. j,k, The uptake 
+of FAM-labeled Aβ42 (FAM-Aβ42) by BV2 cells was measured. Scale bar, 20 μm. 
+n = 8 images from three independent experiments for quantifications. One-way 
+ANOVA followed by Dunnett’s multiple comparisons test was performed for 
+statistical analysis. All the results are expressed as mean ± s.e.m. BP, biological 
+process; EX-4, exendin-4; TZP, tirzepatide.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Group
+Ctrl
+EX-4
+Max
+Min
+Group
+a
+b
+c
+EX-4
+Merge
+CD68
+DAPI
+BF
+Merge
+DAPI
+BF
+LAMP1
+i
+h
+FAM-Aβ42
+FAM-Aβ42
+FAM-Aβ42
+Merge
+Merge
+Merge
+TZP
+Ctrl
+EX-4
+d
+f
+Inflammatory response
+Neuroinflammatory response
+Positive regulation of acute
+inflammatory response
+Regulation of cytokine
+production involved in
+inflammatory response
+Regulation of inflammatory
+response
+2,500
+5,000
+7,500 10,000
+–2
+–1
+0
+1
+–0.6
+–0.4
+–0.2
+0
+Rank in ordered dataset
+Ranked list
+metric
+Running enrichment
+score
+Inflammation-related BP
+One carbon pool by folate
+Antifolate resistance
+Biosynthesis of amino acids
+Glucagon signaling pathway
+Small cell lung cancer
+Lysosome
+Cell cycle
+Spliceosome
+1.5
+2.0
+2.5
+3.0
+3.5
+–log10(Padj)
+0
+0.02
+0.04
+0.06
+GeneRatio
+Ribosome biogenesis in eukaryotes
+Group
+Rac1
+Syk
+Atg7
+Ctsd
+Lamp1
+Fyn
+Tgfbr2
+Tyrobp
+Cdc42
+Jak2
+Mapk3
+Il18
+Ccl5
+Ptgs2
+Cd86
+Cxcl10
+Il1b
+Ccl4
+Ccl2
+Il6
+Cxcl12
+Nlrp3
+Cd44
+Clec7a
+Gpnmb
+Itgax
+Group
+Ctrl
+EX-4
+Max
+Min
+Phagocytosis
+Inflammation
+DAM
+Ctrl1
+Ctrl2
+Ctrl3
+EX-4 1
+EX-4 2
+EX-4 3
+Relative
+expr.
+g
+Relative
+expr.
+j
+k
+Ctrl
+TZP
+EX-4
+Ctrl
+TZP
+40
+70
+70
+Size
+(kDa)
+p-AMPK/t-AMPK
+ratio (%)
+TZP
+EX-4
+Ctrl
+TZP
+EX-4
+Ctrl
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+0
+50
+100
+150
+AMPK signaling
+e
+Glucose metabolism-related BP
+Cellular response to
+glucose starvation
+Glucocorticoid receptor
+signaling pathway
+Gluconeogenesis
+Glucose cetabolic process
+Negative regulation of
+glucose transmembrane
+transport
+2,500
+5,000
+7,500
+10,000
+Rank in ordered dataset
+–2
+–1
+0
+1
+–0.6
+–0.3
+0
+0.3
+0.6
+Running enrichment score
+Ranked list metric
+0
+100
+TZP
+EX-4
+Ctrl
+TZP
+EX-4
+Ctrl
+TZP
+EX-4
+Ctrl
+200
+300
+400
+CD68 mean intensity
+/cell (%)
+LAMP1 mean intensity
+/cell (%)
+0
+50
+100
+150
+200
+250
+0
+5
+10
+15
+20
+Phagocytic cells (%)
+P = 0.0132
+P = 0.0056
+P < 0.0001
+P = 0.0004
+P < 0.0001
+P < 0.0001
+P < 0.0001
+P < 0.0001
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+mice, as evidenced by the increased number of entries into the third 
+quadrant, where the hidden platform was previously located (3.7 ± 0.7 
+times versus 1.6 ± 0.4 times, P = 0.0143) (Fig. 7g). These results demon-
+strate that GLP-1RA treatment significantly ameliorated the cognitive 
+impairments of the AD model mice.
+Discussion
+GLP-1RAs are known to regulate peripheral glucose and lipid 
+metabolism45,46. However, their effect on energy metabolism within 
+the brain and AD remains elusive. In the present study, we observed a 
+significant negative correlation between peripheral GLP-1 levels and 
+brain amyloid load in patients with AD. Lower levels of GLP-1 during 
+AD were associated with impaired glucose uptake, decreased FAO and 
+reduced ATP synthesis in brain cells. Notably, the administration of 
+GLP-1RAs (exendin-4 and tirzepatide) to enhance GLP-1 signaling effec-
+tively restored the disturbed energy metabolism in AD brains, consist-
+ent with a report that liraglutide and thapsigargin restored OXPHOS 
+and glycolysis in dopaminergic-like neurons under chronic ER stress47. 
+Mechanistically we found that GLP-1RAs promoted CaMKK2-induced 
+activation of AMPK, a key cellular energy sensor, resulting in decreased 
+Aβ production by neurons and an increase in Aβ phagocytosis by micro-
+glia. Consequently, treatment with GLP-1RAs significantly inhibited 
+neuritic plaque formation and improved cognitive deficits in the AD 
+model mice (Fig. 7h).
+GLP-1RAs are synthetic analogs of GLP-1, a gut-derived peptide 
+hormone that plays a vital role in lowering blood glucose levels48. 
+This effect is achieved through the stimulation of insulin secretion 
+in response to an oral glucose intake, a process known as the incre-
+tin effect49. Unlike natural GLP-1 peptides, these synthetic analogs 
+are designed to resist degradation by the enzyme dipeptidyl pepti-
+dase 4 (DPP-4) for a prolonged half-life50. Exendin-4, a 39-amino-acid 
+agonist of the GLP-1R derived from the saliva of the Gila monster 
+(Heloderma suspectum)51, has been clinically approved for the treat-
+ment of insulinoma and T2DM52. Tirzepatide, a dual GIP/GLP-1RA, 
+was recently approved by the US Food & Drug Administration for 
+T2DM management37. Beyond their glucose-lowering effects, GLP-1RAs 
+also modulate the release of various neurotransmitters, including 
+serotonin, dopamine, GABA and glutamate, which may influence 
+a
+f
+b
+c
+d
+e
+Ctrl
+EX-4
+Ctrl
+EX-4
+Ctrl
+EX-4
+Ctrl
+EX-4
+Ctrl
+EX-4
+Size
+(kDa)
+Size
+(kDa)
+p-AMPK/t-AMPK ratio (%)
+Protein level (%)
+Protein level (%)
+Protein level (%)
+Protein level (%)
+Relative mRNA level
+EX-4
+Saline
+p-AMPK
+(Thr172)
+t-AMPK
+Actin
+70
+70
+40
+70
+15
+40
+150
+Cortex
+Hippocampus
+EX-4
+Ctrl
+Ctrl
+EX-4
+Actin
+C99
+C89
+BACE1
+APP
+Cortex
+Hippocampus
+Saline
+EX-4
+Cortex
+Hippocampus
+APP
+BACE1
+C99
+C99
+BACE1
+APP
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0
+0.5
+1.0
+1.5
+2.0
+Aβ40
+Aβ42
+Aβ40
+Aβ42
+App
+Bace1
+P = 0.0186
+P = 0.3533
+P = 0.0003
+P = 0.001
+P = 0.0896
+P = 0.0102
+P = 0.0006
+P = 0.0055
+P = 0.0034
+P = 0.0009
+P = 0.0021
+P = 0.4468
+P = 0.0052
+Fig. 6 | GLP-1RAs inhibit BACE1 cleavage of APP and Aβ production in vivo. 
+Hemi-brains from exendin-4-treated and control APP23/PS45 mice (n = 36 
+mice total) were homogenized in RIPA-Doc lysis buffer and separated with 8% 
+Tris-glycine or 16% Tris-tricine SDS-PAGE. Phosphorylated AMPK and total 
+AMPK levels (a and b) as well as full-length APP, APP CTFs (C99 and C89) and 
+endogenous BACE1 levels were detected (c and d). β-actin was detected by anti-
+actin antibody AC-15 as the internal control. A two-tailed Student’s t-test was 
+performed for statistical analysis. e, ELISA was performed to measure Aβ40 and 
+Aβ42 levels from the brain tissues of APP23/PS45 mice injected with or without 
+exendin-4. n = 10 for each group. A two-tailed Student’s t-test was performed for 
+statistical analysis. Total RNA was isolated from APP23/PS45 mouse cortices.  
+f, Sets of gene-specific primers were used to amplify App and Bace1 genes. qPCR 
+was performed. β-actin was used as an internal control. n = 4 for each group.  
+A two-tailed Student’s t-test was performed for statistical analysis. All the results 
+are expressed as mean ± s.e.m. EX-4, exendin-4.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+a
+0
+20
+40
+60
+b
+c
+0
+20
+40
+60
+d
+0
+2
+4
+6
+8
+10
+0
+20
+40
+60
+EX-4
+Saline
+EX-4
+Saline
+80
+e
+0
+5
+10
+15
+f
+g
+0
+2
+4
+6
+8
+10
+h
+Escape latency (s)
+Path length (m)
+Passing times
+Escape latency (s)
+Path length (m)
+Plaque number
+Saline
+EX-4
+Saline
+EX-4
+Saline
+EX-4
+Saline
+EX-4
+Saline
+EX-4
+Day 2
+Day 3
+Day 4
+Day 5
+Day 2
+Day 3
+Day 4
+Day 5
+P = 0.2525
+P < 0.0001
+P = 0.8691
+P = 0.0143
+P = 0.0144
+P = 0.0168
+P = 0.0007
+Neuron
+BACE1
+GLUT3
+Glucose
+Ca2+
+C99
+AMPK
+P
+CaMKK2
+NF-κB
+D1
+APP
+IL-6
+CD68
+LAMP1
+IL-1β
+TNF
+AMPK
+P
+Microglia
+GLP-1R
+Aβ phagocytosis
+Aβ production
+Nucleus
+NF-κB
+Promoter
+Bace1
+ATP
+Cognitive function
+GLP-1RAs
+Astrocyte
+Fatty acid 
+AMPK
+P
+GLP-1R
+ATP production
+Pyruvate
+Glycolysis
+Energy supply
+Aβ clearance
+GLP-1R
+ROS
+TCA cycle
+FAO 
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+cognitive function53–56. Our research revealed that both exendin-4 and 
+tirzepatide significantly reduced Aβ plaque formation and improved 
+cognitive deficit in AD model mice. These results are consistent 
+with previous studies indicating that liraglutide, another GLP-1 RA, 
+enhances the population of hippocampal CA1 neurons, decreases Aβ 
+levels and inhibits tau tangle formation, leading to cognitive improve-
+ment in animal models31,57,58.
+As anti-diabetic medications, GLP-1RAs achieve glycemic control 
+through various metabolic and energy-regulating mechanisms59, and 
+a recent study showed that GLP-1RA has a protective effect on kidney 
+tubular by enhancing AMPK signaling, further activating FAO and 
+inhibiting lipid synthesis and glycolysis60. The effects of AMPK on 
+metabolism can be categorized into two main functions: inhibiting ana-
+bolic processes to reduce ATP consumption and stimulating catabolic 
+processes to enhance ATP production61. During energy stress, activated 
+AMPK promotes glucose uptake and lipid oxidation to generate energy 
+while simultaneously shutting down energy-consuming processes, 
+such as glucose and lipid synthesis, thereby restoring energy balance 
+and maintaining homeostasis62. It was reported that AMPK inhibits 
+tau phosphorylation and aggregation by either inhibiting GSK3β or 
+facilitating tau deacetylation through the activation of SIRT1 (ref. 63). 
+In addition, activation of AMPK by metformin improves mitochondrial 
+function and cognitive deficits in AD models64. However, the impact 
+of GLP-1RAs on AMPK activity and energy metabolism in brain cells 
+remains largely unknown.
+Reduced energy metabolism is an early feature of AD65,66. In our 
+study, we found that exendin-4 and tirzepatide enhance CaMKK2- 
+induced AMPK activation in brain cells. Deficiencies in glucose trans-
+porters, such as GLUT1 or GLUT3, can lead to impaired glucose uptake 
+and metabolism in the brain, which may contribute to neurodegen-
+eration67. Previous studies indicated the potential impact of GLP-1RAs 
+on the expression of GLUT3 (refs. 68–70). In our study, we further 
+found that activation of AMPK by GLP-1RAs elevated GLUT3 levels 
+and facilitated its translocation to the membranes of neurons. This 
+process resulted in enhanced glucose uptake by neurons, leading to 
+increased glycolysis and OXPHOS for ATP synthesis. Furthermore, 
+the increase in AMPK activity induced by GLP-1RA was associated 
+with elevated expression of PGC-1α, a key regulator that stimulates 
+mitochondrial biogenesis and enhances mitochondrial functions71. 
+Mitochondrial dysfunction was implicated in AD pathogenesis72. Our 
+findings indicated that GLP-1RA-induced AMPK activation also pro-
+moted FAO, leading to increased ATP production in astrocytes from 
+AD model mice. AMPK plays a key role in the regulation of ketone 
+bodies (KBs) derived from fatty acids in the astrocytes73. These KBs 
+are transported to neurons via a monocarboxylate transporter and 
+may serve as a direct antioxidant, thereby reducing mitochondrial 
+ROS production74,75. Consistent with these findings, we found that 
+exendin-4 significantly alleviated the AD-induced increase in ROS via 
+phosphorylating AMPK, suggesting its potential in curbing excessive 
+OXPHOS. The implication of this enhanced energy metabolism in 
+astrocytes, as well as its potential impact on the astrocyte–neuron 
+energy shuttle and its protective effects against fatty acid toxicity in 
+neurons, warrants further investigations.
+AMPK activity is reduced in the brains of patients suffering from 
+AD76. This reduction facilitates the plaque and tangle formation, altera-
+tions in metabolic signaling and inflammation in the development of 
+AD77. Leptin has been shown to decrease β-secretase activity and lower 
+Aβ levels in vitro as well as to reduce Aβ accumulation in AD animal 
+models, with these effects being at least partially mediated by AMPK78. 
+Previous studies found that GLP-1RAs and GLP-1/GIP receptor agonists 
+have an impact on the expression and activity of BACE1 (refs. 79,80). 
+We found that GLP-1RAs reduced BACE1 expression at the transcription 
+level through AMPK activation. Our previous study demonstrated that 
+NF-κB transcriptionally upregulates BACE1 gene expression35,42. In the 
+present study, we found that GLP-1RA-induced AMPK activation sig-
+nificantly reduced NF-κB p65 levels in the nuclear fraction of primary 
+neurons. This phenomenon was also observed in the brains of mice 
+with Parkinson’s disease81. The cAMP/PKA/CREB and AKT signaling 
+pathways are critical downstream effectors of GLP-1 signaling, regulat-
+ing cellular metabolism and cell survival82. Our findings demonstrate 
+that these two signaling pathways interact and cross-talk with AMPK 
+to coordinately regulate BACE1 expression, providing insights into the 
+molecular mechanisms underlying GLP-1-mediated effects. In addition, 
+AMPK was identified as a crucial factor in facilitating the polariza-
+tion of microglia from a pro-inflammatory to an anti-inflammatory 
+phenotype83. We observed that GLP-1RA-induced AMPK activation 
+in microglia inhibited the inflammation and, importantly, promoted 
+phagocytosis. Furthermore, GLP-1RAs increased the expressions of 
+CD68 and LAMP1, the markers associated with phagocytosis and lysoso-
+mal degradation43. Enhancement of microglial phagocytosis to reduce 
+Aβ level could be a valid avenue for treatment of AD84.
+GLP-1RAs have emerged as a promising therapeutic strategy for 
+AD85. In this study, we demonstrate their beneficial effects on AD. 
+More importantly, we demonstrate GLP-1RAs as activators of AMPK in 
+regulating energy metabolism and the function of brain cells to inhibit 
+BACE1-mediated amyloidogenesis and cognitive impairments. This 
+regulation serves as a key mechanism underlying their therapeutic 
+effects on AD. Our findings provide valuable insights into the poten-
+tial of GLP-1RAs as a therapeutic approach for AD and offer a timely 
+mechanistic foundation to support further clinical trials.
+Methods
+Study approval
+For human studies, written informed consent was obtained from all 
+participants without any compensation. The study was approved by 
+the Ethics Committee of the First Affiliated Hospital of Dalian Medical 
+University (PJ-KS-KY-2023-149). Animals were cared for in accordance 
+with the Guidelines and Principles of Laboratory Animal Care and the 
+standard procedures established by the Ethics Committee of Wenzhou 
+Medical University (wydw2022-0563). All animal experimental proto-
+cols were conducted in accordance with the regulations of the Institu-
+tional Animal Care and Use Committee of Wenzhou Medical University.
+Sex as a biological variable
+Our study examined male and female patients and animals, and similar 
+findings are reported for both sexes.
+Fig. 7 | Exendin-4 treatment significantly reduces neuritic plaque formation 
+and improves memory deficits in AD transgenic mice. Neuritic plaques  
+were detected using 4G8 antibody and thioflavin S fluorescent staining.  
+a, Representative brain sections of the control and exendin-4-injected APP23/
+PS45 mice. White arrows point to plaques. Scale bar,100 μm. b, Quantification 
+of neuritic plaques; the number represents mean ± s.e.m., n = 30 mice total, 
+two-tailed Student’s t-test. A Morris water maze test was conducted (n = 36: 18 
+exendin-4 treated and 18 sham treated). During the first day of visible platform 
+tests, the exendin-4-treated and control APP23/PS45 mice exhibited a similar 
+latency (c) and swimming distances (d) to escape onto the visible platform. 
+P > 0.05, Student’s t-test. In hidden platform tests, mice were trained with five 
+trials per day for 4 d. APP23/PS45 mice treated with exendin-4 showed a shorter 
+latency to escape onto the hidden platform on the third and fourth days (e) and 
+a shorter swimming length before escaping onto the hidden platform on the 
+fourth days (f). Tukey’s post hoc analysis was performed for statistical analysis. 
+g, In the probe trial on the sixth day, the APP23/PS45 mice treated with exendin-4 
+traveled into the third quadrant, where the hidden platform was previously 
+placed, significantly more times than controls. Student’s t-test was performed 
+for statistical analysis. h, Summary graph. All the results are expressed as 
+mean ± s.e.m.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Patients with AD and 18F-AV45 PET
+AD was diagnosed by at least two specialists, following the criteria of the 
+National Institute of Neurological and Communicative Disorders and 
+Stroke (NINCDS)–Alzheimer's Disease and Related Disorders Associa-
+tion (ADRDA). All participants underwent a comprehensive collection 
+of medical history and clinical examination of the nervous system. 
+Patients were excluded based on the following criteria: (1) clinical 
+conditions such as diabetes mellitus, epilepsy, stroke or long-term use 
+of medications known to cause progressive cognitive dysfunction; (2) 
+Hachinski Ischemic Score (HIS) > 4 points, Hamilton Anxiety Rating 
+Scale (HAMA) score ≥ 7 points and Hamilton Depression Rating Scale 
+(HAMD) score ≥ 7 points; and (3) presence of severe heart, liver, lung, 
+kidney or other organ diseases. A total of 12 patients with AD (six males 
+and six females) underwent an 18F-AV45 PET/MR scan (United Imaging). 
+The 18F-AV45 imaging agent was synthesized by the AllinOne module 
+(Trasis), with the 18F labeling of its corresponding precursor by the 
+Department of Nuclear Medicine of the First Affiliated Hospital of 
+Dalian Medical University. Changes in Aβ load in each brain area were 
+quantitatively analyzed by using NeuroQ software (version 3.7).
+ELISA quantification of human plasma GLP-1 concentrations
+Twenty micoliters of dipeptidyl peptidase IV (DDP IV) inhibitor 
+(Millipore Sigma, cat. no. DPP4-010) was added into the EDTA tubes to 
+inhibit the degradation of GLP-1. Blood samples were obtained from 
+each patient under fasting conditions and subsequently subjected 
+to centrifugation at 1,000g for 10 min. The plasma was aliquoted, 
+immediately frozen and kept at −80 °C. Plasma concentration of GLP-1 
+was determined by a human GLP-1 ELISA kit (Thermo Fisher Scientific, 
+cat. no. EH221RB).
+Cell culture, transfection and treatment
+Cells were cultured at 37 °C in an incubator with 5% CO2. HEK293 
+(human embryonic kidney), N2a (mouse neuroblast) and BV2 (mouse 
+microglial) cells were maintained in high-glucose DMEM (Cytiva, cat. 
+no. SH30243.01) supplemented with 10% FBS (Gibco, cat. no. 12483020) 
+and 100 U ml−1 penicillin–streptomycin (Gibco, cat. no. 15140122). 
+Transfection was carried out using polyethylenimine (MedChemEx-
+press, cat. no. HY-K2014) for HEK cells and Lipofectamine 2000 reagent 
+(Invitrogen, cat. no. 11668019) for N2a cells as previously described86. 
+The 20E2 cell line is a Swedish mutant APP695 stable HEK293 cell line 
+cultured in complete DMEM with 50 μg ml−1 geneticin. For the treat-
+ment, HEK cells and N2a cells were transfected in a 6-cm master plate 
+and then split into 4 × 35-mm plates 4 h after transfection, maintained 
+overnight (16 h) before treatment. Primary neurons were derived from 
+WT and APP23 mice at E17 and cultured in neurobasal medium (Gibco, 
+cat. no. 21103049) supplemented with B27 (Gibco, cat. no. 17504044) 
+and GlutaMAX (Gibco, cat. no. 35050061). Primary astrocytes were 
+also derived from WT and APP23 mice at E17 and were maintained in 
+high-glucose DMEM. The culture medium was enriched with 10% FBS 
+(Gibco, cat. no. 10270106). Primary neurons were infected with lentivi-
+rus carrying scramble sequence or shRNA sequence targeting GLP-1R 
+or AMPK. Cells were treated with Aβ42 peptide (Millipore Sigma, cat. 
+no. PP69), exendin-4 (Millipore Sigma, cat. no. 141758-74-9), tirzepatide 
+(Selleck Chemicals, cat. no. LY3298176), compound C (Sigma-Aldrich, 
+cat. no. 171260), AICAR (Sigma-Aldrich, cat. no. A9978), helenalin 
+(MedChemExpress, cat. no. HY-119970) or STO609 (MedChemExpress, 
+cat. no. HY-19805).
+Preparation of Aβ oligomers
+The lyophilized Aβ42 peptide was first monomerized by dissolving 
+it to a final concentration of 1 mM in 100% hexafluoroisopropanol 
+(HFIP). The HFIP was subsequently evaporated under vacuum using 
+a SpeedVac, and the resulting peptide film was stored at −20 °C. For 
+oligomeric Aβ, the peptide film was resuspended in dimethyl sulfoxide 
+(DMSO), followed by ultrasonic treatment in a water bath for 10 min. 
+The solution was then diluted to a final concentration of 100 μM in 
+cold phenol-free F-12 cell culture media and incubated at 4 °C for 24 h.
+Luciferase assay
+BACE1 promoter construct pB1-luc (−1,942 to +292) was transfected 
+into N2a cells, along with the Renilla (sea pansy) luciferase vector 
+pCMV-Rluc for normalization of transfection efficiency. A luciferase 
+assay was conducted 48 h after transfection using the Dual-Luciferase 
+Reporter Assay System (Promega).
+ChIP
+A ChIP assay was conducted using a Pierce agarose ChIP kit (Thermo 
+Fisher Scientific, cat. no. 26156). N2a cells were cross-linked in 1% for-
+maldehyde (Sigma-Aldrich, cat. no. 252549), and DNA was fragmented 
+to 200–600 bp in length through enzyme digestion. Each 500 μl of 
+sheared chromatin was immunoprecipitated using 5 μl of monoclo-
+nal anti-NF-κB p65 (Cell Signaling Technology, cat. no. 8242S) or IgG 
+control overnight at 4 °C. Input and immunoprecipitated samples 
+were digested with proteinase K to reverse the cross-linking at 65 °C 
+for 90 min. DNA was purified and further analyzed through quantita-
+tive polymerase chain reaction (qPCR) by using the primers against 
+the BACE1 promoter.
+qPCR analysis
+RNA was isolated using a FastPure Cell/Tissue Total RNA Isolation 
+Kit v2 (Vazyme, cat. no. RC112-01). A HiScript III 1st Strand cDNA 
+Synthesis Kit (Vazyme, cat. no. R312-01) was used to synthesize 
+the first-strand cDNA following the manufacturer’s instructions. 
+cDNA was added to a reaction mix (20 μl final volume) containing 
+gene-specific primers and Taq Pro Universal SYBR qPCR Master Mix 
+(Vazyme, cat. no. Q712). All samples were run in duplicates and were 
+analyzed with LightCycler 480 System. The relative gene expression 
+was normalized to Actin controls. Primer sequences and informa-
+tion are as follows: BACE1 forward 5′-GGAACCCATCTCGGCATCC 
+and reverse 5′-TCCGATTCCTCGTCGGTCTC; APP forward 5′-TCCG 
+AGAGGTGTGCTCTGAA and reverse 5′-CCACATCCGCCGTAAAAGAATG; 
+ACTIN forward 5′-CATTGCTGACAGGATGCAGAAGG and reverse 
+5′-TGCTGGAAGGTGGACAGTGAGG.
+Immunoblot analysis
+Brain tissues or cells were homogenized in RIPA lysis buffer (1% Tri-
+ton X-100, 1% sodium deoxycholate, 4% SDS, 0.15 M NaCl, 0.05 M 
+Tris-HCl, pH 7.2), supplemented with sodium orthovanadate (200 mM), 
+β-glycerophosphate (25 mM), sodium pyrophosphate (20 mM), sodium 
+fluoride (30 mM), phenylmethylsulfonyl fluoride (PMSF, 1 mM) and a 
+complete Mini Protease Inhibitor Cocktail Tablet (Roche Diagnostics, 
+cat. no. 04693159001)35. The samples were diluted in 4× SDS sam-
+ple buffer, boiled and resolved on 10% or 12% Tris-glycine SDS-PAGE 
+or 16% Tristricine SDS-PAGE, followed by transfer to nitrocellulose 
+membranes. For immunoblot analysis, membranes were blocked for 
+1 h in PBS containing 5% nonfat dried milk, followed by overnight incu-
+bation at 4 °C in primary antibodies with shaking. Rabbit anti-APP 
+C-terminal polyclonal antibody C20 was used to detect APP and its 
+CTF products. BACE1 was detected with the anti-BACE1 antibody 208 
+recognizing the C-terminal end (Abcam, cat. no. ab183612; 1:1,000). 
+Total AMPK was determined using a rabbit anti-AMPKα antibody (Cell 
+Signaling Technology, cat. no. 2532S; 1:1,000). Phosphorylated AMPK 
+was determined using a rabbit anti-phospho-AMPKα (Thr172) antibody 
+(Cell Signaling Technology, cat. no. 2535S; 1:1,000). The NF-κB p65 
+subunit was determined using mouse anti-p65 (Sigma-Aldrich, cat. no. 
+8242S; 1:1,000). GLP-1Rs were determined using mouse monoclonal 
+anti-GLP-1R antibody (Santa Cruz Biotechnology, cat. no. sc-390774; 
+1:500). CaMKK2 and LKB1 expressions were determined using rabbit 
+anti-CaMKK2 antibody (Cell Signaling Technology, cat. no. 16810S; 
+1:1,000) and rabbit anti-LKB1 antibody (Thermo Fisher Scientific, cat. 
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+no. PA5-96062; 1:500), respectively. CD68 was determined by rab-
+bit anti-CD68 antibody (Proteintech, cat. no. 28058-1-AP; 1:1,000). 
+LAMP1 was determined by rabbit anti-LAMP1 antibody (Cell Signaling 
+Technology, cat. no. 99437S; 1:1,000). GLUT3 and PGC-1α were deter-
+mined by rabbit polyclonal anti-GLUT3 antibody (Proteintech, cat. no. 
+20403-1-AP; 1:1,000) and mouse monoclonal anti-PGC-1α antibody 
+(Proteintech, cat. no. 66369-1-Ig; 1:1,000). Internal control β-actin was 
+analyzed using monoclonal antibody AC-15 (Sigma-Aldrich, cat. no. 
+A5441; 1:8,000). The next day, membranes were incubated with IRDye 
+680-labeled or IRDye 800CW-labeled secondary antibodies (LI-COR 
+Biosciences) for 1 h at room temperature. The membranes were then 
+visualized using the LI-COR imaging system.
+ELISA measurement for Aβ, mouse GLP-1 and inflammatory 
+cytokines
+HEK293 cells stably expressing the human APP gene with the Swedish 
+mutation were cultured in medium supplemented with 1% FBS. After 
+24 h of exendin-4 treatment, with or without the AMPK inhibitor com-
+pound C, conditioned medium was collected, and protease inhibitors 
+along with AEBSF (Roche Diagnostics, cat. no. 101500) were added to 
+prevent Aβ peptide degradation. Cortical tissues from APP23/PS45 
+double transgenic mouse were prepared following the manufacturer’s 
+protocol before performing the ELISA protocol. The concentrations of 
+Aβ40 and Aβ42 were measured using an Aβ1–40 or Aβ1–42 Colorimetric 
+ELISA kit (Invitrogen, cat. nos. KHB3544 and KHB3481), in accordance 
+with the manufacturer’s guidelines. The plasma concentration of GLP-1 
+in 12-week-old APP23/PS45 and WT mice was measured using a mouse 
+GLP-1 ELISA kit (Elabscience, cat. no. E-EL-M3012). BV-2 microglial con-
+ditioned medium was collected and centrifuged to remove particulates. 
+APP23/PS45 double transgenic mouse cortical tissues were prepared 
+according to the manufacturer’s instructions. Levels of TNF (Elabsci-
+ence, cat. no. E-EL-M3063), IL-6 (Elabscience, cat. no. E-EL-M0044), 
+IL-1β (Elabscience, cat. no. E-EL-M0037) and TGF-β (Multi Sciences, 
+cat. no. 70-EK981-96) in the culture medium or mouse cortical tissues 
+were quantified using commercial ELISA kits.
+Assessment of mitochondrial OXPHOS
+The OCR was evaluated using a Seahorse XF96 flux analyzer (Agilent 
+Technologies) in conjunction with the Seahorse XF Cell Mito Stress Test 
+kit (Agilent Technologies, cat. no. 103015-100). Primary astrocytes and 
+neurons isolated from APP23 mice were seeded with sequential injec-
+tions of oligomycin (2 μM), FCCP (2 μM) and rotenone/antimycin A 
+(R/A) (1 μM) to measure the OCR. To evaluate FAO, cells were incubated 
+with Seahorse assay medium supplemented with palmitate (167 μM) 
+and etomoxir (40 μM, HY-50202), an irreversible inhibitor of FAO.
+Assessment of ECAR
+The ECAR was measured like OCR in a Seahorse XF96 extracellular flux 
+analyzer (Agilent Technologies), except that the neuronal medium 
+was replaced with the XF DMEM (pH 7.4) medium without glucose, 
+glutamine and pyruvate. After 1-h incubation in a CO2-free incubator at 
+37 °C, ECAR was measured by sequentially injecting glucose, oligomy-
+cin and 2-deoxyglucose (2-DG). Basal glycolysis and glycolytic capacity 
+were calculated and normalized to the concentration of protein in 
+each corresponding microplate well measured by BCA protein assay 
+(Thermo Fisher Scientific, cat. no. A55864).
+Glucose uptake assay
+To assess 2-DG uptake, the Glucose Uptake-Glo Assay (Promega, cat. 
+no. J1341) was performed. Primary neurons were cultured on coverslips 
+pre-coated with 10% poly-d-lysine (Solarbio, cat. no. P2100). After treat-
+ment, the cells were washed twice with PBS and then incubated with 
+1 mM 2-DG at room temperature for 10 min, followed by the sequential 
+addition of stop buffer, neutralization buffer and detection buffer. 
+Luminescence was measured using a plate reader (GloMax system).
+ATP production assay
+Neuronal ATP levels were measured using an ATP Assay Kit (Abcam, 
+cat. no. ab83355). After the cells were washed with PBS twice, 100 μl 
+of lysis buffer was added to each tube, which was then kept on ice. The 
+lysate was centrifuged at 13,000g for 5 min at 4 °C. The supernatant was 
+transferred to a new 1.5-ml tube for the ATP assay using the detection 
+kit. The relative ATP level was calculated according to the following 
+formula: relative ATP level = ATP value / protein value (nmol mg−1).
+ROS measurements
+Changes in ROS levels were measured using a Cellular ROS Assay Kit 
+(Abcam, cat. no. ab186027). In brief, primary neurons were plated onto 
+24-well confocal dishes that had been pre-coated with poly-d-lysine. 
+After treatment with 1 μM exendin-4 for 24 h, the cells were washed 
+once using PBS. Subsequently, 200 μl of ROS Red Stain working solu-
+tion was added to each well, and the dishes were incubated for 30 min 
+at 37 °C, protected from light. After incubation, the staining results 
+were observed under a fluorescence microscope (excitation/emission 
+(Ex/Em) = 520/605 nm).
+Intracellular pyruvate quantification
+Pyruvate was measured with a Pyruvate Assay Kit (Abcam, cat. no. 
+ab65342). In brief, primary neurons were collected in assay buffer and 
+exposed to a master mix with pyruvate oxidase, producing a fluorescent 
+signal (Ex/Em = 535/587 nm) that directly reflected pyruvate levels. To 
+inhibit the conversion of pyruvate to lactate, the samples were depro-
+teinized using a 10-kDa cutoff spin filter (Pierce, cat. no. 88513). The 
+pyruvate levels were then determined using a standard curve.
+Phagocytosis assays
+BV2 cells were treated with 1 μM exendin-4 or 0.5 μM tirzepatide for 
+24 h and then exposed to 10 μM cytochalasin D (MedChemExpress, cat. 
+no. HY-N6682) or left untreated for 30 min, followed by 1-h incubation 
+with 500 nM FAM-Aβ1–42 (AS-23525-05) oligomers. After treatment, 
+cells were washed and fixed using 4% paraformaldehyde (PFA). The 
+phagocytosis of FAM-labeled oAβ1–42 in BV2 cells was quantified 
+through Leica confocal microscopy. The phagocytosis capacity was 
+quantified by calculating the ratio of the cumulative fluorescent signal 
+areas to the total count of phagocytic cells.
+Live Fluo-4 AM calcium imaging
+The measurement of intracellular calcium ion levels in neurons was 
+facilitated by the Fluo-4 Calcium Assay Kit (Beyotime, cat. no. S1061S). 
+Primary neurons were plated onto 24-well confocal dishes that had been 
+pre-coated with poly-d-lysine. After treatment with 1 μM exendin-4 for 
+24 h, the cells were washed once using PBS. Subsequently, 250 μl of 1× 
+Fluo-4 staining solution was added to each well, and the dishes were 
+incubated for 30 min at 37 °C, protected from light. After incubation, 
+the staining results were observed under a fluorescence microscope 
+(Fluo-4 AM exhibits green fluorescence, Ex/Em = 490/525 nm).
+RNA-seq and data processing
+RNA-seq was performed on six independent RNA samples of BV2 cells: 
+BV2 cells cultured with Aβ oligomers (three samples) and BV2 cells 
+pre-treated with exendin-4 before being cultured with Aβ oligomers 
+(three samples). After RNA extraction, the samples were passed quality 
+control with Qubit 2.0 and a 2100 Bioanalyzer. Libraries were prepared 
+using a TIANGEN Biotech kit and sequenced using an Illumina NovaSeq 
+X Plus with PE150 mode. To measure DEGs, DESeq2 (version 1.40.2) 
+with the default parameters was used. Gene set enrichment analysis 
+(GSEA) of biological processes related to inflammation and glucose 
+metabolism was conducted using the R package clusterProfiler (ver-
+sion 4.8.3), based on the results analyzed with the DESeq2 package and 
+the GO database for Biological Process analysis. Absolute normalized 
+enrichment score (NES) values greater than 1 and P values less than 0.05 
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+were considered statistically significant. Based on the KEGG database, 
+functional enrichment analysis was conducted using the R package 
+clusterProfiler (version 4.8.3), with adjusted P values less than 0.05 
+considered statistically significant.
+Transgenic mice and drug treatment
+APP23 mice, which overexpress the Swedish APP751 (KM → NL) mutant 
+transgene under the control of the mouse Thy1.2 promoter, were origi-
+nally developed at Novartis Pharma as previously described87. APP23/
+PS45 double transgenic mice were generated by crossing APP23 mice 
+with mice that overexpress the human G384A-mutated PS1 under 
+the regulation of the murine Thy1 promoter (B6,D2-TgN(Thy1-PS1G3
+84A)45)35. APP23 and PS45 mice were backcrossed to C57BL/6 mice for 
+more than seven generations before breeding for the double transgenic 
+mice. The genotype of the mice was confirmed by PCR using DNA from 
+tail tissues. Although this mouse model does not fully capture the com-
+plexity of human AD, it provides valuable insights into amyloid-related 
+mechanisms35. The treatment group contained 18 animals (nine females 
+and nine males), and the sham-injected group contained 18 animals 
+(nine females and nine males). No statistical methods were used to 
+pre-determine sample sizes, but our sample sizes are similar to those 
+reported in previous publications35,88. The treatment group received 
+25 nmol kg−1 exendin-4 with or without 20 mg kg−1 compound C diluted 
+in 0.9% saline daily via intraperitoneal injection at the same time each 
+day. Mice in the control group were injected with the vehicle solution 
+containing DMSO diluted in 0.9% saline only. We tabulated the daily 
+food consumption and weight for each mouse.
+Immunohistochemical staining
+Mice were euthanized after behavioral testing, and one hemisphere of 
+the brains was quickly homogenized for protein, RNA or DNA extrac-
+tion. The other hemisphere was fixed in 4% PFA and sectioned at 30-μm 
+thickness using a Leica Cryostat. Every twelfth slice, maintaining the 
+same reference position, was mounted onto slides for subsequent 
+staining. Immunocytochemical staining was performed on floating 
+sections. The plaques in the sections were detected with biotinylated 
+monoclonal 4G8 antibody (BioLegend, cat. no. 800708) in 1:500 dilu-
+tion, visualized by the ABC and DAB method and counted under a ×40 
+objective as previously described88,89. Plaques were quantified, and the 
+average plaque count per slice was recorded for each mouse. Thioflavin 
+S staining of plaques was performed with 1% thioflavin S visualized 
+using fluorescence microscopy (Olympus). The brain slices were also 
+stained by anti-CD68 (1:200; Proteintech, cat. no. 28058-1-AP). BV2 cells 
+were fixed with 4% PFA and stained by anti-CD68 (1:200) or anti-LAMP1 
+(1:200; Cell Signaling Technology, cat. no. 99437S), followed by second-
+ary antibodies. Primary neurons isolated from WT and APP23 mice were 
+labeled with a cell plasma membrane staining kit with DiO (Byotime, 
+cat. no. C1038) for 15 min and then fixed with 4% PFA and stained by 
+anti-GLUT3 (1:400; Proteintech, cat. no. 20403010AP), followed by 
+secondary antibodies. The staining results were viewed under the ×63 
+oil lens of the Zeiss fluorescence microscope.
+Morris water maze test
+The Morris water maze test was conducted as previously described35. 
+APP23/PS45 mice treated with exendin-4 or saline (control group) 
+underwent the Morris water maze test 1 d after the final injection. The 
+test was carried out in a pool with a 10-cm-diameter platform posi-
+tioned in the southeastern (SE) quadrant. During the visible platform 
+test on the first day, the mice completed five consecutive trials, with a 
+60-min inter-trial interval. For the hidden platform trials, mice under-
+went five trials per day, with a 60-min rest between each trial. Each 
+mouse was given up to 60 s to locate the platform. If the platform was 
+not found within this time, the mouse was guided to the platform and 
+allowed to rest for 15 s. On the final day, the probe trial was performed, 
+in which the platform was removed and each mouse had 60 s to locate 
+the platform’s original position. Mouse behavior, including distance 
+traveled, escape latency and the number of platform crossings, was 
+recorded using automated video tracking (ANY-maze; Stoelting).
+Statistics and reproducibility
+All statistical analyses were performed using GraphPad Prism 7 soft-
+ware. All data were expressed as mean ± s.e.m. For two-group compari-
+sons, statistical analysis was performed using a two-tailed Student’s 
+t-test. For multiple-group comparisons, results were analyzed by 
+one-way ANOVA or two-way ANOVA followed by post hoc analysis where 
+appropriate. Normality and equal variances were formally assessed to 
+ensure that the assumptions of the test were met. Data collection and 
+analysis were not performed blinded to the conditions of the experi-
+ments. Statistical significance was accepted when P values were less 
+than 0.05.
+Reporting summary
+Further information on research design is available in the Nature 
+Portfolio Reporting Summary linked to this article.
+Data availability
+The RNA-seq raw data are deposited in the Sequence Read Archive 
+(https://www.ncbi.nlm.nih.gov/sra) with BioProject IDs PRJNA1227686, 
+SRR32510895, SRR32510896, SRR32510897, SRR32510898, 
+SRR32510899 and SRR32510900. All other data are available from the 
+corresponding author upon reasonable request.
+Code availability
+The specific packages and versions used for analyzing RNA sequencing 
+and data processing, including DESeq2 (version 1.40.2) and clusterPro-
+filer (version 4.8.3), are explicitly stated in Methods. These packages 
+are open source and are accessible through Bioconductor (https://
+www.bioconductor.org/packages/release/bioc/html/clusterProfiler.
+html; https://www.bioconductor.org/packages/release/bioc/html/
+DESeq2.html).
+References
+1.	
+Zhang, Y., Chen, H., Li, R., Sterling, K. & Song, W. Amyloid β-based 
+therapy for Alzheimer’s disease: challenges, successes and 
+future. Signal Transduct. Target. Ther. 8, 248 (2023).
+2.	
+Zhang, Y. & Song, W. Islet amyloid polypeptide: another key molecule 
+in Alzheimer’s pathogenesis? Prog. Neurobiol. 153, 100–120 (2017).
+3.	
+Deng, Y. et al. Amyloid-β protein (Aβ) Glu11 is the major 
+β-secretase site of β-site amyloid-β precursor protein-cleaving 
+enzyme 1(BACE1), and shifting the cleavage site to Aβ Asp1 
+contributes to Alzheimer pathogenesis. Eur. J. Neurosci. 37, 
+1962–1969 (2013).
+4.	
+Zhang, S. et al. BACE1 cleavage site selection critical for 
+amyloidogenesis and Alzheimer’s pathogenesis. J. Neurosci. 37, 
+6915–6925 (2017).
+5.	
+De Strooper, B. et al. Deficiency of presenilin-1 inhibits the normal 
+cleavage of amyloid precursor protein. Nature 391, 387–390 (1998).
+6.	
+Zhang, Z. et al. Presenilins are required for γ-secretase cleavage 
+of β-APP and transmembrane cleavage of Notch-1. Nat. Cell Biol. 
+2, 463–465 (2000).
+7.	
+Gudala, K., Bansal, D., Schifano, F. & Bhansali, A. Diabetes 
+mellitus and risk of dementia: a meta-analysis of prospective 
+observational studies. J. Diabetes Investig. 4, 640–650 (2013).
+8.	
+Kang, Y. et al. Identification of circulating risk biomarkers for 
+cognitive decline in a large community-based population in 
+Chongqing China. Alzheimers Dement. 21, e14443 (2025).
+9.	
+Rorbach-Dolata, A. & Piwowar, A. Neurometabolic evidence 
+supporting the hypothesis of increased incidence of type 3 
+diabetes mellitus in the 21st century. Biomed Res. Int. 2019, 
+1435276 (2019).
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+10.	 Nguyen, T. T., Ta, Q. T. H., Nguyen, T. K. O., Nguyen, T. T. D. &  
+Giau, V. V. Type 3 diabetes and its role implications in Alzheimer’s 
+disease. Int. J. Mol. Sci. 21, 3165 (2020).
+11.	
+Bano, D., Ehninger, D. & Bagetta, G. Decoding metabolic 
+signatures in Alzheimer’s disease: a mitochondrial perspective. 
+Cell Death Discov. 9, 432 (2023).
+12.	 Yang, Y. & Song, W. Molecular links between Alzheimer’s  
+disease and diabetes mellitus. Neuroscience 250, 140–150 
+(2013).
+13.	 Mosconi, L. Brain glucose metabolism in the early and specific 
+diagnosis of Alzheimer’s disease. FDG-PET studies in MCI and AD. 
+Eur. J. Nucl. Med. Mol. Imaging 32, 486–510 (2005).
+14.	 Arnold, S. E. et al. Brain insulin resistance in type 2 diabetes and 
+Alzheimer disease: concepts and conundrums. Nat. Rev. Neurol. 
+14, 168–181 (2018).
+15.	 Delikkaya, B., Moriel, N., Tong, M., Gallucci, G. & de la Monte, S. 
+M. Altered expression of insulin-degrading enzyme and regulator 
+of calcineurin in the rat intracerebral streptozotocin model and 
+human apolipoprotein E-ε4-associated Alzheimer’s disease. 
+Alzheimers Dement. (Amst.) 11, 392–404 (2019).
+16.	 Yang, Y., Wu, Y., Zhang, S. & Song, W. High glucose promotes Aβ 
+production by inhibiting APP degradation. PLoS ONE 8, e69824 
+(2013).
+17.	 Lauretti, E., Li, J. G., Di Meco, A. & Pratico, D. Glucose deficit 
+triggers tau pathology and synaptic dysfunction in a tauopathy 
+mouse model. Transl. Psychiatry 7, e1020 (2017).
+18.	 Markowicz-Piasecka, M. et al. Metformin—a future therapy  
+for neurodegenerative diseases. Pharm. Res. 34, 2614–2627 
+(2017).
+19.	 Kreymann, B., Williams, G., Ghatei, M. A. & Bloom, S. R. 
+Glucagon-like peptide-1 7-36: a physiological incretin in man. 
+Lancet 2, 1300–1304 (1987).
+20.	 Tucker, J. D., Dhanvantari, S. & Brubaker, P. L. Proglucagon 
+processing in islet and intestinal cell lines. Regul. Pept. 62, 29–35 
+(1996).
+21.	 Sandoval, D. A. & D’Alessio, D. A. Physiology of proglucagon 
+peptides: role of glucagon and GLP-1 in health and disease. 
+Physiol. Rev. 95, 513–548 (2015).
+22.	 Nauck, M. A. et al. Glucagon-like peptide 1 inhibition of gastric 
+emptying outweighs its insulinotropic effects in healthy humans. 
+Am. J. Physiol. 273, E981–E988 (1997).
+23.	 Richards, P. et al. Identification and characterization of GLP-1 
+receptor-expressing cells using a new transgenic mouse model. 
+Diabetes 63, 1224–1233 (2014).
+24.	 Hausch, F. Cryo-EM structures of class B GPCR reveal the 
+activation mechanism. Angew. Chem. Int. Ed. Engl. 56,  
+12412–12414 (2017).
+25.	 Muller, T. D. et al. Glucagon-like peptide 1 (GLP-1). Mol. Metab. 30, 
+72–130 (2019).
+26.	 Cherney, D. Z. I. et al. Hemoglobin A1c reduction with the GLP-1 
+receptor agonist semaglutide is independent of baseline eGFR: 
+post hoc analysis of the SUSTAIN and PIONEER programs.  
+Kidney Int. Rep. 7, 2345–2355 (2022).
+27.	 Rodriguez, P. J. et al. Semaglutide vs tirzepatide for weight loss 
+in adults with overweight or obesity. JAMA Intern. Med. 184, 
+1056–1064 (2024).
+28.	 Norgaard, C. H. et al. Treatment with glucagon-like peptide-1 
+receptor agonists and incidence of dementia: data from pooled 
+double-blind randomized controlled trials and nationwide 
+disease and prescription registers. Alzheimers Dement. (N Y) 8, 
+e12268 (2022).
+29.	 Femminella, G. D. et al. Correction to: Evaluating the effects of 
+the novel GLP-1 analogue liraglutide in Alzheimer’s disease: study 
+protocol for a randomised controlled trial (ELAD study). Trials 21, 
+660 (2020).
+30.	 Cai, H. Y. et al. Lixisenatide reduces amyloid plaques, 
+neurofibrillary tangles and neuroinflammation in an APP/PS1/
+tau mouse model of Alzheimer’s disease. Biochem. Biophys. Res. 
+Commun. 495, 1034–1040 (2018).
+31.	 Duarte, A. I. et al. Liraglutide protects against brain amyloid-β1–42 
+accumulation in female mice with early Alzheimer’s disease-like 
+pathology by partially rescuing oxidative/nitrosative stress and 
+inflammation. Int. J. Mol. Sci. 21, 1746 (2020).
+32.	 McClean, P. L. & Holscher, C. Lixisenatide, a drug developed to 
+treat type 2 diabetes, shows neuroprotective effects in a mouse 
+model of Alzheimer’s disease. Neuropharmacology 86, 241–258 
+(2014).
+33.	 Kong, J., Wan, L., Wang, Y., Zhang, H. & Zhang, W. Liraglutide 
+attenuates Aβ42 generation in APPswe/SH-SY5Y cells through the 
+regulation of autophagy. Neuropsychiatr. Dis. Treat. 16, 1817–1825 
+(2020).
+34.	 Qing, H. et al. Valproic acid inhibits Aβ production, neuritic 
+plaque formation, and behavioral deficits in Alzheimer’s disease 
+mouse models. J. Exp. Med. 205, 2781–2789 (2008).
+35.	 Ly, P. T. et al. Inhibition of GSK3β-mediated BACE1 expression 
+reduces Alzheimer-associated phenotypes. J. Clin. Invest. 123, 
+224–235 (2013).
+36.	 He, M. et al. Identification and characterization of new long chain 
+acyl-CoA dehydrogenases. Mol. Genet. Metab. 102, 418–429 (2011).
+37.	 Farzam, K. & Patel, P. Tirzepatide. StatPearls https://www.ncbi.
+nlm.nih.gov/books/NBK585056/ (2024).
+38.	 Hawley, S. A. et al. Calmodulin-dependent protein kinase kinase-β 
+is an alternative upstream kinase for AMP-activated protein 
+kinase. Cell Metab. 2, 9–19 (2005).
+39.	 Shaw, R. J. et al. The tumor suppressor LKB1 kinase directly 
+activates AMP-activated kinase and regulates apoptosis in 
+response to energy stress. Proc. Natl Acad. Sci. USA 101,  
+3329–3335 (2004).
+40.	 King, M. R. et al. Insulin deficiency, but not resistance, 
+exaggerates cognitive deficits in transgenic mice expressing 
+human amyloid and tau proteins. Reversal by Exendin-4 
+treatment. J. Neurosci. Res. 98, 2357–2369 (2020).
+41.	 Christensen, M. A. et al. Transcriptional regulation of BACE1, the 
+β-amyloid precursor protein β-secretase, by Sp1. Mol. Cell. Biol. 
+24, 865–874 (2004).
+42.	 Chen, C. H. et al. Increased NF-κB signalling up-regulates BACE1 
+expression and its therapeutic potential in Alzheimer’s disease. 
+Int. J. Neuropsychopharmacol. 15, 77–90 (2012).
+43.	 Tanaka, Y., Chambers, J. K., Matsuwaki, T., Yamanouchi, K. & 
+Nishihara, M. Possible involvement of lysosomal dysfunction in 
+pathological changes of the brain in aged progranulin-deficient 
+mice. Acta Neuropathol. Commun. 2, 78 (2014).
+44.	 Pang, J., Feng, J. N., Ling, W. & Jin, T. The anti-inflammatory 
+feature of glucagon-like peptide-1 and its based diabetes drugs—
+therapeutic potential exploration in lung injury. Acta Pharm. Sin. B 
+12, 4040–4055 (2022).
+45.	 Zhang, F. et al. Recombinant human GLP-1 beinaglutide regulates 
+lipid metabolism of adipose tissues in diet-induced obese mice. 
+iScience 24, 103382 (2021).
+46.	 Petrovic, A. et al. The role of GLP1-RAs in direct modulation of lipid 
+metabolism in hepatic tissue as determined using in vitro models 
+of NAFLD. Curr. Issues Mol. Biol. 45, 4544–4556 (2023).
+47.	 Panagaki, T., Randi, E. B., Szabo, C. & Holscher, C. Incretin 
+mimetics restore the ER-mitochondrial axis and switch cell 
+fate towards survival in LUHMES dopaminergic-like neurons: 
+implications for novel therapeutic strategies in Parkinson’s 
+disease. J. Parkinsons Dis. 13, 1149–1174 (2023).
+48.	 Nachawi, N., Rao, P. P. & Makin, V. The role of GLP-1 receptor 
+agonists in managing type 2 diabetes. Cleve. Clin. J. Med. 89, 
+457–464 (2022).
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+49.	 Nauck, M. A. & Meier, J. J. The incretin effect in healthy individuals 
+and those with type 2 diabetes: physiology, pathophysiology, 
+and response to therapeutic interventions. Lancet Diabetes 
+Endocrinol. 4, 525–536 (2016).
+50.	 Hui, H., Farilla, L., Merkel, P. & Perfetti, R. The short half-life of 
+glucagon-like peptide-1 in plasma does not reflect its long-lasting 
+beneficial effects. Eur. J. Endocrinol. 146, 863–869 (2002).
+51.	 Egan, J. M., Clocquet, A. R. & Elahi, D. The insulinotropic effect 
+of acute exendin-4 administered to humans: comparison of 
+nondiabetic state to type 2 diabetes. J. Clin. Endocrinol. Metab. 
+87, 1282–1290 (2002).
+52.	 Blevins, T. et al. DURATION-5: exenatide once weekly resulted 
+in greater improvements in glycemic control compared with 
+exenatide twice daily in patients with type 2 diabetes. J. Clin. 
+Endocrinol. Metab. 96, 1301–1310 (2011).
+53.	 Lietzau, G. et al. Dipeptidyl peptidase-4 inhibitors and 
+sulfonylureas prevent the progressive impairment of the 
+nigrostriatal dopaminergic system induced by diabetes during 
+aging. Neurobiol. Aging 89, 12–23 (2020).
+54.	 Eren-Yazicioglu, C. Y., Yigit, A., Dogruoz, R. E. & Yapici-Eser, H. 
+Can GLP-1 be a target for reward system related disorders? A 
+qualitative synthesis and systematic review analysis of studies 
+on palatable food, drugs of abuse, and alcohol. Front. Behav. 
+Neurosci. 14, 614884 (2020).
+55.	 Spoleti, E. et al. Dopamine neuron degeneration in the ventral 
+tegmental area causes hippocampal hyperexcitability in 
+experimental Alzheimer’s disease. Mol. Psychiatry 29, 1265–1280 
+(2024).
+56.	 Murari, G. et al. Prefrontal GABA levels correlate with memory in 
+older adults at high risk for Alzheimer’s disease. Cereb. Cortex 
+Commun. 1, tgaa022 (2020).
+57.	 Hansen, H. H. et al. The GLP-1 receptor agonist liraglutide 
+improves memory function and increases hippocampal CA1 
+neuronal numbers in a senescence-accelerated mouse model of 
+Alzheimer’s disease. J. Alzheimers Dis. 46, 877–888 (2015).
+58.	 Hansen, H. H. et al. The GLP-1 receptor agonist liraglutide reduces 
+pathology-specific tau phosphorylation and improves motor 
+function in a transgenic hTauP301L mouse model of tauopathy. 
+Brain Res. 1634, 158–170 (2016).
+59.	 Nauck, M. A., Quast, D. R., Wefers, J. & Meier, J. J. GLP-1 receptor 
+agonists in the treatment of type 2 diabetes—state-of-the-art. Mol. 
+Metab. 46, 101102 (2021).
+60.	 Shen, R. et al. GLP-1 receptor agonist attenuates tubular cell 
+ferroptosis in diabetes via enhancing AMPK-fatty acid metabolism 
+pathway through macropinocytosis. Biochim. Biophys. Acta Mol. 
+Basis Dis. 1870, 167060 (2024).
+61.	 Herzig, S. & Shaw, R. J. AMPK: guardian of metabolism and mito­
+chondrial homeostasis. Nat. Rev. Mol. Cell Biol. 19, 121–135 (2018).
+62.	 Garcia, D. & Shaw, R. J. AMPK: mechanisms of cellular energy 
+sensing and restoration of metabolic balance. Mol. Cell 66, 
+789–800 (2017).
+63.	 Salminen, A., Kaarniranta, K., Haapasalo, A., Soininen, H. & 
+Hiltunen, M. AMP-activated protein kinase: a potential player in 
+Alzheimer’s disease. J. Neurochem. 118, 460–474 (2011).
+64.	 Ou, Z. et al. Metformin treatment prevents amyloid plaque 
+deposition and memory impairment in APP/PS1 mice. Brain Behav. 
+Immun. 69, 351–363 (2018).
+65.	 Kuehn, B. M. In Alzheimer research, glucose metabolism moves to 
+center stage. JAMA 323, 297–299 (2020).
+66.	 Willette, A. A. et al. Association of insulin resistance with cerebral 
+glucose uptake in late middle-aged adults at risk for Alzheimer 
+disease. JAMA Neurol. 72, 1013–1020 (2015).
+67.	 He, C. et al. Recurrent moderate hypoglycemia accelerates the 
+progression of Alzheimer’s disease through impairment of the 
+TRPC6/GLUT3 pathway. JCI Insight 7, e154595 (2022).
+68.	 Fontanella, R. A. et al. Tirzepatide prevents neurodegeneration 
+through multiple molecular pathways. J. Transl. Med. 22, 114 
+(2024).
+69.	 Yu, J. et al. IGF-1 induces hypoxia-inducible factor 1α-mediated 
+GLUT3 expression through PI3K/Akt/mTOR dependent pathways 
+in PC12 cells. Brain Res. 1430, 18–24 (2012).
+70.	 Jin, N. et al. CREB regulates the expression of neuronal glucose 
+transporter 3: a possible mechanism related to impaired brain 
+glucose uptake in Alzheimer’s disease. Nucleic Acids Res. 41, 
+3240–3256 (2013).
+71.	 Halling, J. F. & Pilegaard, H. PGC-1α-mediated regulation  
+of mitochondrial function and physiological implications.  
+Appl. Physiol. Nutr. Metab. 45, 927–936 (2020).
+72.	 Ashleigh, T., Swerdlow, R. H. & Beal, M. F. The role of 
+mitochondrial dysfunction in Alzheimer’s disease pathogenesis. 
+Alzheimers Dement. 19, 333–342 (2023).
+73.	 Blazquez, C., Woods, A., de Ceballos, M. L., Carling, D. & Guzman, 
+M. The AMP-activated protein kinase is involved in the regulation 
+of ketone body production by astrocytes. J. Neurochem. 73, 
+1674–1682 (1999).
+74.	 Thevenet, J. et al. Medium-chain fatty acids inhibit mitochondrial 
+metabolism in astrocytes promoting astrocyte-neuron lactate and 
+ketone body shuttle systems. FASEB J. 30, 1913–1926 (2016).
+75.	 Rojas-Morales, P., Pedraza-Chaverri, J. & Tapia, E. Ketone bodies, 
+stress response, and redox homeostasis. Redox Biol. 29, 101395 
+(2020).
+76.	 Zhao, Z., Yan, J., Huang, L. & Yang, X. Phytochemicals targeting 
+Alzheimer’s disease via the AMP-activated protein kinase pathway, 
+effects, and mechanisms of action. Biomed. Pharmacother. 173, 
+116373 (2024).
+77.	 Caberlotto, L., Lauria, M., Nguyen, T. P. & Scotti, M. The central 
+role of AMP-kinase and energy homeostasis impairment in 
+Alzheimer’s disease: a multifactor network analysis. PLoS ONE 8, 
+e78919 (2013).
+78.	 Fewlass, D. C. et al. Obesity-related leptin regulates Alzheimer’s 
+Aβ. FASEB J. 18, 1870–1878 (2004).
+79.	 Jantrapirom, S. et al. Liraglutide suppresses tau 
+hyperphosphorylation, amyloid beta accumulation through 
+regulating neuronal insulin signaling and BACE-1 activity. Int. J. 
+Mol. Sci. 21, 1725 (2020).
+80.	 Yu, C. J. et al. The role of GLP-1/GIP receptor agonists in 
+Alzheimer’s disease. Adv. Clin. Exp. Med. 29, 661–668 (2020).
+81.	 Cao, B. et al. Neuroprotective effects of liraglutide against 
+inflammation through the AMPK/NF-κB pathway in a mouse 
+model of Parkinson’s disease. Metab. Brain Dis. 37, 451–462 
+(2022).
+82.	 Zheng, Z. et al. Glucagon-like peptide-1 receptor: mechanisms 
+and advances in therapy. Signal Transduct. Target. Ther. 9, 234 
+(2024).
+83.	 Lu, G. et al. AMPK activation attenuates central sensitization in a 
+recurrent nitroglycerin-induced chronic migraine mouse model 
+by promoting microglial M2-type polarization. J. Headache Pain 
+25, 29 (2024).
+84.	 Bard, F. et al. Peripherally administered antibodies against 
+amyloid β-peptide enter the central nervous system and reduce 
+pathology in a mouse model of Alzheimer disease. Nat. Med. 6, 
+916–919 (2000).
+85.	 Wang, W. et al. Associations of semaglutide with first-time 
+diagnosis of Alzheimer’s disease in patients with type 2 diabetes: 
+target trial emulation using nationwide real-world data in the US. 
+Alzheimers Dement. 20, 8661–8672 (2024).
+86.	 Zhang, Q. et al. Contactin-associated protein-like 2 (CNTNAP2) 
+mutations impair the essential α-secretase cleavages, leading to 
+autism-like phenotypes. Signal Transduct. Target. Ther. 9,  
+51 (2024).
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+87.	 Sun, X. et al. Hypoxia facilitates Alzheimer’s disease pathogenesis 
+by up-regulating BACE1 gene expression. Proc. Natl Acad. Sci. 
+USA 103, 18727–18732 (2006).
+88.	 Feng, Y. et al. Inhibition of IFITM3 in cerebrovascular endothelium 
+alleviates Alzheimer’s-related phenotypes. Alzheimers Dement. 
+21, e14543 (2025).
+89.	 Ly, P. T., Cai, F. & Song, W. Detection of neuritic plaques in 
+Alzheimer’s disease mouse model. J. Vis. Exp. 26, 2831 (2011).
+Acknowledgements
+This work was supported by grants from the National Natural Science 
+Foundation of China (numbers 82293642 and 82230043 to W.S. 
+and 82201576 to Yun Z.), the Key Laboratory of Alzheimer’s Disease 
+of Zhejiang Province (ZJAD-2021004 to Yun Z.) and STI2030-Major 
+Projects (2022ZD0211800 to Yun Z.). The funders had no role in study 
+design, data collection and analysis, preparation of the manuscript or 
+decision to publish.
+Author contributions
+Yun Z. and W.S. conceived and designed the experiments. Yun Z., H.C. 
+and Y.F. performed most of the experiments. Yun Z., H.C. and Yang Z. 
+did data analysis and figure editing. B.H., L.C., J.L., F.C., W.P., X.L. and 
+I.B.-L. assisted with performing western blot experiments, plasmid 
+construction, transfections and luciferase assay. Z.L. collected the 
+blood samples from patients with AD and did the 18F-AV45 PET/MD 
+scans. M.L., B.H., Yifan Z. and Y.W. performed the genotyping and 
+behavioral tests. Yun Z. and W.S. supervised the project, analyzed all 
+the data and wrote the paper. Yun Z., H.C. and Y.F. are designated as 
+co-first authors due to their substantial contributions to conducting 
+experiments and analyzing data. Yun Z. is listed first for her input to the 
+conception of the study and her contributions to writing the paper.  
+All authors reviewed the paper.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Extended data is available for this paper at  
+https://doi.org/10.1038/s43587-025-00869-3.
+Supplementary information The online version  
+contains supplementary material available at  
+https://doi.org/10.1038/s43587-025-00869-3.
+Correspondence and requests for materials should be addressed to 
+Yun Zhang or Weihong Song.
+Peer review information Nature Aging thanks Christian Hölscher,  
+Tami Rubinek and Marc Schneeberger for their contribution to the 
+peer review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with 
+the author(s) or other rightsholder(s); author self-archiving of the 
+accepted manuscript version of this article is solely governed by the 
+terms of such publishing agreement and applicable law.
+© The Author(s), under exclusive licence to Springer Nature America, 
+Inc. 2025
+1Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, China. 2National Clinical 
+Research Center for Geriatric Disease, Xuanwu Hospital, Capital Medical University, Beijing, China. 3The Second Affiliated Hospital and Yuying Children’s 
+Hospital, Zhejiang Key Laboratory of Alzheimer’s Disease, Zhejiang Provincial Clinical Research Center for Mental Disorders, Wenzhou Medical University, 
+Wenzhou, China. 4Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health), Center for Geriatric Medicine and Institute 
+of Aging, The First Affiliated Hospital, Wenzhou Medical University, Wenzhou, China. 5Chongqing Key Laboratory of Translational Medical Research in 
+Cognitive Development and Learning and Memory Disorders, Ministry of Education Key Laboratory of Child Development and Disorders, Children’s 
+Hospital of Chongqing Medical University, Chongqing, China. 6Department of Nuclear Medicine, The First Affiliated Hospital, Dalian Medical University, 
+Dalian, China. 7National Center for Neurological Disorders, Xuanwu Hospital, Capital Medical University, Beijing, China. 8Department of Geriatric 
+Neurology, Xiangya Hospital, Central South University, Changsha, China. 9Townsend Family Laboratories, Department of Psychiatry, Brain Research 
+Center, University of British Columbia, Vancouver,  British Columbia, Canada. 10These authors contributed equally: Yun Zhang, Huaqiu Chen, Yijia Feng. 
+ e-mail: zhangyun_202104@163.com; weihong@wmu.edu.cn
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 1 | Exendin-4 treatment restores AD-induced reductions of 
+GLUT3 and PGC-1α expressions in neurons. Primary neurons were isolated from 
+embryonic WT mice and APP23 AD mice (E17) then treated with exendin-4 with or 
+without compound C, an AMPK inhibitor. Cell lysates were subjected to Western 
+blot analysis for detecting GLUT3 (a and b) and PGC-1α (c and d) levels. β-Actin 
+was detected as the internal control. n = 3 independent experiments; One-way 
+ANOVA followed by Tukey’s multiple comparisons test was performed for 
+statistical analysis. All the results are expressed as mean ± s.e.m. C.C: compound C, 
+EX-4: exendin-4, GLUT3: glucose transporter 3, PGC-1α: peroxisome proliferator-
+activated receptor γ coactivator 1 α.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 2 | The effect of GLP-1RAs on the fatty acid oxidation in 
+astrocytes. (a) The measurement of mitochondrial respiration in astrocytes 
+isolated from WT mice and APP23 AD mice. Astrocytes were treated with 
+exendin-4 and/or compound C. The untreated cells were used as controls. 
+Etomoxir, an inhibitor of fatty acid oxidation, was injected before oligomycin 
+for the assessment. The oxygen consumption rates (OCR) including basal 
+respiration (b), maximal respiration (c), and spare respiratory capacity (d) were 
+quantified. (e) The analysis of ATP production. n = 3 independent experiments; 
+One-way ANOVA followed by Tukey’s multiple comparisons test. (f and g) Primary 
+APP23 mouse astrocytes were isolated and treated with etomoxir to inhibit 
+fatty acid oxidation, which subsequently co-cultured with the primary APP23 
+mouse neurons with or without exendin-4. The APP CTFs were detected with C20 
+antibody. Endogenous BACE1 was detected with anti-BACE1 antibody. β-Actin was 
+detected by anti-actin antibody AC-15 as the internal control. n = 3 independent 
+experiments; One-way ANOVA followed by Tukey’s multiple comparisons test 
+was performed for statistical analysis. (h) Aβ ELISA was conducted to detect 
+Aβ40 and Aβ42 in conditioned medium from primary neurons. n = 3 independent 
+experiments; One-way ANOVA followed by Tukey’s multiple comparisons test  
+was performed for statistical analysis. (i-k) Primary WT mouse neurons were 
+treated with exendin-4 with or without AKT (PKB) inhibitor, PKA inhibitor or  
+compound C, an AMPK inhibitor. (i) Western blot analysis was performed for 
+detecting endogenous BACE1, phosphorylated AMPK and total AMPK levels. 
+β-Actin was detected by anti-actin antibody AC-15 as the internal control.  
+The ratio of p-AMPK to t-AMPK ( j) and BACE1 expressions (k) were quantified. 
+n = 3 independent experiments; one-way ANOVA followed by Tukey's multiple 
+comparison test was performed for statistical analysis. All the results are 
+expressed as mean ± s.e.m. C.C: compound C, EX-4: exendin-4, OCR: oxygen 
+consumption rate.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 3 | The effect of GLP-1RAs on the fatty acid oxidation in 
+astrocytes treated with palmitate. (a) The measurement of mitochondrial 
+respiration in astrocytes isolated from WT mice and APP23 AD mice.  
+Palmitate was applied to the cultured astrocytes treated with exendin-4 and/or  
+compound C. (f) Etomoxir, an inhibitor of fatty acid oxidation, was injected 
+before oligomycin for the assessment. The oxygen consumption rates (OCR) 
+including basal respiration (b and g), maximal respiration (c and h), and spare 
+respiratory capacity (d and i) were quantified. (e and j) The analysis of ATP 
+production. n = 3 independent experiments; One-way ANOVA followed by 
+Tukey’s multiple comparisons test was performed for statistical analysis. All the 
+results are expressed as mean ± s.e.m. C.C: compound C, EX-4: exendin-4, OCR: 
+oxygen consumption rate.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 4 | The effect of GLP-1RAs on the glycolysis in AD 
+astrocytes. (a) The measurement of glycolysis in astrocytes isolated from 
+WT mice and APP23 AD mice. Astrocytes were treated with exendin-4 and/
+or compound C. The untreated cells were used as controls. The extracellular 
+acidification rate (ECAR) including glycolysis (b), glycolytic capacity (c), and  
+non-glycolytic acidification (d) were quantified. n = 3 independent experiments; 
+One-way ANOVA followed by Tukey’s multiple comparisons test was performed 
+for statistical analysis. All the results are expressed as mean ± s.e.m. C.C: 
+compound C, EX-4: exendin-4, ECAR: extracellular acidification rate.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 5 | See next page for caption.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 5 | The effect of GLP-1RAs on the oxidative 
+phosphorylation and glycolysis in AD neurons. (a) The measurement of 
+mitochondrial respiration in neurons isolated from WT mice and APP23 AD mice. 
+Neurons were treated with exendin-4 and/or compound C. The untreated cells 
+were used as controls. The oxygen consumption rates (OCR) including basal 
+respiration (b), maximal respiration (c), and spare respiratory capacity (d) were 
+quantified. (e) The analysis of ATP production. n = 4 independent experiments; 
+One-way ANOVA followed by Tukey’s multiple comparisons test was performed 
+for statistical analysis. (f) The measurement of glycolysis in neurons isolated 
+from WT mice and APP23 AD mice. Neurons were treated with exendin-4  
+and/or compound C. The untreated cells were used as controls. The extracellular 
+acidification rate (ECAR) including glycolysis (g), glycolytic capacity (h), and 
+non-glycolytic acidification (i) were quantified. n = 3 independent experiments; 
+One-way ANOVA followed by Tukey’s multiple comparisons test was performed 
+for statistical analysis. The expressions of pyruvate (j) and reactive oxygen species 
+(k and l) were measured. Scale bar represents 20 μm. n = 9 cells from 3 
+independent experiments. One-way ANOVA followed by Tukey’s multiple 
+comparisons test was performed for statistical analysis. All the results 
+are expressed as mean ± s.e.m. C.C: compound C, EX-4: exendin-4, ECAR: 
+extracellular acidification rate, OCR: oxygen consumption rate, ROS: reactive 
+oxygen species.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 6 | Reduction of AMPK expression mitigates the impact of 
+exendin-4 on BACE1-mediated APP processing. Primary APP23 mouse neurons 
+were infected with lentivirus carrying scramble sequence or short-hairpin RNA 
+(shRNA) sequence targeting AMPK, with or without treatment of exendin-4.  
+(a and b) Western blot analysis was performed for detecting full-length APP, the 
+APP CTFs, endogenous BACE1, and total AMPK levels. β-Actin was detected as the 
+internal control. n = 3 independent experiments; One-way ANOVA followed by 
+Tukey’s multiple comparisons test was performed for statistical analysis.  
+(c) Aβ ELISA was conducted to detect Aβ40 and Aβ42 in conditioned medium 
+from APP23 neurons. n = 3 independent experiments; One-way ANOVA followed 
+by Tukey’s multiple comparisons test was performed for statistical analysis.  
+All the results are expressed as mean ± s.e.m. APP: β-amyloid precursor protein, 
+Aβ: Amyloid β protein, BACE1: beta site APP cleaving enzyme 1, EX-4: exendin-4.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 7 | The effects of GLP-1RAs on the expressions of lysosomal 
+proteins. BV2 cells were treated with GLP-1RAs, including exendin-4 and 
+tirzepatide. Cell lysates were subjected to Western blot analysis for detecting 
+CD68 (a and b) or LAMP1 (a and c) levels. β-Actin was detected by anti-actin 
+antibody AC-15 as the internal control. n = 3 independent experiments; One-way 
+ANOVA followed by Dunnett’s multiple comparisons test was performed for 
+statistical analysis. All the results are expressed as mean ± s.e.m. CD68: cluster 
+of differentiation 68, EX-4: exendin-4, LAMP1: lysosomal-associated membrane 
+protein 1, TZP: tirzepatide.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 8 | The effects of GLP-1RAs on inflammation. BV2 cells 
+were pre-treated with exendin-4 or tirzepatide before being cultured with Aβ 
+oligomers for 24 hours with or without the presence of compound C. The levels  
+of IL-1β (a), IL-6 (b), TNF (c) and TGF-β (d) were measured by performing ELISA. 
+n = 4 independent experiments; A two-tailed student’s t-test was performed  
+for statistical analysis. All the results are expressed as mean ± s.e.m. C.C: 
+compound C, EX-4: exendin-4, IL-1β: interleukin-1β, IL-6: interleukin 6, TGF-β: 
+transforming growth factor-β, TNF: tumor necrosis factor, TZP: tirzepatide.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 9 | Inhibition of AMPK mitigates the effect of exendin-4 
+on APP processing in vivo. AD mice were treated with exendin-4 with or 
+without compound C to inhibit AMPK activity. Hemi-brains from the mice were 
+homogenized in RIPA-Doc lysis buffer and separated with 8% Tris-glycine or 16% 
+Tris-tricine SDS-PAGE. Full-length APP, APP CTFs (C99) and endogenous BACE1 
+levels in the cortex (a and b) and the hippocampus (e and f) were detected. 
+β-Actin was detected by anti-actin antibody AC-15 as the internal control.  
+n = 3 independent experiments; One-way ANOVA followed by Tukey’s multiple 
+comparisons test was performed for statistical analysis. ELISA was performed 
+to measure Aβ40 and Aβ42 levels in the cortex (c) and the hippocampus (g). 
+n = 3 independent experiments; One-way ANOVA followed by Tukey’s multiple 
+comparisons test was performed for statistical analysis. Total RNA was isolated 
+from mouse cortices and hippocampi. Sets of gene-specific primers were used 
+to amplify App and Bace1 genes. qPCR was performed to measure mRNA levels 
+of APP and BACE1 in the cortex (d) and the hippocampus (h). β-Actin was used 
+as an internal control. n = 4 for each group; One-way ANOVA followed by Tukey’s 
+multiple comparisons test was performed for statistical analysis. All the results 
+are expressed as mean ± s.e.m. APP: β-amyloid precursor protein, Aβ: Amyloid 
+β protein, BACE1: beta site APP cleaving enzyme 1, C.C: compound C, EX-4: 
+exendin-4.
+Nature Aging
+Article
+https://doi.org/10.1038/s43587-025-00869-3
+Extended Data Fig. 10 | Administration of GLP-1RAs reduces neuro­
+inflammation and enhances microglia phagocytosis in APP23/PS45 mice. 
+APP23/PS45 double transgenic mice at the age of 6 weeks were treated with 
+exendin-4 for 8 weeks, while age-matched control APP23/PS45 mice received 
+vehicle solution. The mice were sacrificed after Morris water maze behavioral 
+tests, and the brains were homogenized in lysis buffer or dissected, fixed, and 
+sectioned. The levels of IL-1β (a), IL-6 (b), TNF (c) and TGF-β (d) were measured by 
+performing ELISA. n = 4 independent experiments; A two-tailed student’s t-test 
+was performed for statistical analysis. (e) Representative brain sections of the 
+control and exendin-4 injected APP23/PS45 mice sacrificed immediately after 
+behavioral analysis. Scale bar represents 100μm. The squares (dashed white 
+lines) correspond to enlarged areas in each image. (f) Quantification of CD68 
+expressions in APP23/PS45 mouse brains, the number represents mean ± s.e.m., 
+n = 30 mice total, A two-tailed student’s t-test was performed for statistical 
+analysis. All the results are expressed as mean ± s.e.m. EX-4: exendin-4, IL-1β: 
+interleukin-1β, IL-6: interleukin 6, TGF-β: transforming growth factor-β,  
+TNF: tumor necrosis factor.
+≥
+≥
+α
+α
+κ
+α
+α
+β
+

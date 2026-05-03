@@ -1,0 +1,918 @@
+# microorganisms
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2020
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Investigating the Gut Microbiota Composition of.pdf
+
+## Abstract / Summary
+microorganisms
+Article
+Investigating the Gut Microbiota Composition of
+Individuals with Attention-Deﬁcit/Hyperactivity
+Disorder and Association with Symptoms
+Joanna Szopinska-Tokov 1,†
+, Sarita Dam 2,†, Jilly Naaijen 2
+, Prokopis Konstanti 3,
+Nanda Rommelse 1,4, Clara Belzer 3, Jan Buitelaar 2,4, Barbara Franke 1,5
+, Esther Aarts 6
+and
+Alejandro Arias Vasquez 1,5,*
+1
+Department of Psychiatry, Radboudumc, Donders Institute for Brain, Cognition and Behaviour,
+6525 GA Nijmegen, The Netherlands; Joa... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. microorganisms. 2020.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+microorganisms
+Article
+Investigating the Gut Microbiota Composition of
+Individuals with Attention-Deﬁcit/Hyperactivity
+Disorder and Association with Symptoms
+Joanna Szopinska-Tokov 1,†
+, Sarita Dam 2,†, Jilly Naaijen 2
+, Prokopis Konstanti 3,
+Nanda Rommelse 1,4, Clara Belzer 3, Jan Buitelaar 2,4, Barbara Franke 1,5
+, Esther Aarts 6
+and
+Alejandro Arias Vasquez 1,5,*
+1
+Department of Psychiatry, Radboudumc, Donders Institute for Brain, Cognition and Behaviour,
+6525 GA Nijmegen, The Netherlands; Joanna.Szopinska-Tokov@radboudumc.nl (J.S.-T.);
+Nanda.Lambregts-Rommelse@radboudumc.nl (N.R.); Barbara.Franke@radboudumc.nl (B.F.)
+2
+Department of Cognitive Neuroscience, Radboudumc, Donders Institute for Brain, Cognition and Behaviour,
+6525 EN Nijmegen, The Netherlands; Sarita.Dam@radboudumc.nl (S.D.); jilly.naaijen@donders.ru.nl (J.N.);
+Jan.Buitelaar@radboudumc.nl (J.B.)
+3
+Laboratory of Microbiology, Wageningen University, 6708 WE Wageningen, The Netherlands;
+prokopis.konstanti@wur.nl (P.K.); clara.belzer@wur.nl (C.B.)
+4
+Karakter Child and Adolescent Psychiatry University Center, 6525 GC Nijmegen, The Netherlands
+5
+Department of Human Genetics, Radboudumc, Donders Institute for Brain, Cognition and Behaviour,
+6525 GA Nijmegen, The Netherlands
+6
+Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour,
+Radboud University, 6525 EN Nijmegen, The Netherlands; esther.aarts@donders.ru.nl
+*
+Correspondence: Alejandro.AriasVasquez@radboudumc.nl; Tel.: +31-(0)-24-3613970
+†
+Authors contributed equally to this work.
+Received: 5 February 2020; Accepted: 11 March 2020; Published: 13 March 2020
+
+
+Abstract: Attention-deﬁcit/hyperactivity disorder (ADHD) is a common neurodevelopmental
+disorder.
+Given the growing evidence of gut microbiota being involved in psychiatric
+(including neurodevelopmental) disorders, we aimed to identify diﬀerences in gut microbiota
+composition between participants with ADHD and controls and to investigate the role of the
+microbiota in inattention and hyperactivity/impulsivity. Fecal samples were collected from 107
+participants (NADHD = 42; Ncontrols = 50; NsubthreholdADHD = 15; range age: 13–29 years). The relative
+quantiﬁcation of bacterial taxa was done using 16S ribosomal RNA gene amplicon sequencing.
+Beta-diversity revealed signiﬁcant diﬀerences in bacterial composition between participants with
+ADHD and healthy controls, which was also signiﬁcant for inattention, but showing a trend in case of
+hyperactivity/impulsivity only. Ten genera showed nominal diﬀerences (p < 0.05) between both groups,
+of which seven genera were tested for their association with ADHD symptom scores (adjusting for age,
+sex, body mass index, time delay between feces collection and symptoms assessment, medication use,
+and family relatedness). Our results show that variation of a genus from the Ruminococcaceae family
+(Ruminococcaceae_UCG_004) is associated (after multiple testing correction) with inattention symptoms
+and support the potential role of gut microbiota in ADHD pathophysiology.
+Keywords: gut microbiota; ADHD; 16S rRNA gene; Inattention
+1. Introduction
+Attention-deﬁcit/hyperactivity disorder (ADHD) is a common, highly heritable [1], heterogeneous
+neurodevelopmental disorder with around 5% prevalence in children and 2.5% prevalence in adults
+Microorganisms 2020, 8, 406; doi:10.3390/microorganisms8030406
+www.mdpi.com/journal/microorganisms
+Microorganisms 2020, 8, 406
+2 of 14
+worldwide [2].
+The disorder is characterized by age-inappropriate levels of inattention and/or
+hyperactivity and impulsivity. ADHD has a signiﬁcant social impact on patients’ lives, causing
+disruption at school [3], work [4], and in personal relationships [5]. Typically, ADHD has its onset in
+childhood and can persist into adulthood. ADHD is considered a multifactorial disorder with multiple
+(common and rare) genetic variants, in combination with the environment, explaining its etiology and
+phenotypic variation [6].
+Treatment of ADHD usually involves prescription of either stimulant or non-stimulant medication
+that target speciﬁc systems related to dopamine, noradrenaline, and/or serotonin neurotransmission [7].
+These pharmacological interventions are highly eﬀective in controlling ADHD symptoms and have
+an approximate response rate of 70% [8]. However, medication treatment of ADHD is limited by
+low adherence, concerns about side eﬀects, and absence of evidence for long-term eﬃcacy [9,10].
+Approximately 30% of individuals with ADHD do not respond to medication or are unable to tolerate
+the adverse eﬀects [7]. For (some of) those patients, non-pharmacological treatments are a suitable
+alternative [11].
+One of the non-pharmacological interventions recently suggested to inﬂuence ADHD symptom
+severity is diet (e.g., elimination diet) [12,13].
+Diet can exert its eﬀects on ADHD through the
+gut-brain axis. The gut-brain axis is a continuous and bidirectional communication system between
+the enteric and central nervous systems including the cognitive and emotional centers of the brain [14].
+The gut-brain axis has been suggested to modulate the risk for several psychiatric illnesses, including
+ADHD [15,16], and can inﬂuence cognitive processes, mood, and brain performance [17].
+A key player in the gut-brain axis is the complex ecosystem of commensal bacteria living in our
+gut, the microbiota [18]. DNA sequencing makes it possible to investigate the microbial composition
+and its potential role(s) in the risk and pathophysiology of ADHD [19]. For example, in our previously
+published study, we observed signiﬁcantly enhanced predicted microbial biosynthesis of phenylalanine
+(a dopamine precursor related to an increase in the genus Biﬁdobacterium) associated with a neural
+hallmark of ADHD, for instance, decreased functional responses of the ventral striatum during reward
+anticipation [19].
+In the present study, we increased the sample size of Aarts et al. (16) (samples overlap ~40%) in
+order to investigate (i) if there are diﬀerences in gut microbiota composition between participants with
+ADHD and age matched controls, and if so, (ii) whether these bacteria are associated with the severity
+of ADHD symptoms.
+2. Material and Methods
+2.1. Study Participants
+To evaluate gut microbiota composition in participants with ADHD and healthy controls, we
+collected fecal samples from 107 Dutch (Caucasian) individuals enrolled in the follow-up of the
+NeuroIMAGE study [20]. Three groups were included: participants with ADHD (N = 42), subthreshold
+ADHD (N = 15; participants who did not reach the criteria for being considered as ADHD but scored
+too high to be considered healthy control; since we divided the analysis between case/control and
+continuous analysis, the subthreshold ADHD group was excluded from case–control comparisons),
+and healthy controls (N = 50). The cohort included sibling pairs, which was taken into account in the
+analysis. A semi-structured diagnostic interview of DSM-IV criteria was conducted with both the
+participant and his/her parents using the Kiddie-Schedule for Aﬀective Disorders and Schizophrenia
+(K-SADS) according to DSM-IV criteria. Clinical diagnosis was conﬁrmed using a diagnostic algorithm
+which combined the diagnostic interview (K-SADS) with the Conners rating scales [20].
+Continuous measures of inattention severity (IA) and hyperactivity/impulsivity severity (HI) were
+derived from the Conners Adult ADHD Rating Scales (CAARS; ≥16 years) and Conners Teacher Rating
+Scale (CTRS; < 16 years). For participants using medication, ratings were based on each participant’s
+Microorganisms 2020, 8, 406
+3 of 14
+functioning oﬀmedication. Detailed recruitment and diagnostic information can be found in the
+NeuroIMAGE design article [20].
+Additionally, the following information was obtained from medical records: age, sex, Body Mass
+Index (BMI), time delay between feces collection and symptom assessment (diﬀerences in days, further
+on called “diﬀ_days”), and use of ADHD-related medication. Five samples with missing BMI values
+were excluded from the regression analysis. For an overview of the participant characteristics, see
+Table 1. Information regarding the use of ADHD medication was provided via self-report (≥16 years)
+or parental report (<16 years) on the day of measurement. Two controls were removed because they
+indicated the use of ADHD medication.
+Ethical approval for the study was obtained from the local research ethics committees (Commissie
+Mensgebonden Onderzoek (CMO) Regio Arnhem-Nijmegen) on 9 April 2013 and can be found under
+registration number 2012/542 and ethics protocol number NL nr.: 41950.091.12. A written informed
+consent was obtained from all participants and/or their parents prior to the sample and data collections.
+2.2. Microbiota Methods and Measures
+2.2.1. Sample Collection, Preparation and Sequencing
+The human fecal samples were collected at home by the participants and stored at 4 ◦C.
+Within 24 hours after collection, the samples were transported to the laboratory, aliquoted into
+1.5 ml Eppendorf tubes, and stored at -80 ◦C. The bacterial DNA was extracted using a repeated
+bead-beating step and the Maxwell®16 Instrument (Promega, Leiden, The Netherlands), as described
+previously [21].
+DNA puriﬁcation was performed with a customized kit (AS1220; Promega,
+Leiden, The Netherlands). The puriﬁed bacterial DNA was measured with a NanoDrop ND-2000
+spectrophotometer (Thermo Fisher Scientiﬁc, Wilmington, DE, USA), and aliquots of 20 ng/µL were
+prepared for the 2-step Polymerase Chain Reaction (PCR) reactions (including negative controls).
+In the ﬁrst PCR, ampliﬁcation of the V1-V2 region of the 16S rRNA gene was performed using
+previously reported primers for this region: 27F-DegS (5’GTTYGATYMTGGCTCAG) – 338RI-II (5’
+GCWGCC[T/A]CCCGTAGG[A/T]GT) [22]. In the second PCR, unique barcoded primers were added
+to each sample to allow for parallel sequencing of many diﬀerent samples. The PCR product was
+checked using electrophoresis and puriﬁed using the CleanPCR kit (CleanNA, Alphen aan den Rijn,
+The Netherlands). The DNA concentration was measured using Qubit®2.0 ﬂuorometer. The puriﬁed
+samples were used to prepare libraries for the Illumina HiSeq PE300 sequencing platform (GATC
+Biotech AG, Konstanz, Germany), with ﬁnal loading concentrations of 200 ng/µL.
+2.2.2. Data Processing
+The sequenced data was analyzed through NG-Tax 16S rRNA pipeline at Wageningen University
+and Research (WUR, Wageningen, The Netherlands) [23]. NG-Tax identiﬁed the taxonomy of the
+samples based on 16S sequences using three core elements: (i) barcode-primer ﬁltering, (ii) operational
+taxonomic unit (OTU) picking, in which unique sequences with the relative abundance above 0.1%
+were clustered into OTUs based on a sequence similarity ≥98.5%, and (iii) taxonomic assignment using
+the SILVA reference database (version 128; [24]).
+2.2.3. Filtering Procedure of Taxonomic Data
+We performed two ﬁltering steps on the output ﬁle (BIOM-ﬁle) of NG-Tax in order to remove
+genera with low prevalence and to reduce the impact of the high number of absent genera (with a
+value of zero per sample). This step was critical to improve the power to detect the true eﬀects of the
+microbiota while keeping as much information as possible. The way the genera/OTUs were identiﬁed
+made it impossible to disentangle if the observed values of zero correspond to true zeros (e.g., not
+present in the sample) or are false zeros (e.g., present but not detected). The two ﬁltering steps were
+applied as follows: (i) the OTU table was ﬁltered at the genus level, where a genus with non-zero
+Microorganisms 2020, 8, 406
+4 of 14
+values in less than 10% of the samples was removed, and (ii) the OTU table was ﬁltered at sample
+level, at which a sample with less than 10% of genera was removed (Figure S1). The results of 16S
+rRNA analysis after ﬁltering of taxonomic data can be found in the Supplemental Results.
+2.2.4. Sequencing Depth Comparison
+The sequencing depth of the microbiota data was compared between all groups (ADHD, controls
+and subthreshold ADHD) by performing a Kruskal–Wallis H test on the total reads. This was done in
+order to assess equal distribution of the sequence reads across the groups, which helped to verify the
+eﬀect of any technical variation between the groups. The results can be found in the Supplemental
+Results, which indicated no diﬀerences.
+2.2.5. Within-Sample Diversity Metrics
+Three alpha-diversity metrics were applied on the OTU level: (1) the species richness estimator,
+counting the observed unique OTUs in each sample [25]; (2) Shannon–Wiener diversity [25] index,
+which takes into consideration not only the number of observed unique OTUs but also their abundance;
+and (3) the phylogenetic richness estimator, which estimates microbial diversity across a phylogenetic
+tree (Faiths’ phylogenetic diversity) [26]. The alpha-diversity metrics were calculated using the
+‘alpha_diversity.py’ script in QIIME 1.9.1 [27] and compared between participants with ADHD
+and controls.
+2.2.6. Between-Sample Diversity Metrics
+To assesses beta-diversity, we used the weighted UniFrac distance metric, a phylogenetic-based
+assessment of the diﬀerence in overall bacterial community composition at the OTU level [28].
+To analyze the beta-diversity, multivariate statistics were conducted using ADONIS and betadisper
+functions in the R package vegan version 2.5–2 [29,30]. Through ADONIS, we determined if the tested
+variables (i.e., disease status or symptom counts) inﬂuenced beta-diversity [29]. Betadisper measures the
+variability in OTU composition among groups (here ADHD and controls) [31]. Principal Coordinates
+Analysis (PCoA) was performed using the R function phyloseq::ordinate to determine and visualize
+whether there is a clear discrimination of microbial composition between the two groups.
+2.2.7. Taxonomic Composition Analysis and Associations with Symptoms
+Taxonomic composition of the gut microbiota was investigated at the phylum and genus levels
+after transforming the sequencing read counts into microbial relative abundance (normalization
+step). Any unknown taxonomic level (e.g., unknown genus) was assigned to the next highest known
+taxonomic rank (e.g., family). The composition analysis was calculated using QIIME 1.9.1 with the
+“summarize_taxa.py” script [27]. Microbiota compositional data are highly skewed given the high
+number of zeros. We used Linear discriminant analysis Eﬀect Size (LEfSe; https://huttenhower.sph.
+harvard.edu/galaxy) for statistical analysis and visualization of the results. LEfSe uses non-parametric
+statistics (which is less sensitive to the extreme values [32]), in our case the Kruskal–Wallis sum-rank
+test [33], to identify (nominal) statistical diﬀerences in the relative abundance of gut microbiota between
+participants with ADHD and controls. In order to maximize information content and, at the same time,
+include as many genera as possible, we included only genera with non-zero values in at least 10% of
+the samples in both groups. To prioritize the selection of candidate taxa without making any claims of
+association (with ADHD), genera showing nominal statistical diﬀerences (p < 0.05, uncorrected) were
+selected for downstream correlation and linear regression analyses.
+Linear mixed regression analysis was performed to associate bacterial relative abundance with
+inattention or hyperactivity/impulsivity score available for all participants (including participants with
+“subthreshold ADHD”). Models were adjusted for age, sex, BMI, diﬀ_days, and included the family
+relatedness as random factor; this was done by using the R function lme4::lmer. Given the skewed
+distribution of the microbial relative abundance prior to the association analyses, we investigated
+Microorganisms 2020, 8, 406
+5 of 14
+linear regression assumptions and identiﬁed and removed extreme and inﬂuential samples (outliers).
+Outliers are known to have a signiﬁcant eﬀect on the regression model (but not on the non-parametric
+test [32]). Outliers were deﬁned by Cook’s distance above (4/n) (where n is the number of observations)
+and Leverage value above (3 × (k+1)/n) (where k is the number of independent variables, in our case
+k = 5) [34,35]. Cook’s distance identiﬁes inﬂuential values, which do not have to be necessarily the
+extreme ones; these can be identiﬁed by Leverage. Therefore, a sample was excluded from the analysis
+only if it scored above the threshold for both values. Regression analyses were corrected for multiple
+testing using the false discovery rate (FDR; in total corrected for 14 tests) and indicated as q-values (Q).
+2.2.8. Eﬀect of Medication on the Regression Results and on Gut Microbiota Composition
+Often ADHD patients are medicated, and some studies show that medication can inﬂuence
+gut microbiota composition [36,37]. Therefore, we explored an eﬀect of ADHD medication on our
+(regression) results and on gut microbiota composition at the genus level. The regression model could
+not simply be adjusted for medication due to the large number of non-medicated cases, who do not
+equate to healthy controls. Thus, the medicated cases (N = 19) were removed from the regression
+model to see how this eﬀects the results.
+2.2.9. Correlation Analysis and Multiple Regression with All Selected Genera
+The gut microbiota is a highly complex ecosystem of interacting organisms. In order to investigate
+the (in)dependent eﬀect of the selected genera on symptoms, we investigated their correlation structure
+and performed multiple regression analysis. The genus-genus correlation was assessed based on
+Spearman’s rank correlation coeﬃcient. Multiple regression analysis was performed for the same
+selected genera tested in the univariate models, adjusting for age, sex, BMI, diﬀ_days, and family
+relatedness as a random factor; the analysis was done without the samples identiﬁed as outliers (see
+above). If not mentioned otherwise, the data were analyzed using IBM SPSS for Windows 25.0 software
+(IBM Corp., Armonk, NY, USA), and the analysis was preceded by the Shapiro–Wilk’s normality test.
+3. Results
+3.1. Subjects Characteristics
+The general characteristics of the studied sample are presented in Table 1. Mean age, median
+BMI, percentage of males and diﬀerences in days between fecal collection and ADHD symptom
+assessment (diﬀ_days) were similar among the two groups. As expected, mean inattention and
+hyperactivity/impulsivity scores were statistically diﬀerent between the ADHD and control groups.
+Out of the 41 participants with ADHD, 19 were using medication for ADHD.
+Table 1. Characteristics of the sample.
+ADHD
+Control
+Subthreshold ADHD
+p-Value a
+N
+41
+47
+15
+-
+Age, mean (SD)
+20.2 (4.2)
+20.5 (3.5)
+20.2 (3.3)
+NS
+Age, range
+13–29
+13–28
+14–26
+-
+BMI, median (IQR)
+23 (20–26)
+22 (20–24)
+22 (20–25)
+NS
+BMI, range
+16–31
+16–31
+20–30
+-
+BMI ≥25, %
+29
+19
+20
+NS
+Male, %
+63
+49
+40
+NS
+Use of ADHD medication, N
+19
+0
+3
+-
+Diﬀ_days, median (IQR)
+17 (14–34)
+30 (12–70)
+16 (10–33)
+NS
+Conners’
+Inattention, mean (SD)
+66.3 (12.8)
+46.8 (12.5)
+58.1 (11.5)
+<0.001
+Hyperactivity/Impulsivity,
+mean (SD)
+59 (12.2)
+44.9 (13.0)
+59.3 (12.8)
+<0.001
+a comparison made for ADHD vs. controls; t-test, Mann–Whitney or chi-square test were applied accordingly; one
+sample had missing value for inattention and hyperactivity/impulsivity scores; four samples had missing value for
+BMI; NS = not signiﬁcant; SD = standard deviation; IQR = interquartile rang; diﬀ_days = represents diﬀerences in
+days between fecal collection and Conner’s assessment; - = no comparison was performed.
+Microorganisms 2020, 8, 406
+6 of 14
+3.2. Microbiota Measures
+Within-and between-sample diversity metrics: None of the three alpha-diversity (within-sample
+diversity) measures showed signiﬁcant diﬀerences between the ADHD and control groups (Figure S2).
+Beta-diversity (between-sample diversity), assessed using betadisper [30], showed that the ADHD
+group had a smaller variation in the gut microbiota composition, which means a higher taxonomic
+similarity (within the group) compared to controls (P = 0.004; Figure 1 and Figure S3). ADONIS revealed
+a signiﬁcant eﬀect of ADHD diagnosis and symptom severity on the variation in the beta-diversity.
+The variation in beta-diversity was signiﬁcantly explained by disorder status (N = 88; variance
+explained = 3.2%; P = 0.033), and inattention score (IA) (N = 102; variance explained = 3.7%; P = 0.014),
+whereas hyperactivity/impulsivity score (HI) was at trend level (N = 102; variance explained = 2.4%;
+(P = 0.059). Age, sex, BMI, and medication did not have a signiﬁcant eﬀect on beta-diversity (Table 2).
+Additionally, PCoA based on weighted UniFrac distance did not show a clear discrimination of
+microbial composition between the two groups determined by disorder status (ADHD vs. controls)
+(Figure S3).
+ 
+Figure 1. Boxplot of multivariate homogeneity of groups’ dispersions (betadisper) of participants
+with attention-deﬁcit/hyperactivity disorder (ADHD) and controls. Box plots represent median with
+whiskers on ± 1.5 IQR. * Pseudo-F = 9.658, P = 0.004.
+Table 2. Beta-diversity analysis.
+Variable
+N
+R2
+Pseudo-F
+p-Value
+Disorder status
+88
+0.032
+2.85
+0.033
+Age
+103
+0.004
+0.41
+0.853
+Sex
+103
+0.011
+1.10
+0.297
+BMI
+98
+0.005
+0.44
+0.848
+IA
+102
+0.037
+3.87
+0.014
+HI
+102
+0.024
+2.45
+0.059
+medication
+41
+0.022
+0.86
+0.483
+Results of ADONIS on weighted UniFrac dissimilarity matrix including six tests for: disorder status, age, sex, BMI,
+Inattention (IA), and Hyperactivity/Impulsivity (HI) variables; R2 = variance explained, a measure of eﬀect size;
+Pseudo-F = indicator of the number of clusters, the larger pseudo-F value the greater between-group variation than
+the within-group variation.
+3.2.1. Taxonomic Composition Analysis and Associations with Symptoms
+As expected [38], compositional analysis of our samples revealed that Firmicutes, Bacteroidetes,
+Actinobacteria, Proteobacteria, and Verrucomicrobia, were the most frequent phyla in our data (Table S2).
+Microorganisms 2020, 8, 406
+7 of 14
+There were no signiﬁcant diﬀerences in the relative abundance of any of these phyla between participants
+with ADHD and controls (Table S2).
+At the genus level, diﬀerences in the gut microbiota composition revealed nominal signiﬁcant
+case-control diﬀerences for ten genera (p < 0.05; Figure 2). Of those, nine genera were increased, and
+one was decreased in participants with ADHD. Based on their prevalence (present in at least 10% of
+the samples in each group; see methods), seven were selected for downstream association analyses
+with ADHD symptom scores (inattention and hyperactivity/impulsivity scores) (Figures S4 and S5).
+One genus, Ruminococcaceae_UCG_004, was associated (B = 39.291, P = 0.002, Q = 0.027; corrected for
+multiple testing; Table 3) with inattention scores and two other genera showed nominal associations
+(p < 0.05). We did not ﬁnd any association between tested genera and hyperactivity/impulsivity
+score (before or after correcting for multiple testing; all p > 0.05); therefore, only IA was taken into
+consideration in further analyses.
+y
+Figure 2. Comparison of bacterial relative abundance between participants with ADHD and controls.
+Identiﬁcation of the bacteria diﬀerences was done by Kruskal–Wallis test and visualized by LEfSe.
+Nominal signiﬁcant threshold: p < 0.05.
+Microorganisms 2020, 8, 406
+8 of 14
+Table 3. Association of the selected a genera with ADHD symptoms scores.
+Inattention
+Hyperactivity/Impulsivity
+N
+B (S.E.) b
+95% CI
+p-Value
+N
+B (S.E.) b
+95% CI
+p-Value
+Clostridiales_g__
+97
+−1.467 (3.077)
+−7.787–5.874
+0.634
+98
+−3.125 (2.439)
+−7.922–2.234
+0.204
+Family_XIII_AD3011_group
+98
+5.323 (2.779)
+−0.145–11.483
+0.059
+98
+0.316 (2.709)
+−4.879–6.004
+0.907
+Ruminococcaceae_UCG_005
+97
+1.495 (1.647)
+−1.759–4.986
+0.367
+97
+0.175 (1.610)
+−2.904–3.384
+0.914
+Ruminococcus_2
+98
+1.098 (0.445)
+0.246–1.959
+0.016
+98
+0.572 (0.440)
+−0.268–1.429
+0.197
+Ruminococcaceae_uncultured
+96
+12.241 (5.011)
+2.619–22.264
+0.017
+93
+9.996 (9.191)
+−7.132–28.016
+0.279
+Ruminococcaceae_NK4A214_group
+97
+3.392 (1.860)
+−0.230–7.339
+0.071
+98
+2.428 (1.522)
+−0.513–5.512
+0.114
+Ruminococcaceae_UCG_004
+93
+39.291 (12.296)
+15.329–64.513
+0.002 *
+93
+12.324(12.147)
+−10.849–36.385
+0.313
+Linear mixed regression models for the relative abundance of the selected genera from the LEfSe pipeline with
+the ADHD symptoms scores (inattention & hyperactivity/impulsivity) measured from participants with ADHD
+and controls and subthreshold ADHD; a The selection of the genera was done prior to regression analysis and it
+was done based on their prevalence (see the method section); b Linear mixed regression model without samples
+removed based on Cook’s distance and Leverage threshold; models adjusted for age, sex, BMI, diﬀ_days, and a
+random factor for family relatedness; * Signiﬁcant associations after multiple testing correction (FDR); N = number
+of samples after the removal of outliers (N = 98 means no outliers were removed); B = coeﬃcient; S.E. = standard
+error; CI = Conﬁdence Interval.
+3.2.2. Eﬀect of Medication on the Regression Results and on Gut Microbiota Composition
+We tested the eﬀect of ADHD medication on the (regression) results by excluding medicated
+cases (N = 19) from the analysis. We found that medication did not inﬂuence the association between
+Ruminococcaceae_UCG_004 and symptoms of inattention (B = 47.083, P = 0.0006 vs results in Table 3).
+When comparing the medicated (N = 19) versus non-medicated (N = 22) individuals with ADHD,
+we found that the genus Dialister was increased and that the genus Phascolarctobacterium decreased in
+medicated ADHD (Figure S6). Regarding the Phascolarctobacterium results, we had to treat them with
+caution because of having only three non-zeros values for medicated cases. It is diﬃcult to disentangle
+whether the observed values of zero correspond to true zeros (e.g., not present in the sample) or of
+false zeros (e.g., present but not detected).
+3.2.3. Correlation Analysis and Multiple Regression with all Selected Genera
+Spearman correlation analysis showed that two genera, Ruminococcaceae_NK4A214_group and
+Ruminococcaceae_UCG_005, had a strong positive correlation (r > 0.50) with each other. The other
+genera showed moderate (0.30 > r > 0.50), weak (0.30 > r > 0.10) or no correlation (Figure S7). Due to
+the variability in the correlation, we carried out a multiple regression analysis including all selected
+genera in one model (Table S3) and investigated the unique contribution of the associated genera to
+inattention symptoms. Regardless of correlation structure, removing one of the strongly correlated
+taxa (Ruminococcaceae_NK4A214_group or Ruminococcaceae_UCG_005) did not signiﬁcantly change the
+results. After controlling for other bacterial taxa (and age, sex, BMI, diﬀ_days, and a random factor for
+family relatedness), Ruminococcaceae_UCG_004 again showed the highest association with inattention
+score (B = 43.920, P = 0.001), followed by Ruminococcus_2 (B = 1.525, P = 0.001). These results suggest
+an independent eﬀect of these genera on inattention (Table S3).
+4. Discussion
+In this study, we aimed to determine the diﬀerences in gut microbiota composition between
+individuals with ADHD and controls and the association between the abundance of the selected genera
+and the severity of ADHD symptoms (inattention and hyperactivity/impulsivity) accounting for the
+eﬀects of medication.
+To our knowledge, our ﬁndings constitute the ﬁrst (proof-of-concept) of its kind showing
+the association between the microbiome relative abundance and ADHD symptoms in the
+adolescent/adult group.
+Our results showed general diﬀerences in microbiota composition
+(beta-diversity) between the groups as well as diﬀerences at the genus level, where the relative
+abundance of the Ruminococcaceae_UCG_004 genus was associated with ADHD inattention symptoms.
+Multiple regression analysis suggested that the association between Ruminococcaceae_UCG_004 and
+Microorganisms 2020, 8, 406
+9 of 14
+inattention was independent of other (selected) genera. Our results also point towards a potential
+eﬀect of genera such as Ruminococcus_2 and Ruminococcaceae_uncultured on inattention.
+Importantly,
+our result indicate that ADHD medication did not have an eﬀect on
+Ruminococcaceae_UCG_004 association.
+However, when directly comparing medicated (n = 19)
+and non-medicated individuals (n = 22) with ADHD, we found two genera being diﬀerent: Dialister
+was increased and Phascolarctobacterium was decreased in medicated individuals. While this is not the
+ﬁrst time that ADHD medication is examined in terms of an eﬀect on gut microbiota [39], it is the ﬁrst
+time that gut microbiota composition at the genus level was assessed. However, please note that these
+(secondary) results should be interpreted with caution given the small sample sizes of the sub-groups.
+Our results are in line with the growing evidence that the gut microbiome might be involved
+in neurodevelopmental disorders. The Ruminococcaceae family and the genera belonging to this
+family have shown altered relative abundance in individuals diagnosed with several psychiatric
+diseases, i.e., autism, bipolar disorder, anxiety, depression, schizophrenia, as well as ADHD [40–43].
+Even though there is a lack of knowledge about the functional role of Ruminoccocace_UCG_004 genus
+and its eﬀect on the host, the Ruminococcaceae family is well described. This family is commonly present
+in the mammalian intestinal tract, displaying the ability to degrade cellulose and hemicellulose from
+plant material [44]. These compounds are subsequently fermented and converted to short-chain fatty
+acids (SCFAs), which can be absorbed and used as energy source by the host [45]. SCFAs (acetate,
+propionate, and butyrate) are produced (among others) by strains of Ruminococcus [46], which are
+known for mucosal colonization [47], and have been shown to play a potential role in autism [48,49]
+and in ADHD [50]. Furthermore, Ruminococcus_2, became signiﬁcantly associated with symptoms of
+inattention in the multivariate analysis (Table S3). This suggests that, even in the absence of signiﬁcant
+correlations with other bacteria (Figure S7), there could be a bacterial community interaction pattern
+that explains more variance than a genus alone on inattention symptoms. Lastly, our lab recently
+performed a separate study, in which six randomly selected samples from the NeuroIMAGE cohort
+(same cohort studied here) were used in an animal study of human fecal microbiota transplantation into
+germ-free wild-type mice [51]. Mice colonized with ADHD gut microbiota had increased anxiety-like
+behavior and showed signiﬁcantly altered structural and functional brain characteristics. In this
+study, Ruminococcaceae_UCG_004 was positively correlated with a speciﬁc anxiety measure in the mice.
+Taken together, these results suggest that genera belonging to Ruminococcaceae family may exert a
+speciﬁc eﬀect on neurobiological processes key to brain development and several psychiatric diseases
+including ADHD.
+As a post-hoc exploratory analysis we blasted the Ruminococacceae_UCG_004 sequences using
+NCBI BLAST (https://blast.ncbi.nlm.nih.gov) to query for highly similar sequences. The BLAST search
+revealed that the sequence of the Ruminococacceae_UCG_004 genus was included in Evtepia gabavorous
+species (more information, together with the blasted sequences, can be found in supplementary results
+in supplementary materials). E. gabavorous seems to be the only isolated human gut bacteria showing
+ability to consume gamma aminobutyric acid (GABA) [52,53]. This is relevant because GABA is a
+naturally occurring amino acid that works as a neurotransmitter. GABA is considered an inhibitory
+neurotransmitter because it blocks, or inhibits, certain brain signals and decreases activity in the central
+nervous system and plays a role in neuropsychiatric disorders including ADHD [54,55]. Moreover,
+there are studies pointing out the relevance of studying the gut microbiome in relation to GABA
+involvement in ADHD etiology [50].
+This study should be viewed in the context of several strengths and limitations. Our strengths
+include the use of a sample with high-quality clinical assessment and of age-matched clinically
+ascertained controls. The limitations of our study are: i) limited sample size (although it is the largest
+sample of its kind so far, N = 98) and ii) the fact that we were not able to collect information on lifestyle,
+dietary patterns (including probiotics), or antibiotic use at the time of feces collection. For the former,
+we applied two QC steps in order to deal with the big number of variables (genera), their expected
+small eﬀects and big interindividual variation of the gut microbiota. First, we applied an uncorrected
+Microorganisms 2020, 8, 406
+10 of 14
+non-parametric approach (to identify diﬀerences between two groups, reduce number of variables
+and prioritize the selection of candidate taxa). Second, we applied an outlier detection step, prior to
+our regression analysis, in order to reduce the chance of false positives/negatives. For the latter, we
+were only able to collect information on BMI and while we acknowledge that this is not enough to
+account for the eﬀects of diet and lifestyle, it is encouraging to see that there was no diﬀerence between
+the groups. Moreover, we looked for and removed samples with a very low bacterial diversity (high
+proportion of zeros) by applying a 10% genus-based frequency cut-oﬀper sample. This can be used as a
+proxy for those individuals currently using antibiotics which would show a smaller bacterial diversity.
+ADHD studies investigating gut microbiota composition show inconsistent results [19,39,43,56,57].
+For instance, the study of Aarts et al. (2017) [19] investigated samples that show important overlap
+(around 40%) with our data set. This paper reported that Biﬁdobacterium genus showed the largest
+diﬀerence (nominally signiﬁcant) between the ADHD group and controls. We did not replicate
+this diﬀerence in the current study. The reason for the lack of replication between studies could be
+due to methodological diﬀerences. These include DNA extraction [58], 16S rRNA gene region [59],
+bioinformatic pipeline, data processing and analysis [60], sample size, and study design. Moreover,
+the age range (children vs. adults) diﬀerences between studies can underscore variation in ADHD
+symptoms, other non-shared environmental inﬂuences and gut microbiome composition [61,62].
+Follow-up studies (keeping comparable methods and including dietary patterns, comorbid conditions
+(of ADHD) and bacterial transcriptomics, metabolomics and metagenomics) are needed to replicate
+the current ﬁndings and to understand the complex biological mechanisms underlying our results.
+In conclusion, our work showed the diﬀerences in microbiota composition between individuals
+with ADHD and controls, and that variation of a genus from the Ruminococcaceae family
+(Ruminococcaceae_UCG-004) is associated with inattention severity.
+Further studies should
+validate the present ﬁndings and identify potential gut-brain mechanisms via genera belonging
+to the Ruminococcaceae family, such as those related to SCFA production and to alteration of
+GABA neurotransmitter.
+Supplementary Materials: The following are available online at http://www.mdpi.com/2076-2607/8/3/406/s1,
+include Supplemental Results, Tables and Figures; Figure S1. Filtering procedure applied in our study; Figure
+S2. Alpha diversity comparison of the gut microbiome between participants with ADHD and controls; Figure
+S3. Principal coordinates analysis (PCoA) of weighted UniFrac distances representing microbial composition of
+participants with ADHD and controls; Figure S4. Distribution of the selected genera for behavioral analysis for
+each group; Figure S5. Distribution of the non-selected genera for behavioral analysis for each group; Figure S6.
+Boxplot of two genera relative abundance being diﬀerent between medicated and non-medicated participants
+with ADHD; Figure S7. Spearman’s rank correlation matrix of the selected bacterial taxa; Table S1. Total number
+of reads of participants with ADHD, controls and subthreshold ADHD; Table S2. Relative abundance of bacterial
+phyla of all participants in our study; Table S3. Multiple regression model with the selected genera on inattention.
+Author Contributions: J.S.-T. performed laboratory analyses, analyzed and interpreted the data, and wrote the
+manuscript. S.D. performed laboratory analyses, contributed to the interpretation of the data and to the ﬁrst
+version of the manuscript. J.N. provided clinical information regarding ADHD diagnosis and contributed to data
+analysis. P.K. contributed to the laboratory and data analysis. C.B. supervised the laboratory process and the
+analysis of 16S rRNA data. J.B. organized the cohort recruitment and provided clinical information regarding
+ADHD diagnosis. A.A.V. designed and supervised the study. B.F. organized the cohort recruitment and supported
+design of the study. All authors were involved in editing the manuscript. All authors have read and agreed to the
+published version of the manuscript.
+Funding: This project has received funding from the European Union’s Horizon 2020 research and innovation
+programme under the Marie Sklodowska-Curie project MiND (grant agreement no. 643051). The funding body
+had no role in the manuscript. The research leading to these results also received funding from the European
+Community’s Horizon 2020 research and innovation programme through the Eat2beNICE (grant agreement no.
+728018), CoCA (grant agreement no. 667302) and CANDY (grant agreement no. 847818) projects, and Netherlands
+Organization for Scientiﬁc Research (NWO) Food Cognition and Behaviour Program in relation to the B3: Brain,
+Bacteria & Behaviour project (grant agreement number 057-14-005).
+Acknowledgments: The authors would like to thank Steven Aalvink for his contribution in the laboratory analyses
+and the technicians from Multifactorial Disease group especially Marlies Schimmel-Naber and Saskia van der
+Marel for administrative and pre-laboratory processing of microbial data. We thank Gerben Hermes, Alexander
+Kurilshikov, Marianne Jonker, Gido Schoenmacker and Todor Tokov for helpful discussions. All the authors are
+grateful to the study participants and their families.
+Microorganisms 2020, 8, 406
+11 of 14
+Conﬂicts of Interest: Barbara Franke has received educational speaking fees from Medice. Jan Buitelaar has
+served as a consultant, advisory board member, and/or speaker for Takeda/Shire, Roche, Medice, Janssen Cilag,
+and Servier. The remaining authors declare no competing interests.
+References
+1.
+Franke, B.; Faraone, S.V.; Asherson, P.; Buitelaar, J.; Bau, C.H.; Ramos-Quiroga, J.A.; Mick, E.; Grevet, E.H.;
+Johansson, S.; Haavik, J.; et al. The genetics of attention deﬁcit/hyperactivity disorder in adults, a review.
+Mol Psychiatry 2012, 17, 960–987. [CrossRef] [PubMed]
+2.
+Polanczyk, G.; de Lima, M.S.; Horta, B.L.; Biederman, J.; Rohde, L.A. The worldwide prevalence of ADHD:
+A systematic review and metaregression analysis. Am. J. Psychiatry 2007, 164, 942–948. [CrossRef] [PubMed]
+3.
+Fredriksen, M.; Dahl, A.A.; Martinsen, E.W.; Klungsoyr, O.; Faraone, S.V.; Peleikis, D.E. Childhood and
+persistent ADHD symptoms associated with educational failure and long-term occupational disability in
+adult ADHD. Atten. Deﬁc. Hyperact. Disord. 2014, 6, 87–99. [CrossRef] [PubMed]
+4.
+Adamou, M.; Arif, M.; Asherson, P.; Aw, T.C.; Bolea, B.; Coghill, D.; Guðjónsson, G.; Halmøy, A.; Hodgkins, P.;
+Müller, U.; et al. Occupational issues of adults with ADHD. BMC Psychiatry 2013, 13, 59. [CrossRef] [PubMed]
+5.
+Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V.;
+Ginsberg, Y.; Haavik, J.; et al. Live fast, die young? A review on the developmental trajectories of ADHD
+across the lifespan. Eur. Neuropsychopharmacol. 2018, 28, 1059–1088. [CrossRef] [PubMed]
+6.
+Langley, K. ADHD Genetics. In Oxford Textbook of Attention Deﬁcit Hyperactivity Disorder; Oxford University
+Press: Oxford, UK, 2018; Chapter 3; p. 19.
+7.
+Cortese, S.; Adamo, N.; Del Giovane, C.; Mohr-Jensen, C.; Hayes, A.J.; Carucci, S.; Atkinson, L.Z.; Tessari, L.;
+Banaschewski, T.; Coghill, D.; et al. Comparative eﬃcacy and tolerability of medications for attention-deﬁcit
+hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis.
+Lancet Psychiatry 2018, 5, 727–738. [CrossRef]
+8.
+Childress, A.C.; Sallee, F.R. Attention-deﬁcit/hyperactivity disorder with inadequate response to stimulants:
+Approaches to management. CNS Drugs 2014, 28, 121–129. [CrossRef]
+9.
+O’Callaghan, P. Adherence to stimulants in adult ADHD. Atten. Deﬁcit Hyperact. Disord. 2014, 6, 111–120.
+[CrossRef]
+10.
+Ghuman, J.K.; Ghuman, H.S. Pharmacologic intervention for attention-deﬁcit hyperactivity disorder in
+preschoolers: Is it justiﬁed? Paediatr. Drugs 2013, 15, 1–8. [CrossRef]
+11.
+De Crescenzo, F.; Cortese, S.; Adamo, N.; Janiri, L. Pharmacological and non-pharmacological treatment of
+adults with ADHD: A meta-review. Evid. Based. Ment. Health 2017, 20, 4–11. [CrossRef]
+12.
+Ly, V.; Bottelier, M.; Hoekstra, P.J.; Vasquez, A.A.; Buitelaar, J.K.; Rommelse, N.N. Elimination diets’ eﬃcacy
+and mechanisms in attention deﬁcit hyperactivity disorder and autism spectrum disorder. Eur. Child Adolesc.
+Psychiatry 2017, 26, 1067–1079. [CrossRef] [PubMed]
+13.
+Pelsser, L.M.; Frankena, K.; Toorman, J.; Rodrigues Pereira, R. Diet and ADHD, Reviewing the Evidence:
+A Systematic Review of Meta-Analyses of Double-Blind Placebo-Controlled Trials Evaluating the Eﬃcacy
+of Diet Interventions on the Behavior of Children with ADHD. PLoS ONE 2017, 12, e0169277. [CrossRef]
+[PubMed]
+14.
+Vuong, H.E.; Yano, J.M.; Fung, T.C.; Hsiao, E.Y. The Microbiome and Host Behavior. Annu. Rev. Neurosci.
+2017, 40, 21–49. [CrossRef] [PubMed]
+15.
+Hsiao, E.Y.; McBride, S.W.; Hsien, S.; Sharon, G.; Hyde, E.R.; McCue, T.; Codelli, J.A.; Chow, J.; Reisman, S.E.;
+Petrosino, J.F.; et al. Microbiota modulate behavioral and physiological abnormalities associated with
+neurodevelopmental disorders. Cell 2013, 155, 1451–1463. [CrossRef]
+16.
+Bull-Larsen, S.; Mohajeri, M.H. The Potential Inﬂuence of the Bacterial Microbiome on the Development and
+Progression of ADHD. Nutrients 2019, 11, 2805. [CrossRef]
+17.
+Dong, W.; Wang, R.; Ma, L.N.; Xu, B.L.; Zhang, J.S.; Zhao, Z.W.; Wang, Y.L.; Zhang, X. Inﬂuence of age-related
+learning and memory capacity of mice: Diﬀerent eﬀects of a high and low caloric diet. Aging Clin. Exp. Res.
+2016, 28, 303–311. [CrossRef]
+18.
+Carabotti, M.; Scirocco, A.; Maselli, M.A.; Severi, C. The gut-brain axis: Interactions between enteric
+microbiota, central and enteric nervous systems. Ann. Gastroenterol. 2015, 28, 203–209.
+Microorganisms 2020, 8, 406
+12 of 14
+19.
+Aarts, E.; Ederveen, T.H.A.; Naaijen, J.; Zwiers, M.P.; Boekhorst, J.; Timmerman, H.M.; Smeekens, S.P.;
+Netea, M.G.; Buitelaar, J.K.; Franke, B.; et al. Gut microbiome in ADHD and its relation to neural reward
+anticipation. PLoS ONE 2017, 12, e0183509. [CrossRef]
+20.
+von Rhein, D.; Mennes, M.; van Ewijk, H.; Groenman, A.P.; Zwiers, M.P.; Oosterlaan, J.; Heslenfeld, D.;
+Franke, B.; Hoekstra, P.J.; Faraone, S.V.; et al. The NeuroIMAGE study: A prospective phenotypic, cognitive,
+genetic and MRI study in children with attention-deﬁcit/hyperactivity disorder. Design and descriptives.
+Eur. Child Adolesc. Psychiatry 2015, 24, 265–281. [CrossRef]
+21.
+Fernandez-Calleja, J.M.S.; Konstanti, P.; Swarts, H.J.M.; Bouwman, L.M.S.; Garcia-Campayo, V.; Billecke, N.;
+Oosting, A.; Smidt, H.; Keijer, J.; van Schothorst, E.M. Non-invasive continuous real-time in vivo analysis of
+microbial hydrogen production shows adaptation to fermentable carbohydrates in mice. Sci. Rep. 2018, 8,
+15351. [CrossRef]
+22.
+van den Bogert, B.; Erkus, O.; Boekhorst, J.; de Goﬀau, M.; Smid, E.J.; Zoetendal, E.G.; Kleerebezem, M.
+Diversity of human small intestinal Streptococcus and Veillonella populations. FEMS Microbiol. Ecol. 2013,
+85, 376–388. [CrossRef] [PubMed]
+23.
+Ramiro-Garcia, J.; Hermes, G.D.A.; Giatsis, C.; Sipkema, D.; Zoetendal, E.G.; Schaap, P.J.; Smidt, H.
+NG-Tax, a highly accurate and validated pipeline for analysis of 16S rRNA amplicons from complex biomes.
+F1000Research 2016, 5, 1791. [CrossRef] [PubMed]
+24.
+Quast, C.; Pruesse, E.; Yilmaz, P.; Gerken, J.; Schweer, T.; Yarza, P.; Peplies, J.; Glockner, F.O. The SILVA
+ribosomal RNA gene database project: Improved data processing and web-based tools. Nucleic Acids Res.
+2013, 41, D590–D596. [CrossRef] [PubMed]
+25.
+Morris, E.K.; Caruso, T.; Buscot, F.; Fischer, M.; Hancock, C.; Maier, T.S.; Meiners, T.; Muller, C.; Obermaier, E.;
+Prati, D.; et al. Choosing and using diversity indices: Insights for ecological applications from the German
+Biodiversity Exploratories. Ecol. Evol. 2014, 4, 3514–3524. [CrossRef] [PubMed]
+26.
+Faith, D.P. Conservation evaluation and phylogenetic diversity. Biol. Conserv. 1992, 61, 1–10. [CrossRef]
+27.
+Caporaso, J.G.; Kuczynski, J.; Stombaugh, J.; Bittinger, K.; Bushman, F.D.; Costello, E.K.; Fierer, N.; Pena, A.G.;
+Goodrich, J.K.; Gordon, J.I.; et al. QIIME allows analysis of high-throughput community sequencing data.
+Nat. Methods 2010, 7, 335–336. [CrossRef]
+28.
+Ursell, L.K.; Metcalf, J.L.; Parfrey, L.W.; Knight, R. Deﬁning the human microbiome. Nutr. Rev. 2012, 70
+(Suppl. 1), S38–S44. [CrossRef]
+29.
+Anderson, M.J. A new method for non-parametric multivariate analysis of variance. Austral Ecol. 2001, 26,
+32–46.
+30.
+Anderson, M.J.; Ellingsen, K.E.; McArdle, B.H. Multivariate dispersion as a measure of beta diversity. Ecol.
+Lett. 2006, 9, 683–693. [CrossRef]
+31.
+Anderson, M.J. Distance-based tests for homogeneity of multivariate dispersions. Biometrics 2006, 62, 245–253.
+[CrossRef]
+32.
+Kitchen, C.M. Nonparametric vs parametric tests of location in biomedical research. Am. J. Ophthalmol. 2009,
+147, 571–572. [CrossRef] [PubMed]
+33.
+Segata, N.; Izard, J.; Waldron, L.; Gevers, D.; Miropolsky, L.; Garrett, W.S.; Huttenhower, C. Metagenomic
+biomarker discovery and explanation. Genome Biol. 2011, 12, R60. [CrossRef] [PubMed]
+34.
+Altman, N.; Krzywinski, M. Analyzing outliers: Inﬂuential or nuisance? Nat. Methods 2016, 13, 281–282.
+[CrossRef] [PubMed]
+35.
+Field, A. Discovering Statistics Using SPSS: And Sex and Drugs and Rock ‘n’ Roll, 3rd ed.; SAGE: London, UK,
+2009; pp. 217–219.
+36.
+Cussotto, S.; Strain, C.R.; Fouhy, F.; Strain, R.G.; Peterson, V.L.; Clarke, G.; Stanton, C.; Dinan, T.G.;
+Cryan, J.F. Diﬀerential eﬀects of psychotropic drugs on microbiome composition and gastrointestinal
+function. Psychopharmacology 2019, 236, 1671–1685. [CrossRef]
+37.
+Maier, L.; Pruteanu, M.; Kuhn, M.; Zeller, G.; Telzerow, A.; Anderson, E.E.; Brochado, A.R.; Fernandez, K.C.;
+Dose, H.; Mori, H.; et al. Extensive impact of non-antibiotic drugs on human gut bacteria. Nature 2018, 555,
+623–628. [CrossRef]
+38.
+D’Argenio, V.; Salvatore, F. The role of the gut microbiome in the healthy adult status. Clin. Chim. Acta 2015,
+451 Pt A, 97–102. [CrossRef]
+39.
+Prehn-Kristensen, A.; Zimmermann, A.; Tittmann, L.; Lieb, W.; Schreiber, S.; Baving, L.; Fischer, A. Reduced
+microbiome alpha diversity in young patients with ADHD. PLoS ONE 2018, 13, e0200728. [CrossRef]
+Microorganisms 2020, 8, 406
+13 of 14
+40.
+Rose, D.R.; Yang, H.; Serena, G.; Sturgeon, C.; Ma, B.; Careaga, M.; Hughes, H.K.; Angkustsiri, K.; Rose, M.;
+Hertz-Picciotto, I.; et al. Diﬀerential immune responses and microbiota proﬁles in children with autism
+spectrum disorders and co-morbid gastrointestinal symptoms. Brain Behav. Immun. 2018, 70, 354–368.
+[CrossRef]
+41.
+Painold, A.; Morkl, S.; Kashofer, K.; Halwachs, B.; Dalkner, N.; Bengesser, S.; Birner, A.; Fellendorf, F.;
+Platzer, M.; Queissner, R.; et al. A step ahead: Exploring the gut microbiota in inpatients with bipolar
+disorder during a depressive episode. Bipolar Disord. 2019, 21, 40–49. [CrossRef]
+42.
+Nguyen, T.T.; Kosciolek, T.; Maldonado, Y.; Daly, R.E.; Martin, A.S.; McDonald, D.; Knight, R.; Jeste, D.V.
+Diﬀerences in gut microbiome composition between persons with chronic schizophrenia and healthy
+comparison subjects. Schizophr. Res. 2019, 204, 23–29. [CrossRef]
+43.
+Jiang, H.Y.; Zhou, Y.Y.; Zhou, G.L.; Li, Y.C.; Yuan, J.; Li, X.H.; Ruan, B. Gut microbiota proﬁles in
+treatment-naive children with attention deﬁcit hyperactivity disorder. Behav. Brain Res. 2018, 347, 408–413.
+[CrossRef] [PubMed]
+44.
+Flint, H.J.; Scott, K.P.; Duncan, S.H.; Louis, P.; Forano, E. Microbial degradation of complex carbohydrates in
+the gut. Gut Microbes 2012, 3, 289–306. [CrossRef] [PubMed]
+45.
+den Besten, G.; van Eunen, K.; Groen, A.K.; Venema, K.; Reijngoud, D.J.; Bakker, B.M. The role of short-chain
+fatty acids in the interplay between diet, gut microbiota, and host energy metabolism. J. Lipid Res. 2013, 54,
+2325–2340. [CrossRef] [PubMed]
+46.
+Kunal Maniar, V.S.; Kumar, D.; Moideen, A.; Bhattacharyya, R.; Banerjee, D. Metformin: A Candidate Drug to
+Control the Epidemic of Diabetes and Obesity by Way of Gut Microbiome Modiﬁcation in Microbiome and Metabolome
+in Diagnosis, Therapy, and other Strategic Applications; Academic Press: New York, NY, USA, 2019; Chapter 42;
+pp. 401–408.
+47.
+Sicard, J.F.; Le Bihan, G.; Vogeleer, P.; Jacques, M.; Harel, J. Interactions of Intestinal Bacteria with Components
+of the Intestinal Mucus. Front. Cell. Infect. Microbiol. 2017, 7, 387. [CrossRef]
+48.
+Wang, L.; Christophersen, C.T.; Sorich, M.J.; Gerber, J.P.; Angley, M.T.; Conlon, M.A. Elevated fecal short
+chain fatty acid and ammonia concentrations in children with autism spectrum disorder. Dig. Dis. Sci. 2012,
+57, 2096–2102. [CrossRef]
+49.
+Abdelli, L.S.; Samsam, A.; Naser, S.A. Propionic Acid Induces Gliosis and Neuro-inﬂammation through
+Modulation of PTEN/AKT Pathway in Autism Spectrum Disorder. Sci. Rep. 2019, 9, 8824. [CrossRef]
+50.
+Dam, S.A.; Mostert, J.C.; Szopinska-Tokov, J.W.; Bloemendaal, M.; Amato, M.; Arias-Vasquez, A. The Role
+of the Gut-Brain Axis in Attention-Deﬁcit/Hyperactivity Disorder. Gastroenterol. Clinics 2019, 48, 407–431.
+[CrossRef]
+51.
+Tengeler, A.C.; Dam, S.A.; Wiesmann, M.; Naaijen, J.; van Bodegom, M.; Belzer, C.; Dederen, P.J.; Verweij, V.;
+Franke, B.; Kozicz, T.; et al. Gut microbiota from persons with attention-deﬁcit/hyperactivity disorder aﬀects
+the brain in mice. Microbiome 2020.
+52.
+Strandwitz, P.; Kim, K.H.; Terekhova, D.; Liu, J.K.; Sharma, A.; Levering, J.; McDonald, D.; Dietrich, D.;
+Ramadhar, T.R.; Lekbua, A.; et al. GABA-modulating bacteria of the human gut microbiota. Nat. Microbiol.
+2019, 4, 396–403. [CrossRef]
+53.
+Strandwitz, P. Neurotransmitter modulation by the gut microbiota. Brain Res. 2018, 1693 Pt B, 128–133.
+[CrossRef]
+54.
+Novell, R.; Esteba-Castillo, S.; Rodriguez, E. Eﬃcacy and safety of a GABAergic drug (Gamalate B6): Eﬀects
+on behavior and cognition in young adults with borderline-to-mild intellectual developmental disabilities
+and ADHD. Drugs Context 2020, 9, 212601. [CrossRef] [PubMed]
+55.
+Schur, R.R.; Draisma, L.W.; Wijnen, J.P.; Boks, M.P.; Koevoets, M.G.; Joels, M.; Klomp, D.W.; Kahn, R.S.;
+Vinkers, C.H. Brain GABA levels across psychiatric disorders:
+A systematic literature review and
+meta-analysis of (1) H-MRS studies. Hum. Brain Mapp. 2016, 37, 3337–3352. [CrossRef] [PubMed]
+56.
+Hassan, A. Characterizing a Link Between Gut Microbiome and Attention Deﬁcit Hyperactive Disorder; Honors
+College Research Collection; Florida International University Digital Commons: Miami, FL, USA, 2017; p. 4.
+57.
+Wang, L.J.; Yang, C.Y.; Chou, W.J.; Lee, M.J.; Chou, M.C.; Kuo, H.C.; Yeh, Y.M.; Lee, S.Y.; Huang, L.H.; Li, S.C.
+Gut microbiota and dietary patterns in children with attention-deﬁcit/hyperactivity disorder. Eur. Child
+Adolesc. Psychiatry 2020, 29, 287–297. [CrossRef] [PubMed]
+Microorganisms 2020, 8, 406
+14 of 14
+58.
+Szopinska, J.W.; Gresse, R.; van der Marel, S.; Boekhorst, J.; Lukovac, S.; van Swam, I.; Franke, B.;
+Timmerman, H.; Belzer, C.; Arias Vasquez, A. Reliability of a participant-friendly fecal collection method
+for microbiome analyses: A step towards large sample size investigation. BMC Microbiol. 2018, 18, 110.
+[CrossRef]
+59.
+Rintala, A.; Pietila, S.; Munukka, E.; Eerola, E.; Pursiheimo, J.P.; Laiho, A.; Pekkala, S.; Huovinen, P. Gut
+Microbiota Analysis Results Are Highly Dependent on the 16S rRNA Gene Target Region, Whereas the
+Impact of DNA Extraction Is Minor. J. Biomol. Tech. 2017, 28, 19–30. [CrossRef]
+60.
+Allali, I.; Arnold, J.W.; Roach, J.; Cadenas, M.B.; Butz, N.; Hassan, H.M.; Koci, M.; Ballou, A.; Mendoza, M.;
+Ali, R.; et al. A comparison of sequencing platforms and bioinformatics pipelines for compositional analysis
+of the gut microbiome. BMC Microbiol. 2017, 17, 194. [CrossRef]
+61.
+Hollister, E.B.; Riehle, K.; Luna, R.A.; Weidler, E.M.; Rubio-Gonzales, M.; Mistretta, T.A.; Raza, S.;
+Doddapaneni, H.V.; Metcalf, G.A.; Muzny, D.M.; et al. Structure and function of the healthy pre-adolescent
+pediatric gut microbiome. Microbiome 2015, 3, 36. [CrossRef]
+62.
+Wilens, T.E.; Biederman, J.; Faraone, S.V.; Martelon, M.; Westerberg, D.; Spencer, T.J. Presenting ADHD
+symptoms, subtypes, and comorbid disorders in clinically referred adults with ADHD. J. Clin. Psychiatry
+2009, 70, 1557–1562. [CrossRef]
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+

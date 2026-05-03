@@ -1,0 +1,1322 @@
+---
+# A-Potential-Role-for-Neuroinflammation-in-ADHD
+**Autores**: Not specified
+**Año**: 2023
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Abstract
+Attention deﬁcit hyperactivity disorder (ADHD) is a neurobehavioural disorder in
+children and adolescents. Although increases in oxidative stress and disturbances
+of neurotransmitter system such as the dopaminergic and abnormalities in several
+brain regions have been demonstrated, the pathophysiology of ADHD is not fully
+understood. Nevertheless, ADHD involves several factors that have been
+associated with an increase in neuroinﬂammation. This chapter presents an
+overview of factors that may increase neuroinﬂammation and play a potential
+role in the development and pathophysiology of ADHD. The altered immune
+response, polymorphisms in inﬂammatory-related genes, ADHD comorbidity
+with autoimmune and inﬂammatory disorders and prenatal exposure to inﬂam-
+mation are associated with alterations in offspring brain development and are a
+risk factor; genetic and environmental risk factors that may increase the risk for
+ADHD and medications can increase neuroinﬂammation. Evidence of an associ-
+ation between these factors has been an invaluable tool for research on
+D. Vázquez-González · S. Carreón-Trujillo · D. M. Abarca-Merlin · J. C. Corona (✉)
+Laboratory of Neurosciences, Hospital Infantil de México Federico Gómez, Mexico City, Mexico
+e-mail: jcorona@himfg.edu.mx
+L. Alvarez-Arellano
+CONACYT-Hospital Infantil de México Federico Gómez, Mexico City, Mexico
+P. Domínguez-López
+Unidad de Investigación Médica en Medicina Reproductiva, Hospital Gineco-Obstetricia, IMSS,
+Mexico City, Mexico
+M. Salazar-García
+Laboratorio de Investigación en Biología del Desarrollo y Teratogénesis Experimental, Hospital
+Infantil de México Federico Gómez, Mexico City, Mexico
+# The Author(s), under exclusive license to Springer Nature Singapore Pte
+Ltd. 2023
+Y.-K. Kim (ed.), Neuroinﬂammation, Gut-Brain Axis and Immunity
+in Neuropsychiatric Disorders, Advances in Experimental Medicine and Biology
+1411, https://doi.org/10.1007/978-981-19-7376-5_15
+328
+D. Vázquez-González et al.
+inﬂammation in ADHD. Therefore, evidence studies have made it possible to
+generate alternative therapeutic interventions using natural products as anti-
+inﬂammatories that could have great potential against neuroinﬂammation
+in ADHD.
+Keywords
+ADHD · Autoantibodies · Neuroinﬂammation · Inﬂammatory disorders ·
+Cytokines · Polymorphisms
+15.1
+Introduction
+Attention deﬁcit hyperactivity disorder (ADHD) is a neurobehavioural disorder
+characterised by a persistent pattern of age-inappropriate inattention and/or
+hyperactivity-impulsivity, leading to numerous degrees of functional or develop-
+mental impairment, resulting in cognitive behavioural, emotional, and social
+changes that are pervasive in all social settings [1–4].
+Because it is a neurobehavioural disorder, it has been difﬁcult to establish a
+uniform prevalence; however, a prevalence of 5.9% was found in children and
+adolescents worldwide [4–6]. While a recent meta-analysis published by Song
+et al., reports that the persistent prevalence in adults (start in childhood) was 2.5%,
+leading to a prevalence of approximately 50% towards adulthood, data is consistent
+with several authors [5–8]. Conversely, the prevalence of symptomatic ADHD
+(regardless of its onset in childhood) is 2.8% worldwide [9]; also, in people aged
+50 years or older, a prevalence of 0.02% is estimated worldwide [10]. Several
+authors have suggested that gender is an important factor in the prevalence and a
+higher prevalence was repeatedly seen in boys than in girls at a ratio of approxi-
+mately 2:1; it was also evaluated with predominant criteria for inattention or in
+hyperactivity/impulsivity, and different proportions related to gender were observed
+[5, 11]; it is also suggested that the above relationship is difﬁcult to assess, since
+depending on gender, the response to different situations, such as depression, stress
+and anxiety can affect the evaluation criteria [2, 12, 13].
+15.2
+Aetiology in ADHD
+There is strong evidence for the high heritability of ADHD, estimated to range
+between 70% and 80% [4, 14, 15]. Genome-wide association study (GWAS) designs
+allow the analysis of genome-wide DNA variants to obtain data on the association of
+ADHD with any gene. A recent GWAS meta-analysis identiﬁed 12 loci that harbour
+a DNA variant that increased the risk of suffering ADHD [16], representing approx-
+imately 22% of the heritability of the disorder [4]. However, the effect of sizes of
+individual loci are too small to be clinically relevant, and these ﬁndings do not
+describe which genes are causal [17]. In contrast, molecular studies have suggested
+15
+A Potential Role for Neuroinflammation in ADHD
+329
+the participation of rare genetic mutations, known as copy number variants (CNV)
+[17, 18], and it has been discovered that the genomic regions covered by the CNVs
+associated with ADHD show a signiﬁcant overlap with CNVs involved in autism
+and
+schizophrenia
+[18].
+Moreover,
+ADHD
+shares
+genetic
+overlap
+with
+43 phenotypes, including insomnia, mortality, educational outcomes, smoking and
+depressive disorders [16].
+Given the aetiological diversity associated with ADHD, numerous risk factors
+have been described associated with the disorder. They are classiﬁed into two main
+groups: genetic factors, describing a series of candidate genes associated with
+ADHD and environmental factors, which establish the peri-, pre- and postnatal
+events that are involved in the development of ADHD. The genetic studies of
+ADHD have shown that it is highly polygenetic, so its genetic architecture is
+explained by thousands of common genetic variants, each with a small effect and
+rare mutations that have a greater effect [16, 18]. Therefore, a single gene is unlikely
+to be involved in ADHD; rather, it could interact with several different genes. Thus,
+several studies on ADHD-associated candidate genes mainly involve genes related
+to the catecholaminergic system, including the dopamine transporter gene (DAT1)
+[19, 20], the dopamine D4 receptor gene (DRD4) [21, 22], the dopamine D5 receptor
+gene (DRD5) [21, 23] and lastly, the catechol-O-methyltransferase gene [24]. Con-
+versely, genes involved with other neurotransmitter systems have also been
+described, such as the serotonin receptor 1B (HTR1B) gene [25, 26] and the
+nicotinic acetylcholine receptor 4 (CHRNA4) gene [27, 28]. In addition, genes
+related to the glutamatergic system have also been reported, such as the ionotropic
+glutamate receptor and N-methyl-D-aspartate (NMDA) receptor subunit-encoding
+genes (GRIN2A and GRIN2B) [29, 30]. Similarly, genes involved in the central
+nervous system (CNS) development have been described; one of the genes widely
+studied and associated with ADHD is the gene encoding for a regulatory protein of
+synaptic vesicles called SNAP25, involved in axonal growth and synaptic plasticity
+and in the coupling and fusion of the synaptic vesicles in the presynaptic neurons,
+necessary for regulating neurotransmitter release [31, 32]. Moreover, genes involved
+in immune regulation have also been reported, such as IL-2, IL-6 and tumour
+necrosis factor-alpha (TNF-α) [33, 34].
+Epidemiological studies have described multiple environmental exposures as
+associated with ADHD, establishing them as putative causal factors for the disorder
+[4]. It is estimated that between 10% and 40% of the variations associated with
+ADHD are explained by environmental factors [35]. Among the pre-and perinatal
+factors, several events have been identiﬁed such as maternal stress during pregnancy
+[35, 36], perinatal vitamin D deﬁciency [37], maternal exposure to alcohol and
+tobacco, associating the latter with an increase of approximately two times the risk
+of suffering ADHD, since it has been established that maternal smoking places the
+foetus at risk of birth complications; in addition, the nicotinic receptors can modulate
+the dopaminergic activity, and it has been shown that dopaminergic alteration is
+involved in the pathophysiology of ADHD [38–40]. Another of the events widely
+associated with the disorder is the low birth weight (<2500 g) or premature birth
+(from 33 to <37 weeks of gestation), where children born are small for the
+330
+D. Vázquez-González et al.
+gestational age and present a greater risk of up to three times to be diagnosed for
+ADHD [35, 40–42]. Besides, complications in pregnancy or childbirth could also
+inﬂuence the risk of getting ADHD by damaging the brain in the early stages of its
+development [41, 43]. It has also been reported that exposure to environmental
+toxins such as organophosphates, polychlorinated biphenyls and lead, with medium
+to low exposures to lead, were associated with the risk to be diagnosed with ADHD
+[43, 44], and also a risk has been linked to the mother’s overweight or obesity before
+pregnancy [45, 46] and the maternal age, where the children of adolescent mothers
+(<20 years) are 78% more likely to be diagnosed with ADHD [47].
+Regarding the postnatal factors, the main highlights are exposure to artiﬁcial food
+colours and ﬂavours and food or diet supplements [48]. Moreover, social
+determinants have also been associated, where a set of psychosocial adversity factors
+could be inﬂuencing ADHD development, such as severe marital discord, low social
+class, large family size, paternal criminality, family dysfunction, child institutional
+deprivation and the foster home placement [43, 49, 50].
+Although genetic and environmental risk factors in ADHD have been described
+separately, the course of the disorder is likely inﬂuenced by how these factors
+interact and affect the response of an individual to the environment, so to understand
+the aetiology of ADHD, fully; it is critical to consider how genes and the environ-
+ment work together to cause the disorder. Therefore, it is suggested that gene–
+environment interactions (GxE) could be the main mechanism by which environ-
+mental factors increase the risk of ADHD since this interaction describes any
+phenotypic event that is due to interactions between the environment and genes
+[43, 51]. The presence of GxE interactions has been reported between several
+genetic variants, mainly between genes associated with the catecholaminergic trans-
+mission and environmental factors, such as maternal alcohol and tobacco consump-
+tion and the psychosocial adversity, and thus, the
+
+## Key Findings
+Conclusion
+The pathophysiology of ADHD has been associated with an increase in
+neuroinﬂammation. Therefore, several of the immune factors discussed in this
+chapter appear to play a potential role in the pathological process of ADHD. Factors
+such as an altered immune response, genetic associations and also exposure to
+15
+A Potential Role for Neuroinflammation in ADHD
+345
+environmental factors, such as pollutant exposure, maternal smoking and alcohol
+consumption, could trigger inﬂammation during the early postnatal period and
+childhood and, thus, inﬂuence risk for ADHD; comorbidity between ADHD and
+several autoimmune and inﬂammatory disorders, some medications used for the
+treatment and also some polymorphisms in genes can cause alterations of the
+inﬂammatory response in ADHD. Conversely, dietary and natural compounds
+with potent anti-inﬂammatory and antioxidant properties could improve the inﬂam-
+mation and reduce oxidative stress and be used as alternative therapeutic
+interventions for... (Extracted from Discussion)
+
+## Methodology
+Not found
+
+## Results
+results seem to be more consistent
+for psychosocial factors compared with prenatal factors [51, 52].
+15.3
+Diagnosis of ADHD
+There is no gold standard for diagnosing ADHD; it is based on a personalised
+clinical examination, where the parents or the caregiver and the patient are
+interviewed to document the criteria of the disorder, questionnaires and standardised
+tests can be used to capture behavioural and cognition deﬁciencies and the diagnosis
+can be very accurate only if it is made by a licensed physician specialising in the
+subject and using the international standard manual designated by WHO, the
+Diagnostic and Statistical Manual of Mental Disorders (DSM-5) and the latest
+version of the American Psychiatric Association [4, 5, 53]. Two criteria for the
+diagnosis are considered: criterion A1 and criterion A2 (Table 15.1).
+For children under 17 years old:
+•
+Predominantly inattentive: at least six symptoms of criterion A1 without the
+presence of A2
+15
+A Potential Role for Neuroinflammation in ADHD
+331
+Table 15.1 Diagnostic criteria for ADHD
+At least six symptoms for each criterion <17 years old
+At least ﬁve symptoms for each criterion ≥17 years old
+A1-inattention symptoms
+A2-hyperactivity and impulsivity
+symptoms
+Does not pay attention to details and makes
+mistakes in activities
+Is touching with hands or feet or twists in the
+seat
+Difﬁculty maintaining attention on tasks or
+recreational activities
+Gets up in situations where you are expected
+to remain seated
+Seems not to listen when spoken to directly
+Runs or climbs in situations where it is not
+appropriate
+Does not follow instructions and does not ﬁnish
+tasks or activities
+Unable to play or quietly engage in
+recreational activities
+Difﬁculty organising tasks and activities
+Acts as if it is “driven by an engine”
+Avoids or dislikes tasks that require sustained
+mental effort
+Speech excessively
+Loses things needed for tasks or activities
+Answer unexpectedly before a question has
+been concluded
+Easily is distracted by external stimuli
+Difﬁculty waiting turns
+Forgetfulness in daily activities
+Interrupts or interferes with others
+•
+Predominantly hyperactivity/impulsivity: at least six symptoms of criterion A2
+without the presence of A1
+•
+Combined: at least 12 symptoms of both criteria
+For children over 17 years old or more:
+•
+Predominantly inattentive: at least ﬁve symptoms of criterion A1 without the
+presence of A2
+•
+Predominantly hyperactivity/impulsivity: at least ﬁve symptoms of criterion A2
+without the presence of A1
+•
+Combined: at least ten symptoms of both criteria
+They are required to be present in the last 6 months to obtain a diagnosis, and it is
+required that some of those symptoms are present before the age of 12 years and that
+have lasted at least the last 6 months, also that the symptoms are present in different
+environments and affect daily life. Presently, many researchers are trying to develop
+biological or computerised tests; progress continues in different lines of research
+such as neuropsychology, neuroimaging, genetics and electroencephalography,
+among others with which physicians could easily study and evaluate changes, and
+thus, the diagnosis would be more accurate [3, 5].
+332
+D. Vázquez-González et al.
+15.4
+Treatment of ADHD
+Treatment for ADHD is considered multimodal, since it can consist of pharmaco-
+logical, behavioural, psychological and psychoeducational therapy, or a combina-
+tion thereof. In this sense, following the evidence of a neurochemical basis for
+ADHD, it was found that medications that favour the dopaminergic and/or norad-
+renergic pathways seem to be necessary for the clinical efﬁcacy of the pharmacolog-
+ical treatments for ADHD [1, 4, 54]. Moreover, choices of treatment approaches are
+based on the evaluation of the severity of the symptoms, the presence of
+comorbidities and the preferred periods of the day to alleviate the symptoms.
+Therefore, medications approved for ADHD treatment include the psychostimulants
+(considered ﬁrst-line agents), such as methylphenidate (MPH) and amphetamines,
+and non-psychostimulants (considered second-line agents), such as atomoxetine
+(ATX) and α-2 adrenergic receptor agonists (guanfacine and clonidine). Further-
+more, several emerging drugs such as glutamatergic agents are increasingly used as
+treatment, among which are amantadine and memantine, both NMDA glutamate
+receptor antagonists and modaﬁnil, which, although the mechanism of action is not
+well established, the data suggest that it exerts effects on the glutamatergic system
+since it can stimulate glutamate release in the thalamus, the striatum and the
+hippocampus [1, 3].
+The MPH and amphetamine showed similar mechanisms of action since they
+exert their effects, inhibiting the dopamine and norepinephrine transporters (DAT
+and NET), thus increasing the extracellular levels of dopamine (DA) and norepi-
+nephrine (NE) [55, 56]. It is known that approximately 75–80% of children with
+ADHD respond efﬁciently to psychostimulants. The side effects of psychostimulants
+therapy are headache, anxiety, insomnia, weight loss, agitation, tics and stomach
+pain, which depend on the dose [57, 58]. The therapeutic use of psychostimulants in
+ADHD is associated with increased recreational use and increased risk of intentional
+overdose related to improper use [59, 60]; therefore, psychostimulants use, often for
+life, has raised several concerns and controversies over the years [61]. Due to lack of
+response or partial response to psychostimulants, some patients may not take those
+medications. The clinical advantages of non-psychostimulants over psychostimulant
+treatments are that there is no potential for abuse, as there are no known effects on
+drug abuse-related regions of the brain, such as the nucleus accumbens
+[62, 63]. Although between 10% and 30% of patients do not respond to
+psychostimulant treatment, non-psychostimulant drugs are generally better tolerated
+than psychostimulants, and they have lower efﬁcacy and a longer onset of action
+[64]. ATX acts by selectively inhibiting the NET at the presynaptic level, thus
+increasing the NE and DA levels in the hippocampus, pre-frontal cortex (PFC) and
+cerebellum [62, 63, 65, 66]. Common adverse effects include headache, abdominal
+pain, nausea, diarrhoea, vomiting, decreased appetite, fatigue, dizziness, mood
+swings and insomnia, where most of the reported effects were mild or moderate
+and are often seen in the early stages of treatment and tend to decrease signiﬁcantly
+over time [3, 63]. Conversely, the α-2 adrenergic receptor agonists, clonidine and
+guanfacine, are being used mainly as monotherapy or adjuvant therapy in patients
+15
+A Potential Role for Neuroinflammation in ADHD
+333
+who present a suboptimal response to psychostimulants or ATX. The exact mecha-
+nism of action of α-2A agonists in ADHD is unknown; the predominant theory is
+that these agents directly mimic the effects of NE on α-2A adrenergic receptors in the
+PFC [67]. Guanfacine is more selective than clonidine at these receptors and may
+improve treatment efﬁcacy [68]. The pre-synaptic action of clonidine is through the
+reduction of NE release in the locus coeruleus [69]. Nevertheless, adverse side
+effects, including dry mouth, nausea, dizziness, constipation, fatigue, variations in
+blood pressure and cardiovascular actions, have been observed during therapy
+[70, 71].
+15.5
+Pathophysiology of ADHD
+There is strong evidence that structural, functional and neurochemical brain
+differences are involved in vital cognitive functions, relating to the pathophysiology
+of ADHD [72–74]. Neuroimaging studies have shown a reduction in global brain
+volume of 2.5% in patients with ADHD [75]. Moreover, the reductions reported in
+white matter have been mainly in the splenium of the corpus callosum that extends to
+the right cingulate and the right sagittal stratum, suggesting problems in the
+connections between the two hemispheres in regions involved in attention and
+perception [5, 73]. ADHD has long been listed as a disorder of the PFC. Its
+connections and the most relevant circuits of the PFC in ADHD are the dorsal
+frontostriatal (cognitive control), orbitofrontostriatal (reward processing) and fronto-
+cerebellar (synchronisation), and the dysfunction in these circuits can occur due to
+deﬁcits in the PFC or problems in the circuits that transmit information to the cortex
+[73, 76–78]. Another structure widely involved with changes in ADHD is the
+thalamus. Thus, an altered proﬁle of thalamocortical connectivity has been observed
+in patients with ADHD, associated with deﬁcits in the processing of information
+regarding task performance [79]. Furthermore, an anomaly has been seen in the
+projection ﬁbres that run through the thalamus, ganglia and medulla in ADHD
+[80]. The cerebellum is another important area related to the cerebral cortex and
+involved in ADHD. Brain imaging studies have shown the structural abnormalities
+of the cerebellum in ADHD where a difference in functional connectivity between
+the cerebellum and the neocortex was demonstrated [81].
+Conversely, ADHD has been associated with an imbalance in the dopaminergic
+and noradrenergic systems, involving them in the pathophysiology of ADHD.
+Furthermore, the fronto-subcortical circuit associated with ADHD is rich in cate-
+cholaminergic signalling [82, 83]. Dopaminergic signalling pathways are crucial for
+maintaining of physiological processes and play an important role in the
+neuromodulation of motor control, motivation, reward and cognitive function
+[84]. ADHD has been associated with dopaminergic dysfunction, particularly with
+the mesocortical, mesolimbic and nigrostriatal pathways [85, 86], and alterations in
+those pathways cause deterioration of cognitive abilities. Present-day hypotheses of
+DA involvement suggest that the core symptoms in ADHD patients stem from DA
+decrease due to increased DA reuptake [87]. Moreover, it has also been shown that
+334
+D. Vázquez-González et al.
+NE inﬂuences the modulation of arousal, state-dependent cognitive processes,
+motivation, alertness and wakefulness, as well as the neuromodulation of the
+mechanisms of reward, learning and memory; it also plays a key role in the
+pathophysiology of ADHD [85]. Studies from patients with ADHD established
+that they present a deﬁcient transmission of DA and NE that affect the function of
+the PFC [82]. Additionally, abnormal levels of DAT have been detected in different
+brain areas of patients with ADHD [2]. As neurotransmitters of the CNS, the
+catecholamines DA and NE can undergo autoxidation forming reactive oxygen
+species (ROS) [88, 89]. Therefore, the reaction products formed by the oxidation
+of catecholamines result in cellular damage, thus contributing to oxidative stress and
+neuronal death [90, 91].
+Recently, there has been an increasing interest in oxidative and nitrosative stress
+in ADHD and its potential to contribute to the pathophysiology of the disorder.
+Oxidative stress is deﬁned as the biochemical imbalance caused by the excessive
+production of ROS and reactive nitrogen species (RSN), which cause oxidative and
+nitrosative damage to biomolecules and which the antioxidant systems cannot
+counteract [34, 92–94]. This imbalance can occur because of the malfunctioning
+of the antioxidant system or as an excessive generation of ROS. It can be caused by
+several factors such as mitochondrial dysfunction and genetic and environmental
+factors. Therefore, excessive ROS/RSN levels may damage the integrity of neurons
+by oxidizing the polyunsaturated fatty acids (PUFAs), producing more ROS that
+causes oxidative damage of neurons; thus, the neurons that are rich in mitochondria
+can generate ROS, causing bioenergetic dysregulations, leading to cell death
+[94, 95]. Oxidative stress could also modify the inﬂammatory response; therefore,
+if there is a redox imbalance, the signalling pathways regulating the immune system
+are changed, producing a dysregulation of the immune response, and on the contrary,
+if there is a redox balance, the inﬂammatory response could act as a defence
+mechanism [96, 97]. In a chronic state of several disorders such as ADHD, oxidative
+stress can oxidise proteins and lipids and damage the DNA. Thus, oxidative stress in
+the CNS could also lead to microglia and reactive astrocytes activation and produce
+chronic neuroinﬂammation [98]. Therefore, high oxidative stress could activate the
+secretion of pro-inﬂammatory chemokines and cytokines and produce a harmful
+vicious circle [97, 99]. Accordingly, oxidative stress and neuroinﬂammation are
+processes that are intricately linked and can coexist. The association of oxidative
+stress and neuroinﬂammation as a potential role in the pathophysiology of ADHD
+could be inﬂuenced by the genetic and environmental factors, catecholaminergic
+dysregulation,
+an
+imbalance
+between
+oxidants
+and
+antioxidant
+defences,
+medications used for handling the disorder and as we will see below by multiple
+immunological factors that could enhance the neuroinﬂammation and thus increase
+even more the oxidative stress and inﬂammation, which could additionally increase
+or worsen the symptoms of ADHD, resulting in a harmful vicious circle [94].
+15
+A Potential Role for Neuroinflammation in ADHD
+335
+15.6
+Neuroinflammation
+Inﬂammation is a physiological process in which the CNS responds to infections,
+environmental toxins or injuries that affect homeostasis. The inﬂammatory response
+in
+the
+CNS
+(brain
+and
+spinal
+cord)
+is
+deﬁned
+as
+neuroinﬂammation.
+Neuroinﬂammation is at ﬁrst a protective response, but chronic inﬂammation is
+related to the pathogenesis and progression of several psychiatric and mental health
+disorders [100–102]. The neuroinﬂammation increases the risk and promotes the
+progression of neurodegenerative and neurodevelopmental disorders, including
+ADHD, through different mechanisms such as glial cell activation, increased oxida-
+tive stress, loss of neuronal function and neurodevelopment changes [34, 94].
+Glial cells can produce different inﬂammatory mediators (cytokines, chemokines,
+ROS, RNS, prostaglandins, leukotrienes and growth factors) in response and
+depending on the degree of CNS injury [103–105]. Pro-inﬂammatory cytokines
+and chemokines trigger activation of surrounding stromal cells, induce glutamate
+release (excitotoxicity) and increase the permeability of the blood-brain barrier
+(BBB), allowing more immune cell inﬁltration in the brain parenchyma, enhancing
+the inﬂammatory response [106–109]. Inﬂammation resolution is performed when
+the tissue has been repaired and homeostasis is restored and mediated by the release
+of anti-inﬂammatory cytokines (IL-10, IL-4, TGF-β and IL-37), lipoxins, resolvins
+and neuroprotectins [110–112].
+Microglia are the resident macrophages of the CNS, originating from myeloid
+precursor cells in the yolk sac during embryonic development and represent 10% of
+the CNS cell population [113, 114]. Microglia has pleiotropic functions during CNS
+development, such as axon guidance, neurite growth, synapse function and plasticity
+[115]. Microglia activation and accumulation (known as microgliosis) in response to
+various external and internal stimuli, induce morphological (amoeboid shape) and
+functional changes (inﬂammatory mediators production, tissue repair and phagocy-
+tosis) [116]. Depending on the detected insult and the microenvironment, microglia
+can acquire a pro-inﬂammatory phenotype, called M1. The production of cytokines
+characterises the M1-phenotype as IL-1β and TNF-α, chemokines, ROS, nitric oxide
+and prostaglandins. The anti-inﬂammatory M2-phenotype is characterised by the
+expression of IL-10, IL-4, TGF-β (transforming growth factor-β), IGF-1 (insulin-like
+growth factor 1), arginase and other factors [116, 117].
+Astrocytes represent about 40% of all brain cells and play a critical role in
+providing nutrients to neurons, synapse formation and synaptic transmission
+[118]. Similar to microglia, astrocytes have pro-inﬂammatory and anti-inﬂammatory
+functions depending on the damage. The active state of astrocytes (reactive
+astrocytes) and their accumulation (astrocytosis or astrogliosis) are a hallmark of
+neurodegeneration and neuroinﬂammation. Reactive astrocytes show morphological
+changes and altered expression proteins, such as glial ﬁbrillary acidic protein,
+vimentin and glutamine synthetase [118]. Activated microglia and astrocytes are
+primarily responsible for the productions of ROS and lead to oxidative stress. As
+indicated above, oxidative stress can induce chronic neuroinﬂammation and contrib-
+ute to neurodegeneration [98]. In pathological states, astrocyte activation leads to
+336
+D. Vázquez-González et al.
+astrocyte hypertrophy, proliferation, production of inﬂammatory mediators and an
+altered communication between astrocytes and neurons contributing to neuronal
+damage [118, 119].
+Oligodendrocytes are glial cells in the CNS that produce myelin structure that
+wraps around axons, allows proper conduction of action potentials and provides
+metabolic support to neurons [120]. Oligodendrocytes express various immunomod-
+ulatory molecules such as IL-1β, IL-6, IL-17A, chemokines, tetraspanins, major
+histocompatibility complex (MHC) proteins, co-stimulatory molecules and proteins
+of complement. Thus, immunologically active oligodendrocytes can be an important
+factor in the initiating inﬂammation or its resolution, especially in demyelinating
+diseases [121].
+The T and B cells are constituents of the adaptive immune system; their activation
+is antigen-speciﬁc. Brain parenchyma under physiological conditions does not
+contain lymphocytes, but B and T cells reside in the meninges and choroid plexus
+and can inﬂuence brain development and function [122]. B cells have different
+effector functions depending on the signal receiving and intensity. B cells primary
+function is to produce antibodies; also, they are antigen-presenting cells (activation T
+cells), activate inﬂammatory macrophages and inhibit regulatory immune cells
+[122, 123]. Through their T cell receptor (TCR), T cells detect antigens that have
+been presented on MHC molecules by other cells. CD8+ T cells subsets detect
+antigens presented on MHC class I molecules, and CD4+ T cells detect antigens
+presented on MHC II molecules. After activation, CD4+ T cells proliferate and
+differentiate into numerous subsets, including type 1 T helper (Th1) cells, Th2, Th17
+and regulatory T cells (Treg) [124]. Meningeal T cells can produce cytokines,
+neurotransmitters such as γ-aminobutyric acid (GABA), neuromodulators such as
+serotonin and growth factors (BDNF), which inﬂuences neuronal function in physi-
+ological and pathological conditions [122, 125]. For example, it has been shown that
+T cells are responsible for social and cognitive behaviours in mice [126, 127].
+Mast cells are effector immune cells resident in several brain areas and are in the
+meninges, parenchyma of the thalamic hypothalamic region and in the abluminal
+side of the blood vessels, where they modulate the interaction between meninges and
+the immune system. Activated mast cells produce IL-6, TNF-α, tryptase, histamine,
+chymase, corticotrophin-releasing hormone (CRH) and neurotransmitters. They also
+produce chemokines that can recruit other immune peripheral cells in the brain
+tissue. Thus, mast cells can exacerbate the development of pathologies affecting
+the CNS by producing inﬂammatory cytokines, cytotoxicity and neuronal and glial
+cell death [128, 129].
+15.6.1 Key Inflammatory Cytokines
+Interleukin-1 (IL-1) are a family of pro-inﬂammatory cytokines, consisting of
+11 members, including IL-1α, IL-1β, IL-1 receptor antagonist (IL-1Ra) and IL-1
+receptor accessory proteins (IL-1RAcP), IL-33 and IL-37, and the only anti-
+inﬂammatory cytokine of family. IL-1β can trigger inﬂammatory mediators like
+15
+A Potential Role for Neuroinflammation in ADHD
+337
+other cytokines and chemokines (as IL-6, TNF-α and IL-8) and can stimulate
+macrophages, neutrophils, lymphocytes and perivascular endothelial cells, among
+other cells. IL-1Ra is a regulatory molecule that competes for receptor binding with
+IL-1a and IL-1β, blocking their role in immune activation. In different brain regions,
+various components from the IL-1 family are constitutively expressed in healthy
+individuals. IL-1β is a pivotal mediator and has been shown to inﬂuence dopaminer-
+gic and noradrenergic function, feeding, fever, sickness behaviour and sleep
+[128, 130–132]. During an event of injury or infection, microglia is the primary
+source of IL-1β. Microglia, through the inﬂammasome, generates active caspase-1
+that cleaves pro-IL-1β to convert it to active IL-1β. IL-1β activation induces a
+cascade of events, leading to activation of nuclear transcription factor-κB (NF-κB)
+and transcription of genes involved in the immune response. In addition, IL-1-
+β-activated microglia produces proteases, ROS, RNS, prostaglandins, cytokines
+and chemokines. All these mediators are central to the development of neuropsy-
+chological, neurodegenerative and demyelinating diseases [110, 128, 133, 134].
+TNF-α is a pro-inﬂammatory cytokine, expressed under physiologic conditions
+by microglia and neurons, but its expression increases in activated microglia,
+neurons, oligodendrocytes, reactive astrocytes, endothelial cells and ependymal
+cells in brain injuries and chronic diseases. TNF-α controls numerous physiological
+processes in the CNS, at low concentrations, promoting neurogenesis, axonogenesis
+and synaptic plasticity [130, 135]. TNF-α mediates different physiological and
+pathological functions, by activating types 1 and 2 TNF receptors (TNFR1 and
+TNFR2). The binding of TNF-α with TNFR1 leads to the recruitment of complex
+1, which allows nuclear translocation of transcription factors, as NF-κB and AP1 and
+transcription of pro-inﬂammatory mediators and anti-apoptotic proteins. However,
+an alternative pathway of TNRF1 is mediated by complex II recruitment that can
+turn on apoptosis. Conversely, TNFR2, similar to TNFR1, leads to NF-κB activation
+and promotes cell survival, resolution of inﬂammation and tissue repair [136–139].
+The interleukin-6 (IL-6) is a crucial mediator in regulating the inﬂammatory
+response and can have both pro- and anti-inﬂammatory activity. The anti-
+inﬂammatory effects of IL-6 are through the activation of IL-1ra and IL-10 and the
+decrease of TNF-α and IL-1. IL-6 is widely produced by many CNS cells, but IL-6
+receptor-α (IL-6R), essential for the cellular response, is differentially expressed in
+cells [140]. IL-6 binds to membranal IL-6R, which triggers oligomerisation with
+gp130, and downstream signalling culminates in signal transducers and activators of
+transcription 3 (STAT3) activation, which in turn mediated expression of IL-6-
+regulated genes. But cells that lack the IL-6R in the CNS can respond to IL-6
+using an alternate mode of signalling (called trans-signalling) through soluble
+IL-6R (sIL-6R), which retains its biological activity and can activate signalling
+through gp130 expressed in cells lacking IL-6R [141]. IL-6 is essential in the CNS
+development and the appropriate functioning of neurons and glial cells. Neurons,
+microglia and endothelial cells produce IL-6, but astrocytes are the main source. IL-6
+dysregulation
+can
+lead
+to
+inﬂammatory,
+autoimmune
+and
+psychiatric
+disorders [142].
+338
+D. Vázquez-González et al.
+Interleukin-10 (IL-10) is an anti-inﬂammatory cytokine that negatively regulates
+inﬂammation. IL-10 is expressed in the brain; speciﬁcally, it is produced by
+microglia, astrocytes and neurons. IL-10 binds to the cell surface receptor, a
+heterotetrameric complex IL-10R1/IL-10R2; this interaction leads to the activation
+of downstream signalling cascades including the STAT3 and AKT pathways. IL-10
+plays an important role in inhibiting the production of pro-inﬂammatory mediators,
+decreasing cytokine receptor and MHC class II expression, neuroprotection and
+modulation of synaptic activity. Moreover, IL-10 regulates GABAergic transmission
+in the hippocampal neurons via pre-and post-synaptic mechanisms [142, 143].
+15.7
+Neuroinflammation in ADHD
+Pro-inﬂammatory cytokines are closely involved in the onset, development and
+symptoms
+of
+ADHD
+(Table
+15.2).
+Patients
+with
+ADHD
+have
+elevated
+concentrations of pro-inﬂammatory cytokines (as IL-6 and TNF-α) and reduced
+levels of anti-inﬂammatory cytokines (IL-4, IL-2 and IFN-γ) and brain-derived
+neurotrophic factor (BDNF) [144, 147–149]. Thus, high concentrations of cytokines
+and chemokines and oxidative stress markers were found in the serum of juvenile
+spontaneously hypertensive rats (SHRs, used as a rodent model for ADHD) com-
+pared with the age-matched controls [150]. Interestingly, there was an association
+between high pro-inﬂammatory cytokines levels and severity of symptoms in chil-
+dren with ADHD [151–153]. However, this correlation was lost in the adult patients
+with ADHD [154, 158]. Several studies have shown that IL-6 may be a hallmark of
+ADHD pathogenesis since increased IL-6 alters attention and memory through its
+effects on synaptic plasticity in the hippocampus and PFC [144]. Moreover, it was
+demonstrated that IL-6 inhibited the neurogenesis in the hippocampus through the
+blockade of the differentiation of neural progenitor cells, which compromised brain
+development and increased the risk of ADHD [145, 159]. However, there are also
+contrasting results because it was found that the IL-6 levels did not correlate with
+ADHD symptoms severity. Nevertheless, ﬁndings from numerous studies suggested
+that the increased IL-6 levels can be directly related to the ADHD aetiology
+[148]. Metalloproteinases (MMPs) are proteolytic enzymes involved in the cleave
+of components in the extracellular matrix, adhesion molecules and cytokines and
+growth factors [160]. Particularly, the MMPs are involved in the memory and the
+learning process in the brain. Therefore, in ADHD patients, it was found that there
+was a correlation between MMP-2 and MMP-9 levels with cognitive problems, as
+well as a negative correlation between MMP-2, MMP-9 and TNF-α levels with the
+intelligence quotient (IQ) [146]. An overview of the factors involved in
+neuroinﬂammation is shown in Fig. 15.1.
+15
+A Potential Role for Neuroinflammation in ADHD
+339
+Table 15.2 Principal neuroinﬂammatory mediators associated with ADHD
+Inﬂammatory factors
+Main ﬁndings
+
+## Clinical Significance
+Conclusion
+The pathophysiology of ADHD has been associated with an increase in
+neuroinﬂammation. Therefore, several of the immune factors discussed in this
+chapter appear to play a potential role in the pathological process of ADHD. Factors
+such as an altered immune response, genetic associations and also exposure to
+15
+A Potential Role for Neuroinflammation in ADHD
+345
+environmental factors, such as pollutant exposure, maternal smoking and alcohol
+consumption, could trigger inﬂammation during the early postnatal period and
+childhood and, thus, inﬂuence risk for ADHD; comorbidity between ADHD and
+several autoimmune and inﬂammatory disorders, some medications used for the
+treatment and also some polymorphisms in genes can cause alterations of the
+inﬂammatory response in ADHD. Conversely, dietary and natural compounds
+with potent anti-inﬂammatory and antioxidant properties could improve the inﬂam-
+mation and reduce oxidative stress and be used as alternative therapeutic
+interventions for ADHD. In summary, the evidence indicates a potential role of
+neuroinﬂammation in the pathophysiology of ADHD. However, the new tools and
+technologies will enable future research to evaluate inﬂammation in patients with
+ADHD in a non-invasive aspect and, therefore, have more reliable results. Further
+clinical trials and future, well-designed studies are still needed to conﬁrm the
+potential role of neuroinﬂammation in ADHD.
+Acknowledgements We would like to acknowledge support from Fondos Federales (Grant
+number HIM 2019/029 SSA 1575).
+References
+1. Cortese S. Pharmacologic treatment of attention deﬁcit-hyperactivity disorder. N Engl J Med.
+2020;383(11):1050–6.
+2. Faraone SV, Asherson P, Banaschewski T, Biederman J, Buitelaar JK, Ramos-Quiroga JA,
+et al. Attention-deﬁcit/hyperactivity disorder. Nat Rev Dis Prim. 2015;1:15020.
+3. Corona JC. Pharmacological approaches for the treatment of attention-deﬁcit/hyperactivity
+disorder. In: Kyser BM, editor. Attention-deﬁcit hyperactivity disorder: diagnosis, prevalence
+and treatment. New York, NY: Nova Science Publishers, Inc.; 2021. p. 1–39.
+4. Posner J, Polanczyk GV, Sonuga-Barke E. Attention-deﬁcit hyperactivity disorder. Lancet.
+2020;395(10222):450–62.
+5. Faraone SV, Banaschewski T, Coghill D, Zheng Y, Biederman J, Bellgrove MA, et al. The
+World Federation of ADHD International Consensus Statement: 208 Evidence-based
+conclusions about the disorder. Neurosci Biobehav Rev. 2021;128:789–818.
+6. Polanczyk GV, Willcutt EG, Salum GA, Kieling C, Rohde LA. ADHD prevalence estimates
+across three decades: an updated systematic review and meta-regression analysis. Int J
+Epidemiol. 2014;43(2):434–42.
+7. Simon V, Czobor P, Balint S, Meszaros A, Bitter I. Prevalence and correlates of adult
+attention-deﬁcit hyperactivity disorder: meta-analysis. Br J Psychiatry. 2009;194(3):204–11.
+8. Song P, Zha M, Yang Q, Zhang Y, Li X, Rudan I. The prevalence of adult attention-deﬁcit
+hyperactivity disorder: a global systematic review and meta-analysis. J Glob Health. 2021;11:
+04009.
+9. Fayyad J, Sampson NA, Hwang I, Adamowski T, Aguilar-Gaxiola S, Al-Hamzawi A, et al.
+The descriptive epidemiology of DSM-IV Adult ADHD in the World Health Organization
+World Mental Health Surveys. Attent Deﬁcit Hyperact Disord. 2017;9(1):47–65.
+10. Dobrosavljevic M, Solares C, Cortese S, Andershed H, Larsson H. Prevalence of attention-
+deﬁcit/hyperactivity disorder in older adults: a systematic review and meta-analysis. Neurosci
+Biobehav Rev. 2020;118:282–9.
+11. Sayal K, Prasad V, Daley D, Ford T, Coghill D. ADHD in children and young people:
+prevalence, care pathways, and service provision. Lancet Psychiatry. 2018;5(2):175–86.
+346
+D. Vázquez-González et al.
+12. Willcutt EG, Nigg JT, Pennington BF, Solanto MV, Rohde LA, Tannock R, et al. Validity of
+DSM-IV attention deﬁcit/hyperactivity disorder symptom dimensions and subtypes. J Abnorm
+Psychol. 2012;121(4):991–1010.
+13. Polanczyk G, de Lima MS, Horta BL, Biederman J, Rohde LA. The worldwide prevalence
+of ADHD: a systematic review and metaregression analysis. Am J Psychiatry. 2007;164(6):
+942–8.
+14. Faraone SV, Perlis RH, Doyle AE, Smoller JW, Goralnick JJ, Holmgren MA, et al. Molecular
+genetics of attention-deﬁcit/hyperactivity disorder. Biol Psychiatry. 2005;57(11):1313–23.
+15. Purper-Ouakil D, Ramoz N, Lepagnol-Bestel AM, Gorwood P, Simonneau M. Neurobiology
+of attention deﬁcit/hyperactivity disorder. Pediatr Res. 2011;69(5 Pt 2):69R–76R.
+16. Demontis D, Walters RK, Martin J, Mattheisen M, Als TD, Agerbo E, et al. Discovery of the
+ﬁrst genome-wide signiﬁcant risk loci for attention deﬁcit/hyperactivity disorder. Nat Genet.
+2019;51(1):63–75.
+17. Nigg JT, Sibley MH, Thapar A, Karalunas SL. Development of ADHD: etiology, heterogene-
+ity, and early life course. Annu Rev Dev Psychol. 2020;2(1):559–83.
+18. Thapar A. Discoveries on the genetics of ADHD in the 21st century: new ﬁndings and their
+implications. Am J Psychiatry. 2018;175(10):943–50.
+19. Grunblatt E, Werling AM, Roth A, Romanos M, Walitza S. Association study and a systematic
+meta-analysis of the VNTR polymorphism in the 3′-UTR of dopamine transporter gene and
+attention-deﬁcit hyperactivity disorder. J Neural Transm (Vienna). 2019;126(4):517–29.
+20. Kopeckova M, Paclt I, Petrasek J, Pacltova D, Malikova M, Zagatova V. Some ADHD
+polymorphisms (in genes DAT1, DRD2, DRD3, DBH, 5-HTT) in case-control study of
+100 subjects 6-10 age. Neuro Endocrinol Lett. 2008;29(2):246–51.
+21. Gizer IR, Ficks C, Waldman ID. Candidate gene studies of ADHD: a meta-analytic review.
+Hum Genet. 2009;126(1):51–90.
+22. Sunohara GA, Roberts W, Malone M, Schachar RJ, Tannock R, Basile VS, et al. Linkage of
+the dopamine D4 receptor gene and attention-deﬁcit/hyperactivity disorder. J Am Acad Child
+Adolesc Psychiatry. 2000;39(12):1537–42.
+23. Lowe N, Kirley A, Hawi Z, Sham P, Wickham H, Kratochvil CJ, et al. Joint analysis of the
+DRD5 marker concludes association with attention-deﬁcit/hyperactivity disorder conﬁned to
+the predominantly inattentive and combined subtypes. Am J Hum Genet. 2004;74(2):348–56.
+24. Biederman J, Kim JW, Doyle AE, Mick E, Fagerness J, Smoller JW, et al. Sexually dimorphic
+effects of four genes (COMT, SLC6A2, MAOA, SLC6A4) in genetic associations of ADHD:
+a preliminary study. Am J Med Genet B Neuropsychiatr Genet. 2008;147B(8):1511–8.
+25. Ickowicz A, Feng Y, Wigg K, Quist J, Pathare T, Roberts W, et al. The serotonin receptor
+HTR1B: gene polymorphisms in attention deﬁcit hyperactivity disorder. Am J Med Genet B
+Neuropsychiatr Genet. 2007;144B(1):121–5.
+26. Ribases M, Ramos-Quiroga JA, Hervas A, Bosch R, Bielsa A, Gastaminza X, et al. Explora-
+tion of 19 serotoninergic candidate genes in adults and children with attention-deﬁcit/
+hyperactivity disorder identiﬁes association for 5HT2A, DDC and MAOB. Mol Psychiatry.
+2009;14(1):71–85.
+27. Lee J, Laurin N, Crosbie J, Ickowicz A, Pathare T, Malone M, et al. Association study of the
+nicotinic acetylcholine receptor alpha4 subunit gene, CHRNA4, in attention-deﬁcit hyperac-
+tivity disorder. Genes Brain Behav. 2008;7(1):53–60.
+28. Wallis D, Arcos-Burgos M, Jain M, Castellanos FX, Palacio JD, Pineda D, et al.
+Polymorphisms in the neural nicotinic acetylcholine receptor alpha4 subunit (CHRNA4) are
+associated with ADHD in a genetic isolate. Attent Deﬁcit Hyperact Disord. 2009;1(1):19–24.
+29. Huang X, Wang M, Zhang Q, Chen X, Wu J. The role of glutamate receptors in attention-
+deﬁcit/hyperactivity disorder: from physiology to disease. Am J Med Genet B Neuropsychiatr
+Genet. 2019;180(4):272–86.
+30. Kim JI, Kim JW, Park S, Hong SB, Lee DS, Paek SH, et al. The GRIN2B and GRIN2A gene
+variants are associated with continuous performance test variables in ADHD. J Atten Disord.
+2020;24(11):1538–46.
+15
+A Potential Role for Neuroinflammation in ADHD
+347
+31. Feng Y, Crosbie J, Wigg K, Pathare T, Ickowicz A, Schachar R, et al. The SNAP25 gene as a
+susceptibility gene contributing to attention-deﬁcit hyperactivity disorder. Mol Psychiatry.
+2005;10(11):998–1005, 973.
+32. Guan L, Wang B, Chen Y, Yang L, Li J, Qian Q, et al. A high-density single-nucleotide
+polymorphism screen of 23 candidate genes in attention deﬁcit hyperactivity disorder:
+suggesting multiple susceptibility genes among Chinese Han population. Mol Psychiatry.
+2009;14(5):546–54.
+33. Drtilkova I, Sery O, Theiner P, Uhrova A, Zackova M, Balastikova B, et al. Clinical and
+molecular-genetic markers of ADHD in children. Neuro Endocrinol Lett. 2008;29(3):320–7.
+34. Alvarez-Arellano L, Gonzalez-Garcia N, Salazar-Garcia M, Corona JC. Antioxidants as a
+potential target against inﬂammation and oxidative stress in attention-deﬁcit/hyperactivity
+disorder. Antioxidants. 2020;9(2):176.
+35. Sciberras E, Mulraney M, Silva D, Coghill D. Prenatal risk factors and the etiology of ADHD-
+review of existing evidence. Curr Psychiatry Rep. 2017;19(1):1.
+36. Park S, Cho SC, Kim JW, Shin MS, Yoo HJ, Oh SM, et al. Differential perinatal risk factors in
+children with attention-deﬁcit/hyperactivity disorder by subtype. Psychiatry Res. 2014;219(3):
+609–16.
+37. Khoshbakht Y, Bidaki R, Salehi-Abargouei A. Vitamin D status and attention deﬁcit hyperac-
+tivity disorder: a systematic review and meta-analysis of observational studies. Adv Nutr.
+2018;9(1):9–20.
+38. Han JY, Kwon HJ, Ha M, Paik KC, Lim MH, Gyu Lee S, et al. The effects of prenatal
+exposure to alcohol and environmental tobacco smoke on risk for ADHD: a large population-
+based study. Psychiatry Res. 2015;225(1–2):164–8.
+39. Sourander A, Sucksdorff M, Chudal R, Surcel HM, Hinkka-Yli-Salomaki S, Gyllenberg D,
+et al. Prenatal cotinine levels and ADHD among offspring. Pediatrics. 2019;143(3):
+e20183144.
+40. Nigg JT, Breslau N. Prenatal smoking exposure, low birth weight, and disruptive behavior
+disorders. J Am Acad Child Adolesc Psychiatry. 2007;46(3):362–9.
+41. Franz AP, Bolat GU, Bolat H, Matijasevich A, Santos IS, Silveira RC, et al. Attention-deﬁcit/
+hyperactivity disorder and very preterm/very low birth weight: a meta-analysis. Pediatrics.
+2018;141(1):e20171645.
+42. Kim JH, Kim JY, Lee J, Jeong GH, Lee E, Lee S, et al. Environmental risk factors, protective
+factors, and peripheral biomarkers for ADHD: an umbrella review. Lancet Psychiatry. 2020;7
+(11):955–70.
+43. Banerjee TD, Middleton F, Faraone SV. Environmental risk factors for attention-deﬁcit
+hyperactivity disorder. Acta Paediatr. 2007;96(9):1269–74.
+44. Banaschewski T, Becker K, Dopfner M, Holtmann M, Rosler M, Romanos M. Attention-
+deﬁcit/hyperactivity disorder. Dtsch Arztebl Int. 2017;114(9):149–59.
+45. Li L, Lagerberg T, Chang Z, Cortese S, Rosenqvist MA, Almqvist C, et al. Maternal
+pre-pregnancy overweight/obesity and the risk of attention-deﬁcit/hyperactivity disorder in
+offspring: a systematic review, meta-analysis and quasi-experimental family-based study. Int J
+Epidemiol. 2020;49(3):857–75.
+46. Chen Q, Sjolander A, Langstrom N, Rodriguez A, Serlachius E, D’Onofrio BM, et al.
+Maternal pre-pregnancy body mass index and offspring attention deﬁcit hyperactivity disor-
+der: a population-based cohort study using a sibling-comparison design. Int J Epidemiol.
+2014;43(1):83–90.
+47. Chang Z, Lichtenstein P, D’Onofrio BM, Almqvist C, Kuja-Halkola R, Sjolander A, et al.
+Maternal age at childbirth and risk for ADHD in offspring: a population-based cohort study.
+Int J Epidemiol. 2014;43(6):1815–24.
+48. McCann D, Barrett A, Cooper A, Crumpler D, Dalen L, Grimshaw K, et al. Food additives and
+hyperactive behaviour in 3-year-old and 8/9-year-old children in the community: a
+randomised, double-blinded, placebo-controlled trial. Lancet. 2007;370(9598):1560–7.
+348
+D. Vázquez-González et al.
+49. Kennedy M, Kreppner J, Knights N, Kumsta R, Maughan B, Golm D, et al. Early severe
+institutional deprivation is associated with a persistent variant of adult attention-deﬁcit/
+hyperactivity disorder: clinical presentation, developmental continuities and life circumstances
+in the English and Romanian Adoptees study. J Child Psychol Psychiatry Allied Discip.
+2016;57(10):1113–25.
+50. Biederman J. Attention-deﬁcit/hyperactivity disorder: a selective overview. Biol Psychiatry.
+2005;57(11):1215–20.
+51. Gould KL, Coventry WL, Olson RK, Byrne B. Gene-environment interactions in ADHD: the
+roles of SES and chaos. J Abnorm Child Psychol. 2018;46(2):251–63.
+52. Nigg J, Nikolas M, Burt SA. Measured gene-by-environment interaction in relation to
+attention-deﬁcit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry. 2010;49(9):
+863–73.
+53. Unsel Bolat G, Ercan ES, Salum GA, Bilac O, Massuti R, Uysal Ozaslan T, et al. Validity of
+proposed DSM-5 ADHD impulsivity symptoms in children. Eur Child Adolesc Psychiatry.
+2016;25(10):1121–32.
+54. Childress AC, Berry SA. Pharmacotherapy of attention-deﬁcit hyperactivity disorder in
+adolescents. Drugs. 2012;72(3):309–25.
+55. Shellenberg TP, Stoops WW, Lile JA, Rush CR. An update on the clinical pharmacology of
+methylphenidate: therapeutic efﬁcacy, abuse potential and future considerations. Expert Rev
+Clin Pharmacol. 2020;13(8):825–33.
+56. Faraone SV. The pharmacology of amphetamine and methylphenidate: relevance to the
+neurobiology of attention-deﬁcit/hyperactivity disorder and other psychiatric comorbidities.
+Neurosci Biobehav Rev. 2018;87:255–70.
+57. Briars L, Todd T. A review of pharmacological management of attention-deﬁcit/hyperactivity
+disorder. J Pediat Pharmacol Therapeut. 2016;21(3):192–206.
+58. Corona JC. Natural compounds for the management of Parkinson’s disease and attention-
+deﬁcit/hyperactivity disorder. Biomed Res Int. 2018;2018:4067597.
+59. Clemow DB. Misuse of Methylphenidate. Curr Top Behav Neurosci. 2017;34:99–124.
+60. Morton WA, Stockton GG. Methylphenidate abuse and psychiatric side effects. Primary Care
+Compan J Clin Psychiatry. 2000;2(5):159–64.
+61. Leonard BE, McCartan D, White J, King DJ. Methylphenidate: a review of its
+neuropharmacological,
+neuropsychological
+and
+adverse
+clinical
+effects.
+Hum
+Psychopharmacol. 2004;19(3):151–80.
+62. Koda K, Ago Y, Cong Y, Kita Y, Takuma K, Matsuda T. Effects of acute and chronic
+administration of atomoxetine and methylphenidate on extracellular levels of noradrenaline,
+dopamine and serotonin in the prefrontal cortex and striatum of mice. J Neurochem. 2010;114
+(1):259–70.
+63. Reed VA, Buitelaar JK, Anand E, Day KA, Treuer T, Upadhyaya HP, et al. The safety of
+atomoxetine for the treatment of children and adolescents with attention-deﬁcit/hyperactivity
+disorder: a comprehensive review of over a decade of research. CNS Drugs. 2016;30(7):
+603–28.
+64. Mohammadi MR, Akhondzadeh S. Pharmacotherapy of attention-deﬁcit/hyperactivity disor-
+der: nonstimulant medication approaches. Expert Rev Neurother. 2007;7(2):195–201.
+65. Swanson CJ, Perry KW, Koch-Krueger S, Katner J, Svensson KA, Bymaster FP. Effect of the
+attention deﬁcit/hyperactivity disorder drug atomoxetine on extracellular concentrations of
+norepinephrine and dopamine in several brain regions of the rat. Neuropharmacology. 2006;50
+(6):755–60.
+66. Bymaster FP, Katner JS, Nelson DL, Hemrick-Luecke SK, Threlkeld PG, Heiligenstein JH,
+et al. Atomoxetine increases extracellular levels of norepinephrine and dopamine in prefrontal
+cortex of rat: a potential mechanism for efﬁcacy in attention deﬁcit/hyperactivity disorder.
+Neuropsychopharmacology. 2002;27(5):699–711.
+67. Giovannitti JA Jr, Thoms SM, Crawford JJ. Alpha-2 adrenergic receptor agonists: a review of
+current clinical applications. Anesth Prog. 2015;62(1):31–9.
+15
+A Potential Role for Neuroinflammation in ADHD
+349
+68. Alamo C, Lopez-Munoz F, Sanchez-Garcia J. Mechanism of action of guanfacine: a postsyn-
+aptic differential approach to the treatment of attention deﬁcit hyperactivity disorder (adhd).
+Actas Esp Psiquiatr. 2016;44(3):107–12.
+69. Arnsten AF. The use of alpha-2A adrenergic agonists for the treatment of attention-deﬁcit/
+hyperactivity disorder. Expert Rev Neurother. 2010;10(10):1595–605.
+70. Connor DF, Rubin J. Guanfacine extended release in the treatment of attention deﬁcit
+hyperactivity disorder in children and adolescents. Drugs Today. 2010;46(5):299–314.
+71. Naguy A. Clonidine use in psychiatry: panacea or panache. Pharmacology. 2016;98(1–2):
+87–92.
+72. Muthuraman M, Moliadze V, Boecher L, Siemann J, Freitag CM, Groppa S, et al. Multimodal
+alterations of directed connectivity proﬁles in patients with attention-deﬁcit/hyperactivity
+disorders. Sci Rep. 2019;9(1):20028.
+73. Cupertino RB, Soheili-Nezhad S, Grevet EH, Bandeira CE, Picon FA, Tavares MEA, et al.
+Reduced fronto-striatal volume in attention-deﬁcit/hyperactivity disorder in two cohorts across
+the lifespan. Neuroimage Clin. 2020;28:102403.
+74. Baroni A, Castellanos FX. Neuroanatomic and cognitive abnormalities in attention-deﬁcit/
+hyperactivity disorder in the era of ‘high deﬁnition’ neuroimaging. Curr Opin Neurobiol.
+2015;30:1–8.
+75. Greven CU, Bralten J, Mennes M, O’Dwyer L, van Hulzen KJ, Rommelse N, et al. Develop-
+mentally stable whole-brain volume reductions and developmentally sensitive caudate and
+putamen volume alterations in those with attention-deﬁcit/hyperactivity disorder and their
+unaffected siblings. JAMA Psychiatry. 2015;72(5):490–9.
+76. Durston S, van Belle J, de Zeeuw P. Differentiating frontostriatal and fronto-cerebellar circuits
+in attention-deﬁcit/hyperactivity disorder. Biol Psychiatry. 2011;69(12):1178–84.
+77. Cortese S, Kelly C, Chabernaud C, Proal E, Di Martino A, Milham MP, et al. Toward systems
+neuroscience of ADHD: a meta-analysis of 55 fMRI studies. Am J Psychiatry. 2012;169(10):
+1038–55.
+78. Cubillo A, Halari R, Smith A, Taylor E, Rubia K. A review of fronto-striatal and fronto-
+cortical brain abnormalities in children and adults with Attention Deﬁcit Hyperactivity Disor-
+der (ADHD) and new evidence for dysfunction in adults with ADHD during motivation and
+attention. Cortex. 2012;48(2):194–215.
+79. Bailey T, Joyce A. The role of the thalamus in ADHD symptomatology and treatment. Appl
+Neuropsychol Child. 2015;4(2):89–96.
+80. Davis AS, Pass LA, Finch WH, Dean RS, Woodcock RW. The canonical relationship between
+sensory-motor functioning and cognitive processing in children with attention-deﬁcit/
+hyperactivity disorder. Arch Clin Neuropsychol. 2009;24(3):273–86.
+81. Sathyanesan A, Zhou J, Scaﬁdi J, Heck DH, Sillitoe RV, Gallo V. Emerging connections
+between cerebellar development, behaviour and complex brain disorders. Nat Rev Neurosci.
+2019;20(5):298–313.
+82. Genro JP, Kieling C, Rohde LA, Hutz MH. Attention-deﬁcit/hyperactivity disorder and the
+dopaminergic hypotheses. Expert Rev Neurother. 2010;10(4):587–601.
+83. Prince J. Catecholamine dysfunction in attention-deﬁcit/hyperactivity disorder: an update. J
+Clin Psychopharmacol. 2008;28(3 Suppl 2):S39–45.
+84. Klein MO, Battagello DS, Cardoso AR, Hauser DN, Bittencourt JC, Correa RG. Dopamine:
+functions, signaling, and association with neurological diseases. Cell Mol Neurobiol. 2019;39
+(1):31–59.
+85. Del Campo N, Chamberlain SR, Sahakian BJ, Robbins TW. The roles of dopamine and
+noradrenaline in the pathophysiology and treatment of attention-deﬁcit/hyperactivity disorder.
+Biol Psychiatry. 2011;69(12):e145–57.
+86. Swanson JM, Kinsbourne M, Nigg J, Lanphear B, Stefanatos GA, Volkow N, et al. Etiologic
+subtypes of attention-deﬁcit/hyperactivity disorder: brain imaging, molecular genetic and
+environmental factors and the dopamine hypothesis. Neuropsychol Rev. 2007;17(1):39–59.
+350
+D. Vázquez-González et al.
+87. Gold MS, Blum K, Oscar-Berman M, Braverman ER. Low dopamine function in attention
+deﬁcit/hyperactivity disorder: should genotyping signify early diagnosis in children? Postgrad
+Med. 2014;126(1):153–77.
+88. Napolitano A, Manini P, d’Ischia M. Oxidation chemistry of catecholamines and neuronal
+degeneration: an update. Curr Med Chem. 2011;18(12):1832–45.
+89. Goldstein DS, Kopin IJ, Sharabi Y. Catecholamine autotoxicity. Implications for pharmacol-
+ogy and therapeutics of Parkinson disease and related disorders. Pharmacol Ther. 2014;144(3):
+268–82.
+90. Neri M, Cerretani D, Fiaschi AI, Laghi PF, Lazzerini PE, Mafﬁone AB, et al. Correlation
+between cardiac oxidative stress and myocardial pathology due to acute and chronic norepi-
+nephrine administration in rats. J Cell Mol Med. 2007;11(1):156–70.
+91. Spencer WA, Jeyabalan J, Kichambre S, Gupta RC. Oxidatively generated DNA damage after
+Cu(II) catalysis of dopamine and related catecholamine neurotransmitters and neurotoxins:
+role of reactive oxygen species. Free Radic Biol Med. 2011;50(1):139–47.
+92. Joseph N, Zhang-James Y, Perl A, Faraone SV. Oxidative stress and ADHD: a meta-analysis.
+J Atten Disord. 2015;19(11):915–24.
+93. Lopresti AL. Oxidative and nitrosative stress in ADHD: possible causes and the potential of
+antioxidant-targeted therapies. Attent Deﬁcit Hyperact Disord. 2015;7(4):237–47.
+94. Corona JC. Role of oxidative stress and neuroinﬂammation in attention-deﬁcit/hyperactivity
+disorder. Antioxidants. 2020;9(11):1039.
+95. Cobley JN, Fiorello ML, Bailey DM. 13 reasons why the brain is susceptible to oxidative
+stress. Redox Biol. 2018;15:490–503.
+96. Solleiro-Villavicencio H, Rivas-Arancibia S. Effect of chronic oxidative stress on
+neuroinﬂammatory response mediated by CD4(+)T cells in neurodegenerative diseases.
+Front Cell Neurosci. 2018;12:114.
+97. Simpson DSA, Oliver PL. ROS generation in microglia: understanding oxidative stress and
+inﬂammation in neurodegenerative disease. Antioxidants. 2020;9(8):743.
+98. Hanisch UK, Kettenmann H. Microglia: active sensor and versatile effector cells in the normal
+and pathologic brain. Nat Neurosci. 2007;10(11):1387–94.
+99. de Araujo Boleti AP, de Oliveira Flores TM, Moreno SE, Anjos LD, Mortari MR, Migliolo
+L. Neuroinﬂammation: an overview of neurodegenerative and metabolic diseases and of
+biotechnological studies. Neurochem Int. 2020;136:104714.
+100. Dunn GA, Nigg JT, Sullivan EL. Neuroinﬂammation as a risk factor for attention deﬁcit
+hyperactivity disorder. Pharmacol Biochem Behav. 2019;182:22–34.
+101. Lurie DI. An integrative approach to neuroinﬂammation in psychiatric disorders and neuro-
+pathic pain. J Exp Neurosci. 2018;12:1179069518793639.
+102. Gilhus NE, Deuschl G. Neuroinﬂammation - a common thread in neurological disorders. Nat
+Rev Neurol. 2019;15(8):429–30.
+103. Ni Chasaide C, Lynch MA. The role of the immune system in driving neuroinﬂammation.
+Brain Neurosci Adv. 2020;4:2398212819901082.
+104. De Nardo D. Toll-like receptors: activation, signalling and transcriptional modulation. Cyto-
+kine. 2015;74(2):181–9.
+105. Famitafreshi H, Karimian M. Prostaglandins as the agents that modulate the course of brain
+disorders. Degener Neurol Neuromuscul Dis. 2020;10:1–13.
+106. Afridi R, Kim JH, Rahman MH, Suk K. Metabolic regulation of glial phenotypes: implications
+in neuron-glia interactions and neurological disorders. Front Cell Neurosci. 2020;14:20.
+107. DiSabato DJ, Quan N, Godbout JP. Neuroinﬂammation: the devil is in the details. J
+Neurochem. 2016;139(Suppl 2):136–53.
+108. Michael BD, Grifﬁths MJ, Granerod J, Brown D, Keir G, Wnek M, et al. The interleukin-1
+balance during encephalitis is associated with clinical severity, blood-brain barrier permeabil-
+ity, neuroimaging changes, and disease outcome. J Infect Dis. 2016;213(10):1651–60.
+109. Hawkins BT, Davis TP. The blood-brain barrier/neurovascular unit in health and disease.
+Pharmacol Rev. 2005;57(2):173–85.
+15
+A Potential Role for Neuroinflammation in ADHD
+351
+110. Basu A, Krady JK, Enterline JR, Levison SW. Transforming growth factor beta1 prevents
+IL-1beta-induced microglial activation, whereas TNFalpha- and IL-6-stimulated activation are
+not antagonized. Glia. 2002;40(1):109–20.
+111. Bazan
+NG.
+The
+docosanoid
+neuroprotectin
+D1
+induces
+homeostatic
+regulation
+of
+neuroinﬂammation and cell survival. Prostaglandins Leukot Essent Fat Acids. 2013;88(1):
+127–9.
+112. Serhan CN. Pro-resolving lipid mediators are leads for resolution physiology. Nature.
+2014;510(7503):92–101.
+113. Tremblay ME, Stevens B, Sierra A, Wake H, Bessis A, Nimmerjahn A. The role of microglia
+in the healthy brain. J Neurosci. 2011;31(45):16064–9.
+114. Prinz M, Jung S, Priller J. Microglia biology: one century of evolving concepts. Cell. 2019;179
+(2):292–311.
+115. Colonna M, Butovsky O. Microglia function in the central nervous system during health and
+neurodegeneration. Annu Rev Immunol. 2017;35:441–68.
+116. Boche D, Perry VH, Nicoll JA. Review: activation patterns of microglia and their identiﬁca-
+tion in the human brain. Neuropathol Appl Neurobiol. 2013;39(1):3–18.
+117. Reus GZ, Fries GR, Stertz L, Badawy M, Passos IC, Barichello T, et al. The role of
+inﬂammation and microglial activation in the pathophysiology of psychiatric disorders.
+Neuroscience. 2015;300:141–54.
+118. Liddelow SA, Barres BA. Reactive astrocytes: production, function, and therapeutic potential.
+Immunity. 2017;46(6):957–67.
+119. Nosi D, Lana D, Giovannini MG, Delﬁno G, Zecchi-Orlandini S. Neuroinﬂammation:
+integrated nervous tissue response through intercellular interactions at the “whole system”
+scale. Cells. 2021;10(5):1195.
+120. Philips T, Rothstein JD. Oligodendroglia: metabolic supporters of neurons. J Clin Invest.
+2017;127(9):3271–80.
+121. Zeis T, Enz L, Schaeren-Wiemers N. The immunomodulatory oligodendrocyte. Brain Res.
+2016;1641(Pt A):139–48.
+122. Tanabe
+S,
+Yamashita
+T.
+The
+role
+of
+immune
+cells
+in
+brain
+development
+and
+neurodevelopmental diseases. Int Immunol. 2018;30(10):437–44.
+123. Tanabe S, Yamashita T. B lymphocytes: crucial contributors to brain development and
+neurological diseases. Neurosci Res. 2019;139:37–41.
+124. Hirahara K, Nakayama T. CD4+ T-cell subsets in inﬂammatory diseases: beyond the Th1/Th2
+paradigm. Int Immunol. 2016;28(4):163–71.
+125. Filiano AJ, Gadani SP, Kipnis J. How and why do T cells and their derived cytokines affect the
+injured and healthy brain? Nat Rev Neurosci. 2017;18(6):375–84.
+126. Filiano AJ, Xu Y, Tustison NJ, Marsh RL, Baker W, Smirnov I, et al. Unexpected role of
+interferon-gamma in regulating neuronal connectivity and social behaviour. Nature. 2016;535
+(7612):425–9.
+127. Quinnies KM, Cox KH, Rissman EF. Immune deﬁciency inﬂuences juvenile social behavior
+and maternal behavior. Behav Neurosci. 2015;129(3):331–8.
+128. Conti P, Lauritano D, Caraffa A, Gallenga CE, Kritas SK, Ronconi G, et al. Microglia and
+mast cells generate proinﬂammatory cytokines in the brain and worsen inﬂammatory state:
+suppressor effect of IL-37. Eur J Pharmacol. 2020;875:173035.
+129. Hendriksen E, van Bergeijk D, Oosting RS, Redegeld FA. Mast cells in neuroinﬂammation
+and brain disorders. Neurosci Biobehav Rev. 2017;79:119–33.
+130. Ishii H, Yoshida M. [Inﬂammatory cytokines]. Nihon Rinsho. 2010;68(5):819–22.
+131. Segman RH, Meltzer A, Gross-Tsur V, Kosov A, Frisch A, Inbar E, et al. Preferential
+transmission of interleukin-1 receptor antagonist alleles in attention deﬁcit hyperactivity
+disorder. Mol Psychiatry. 2002;7(1):72–4.
+132. Widera D, Mikenberg I, Elvers M, Kaltschmidt C, Kaltschmidt B. Tumor necrosis factor alpha
+triggers proliferation of adult neural stem cells via IKK/NF-kappaB signaling. BMC Neurosci.
+2006;7:64.
+352
+D. Vázquez-González et al.
+133. Kaur
+N,
+Chugh
+H,
+Sakharkar
+MK,
+Dhawan
+U,
+Chidambaram
+SB,
+Chandra
+R. Neuroinﬂammation mechanisms and phytotherapeutic intervention: a systematic review.
+ACS Chem Neurosci. 2020;11(22):3707–31.
+134. Alvarez-Arellano L, Díaz de León-Guerrero S, Meza-Sosa KF, Jiménez-Ferrer CI, Pérez-
+Martínez L. Neurodegenerative disorders and inﬂammation. J Chem Inf Model. 2013;
+135. Montgomery SL, Bowers WJ. Tumor necrosis factor-alpha and the roles it plays in homeo-
+static and degenerative processes within the central nervous system. J NeuroImmune
+Pharmacol. 2012;7(1):42–59.
+136. Choi SJ, Lee KH, Park HS, Kim SK, Koh CM, Park JY. Differential expression, shedding,
+cytokine regulation and function of TNFR1 and TNFR2 in human fetal astrocytes. Yonsei
+Med J. 2005;46(6):818–26.
+137. Raffaele S, Lombardi M, Verderio C, Fumagalli M. TNF production and release from
+microglia via extracellular vesicles: impact on brain functions. Cells. 2020;9(10):2145.
+138. Wajant H, Scheurich P. TNFR1-induced activation of the classical NF-kappaB pathway.
+FEBS J. 2011;278(6):862–76.
+139. Wertz IE, Dixit VM. Ubiquitin-mediated regulation of TNFR1 signaling. Cytokine Growth
+Factor Rev. 2008;19(3–4):313–24.
+140. Hsu MP, Frausto R, Rose-John S, Campbell IL. Analysis of IL-6/gp130 family receptor
+expression reveals that in contrast to astroglia, microglia lack the oncostatin M receptor and
+functional responses to oncostatin M. Glia. 2015;63(1):132–41.
+141. West PK, Viengkhou B, Campbell IL, Hofer MJ. Microglia responses to interleukin-6 and type
+I interferons in neuroinﬂammatory disease. Glia. 2019;67(10):1821–41.
+142. Marisa R, Reesha PR, Michal B. Cytokines in the CNS. Handb Exp Pharmacol. 2018;248:397.
+143. Lobo-Silva D, Carriche GM, Castro AG, Roque S, Saraiva M. Balancing the immune response
+in the brain: IL-10 and its regulation. J Neuroinﬂammation. 2016;13(1):297.
+144. Darwish AH, Elgohary TM, Nosair NA. Serum interleukin-6 level in children with attention-
+deﬁcit hyperactivity disorder (ADHD). J Child Neurol. 2019;34(2):61–7.
+145. Donev R, Thome J. Inﬂammation: good or bad for ADHD? Attent Deﬁcit Hyperact Disord.
+2010;2(4):257–66.
+146. Hamed RA, Elmalt HA, Salama AAA, Hammouda SM, Youness ER, Abd-Allah NA, et al.
+MMP-2, MMP-9, TNF-α levels in relation to subtypes of attention deﬁcit hyperactivity
+disorder. Biomed Pharmacol J. 2021;14:541–8.
+147. Cortese S, Angriman M, Comencini E, Vincenzi B, Maffeis C. Association between inﬂam-
+matory cytokines and ADHD symptoms in children and adolescents with obesity: a pilot
+study. Psychiatry Res. 2019;278:7–11.
+148. Elsadek AE, Al-Shokary AH, Abdelghani WE, Kamal NM, Ibrahim AO, El-Shorbagy HH,
+et al. Serum levels of interleukin-6 and tumor necrosis factor alpha in children with attention-
+deﬁcit hyperactivity disorder. J Pediatr Neurosci. 2020;15(4):402–8.
+149. Chang JP, Mondelli V, Satyanarayanan SK, Chiang YJ, Chen HT, Su KP, et al. Cortisol,
+inﬂammatory biomarkers and neurotrophins in children and adolescents with attention deﬁcit
+hyperactivity disorder (ADHD) in Taiwan. Brain Behav Immun. 2020;88:105.
+150. Kozlowska A, Wojtacha P, Rowniak M, Kolenkiewicz M, Huang ACW. ADHD pathogenesis
+in the immune, endocrine and nervous systems of juvenile and maturating SHR and WKY rats.
+Psychopharmacology. 2019;236(10):2937–58.
+151. Allred EN, Dammann O, Fichorova RN, Hooper SR, Hunter SJ, Joseph RM, et al. Systemic
+inﬂammation during the ﬁrst postnatal month and the risk of attention deﬁcit hyperactivity
+disorder characteristics among 10 year-old children born extremely preterm. J NeuroImmune
+Pharmacol. 2017;12(3):531–43.
+152. O’Shea TM, Joseph RM, Kuban KC, Allred EN, Ware J, Coster T, et al. Elevated blood levels
+of inﬂammation-related proteins are associated with an attention problem at age 24 mo in
+extremely preterm infants. Pediatr Res. 2014;75(6):781–7.
+15
+A Potential Role for Neuroinflammation in ADHD
+353
+153. Oades RD, Dauvermann MR, Schimmelmann BG, Schwarz MJ, Myint AM. Attention-deﬁcit
+hyperactivity disorder (ADHD) and glial integrity: S100B, cytokines and kynurenine metabo-
+lism--effects of medication. Behav Brain Funct. 2010;6:29.
+154. Donfrancesco R, Nativio P, Di Benedetto A, Villa MP, Andriola E, Melegari MG, et al. Anti-
+yo antibodies in children with ADHD: ﬁrst results about serum cytokines. J Atten Disord.
+2020;24(11):1497–502.
+155. Smith TF, Anastopoulos AD, Garrett ME, Arias-Vasquez A, Franke B, Oades RD, et al.
+Angiogenic, neurotrophic, and inﬂammatory system SNPs moderate the association between
+birth weight and ADHD symptom severity. Am J Med Genet B Neuropsychiatr Genet.
+2014;165B(8):691–704.
+156. Ribases M, Hervas A, Ramos-Quiroga JA, Bosch R, Bielsa A, Gastaminza X, et al. Associa-
+tion study of 10 genes encoding neurotrophic factors and their receptors in adult and child
+attention-deﬁcit/hyperactivity disorder. Biol Psychiatry. 2008;63(10):935–45.
+157. Giana G, Romano E, Porﬁrio MC, D’Ambrosio R, Giovinazzo S, Troianiello M, et al.
+Detection of auto-antibodies to DAT in the serum: interactions with DAT genotype and
+psycho-stimulant therapy for ADHD. J Neuroimmunol. 2015;278:212–22.
+158. Corominas-Roso M, Armario A, Palomar G, Corrales M, Carrasco J, Richarte V, et al. IL-6
+and TNF-alpha in unmedicated adults with ADHD: relationship to cortisol awakening
+response. Psychoneuroendocrinology. 2017;79:67–73.
+159. Monje ML, Toda H, Palmer TD. Inﬂammatory blockade restores adult hippocampal
+neurogenesis. Science. 2003;302(5651):1760–5.
+160. Beroun A, Mitra S, Michaluk P, Pijet B, Stefaniuk M, Kaczmarek L. MMPs in learning and
+memory and neuropsychiatric disorders. Cell Mol Life Sci. 2019;76(16):3207–28.
+161. Glessner JT, Li J, Wang D, March M, Lima L, Desai A, et al. Copy number variation meta-
+analysis reveals a novel duplication at 9p24 associated with multiple neurodevelopmental
+disorders. Genome Med. 2017;9(1):106.
+162. Asherson P, Gurling H. Quantitative and molecular genetics of ADHD. Curr Top Behav
+Neurosci. 2012;9:239–72.
+163. Rovira P, Demontis D, Sanchez-Mora C, Zayats T, Klein M, Mota NR, et al. Shared genetic
+background between children and adults with attention deﬁcit/hyperactivity disorder.
+Neuropsychopharmacology. 2020;45(10):1617–26.
+164. Toto M, Margari F, Simone M, Craig F, Petruzzelli MG, Tafuri S, et al. Antibasal ganglia
+antibodies and antistreptolysin O in noncomorbid ADHD. J Atten Disord. 2015;19(11):
+965–70.
+165. Passarelli F, Donfrancesco R, Nativio P, Pascale E, Di Trani M, Patti AM, et al. Anti-Purkinje
+cell antibody as a biological marker in attention deﬁcit/hyperactivity disorder: a pilot study. J
+Neuroimmunol. 2013;258(1–2):67–70.
+166. Fan LW, Pang Y. Dysregulation of neurogenesis by neuroinﬂammation: key differences in
+neurodevelopmental and neurological disorders. Neural Regen Res. 2017;12(3):366–71.
+167. Cherkasova MV, Hechtman L. Neuroimaging in attention-deﬁcit hyperactivity disorder:
+beyond the frontostriatal circuitry. Can J Psychiatr. 2009;54(10):651–64.
+168. Miyazaki C, Koyama M, Ota E, Swa T, Mlunde LB, Amiya RM, et al. Allergic diseases in
+children with attention deﬁcit hyperactivity disorder: a systematic review and meta-analysis.
+BMC Psychiatry. 2017;17(1):120.
+169. Mogensen N, Larsson H, Lundholm C, Almqvist C. Association between childhood asthma
+and ADHD symptoms in adolescence--a prospective population-based twin study. Allergy.
+2011;66(9):1224–30.
+170. Schans JV, Cicek R, de Vries TW, Hak E, Hoekstra PJ. Association of atopic diseases and
+attention-deﬁcit/hyperactivity disorder: a systematic review and meta-analyses. Neurosci
+Biobehav Rev. 2017;74(Pt A):139–48.
+171. Halfon N, Newacheck PW. Evolving notions of childhood chronic illness. JAMA. 2010;303
+(7):665–6.
+354
+D. Vázquez-González et al.
+172. Raison CL, Capuron L, Miller AH. Cytokines sing the blues: inﬂammation and the pathogen-
+esis of depression. Trends Immunol. 2006;27(1):24–31.
+173. Aguilar-Valles
+A,
+Inoue
+W,
+Rummel
+C,
+Luheshi
+GN.
+Obesity,
+adipokines
+and
+neuroinﬂammation. Neuropharmacology. 2015;96(Pt A):124–34.
+174. Cortese S, Tessari L. Attention-deﬁcit/hyperactivity disorder (ADHD) and obesity: update
+2016. Curr Psychiatry Rep. 2017;19(1):4.
+175. Albayrak O, Putter C, Volckmar AL, Cichon S, Hoffmann P, Nothen MM, et al. Common
+obesity risk alleles in childhood attention-deﬁcit/hyperactivity disorder. Am J Med Genet B
+Neuropsychiatr Genet. 2013;162B(4):295–305.
+176. Kang SS, Kurti A, Fair DA, Fryer JD. Dietary intervention rescues maternal obesity induced
+behavior deﬁcits and neuroinﬂammation in offspring. J Neuroinﬂammation. 2014;11:156.
+177. Ashwood P, Krakowiak P, Hertz-Picciotto I, Hansen R, Pessah I, Van de Water J. Elevated
+plasma cytokines in autism spectrum disorders provide evidence of immune dysfunction and
+are associated with impaired behavioral outcome. Brain Behav Immun. 2011;25(1):40–5.
+178. Gumusoglu
+SB,
+Chilukuri
+ASS,
+Santillan
+DA,
+Santillan
+MK,
+Stevens
+HE. Neurodevelopmental outcomes of prenatal preeclampsia exposure. Trends Neurosci.
+2020;43(4):253–68.
+179. Novak CM, Ozen M, Burd I. Perinatal brain injury: mechanisms, prevention, and outcomes.
+Clin Perinatol. 2018;45(2):357–75.
+180. Grizenko N, Shayan YR, Polotskaia A, Ter-Stepanian M, Joober R. Relation of maternal stress
+during pregnancy to symptom severity and response to treatment in children with ADHD. J
+Psychiatry Neurosci. 2008;33(1):10–6.
+181. Grizenko N, Fortier ME, Gaudreau-Simard M, Jolicoeur C, Joober R. The effect of maternal
+stress during pregnancy on IQ and ADHD symptomatology. J Can Acad Child Adolesc
+Psychiatry. 2015;24(2):92–9.
+182. Obernier JA, White AM, Swartzwelder HS, Crews FT. Cognitive deﬁcits and CNS damage
+after a 4-day binge ethanol exposure in rats. Pharmacol Biochem Behav. 2002;72(3):521–32.
+183. Terasaki LS, Schwarz JM. Effects of moderate prenatal alcohol exposure during early gesta-
+tion in rats on inﬂammation across the maternal-fetal-immune interface and later-life immune
+function in the offspring. J NeuroImmune Pharmacol. 2016;11(4):680–92.
+184. Huang L, Wang Y, Zhang L, Zheng Z, Zhu T, Qu Y, et al. Maternal smoking and attention-
+deﬁcit/hyperactivity
+disorder
+in
+offspring:
+a
+meta-analysis.
+Pediatrics.
+2018;141(1):
+e20172465.
+185. Sengupta SM, Fortier ME, Thakur GA, Bhat V, Grizenko N, Joober R. Parental psychopa-
+thology in families of children with attention-deﬁcit/hyperactivity disorder and exposed to
+maternal smoking during pregnancy. J Child Psychol Psychiatry Allied Discip. 2015;56(2):
+122–9.
+186. Zhu J, Zhang X, Xu Y, Spencer TJ, Biederman J, Bhide PG. Prenatal nicotine exposure mouse
+model showing hyperactivity, reduced cingulate cortex volume, reduced dopamine turnover,
+and responsiveness to oral methylphenidate treatment. J Neurosci. 2012;32(27):9410–8.
+187. Herrmann M, King K, Weitzman M. Prenatal tobacco smoke and postnatal secondhand smoke
+exposure and child neurodevelopment. Curr Opin Pediatr. 2008;20(2):184–90.
+188. Pineles BL, Park E, Samet JM. Systematic review and meta-analysis of miscarriage and
+maternal exposure to tobacco smoke during pregnancy. Am J Epidemiol. 2014;179(7):
+807–23.
+189. Hall HA, Speyer LG, Murray AL, Auyeung B. Prenatal maternal infections and children’s
+neurodevelopment in the UK millennium cohort study: a focus on ASD and ADHD. J Atten
+Disord. 2022;26:616.
+190. Ginsberg Y, D’Onofrio BM, Rickert ME, Class QA, Rosenqvist MA, Almqvist C, et al.
+Maternal infection requiring hospitalization during pregnancy and attention-deﬁcit hyperac-
+tivity disorder in offspring: a quasi-experimental family-based study. J Child Psychol Psychi-
+atry Allied Discip. 2019;60(2):160–8.
+15
+A Potential Role for Neuroinflammation in ADHD
+355
+191. Rand KM, Austin NC, Inder TE, Bora S, Woodward LJ. Neonatal Infection and Later
+Neurodevelopmental Risk in the Very Preterm Infant. J Pediatr. 2016;170:97–104.
+192. Ystrom E, Gustavson K, Brandlistuen RE, Knudsen GP, Magnus P, Susser E, et al. Prenatal
+exposure to acetaminophen and risk of ADHD. Pediatrics. 2017;140(5):e20163840.
+193. Chen MH, Pan TL, Wang PW, Hsu JW, Huang KL, Su TP, et al. Prenatal exposure to
+acetaminophen and the risk of attention-deﬁcit/hyperactivity disorder: a nationwide study in
+Taiwan. J Clin Psychiatry. 2019;80(5):18m12612.
+194. Gustavson K, Ask H, Ystrom E, Stoltenberg C, Lipkin WI, Suren P, et al. Maternal fever
+during pregnancy and offspring attention deﬁcit hyperactivity disorder. Sci Rep. 2019;9(1):
+9519.
+195. Gustafsson HC, Sullivan EL, Battison EAJ, Holton KF, Graham AM, Karalunas SL, et al.
+Evaluation of maternal inﬂammation as a marker of future offspring ADHD symptoms: a
+prospective investigation. Brain Behav Immun. 2020;89:350–6.
+196. Han VX, Patel S, Jones HF, Dale RC. Maternal immune activation and neuroinﬂammation in
+human neurodevelopmental disorders. Nat Rev Neurol. 2021;17(9):564–79.
+197. Tessari L, Angriman M, Diaz-Roman A, Zhang J, Conca A, Cortese S. Association between
+exposure to pesticides and ADHD or autism spectrum disorder: a systematic review of the
+literature. J Atten Disord. 2022;26:48.
+198. Roberts JR, Karr CJ. Council on environmental H. Pesticide exposure in children. Pediatrics.
+2012;130(6):e1765–88.
+199. Rochester JR. Bisphenol A and human health: a review of the literature. Reprod Toxicol.
+2013;42:132–55.
+200. Hansen JB, Bilenberg N, Timmermann CAG, Jensen RC, Frederiksen H, Andersson AM, et al.
+Prenatal exposure to bisphenol A and autistic- and ADHD-related symptoms in children aged
+2 and5 years from the Odense Child Cohort. Environ Health. 2021;20(1):24.
+201. Minatoya M, Kishi R. A review of recent studies on bisphenol a and phthalate exposures and
+child neurodevelopment. Int J Environ Res Public Health. 2021;18(7):3585.
+202. Choi G, Villanger GD, Drover SSM, Sakhi AK, Thomsen C, Nethery RC, et al. Prenatal
+phthalate exposures and executive function in preschool children. Environ Int. 2021;149:
+106403.
+203. Papalou O, Kandaraki EA, Papadakis G, Diamanti-Kandarakis E. Endocrine disrupting
+chemicals: an occult mediator of metabolic disease. Front Endocrinol. 2019;10:112.
+204. Lenters V, Iszatt N, Forns J, Cechova E, Kocan A, Legler J, et al. Early-life exposure to
+persistent organic pollutants (OCPs, PBDEs, PCBs, PFASs) and attention-deﬁcit/hyperactivity
+disorder: a multi-pollutant analysis of a Norwegian birth cohort. Environ Int. 2019;125:33–42.
+205. Skogheim TS, Villanger GD, Weyde KVF, Engel SM, Suren P, Oie MG, et al. Prenatal
+exposure to perﬂuoroalkyl substances and associations with symptoms of attention-deﬁcit/
+hyperactivity disorder and cognitive functions in preschool children. Int J Hyg Environ Health.
+2020;223(1):80–92.
+206. Simoes LR, Sangiogo G, Tashiro MH, Generoso JS, Faller CJ, Dominguini D, et al. Maternal
+immune activation induced by lipopolysaccharide triggers immune response in pregnant
+mother and fetus, and induces behavioral impairment in adult rats. J Psychiatr Res.
+2018;100:71–83.
+207. Carias E, Hamilton J, Robison LS, Delis F, Eiden R, Quattrin T, et al. Chronic oral methyl-
+phenidate treatment increases microglial activation in rats. J Neural Transm (Vienna).
+2018;125(12):1867–75.
+208. Sadasivan S, Pond BB, Pani AK, Qu C, Jiao Y, Smeyne RJ. Methylphenidate exposure
+induces dopamine neuron loss and activation of microglia in the basal ganglia of mice.
+PLoS One. 2012;7(3):e33693.
+209. Schmidt AJ, Krieg JC, Clement HW, Gebhardt S, Schulz E, Heiser P. Impact of drugs
+approved for treating ADHD on the cell survival and energy metabolism: an in-vitro study
+in human neuronal and immune cells. J Psychopharmacol. 2010;24(12):1829–33.
+356
+D. Vázquez-González et al.
+210. Motaghinejad M, Motevalian M, Shabab B, Fatima S. Effects of acute doses of methylpheni-
+date on inﬂammation and oxidative stress in isolated hippocampus and cerebral cortex of adult
+rats. J Neural Transm (Vienna). 2017;124(1):121–31.
+211. O’Sullivan JB, Ryan KM, Curtin NM, Harkin A, Connor TJ. Noradrenaline reuptake
+inhibitors limit neuroinﬂammation in rat cortex following a systemic inﬂammatory challenge:
+implications for depression and neurodegeneration. Int J Neuropsychopharmacol. 2009;12(5):
+687–99.
+212. Park JH, Shin BN, Chen BH, Kim IH, Ahn JH, Cho JH, et al. Neuroprotection and reduced
+gliosis by atomoxetine pretreatment in a gerbil model of transient cerebral ischemia. J Neurol
+Sci. 2015;359(1–2):373–80.
+213. Verlaet AAJ, Maasakkers CM, Hermans N, Savelkoul HFJ. Rationale for dietary antioxidant
+treatment of ADHD. Nutrients. 2018;10(4):405.
+214. Moghadas M, Essa MM, Ba-Omar T, Al-Shehi A, Qoronﬂeh MW, Eltayeb EA, et al. Antioxi-
+dant therapies in attention deﬁcit hyperactivity disorder. Front Biosci. 2019;24:313–33.
+215. Alvarez-Arellano L, Salazar-Garcia M, Corona JC. Neuroprotective effects of quercetin in
+pediatric neurological diseases. Molecules. 2020;25(23):5597.
+216. Richardson AJ. Omega-3 fatty acids in ADHD and related neurodevelopmental disorders. Int
+Rev Psychiatry. 2006;18(2):155–72.
+
+## References
+References
+IL-6
+High levels in children with ADHD compared with
+control and affects attention and memory by its
+effect on neurogenesis and synaptic plasticity in
+the hippocampus and PFC
+[144, 145]
+TNF-α, MMP-2, MMP-9
+Higher concentrations in patients with ADHD and
+positive correlation with age and a negative
+correlation with IQ and also, correlation with
+cognitive and inattention problems
+[146]
+IL-6, TNF-α
+In patients with ADHD and obesity, it was found a
+correlation between the severity of hype...
+---

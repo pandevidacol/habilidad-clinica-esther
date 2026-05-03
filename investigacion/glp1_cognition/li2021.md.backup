@@ -1,0 +1,627 @@
+# ARTICLE
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2003
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: li2021.pdf
+
+## Abstract / Summary
+ARTICLE
+Systemic GLP-1R agonist treatment reverses mouse
+glial and neurovascular cell transcriptomic aging
+signatures in a genome-wide manner
+Zhongqi Li
+1,2,10, Xinyi Chen1,2,10, Joaquim S. L. Vong
+2,3,10, Lei Zhao1,2,10, Junzhe Huang1,2, Leo Y. C. Yan1,2,
+Bonaventure Ip1, Yun Kwok Wing
+4,5,6, Hei-Ming Lai1,2,4,5,6, Vincent C. T. Mok
+1,5,6,7✉&
+Ho Ko
+1,2,4,5,6,7,8,9✉
+Pharmacological reversal of brain aging is a long-sought yet challenging strategy for the
+prevention and treatment of age-related n... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. ARTICLE. 2003.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+ARTICLE
+Systemic GLP-1R agonist treatment reverses mouse
+glial and neurovascular cell transcriptomic aging
+signatures in a genome-wide manner
+Zhongqi Li
+1,2,10, Xinyi Chen1,2,10, Joaquim S. L. Vong
+2,3,10, Lei Zhao1,2,10, Junzhe Huang1,2, Leo Y. C. Yan1,2,
+Bonaventure Ip1, Yun Kwok Wing
+4,5,6, Hei-Ming Lai1,2,4,5,6, Vincent C. T. Mok
+1,5,6,7✉&
+Ho Ko
+1,2,4,5,6,7,8,9✉
+Pharmacological reversal of brain aging is a long-sought yet challenging strategy for the
+prevention and treatment of age-related neurodegeneration, due to the diverse cell types and
+complex cellular pathways impacted by the aging process. Here, we report the genome-wide
+reversal of transcriptomic aging signatures in multiple major brain cell types, including glial
+and mural cells, by systemic glucagon-like peptide-1 receptor (GLP-1R) agonist (GLP-1RA)
+treatment. The age-related expression changes reversed by GLP-1RA encompass both shared
+and cell type-speciﬁc functional pathways that are implicated in aging and neurodegenera-
+tion. Concomitantly, Alzheimer’s disease (AD)-associated transcriptomic signature in
+microglia that arises from aging is reduced. These results show the feasibility of reversing
+brain aging by pharmacological means, provide mechanistic insights into the neurological
+beneﬁts of GLP-1RAs, and imply that GLP-1R agonism may be a generally applicable phar-
+macological intervention for patients at risk of age-related neurodegeneration.
+https://doi.org/10.1038/s42003-021-02208-9
+OPEN
+1 Division of Neurology, Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 2 Li Ka
+Shing Institute of Health Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 3 Department of Chemical Pathology,
+Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 4 Department of Psychiatry, Faculty of Medicine, The Chinese University of
+Hong Kong, Shatin, Hong Kong. 5 Margaret K. L. Cheung Research Centre for Management of Parkinsonism, Faculty of Medicine, The Chinese University of
+Hong Kong, Shatin, Hong Kong. 6 Gerald Choa Neuroscience Centre, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 7 Chow
+Yuk Ho Technology Centre for Innovative Medicine, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 8 School of Biomedical
+Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong. 9 Peter Hung Pain Research Institute, Faculty of Medicine, The
+Chinese University of Hong Kong, Shatin, Hong Kong. 10These authors contributed equally: Zhongqi Li, Xinyi Chen, Joaquim S. L. Vong, Lei Zhao.
+✉email: vctmok@cuhk.edu.hk; ho.ko@cuhk.edu.hk
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+1
+1234567890():,;
+A
+ging has long been considered irreversible. Nearly all
+cellular processes are implicated in or impacted by aging,
+ranging from metabolism, stress response, immune
+responses, cellular senescence, to gene expression, and genomic
+stability1. These complex molecular changes presumably lead to
+an alteration of cellular states and compositions in body
+organs1,2, manifesting as age-related functional decline. Given
+the complexity of biological changes involved and a lack of easily
+targetable sets of driving pathways, anti-aging pharmacotherapy
+is considered highly challenging. However, it remains an
+attractive pursuit for tackling age-related disorders, such as
+neurodegeneration for which aging is the strongest risk factor.
+Slowing down or even reversing transcriptomic and functional
+alterations in the aging brain may provide a strategy for the
+primary prevention and even the treatment of neurodegenerative
+diseases.
+Glucagon-like peptide-1 (GLP-1) is a peptide hormone pro-
+duced peripherally by the intestinal L-cells for potentiating
+glucose-dependent insulin release, and centrally in the brain by
+preproglucagon neurons in the nucleus tractus solitarii3. In the
+past decade, multiple pharmacokinetically optimized GLP-1
+receptor (GLP-1R) agonists (GLP-1RAs) have been approved
+for the clinical treatment of diabetes mellitus. Remarkably, recent
+clinical studies provided compelling evidence that GLP-1RAs
+exhibit neuroprotective effects beyond that conferred by glycemic
+control, reducing the incidences of cognitive decline and Par-
+kinson’s disease (PD) in diabetic patients4,5. Additionally, GLP-
+1RAs may slow the progression of established Alzheimer’s disease
+(AD) and PD in non-diabetic patients6,7. Mechanistically, apart
+from
+alleviating
+neuroinﬂammation
+in
+animal
+models
+of
+neurodegeneration8,9, we recently demonstrated that exenatide (a
+GLP-1RA) treatment partially reverses age-related transcriptomic
+changes in brain endothelial cells (ECs) and reduces nonspeciﬁc
+blood-brain barrier (BBB) leakage10. How GLP-1RA treatment
+impacts glial and other neurovascular cell types, whose age-
+related expression changes also play crucial roles in brain aging
+and degeneration, remained unclear.
+Results and discussion
+Systemic GLP-1RA treatment reverses aging-associated tran-
+scriptomic changes in diverse mouse brain cell types. We
+hypothesized that GLP-1RAs may be potent anti-aging ther-
+apeutics that impact diverse brain cell types. We thus performed
+single-cell transcriptomic proﬁling experiments in young adult
+(2–3 months old (m.o.)), aged (18–20 m.o.) and exenatide-treated
+aged (18–20 m.o. with prior daily intraperitoneal injection for
+~1 month, see “Methods” section) C57BL/6 mice (Fig. 1a, b and
+Supplementary Fig. 1), to examine the genome-wide expression
+changes in glial and neurovascular cells in aging, and their
+modulation by GLP-1R agonism. We calculated signiﬁcant dif-
+ferentially expressed genes (DEGs) (deﬁned as those with false
+discovery rate (FDR)-adjusted P-value < 0.05) for each cell type,
+to analyse their patterns of expression changes in aging and the
+effects of exenatide treatment. We obtained DEGs with similar
+magnitudes of change as previous studies1,2, which were generally
+not large (Fig. 1c), likely due to comparisons being made between
+normal aging and young adulthood. At 18–20 m.o., however,
+these expression changes already have age-related functional
+change correlates in the C57BL/6 mice, including those that
+impact cognitive11–14, glial (recently reviewed by ref. 15), and
+neurovascular functions10,16.
+In line with our previous report10, the aging-associated
+transcriptomic changes in brain ECs were partially reversed by
+exenatide treatment (Fig. 1c, d). Strikingly, the transcriptomic
+reversal effect of the GLP-1RA was even more profound in other
+brain cell types (Fig. 1c, d). These included multiple glial (Fig. 1c,
+d, AC: astrocyte; OPC: oligodendrocyte precursor cell; MG:
+microglia) and mural (Fig. 1c, d, SMC: smooth muscle cell; PC:
+pericyte) cell types. This phenomenon was also observed,
+although weaker, in oligodendrocyte (OLG) and perivascular
+macrophage (MAC) (Fig. 1c, d). Overall, the reversal effect on
+glial cell age-related transcriptomic changes appeared to be the
+most prominent in AC and OPC, followed by MG (Fig. 1d).
+Among vascular cells, the effects were stronger in SMC and PC
+compared with that in EC (Fig. 1d). Further supporting the aging
+reversal effects, in seven out of the eight cell types analyzed (i.e.,
+all except OLG), the number of signiﬁcant DEGs for exenatide-
+treated aged vs. young adult group comparison was much smaller
+than that for untreated aged vs. young adult group comparison
+(Supplementary Fig. 2).
+Functional associations of the aging reversal effects at the
+transcriptomic level. We next asked if the expression changes
+reversed by GLP-1RA treatment were functionally relevant, and
+which cellular pathways may be affected. Pathway enrichment
+analysis for each cell type on their most prominent reversed
+DEGs highlighted the amelioration of age-related expression
+changes involved in extensive cellular functions (Fig. 2a). In most
+cell types, these included genes mediating glucose/energy, lipid,
+and protein metabolic processes (Fig. 2a), as well as transcrip-
+tional and translational regulation (Fig. 2a). We also noted cell
+type-speciﬁc changes by pathway analysis and examining the
+expression changes of selected genes with signiﬁcant functional
+roles. In aged brain ACs, upregulation of immune response-
+related genes and downregulation of homeostatic function-related
+genes occur (Fig. 2b) (also see ref. 17). In our dataset, the ACs
+from the exenatide-treated aged mice appeared to partially revert
+to a younger phenotype, with downregulation of several com-
+plement component 1q genes (Fig. 2b), and upregulation of
+subsets of genes encoding synaptic modiﬁcation-related proteins,
+metabolite receptors and transporters, neurotransmitter receptors
+and ion channels (Fig. 2b).
+Immune response and cytokine signaling-related genes were
+especially prominent among DEGs reversed in MG and MAC,
+followed by EC (Fig. 2a). Indeed, previous studies reported that
+MGs in the aging and AD brain exhibit pro-inﬂammatory
+phenotypes1,18–20. A subset of MGs in AD mouse models are
+characterized by a disease-associated microglia (DAM) state,
+whose transcriptomic signature also increases in aging1,20. After
+exenatide treatment, apart from the reversed expression changes
+of several microglial activation-associated genes similar to what
+we previously reported10 (Fig. 2b), we noted that the MGs also
+showed an upregulation of multiple homeostatic function-related
+and immune response inhibitory genes (Fig. 2b), and decreased
+AD-associated MG signature1,20 scores (Fig. 2c, d). In SMC, we
+found post-treatment reversal of expression changes involving
+important
+functional
+processes
+associated
+with
+age-related
+vascular stiffening, such as calcium signaling, extracellular matrix
+(ECM) remodelling and contractile pathways (Fig. 2a, b).
+Consistency of the transcriptomic aging reversal effects across
+cell subtypes and datasets. As we found prominent tran-
+scriptomic reversal effects in ACs (Fig. 1c, d), whose molecular
+phenotypes vary across brain regions21, we asked if the age-
+related transcriptomic alterations and the GLP-1RA treatment
+effect in ACs may exhibit regional speciﬁcity. We identiﬁed four
+main regional AC subtype clusters, namely telencephalic AC
+clusters 1 and 2 (ACTE1 and ACTE2, respectively), and non-
+telencephalic AC clusters 1 and 2 (ACNT1 and ACNT2,
+respectively), using the expression patterns of known regional AC
+ARTICLE
+COMMUNICATIONS BIOLOGY | https://doi.org/10.1038/s42003-021-02208-9
+2
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+marker genes21 (Supplementary Fig. 3a, b). Despite differences in
+their molecular characteristics (Supplementary Fig. 3a, b), the AC
+subtypes shared highly consistent age-related differential expres-
+sions (Supplementary Fig. 4a). The expression changes induced
+by exenatide treatment were generally even more consistent in the
+AC subtypes (Supplementary Fig. 4a). Consequently, the tran-
+scriptomic reversal effect of exenatide on the aging-associated
+expression changes was well conserved across all four regional AC
+subtypes examined (Supplementary Fig. 4b). We also performed
+similar analysis on the mural cell subtypes that segregate along
+the arteriovenous axis22 (Supplementary Fig. 5a, b). Pairwise
+comparison of the differential expressions likewise revealed
+shared age-related expression changes and reversal by GLP-1RA
+treatment in all four mural cell subtypes (Supplementary Fig. 6a,
+b), despite their intrinsic transcriptomic differences (Supple-
+mentary Fig. 5a, b).
+Finally, to test the robustness of the results, we veriﬁed that
+most of the top reversed age-related DEGs (i.e., those included
+in the pathway enrichment analysis) in EC, MG, and SMC had
+opposite directions of change in aging and after GLP-1RA
+treatment, with additional experiment comparing exenatide-
+treated aged mice to their vehicle-treated counterparts (Supple-
+mentary Fig. 7a, b). In addition, we also obtained qualitatively
+similar results on the genome-wide reversal of aging-associated
+differential expressions for several major brain cell types,
+including AC, OPC, MG, MAC, SMC, and EC (Supplementary
+Fig. 7c), based on an independent dataset from our prior
+study10.
+Conclusions
+In conclusion, we demonstrated that a generalized reversal of
+functionally relevant transcriptomic changes at the genome-wide
+level in multiple glial and vascular cell types in the aged brain is
+pharmacologically achievable with GLP-1R agonism. Further
+studies are required to assay the molecular and functional
+changes in neuronal circuits and glial cells with GLP-1R agonism
+in the aged brain. For example, while DAM is associated with
+neuropathology development in an AD mouse model20, it
+remains incompletely understood what the functional signiﬁcance
+of DAM-like MGs are in the aged brain. It has been shown that
+microglial depletion and repopulation in the aged mouse brain
+confers cognitive beneﬁts23. Based on our results, we propose that
+the DAM-like MGs may be age-primed MGs with weakened
+homeostatic functions that are partially restored by GLP-1RA
+treatment—a hypothesis to be further tested.
+In all, we speculate that the profound pleiotropic effects of
+GLP-1RA on brain aging may depend on a combination of
+central and peripheral mechanisms. Centrally in the brain, sub-
+sets of GLP-1R-expressing neurons and glial cells may be directly
+targeted
+by
+GLP-1RA9,24.
+Peripherally,
+GLP-1RA-mediated
+improvement in metabolic proﬁles or immunomodulation may
+impact the glial and neurovascular cells, as they are responsive to
+compositions of the circulation25 and interact with peripheral
+immune cells26. Clarifying these possibilities will require sys-
+tematic studies involving knockout or knockdown of GLP-1R in
+the respective putative target cell types (e.g., neuron, MG).
+The knowledge will also instruct further developments of
+Fig. 1 Reversal of glial and neurovascular cell transcriptomic aging signatures by GLP-1RA treatment. a UMAP visualization of the major cell type
+clusters identiﬁed and analysed. Numbers in brackets: cell numbers for the respective cell types. AC astrocyte, OPC oligodendrocyte precursor cell, MG
+microglia, MAC perivascular macrophage, OLG oligodendrocyte, SMC smooth muscle cell, PC pericyte, EC endothelial cell. b UMAP visualization of the
+single-cell transcriptomes from young adult, aged, and GLP-1RA (exenatide)-treated aged mouse brains. For each plot, colored dots highlight cells from the
+respective labeled group, while gray dots are cells from the other groups. Numbers in brackets: cell numbers for the respective groups in the dataset (n = 3
+animals for each group). For clarity, 6000 cells were subsampled for visualization in each plot in a and b. c Age-related expression changes (x-axis) plotted
+against post-exenatide treatment expression changes (y-axis) in glial (AC, OPC, MG, and OLG), vascular (EC, PC, and SMC) cell types, and MAC. Each dot
+represents one differentially expressed gene (DEG). lnFC: natural log of fold change. Gray lines: lines of best ﬁt by linear regression. d Proportions of DEGs
+reversed and the slopes of lines of best ﬁt by linear regression shown in c in the different cell types. See Supplementary Data 1 for source data underlying (c).
+COMMUNICATIONS BIOLOGY | https://doi.org/10.1038/s42003-021-02208-9
+ARTICLE
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+3
+small-molecule GLP-1RAs27–29, which may need to cross the BBB
+to act on the cell type target(s) necessary to attain any centrally
+mediated anti-brain aging effects.
+Methods
+Animal subjects. All experimental procedures were approved in advance by the
+Animal Research Ethical Committee of CUHK, and were carried out in accordance
+with the Guide for the Care and Use of Laboratory Animals. C57BL/6J mice were
+provided by the Laboratory Animal Service Center of CUHK and maintained at
+controlled temperature (22–23 °C) with an alternating 12-h light/dark cycle with
+free access to standard mouse diet and water. The ambient humidity was main-
+tained at <70 % relative humidity. Male mice of two age groups (2–3 months old
+and 18–20 months old) were used for experiments. For the treatment groups,
+exenatide (5 nmol/kg bw, Byetta, AstraZeneca LP) or saline vehicle (0.9% w/v
+sodium chloride) was intraperitoneally (I.P.) administered (volume: 250 μl per 30 g
+Fig. 2 Functional pathway analysis of the GLP-1RA treatment-reversed age-related transcriptomic changes. a Pathways with signiﬁcant enrichment
+among the most prominent age-related expression changes reversed by exenatide treatment in the different cell types. b Dot plots of expression changes
+of selected functionally important genes in AC, MG, and SMC, in aging and post-exenatide treatment. c UMAP visualization and d violin plots of AD
+signature scores in the MGs from young adult, aged and exenatide-treated aged mouse brains. Numbers in brackets in c: cell numbers for the respective
+groups in the dataset. Horizontal lines in d represent medians (young adult, 0.36; aged, 0.46; exenatide-treated aged: 0.43), 25th and 75th percentiles.
+Comparison of Alzheimer’s disease (AD) signature scores in the MGs among the three groups: P = 2.2 × 10−16, Kruskal–Wallis test; the P-values of
+pairwise comparisons by post hoc Dunn’s test are shown in d. Cell type abbreviations: same as in Fig. 1. See Supplementary Data 1 for source data
+underlying a and b.
+ARTICLE
+COMMUNICATIONS BIOLOGY | https://doi.org/10.1038/s42003-021-02208-9
+4
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+bw) daily starting at 17–18 months old for 4–5 weeks prior to transcriptomic
+proﬁling experiments.
+Single-cell dissociation and RNA sequencing. Results reported in the study
+consisted of three datasets. The main results presented in all ﬁgures except Sup-
+plementary Fig. 7a, c were based on a dataset with young adult, aged and exenatide-
+treated aged mouse groups with cDNA library constructed using the 10× Chro-
+mium Single Cell 3′ Reagent Kits v3 (10× Genomics, USA) (hereafter referred to as
+the v3 kit-based dataset) (three mice per experimental group, one experimental
+batch). The second dataset with exenatide-treated and vehicle-treated aged mouse
+groups (hereafter referred to as the vehicle-controlled dataset) presented in Sup-
+plementary Fig. 7a, b was based on the 10× Chromium Single Cell 3′ Reagent Kits
+v2 (10× Genomics, USA) (three mice per experimental group, 1 experimental
+batch). The third dataset presented in Supplementary Fig. 7c was reported in our
+previous study10 (with each batch consisting of young adult, aged, and exenatide-
+treated aged mouse groups, ﬁve mice per experimental group, three experimental
+batches, hereafter referred to as the v2 kit-based dataset).
+For the v3 kit-based and vehicle-controlled datasets, identical brain tissue
+digestion, cell dissociation and single-cell RNA sequencing protocols were adopted
+as our previous study10. Mice were deeply anaesthetized and perfused
+transcardially with 20 ml of ice-cold phosphate buffered saline (PBS). Mice were
+then rapidly decapitated, and whole brains (except cerebellum) were immersed in
+ice-cold Dulbecco’s modiﬁed Eagle’s medium (DMEM, Thermo Fisher Scientiﬁc,
+USA). The brain tissues were cut into small pieces and dissociated into single cells
+using a modiﬁed version of the Neural Tissue Dissociation Kit (P) (130-092-628,
+Miltenyi Biotec, USA). Myelin debris was removed using the Myelin Removal kit II
+(130-096-733, Miltenyi Biotec, USA). Cell clumps were removed by serial ﬁltration
+through pre-wetted 70-μm (#352350, Falcon, USA) and 40-μm (#352340, Falcon,
+USA) nylon cell strainers. Centrifugation was performed at 300×g for 5 min at 4 °C.
+The ﬁnal cell pellets were resuspended in 500–1000 μl FACS buffer (DMEM
+without phenol red (Thermo Fisher Scientiﬁc, USA), supplemented with 2% fetal
+bovine serum (Thermo Fisher Scientiﬁc, USA)). For the v3 kit-based dataset, the
+single-cell suspension directly proceeded to cDNA library construction, while for
+the vehicle-controlled dataset the single-cell suspension was kept at −80 °C
+overnight and then thawed for cDNA library construction.
+Single-cell RNA sequencing libraries were generated using the Chromium Single
+Cell 3′ Reagent Kit v3 (for the v3 kit-based dataset) or v2 (for the vehicle-controlled
+dataset) (10× Genomics, USA). Brieﬂy, single-cell suspension at a density of 500–1000
+cells/μL in FACS buffer was added to real-time polymerase chain reaction (RT-PCR)
+master mix aiming for sampling of up to 8000 cells, and then loaded together with
+Single Cell 3′ gel beads and partitioning oil into a Single Cell 3′ Chip (10× Genomics,
+USA). RNA transcripts from single cells were uniquely barcoded and reverse-
+transcribed within droplets. cDNA molecules were preampliﬁed and pooled, followed
+by library construction. All libraries were quantiﬁed by Qubit and RT-PCR on a
+LightCycler 96 System (Roche Life Science, Germany). The size proﬁles of the pre-
+ampliﬁed cDNA and sequencing libraries were examined by the Agilent High
+Sensitivity D5000 and High Sensitivity D1000 ScreenTape Systems (Agilent, USA),
+respectively. All single-cell libraries were sequenced with a customized paired-end
+with single indexing (26/8/98-bp) format. All single-cell libraries were sequenced on a
+NextSeq 500 system (Illumina, USA) using the NextSeq 500 High Output v2 Kit
+(Illumina, USA). The data were aligned in Cell Ranger (v3.0.0, 10× Genomics, USA).
+For the v3 kit-based dataset, the library sequencing saturation was on average 68.73%.
+Compared to the v2 kit-based dataset in our previous study10, the v3 kit-based dataset
+had much improved mRNA capture efﬁciency (median genes per cell: 2091, range:
+505–5791), allowing more sensitive detection of differentially expressed genes (DEGs).
+For the vehicle-controlled dataset, the sequencing saturation was on average 84.1%
+(median genes per cell: 1229, range: 1175–1283).
+Data quality control, single-cell transcriptome clustering, and visualization.
+Data processing and visualization were performed using the Seurat package
+(v3.1.5)30 and custom scripts in R (v3.6.1). The raw count matrix was generated by
+default parameters (with the mm10 reference genome). For the v3 kit-based
+dataset, there were 106,902 cells in the primary count matrix. Genes expressed by
+fewer than ﬁve cells were removed, leaving 21,259 genes in total. Among these
+genes, 3000 high-variance genes were identiﬁed by the Seurat FindVariableFeatures
+function. The dataset was ﬁltered to exclude low-quality cells by the following
+criteria: (1) <5% or >95% UMI count or gene count, or (2) proportion of mito-
+chondrial genes >20%. Gene count normalization and high-variance gene identi-
+ﬁcation were applied to the raw data of 78,490 cells retained for further analysis.
+The SCTransform function in the Seurat package was used for expression nor-
+malization by ﬁtting the data to a negative binomial regression model. For
+dimensionality reduction, principal component analysis (PCA) was applied to
+compute the ﬁrst 30 top principal components. Clustering was carried out by the
+Seurat functions FindNeighbors and FindClusters. Modularity optimization was
+then performed on the shared nearest neighbor graph results from FindNeighbors
+for clustering (resolution parameter: 1.4). We employed Uniform Manifold
+Approximation and Projection (UMAP)31, a manifold learning-based technique
+for dimensionality reduction, for the visualization of single-cell transcriptomes and
+clustering results. For the vehicle-controlled dataset, there were 6703 cells in the
+primary count matrix. Genes expressed by fewer than three cells were removed,
+leaving 16,684 genes in total. Subsequent data processing was identical to that
+performed for the v3 kit-based dataset.
+Cell type and subtype identiﬁcation. To identify primary cell types, we employed
+known cell type-speciﬁc marker genes and examined their expression levels among
+all initial clusters included. We excluded clusters with high expression of two or
+more cell type-speciﬁc marker genes. These included clusters with high expression
+of both endothelial cell and pericyte markers in the v3 kit-based and the vehicle-
+controlled datasets, corresponding to contamination of pericytes by endothelial cell
+fragments22,32,33. For the v3 kit-based dataset, the remaining clusters were classi-
+ﬁed into primary cell types, whereby eight were analysed in this study (see Fig. 1
+and Supplementary Fig. 1). Telencephalic and non-telencephalic AC subtypes were
+identiﬁed by unsupervised clustering of the AC transcriptomes (after expression
+normalization among ACs), followed by examining the expression patterns of
+regionally speciﬁc marker genes21 (see Supplementary Fig. 3). We did not analyze a
+relatively small number of midbrain astrocytes (i.e., small sample size compared to
+telencephalic and non-telencephalic astrocytes, whereby midbrain astrocytes con-
+stituted <1% of the total number of astrocytes sampled). To identify SMC subtypes,
+the CellAssign algorithm was employed34, using previously reported SMC subtype
+marker genes22 as prior (see Supplementary Fig. 5). For the vehicle-controlled
+dataset, three major cell types (EC, MG, and SMC) with sufﬁcient cell numbers
+underwent further differential expression analysis.
+Differential expression analysis. The Seurat FindMarkers function and the
+MAST package (v1.8.2) were employed for the calculation of differentially
+expressed genes (DEGs) with associated false discovery rate (FDR)-adjusted P-
+value and magnitude of change expressed in natural log of fold change (lnFC) for
+each cell type or subtype. We deﬁne signiﬁcant DEGs as those with FDR-adjusted
+P-value < 0.05.
+Transcriptomic reversal effect, pathway enrichment, and consistency of dif-
+ferential expressions analyses. For each cell type (or subtype) in the v3 kit-based
+or the v2 kit-based dataset10, the union of signiﬁcant DEGs in either or both the
+aged versus young adult group, and the exenatide-treated versus untreated aged
+group comparisons were included for transcriptomic reversal analysis. Proportions
+of genes with opposite directionality of changes (i.e., reversed), linear regression
+analysis with slope of line of best ﬁt, associated r2 and P-values were obtained.
+For pathway enrichment analysis of the reversed DEGs of a given cell type using
+the v3 kit-based dataset, DEGs with fold changes ranking within top 500 in both
+age-stratiﬁed and treatment-stratiﬁed comparisons and opposite directionality of
+changes were included (i.e., top reversed DEGs). Pathways with signiﬁcant
+enrichment were identiﬁed using the GeneAnalytics platform35. To examine the
+consistency of differential expressions across cell subtypes in the v3 kit-based
+dataset, for each pair of cell subtypes, the union of their signiﬁcant DEGs in a given
+comparison (i.e., age-stratiﬁed or treatment-stratiﬁed) were included. Linear
+regression analysis was then carried out with slope of line of best ﬁt, associated r2
+and P-values obtained.
+For the vehicle-controlled dataset, differential expressions with the associated
+lnFC and FDR-adjusted P-values were calculated for the top reversed DEGs
+(deﬁned above), and plotted against the lnFC from the aged vs. young adult mouse
+group comparison in the v3 kit-based dataset.
+Calculation of Alzheimer’s disease (AD)-associated microglia signature
+scores. For each single MG transcriptome, the AD-associated MG signature score
+was calculated using the AddModuleScore function in the Seurat package, as the
+average normalized expression levels of top 100 upregulated genes in AD-
+associated MGs20 subtracted by the aggregated expression of control feature sets1.
+Statistics and reproducibility. For the v3 kit-based dataset, we used three mice per
+group (young adult, aged and exenatide-treated aged groups) for the scRNA-seq
+experiments. For the vehicle-controlled dataset, we used three mice per group
+(vehicle-treated and exenatide-treated aged groups) for the scRNA-seq experiments.
+The statistical tests were performed in R (v3.6.1) as indicated at the respective places
+in the main text. We conﬁrmed reproducibility of the main ﬁndings with independent
+batches of experiments and datasets (see Supplementary Fig. 7).
+Reporting summary. Further information on research design is available in the Nature
+Research Reporting Summary linked to this article.
+Data availability
+Source data underlying Figs. 1–2 are presented in Supplementary Data 1. The single-cell
+RNA sequencing data presented in the main ﬁgures has been deposited at the Broad
+Institute Single Cell Portal and are accessible at the following URL: [https://singlecell.
+broadinstitute.org/single_cell/study/SCP1182/glp1ra-brain-aging-reversal]. The dataset
+reported in our previous study (Zhao et al.) is accessible at the following URL: [https://
+singlecell.broadinstitute.org/single_cell/study/SCP829/aging-mouse-brain-kolab]. All
+other data are available from the corresponding authors upon reasonable request.
+COMMUNICATIONS BIOLOGY | https://doi.org/10.1038/s42003-021-02208-9
+ARTICLE
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+5
+Code availability
+The R code for data analysis is available at GitHub at the following URL: [https://github.
+com/RichardLZQ/NVUB5_code].
+Received: 9 February 2021; Accepted: 11 May 2021;
+References
+1.
+Almanzar, N. et al. A single-cell transcriptomic atlas characterizes ageing
+tissues in the mouse. Nature 583, 590–595 (2020).
+2.
+Ximerakis, M. et al. Single-cell transcriptomic proﬁling of the aging mouse
+brain. Nat. Neurosci. 22, 1696–1708 (2019).
+3.
+Holt, M. K. et al. Preproglucagon neurons in the nucleus of the solitary tract
+are the main source of brain GLP-1, mediate stress-induced hypophagia, and
+limit unusually large intakes of food. Diabetes 68, 21–33 (2018).
+4.
+Cukierman-Yaffe, T. et al. Effect of dulaglutide on cognitive impairment in
+type 2 diabetes: an exploratory analysis of the REWIND trial. Lancet Neurol.
+19, 582–590 (2020).
+5.
+Brauer, R. et al. Diabetes medications and risk of Parkinson’s disease: a cohort
+study of patients with diabetes. Brain https://doi.org/10.1093/brain/awaa262.
+(2020).
+6.
+Gejl, M. et al. In Alzheimer’s disease, 6-month treatment with GLP-1 analog
+prevents decline of brain glucose metabolism: randomized, placebo-controlled,
+double-blind clinical trial. Front. Aging Neurosci. 8, 108 (2016).
+7.
+Athauda, D. et al. Exenatide once weekly versus placebo in Parkinson’s
+disease: a randomised, double-blind, placebo-controlled trial. Lancet 390,
+1664–1675 (2017).
+8.
+Cai, H.-Y. et al. Lixisenatide reduces amyloid plaques, neuroﬁbrillary tangles
+and neuroinﬂammation in an APP/PS1/tau mouse model of Alzheimer’s
+disease. Biochem. Biophys. Res. Commun. 495, 1034–1040 (2018).
+9.
+Yun, S. P. et al. Block of A1 astrocyte conversion by microglia is neuroprotective
+in models of Parkinson’s disease. Nat. Med. 24, 931–938 (2018).
+10. Zhao, L. et al. Pharmacologically reversible zonation-dependent endothelial
+cell transcriptomic changes with neurodegenerative disease associations in the
+aged brain. Nat. Commun. 11, 4413 (2020).
+11. Verbitsky, M. et al. Altered hippocampal transcript proﬁle accompanies an
+age-related spatial memory deﬁcit in mice. Learn Mem. 11, 253–260 (2004).
+12. Fiebre, N. C. de, Sumien, N., Forster, M. J. & Fiebre, C. M. de Spatial learning
+and psychomotor performance of C57BL/6 mice: age sensitivity and reliability
+of individual differences. Age 28, 235–253 (2006).
+13. Yang, W., Zhou, X. & Ma, T. Memory decline and behavioral inﬂexibility in
+aged mice are correlated with dysregulation of protein synthesis capacity.
+Front. Aging Neurosci. 11, 246 (2019).
+14. Hamieh, A. M., Camperos, E., Hernier, A. M. & Castagné, V. C57BL/6 mice as
+a preclinical model to study age-related cognitive deﬁcits: executive functions
+impairment and inter-individual differences. Brain Res. 1751, 147173 (2021).
+15. Salas, I. H., Burgado, J. & Allen, N. J. Glia: victims or villains of the aging
+brain? Neurobiol. Dis. 143, 105008 (2020).
+16. Park, L. et al. Age-dependent neurovascular dysfunction and damage in a
+mouse model of cerebral amyloid angiopathy. Stroke 45, 1815–1821 (2018).
+17. Boisvert, M. M., Erikson, G. A., Shokhirev, M. N. & Allen, N. J. The aging
+astrocyte transcriptome from multiple regions of the mouse brain. Cell Rep.
+22, 269–285 (2018).
+18. Hammond, T. R. et al. Single-cell RNA sequencing of microglia throughout
+the mouse lifespan and in the injured brain reveals complex cell-state changes.
+Immunity 50, 253–271.e6 (2019).
+19. Lloyd, A. F. & Miron, V. E. The pro-remyelination properties of microglia in
+the central nervous system. Nat. Rev. Neurol. https://doi.org/10.1038/s41582-
+019-0184-2. (2019).
+20. Keren-Shaul, H. et al. A unique microglia type associated with restricting
+development of Alzheimer’s disease. Cell 169, 1276–1290 (2017).
+21. Zeisel, A. et al. Molecular architecture of the mouse nervous system. Cell 174,
+999–1014 (2018).
+22. Vanlandewijck, M. et al. A molecular atlas of cell types and zonation in the
+brain vasculature. Nature 554, 475 (2018).
+23. Elmore, M. R. et al. Replacement of microglia in the aged brain reverses
+cognitive, synaptic, and neuronal deﬁcits in mice. Aging Cell 17, e12832 (2018).
+24. Cork, S. C. et al. Distribution and characterisation of Glucagon-like peptide-1
+receptor expressing cells in the mouse brain. Mol. Metab. 4, 718–731 (2015).
+25. Chen et al. Brain endothelial cells are exquisite sensors of age-related
+circulatory cues. Cell Rep. 30, 4418–4432 (2020).
+26. Greenhalgh, A. D., David, S. & Bennett, F. C. Immune cell regulation of glia
+during CNS injury and disease. Nat. Rev. Neurosci. 21, 139–152 (2020).
+27. Grifﬁth, D. A. et al. A small-molecule oral agonist of the human glucagon-like
+peptide-1 receptor. Biorxiv https://doi.org/10.1101/2020.09.29.319483. (2020).
+28. Kawai, T. et al. Structural basis for GLP-1 receptor activation by LY3502970,
+an orally active nonpeptide agonist. Proc. Natl Acad. Sci. 117, 29959–29967
+(2020).
+29. Zhao, P. et al. Activation of the GLP-1 receptor by a non-peptidic agonist.
+Nature 577, 1–5 (2020).
+30. Butler, A., Hoffman, P., Smibert, P., Papalexi, E. & Satija, R. Integrating single-
+cell transcriptomic data across different conditions, technologies, and species.
+Nat. Biotechnol. 36, 411–420 (2018).
+31. McInnes, L., Healy, J. & Melville, J. UMAP: uniform manifold approximation
+and projection for dimension reduction. Preprint at arxiv https://arxiv.org/
+1802.03426 (2018).
+32. Zhang, Y. et al. An RNA-sequencing transcriptome and splicing database of
+glia, neurons, and vascular cells of the cerebral cortex. J. Neurosci. 34, 11929
+(2014).
+33. Zeisel, A. et al. Brain structure. Cell types in the mouse cortex and
+hippocampus revealed by single-cell RNA-seq. Science 347, 1138–1142 (2015).
+34. Zhang, A. W. et al. Probabilistic cell-type assignment of single-cell RNA-seq
+for tumor microenvironment proﬁling. Nat Methods https://doi.org/10.1038/
+s41592-019-0529-1. (2019).
+35. Fuchs, S. et al. GeneAnalytics: an integrative gene set analysis tool for next
+generation sequencing, RNAseq and microarray data omics. J. Integr. Biol. 20,
+139–151 (2016).
+Acknowledgements
+We thank Dennis Lo and Rossa Chiu for generous support; Becky Yung, Florence Yau,
+Anki Miu, and Rebecca Chau for administrative support to the project. This work was
+funded by a Croucher Innovation Award (CIA20CU01) from the Croucher Foundation
+(H.K.); Faculty Innovation Awards (FIA2020/B/01 and FIA2017/B/01) from the Faculty
+of Medicine, CUHK (H.M.L. and H.K.); the Collaborative Research Fund (C6027-19GF)
+and the Area of Excellence Scheme (AoE/M-604/16) of the University Grants Committee
+of Hong Kong (H.K.).
+Author contributions
+Z.L., X.C., J.S.L.V., and L.Z. carried out the in vivo treatment and single-cell RNA
+sequencing experiments. L.Y.C.Y. assisted the experiments. Z.L. and X.C. analysed the
+data. J.H., B.I., Y.K.W., and H.M.L. contributed to data interpretation. Z.L., X.C., J.H.,
+H.M.L., V.C.T.M., and H.K. wrote the paper with input from all authors. All authors read
+and approved the ﬁnal manuscript.
+Competing interests
+C.U.H.K. ﬁled a patent application based partly on the discovery reported in the study.
+Z.L., X.C., J.S.L.V., L.Z., J.H., L.Y.C.Y., H.M.L., V.C.T.M., and H.K. are inventors on the
+patent. Exenatide used in the study was provided by AstraZeneca Hong Kong Limited.
+AstraZeneca Hong Kong Limited had otherwise no role in the funding, design, execution
+or data interpretation of the study. All other authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary material
+available at https://doi.org/10.1038/s42003-021-02208-9.
+Correspondence and requests for materials should be addressed to V.C.T.M. or H.K.
+Reprints and permission information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2021
+ARTICLE
+COMMUNICATIONS BIOLOGY | https://doi.org/10.1038/s42003-021-02208-9
+6
+COMMUNICATIONS BIOLOGY |  (2021) 4:656 | https://doi.org/10.1038/s42003-021-02208-9 | www.nature.com/commsbio
+

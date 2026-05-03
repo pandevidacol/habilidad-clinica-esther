@@ -1,0 +1,1153 @@
+# Psychiatry Research 337 (2024) 115951
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2024
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Interaction-of-serotonin-GLP-1-circuitry-in-a-dual-preclinical-model-for-psychiatric-disorders.pdf
+
+## Abstract / Summary
+Psychiatry Research 337 (2024) 115951
+Available online 8 May 2024
+0165-1781/Published by Elsevier B.V.
+Interaction of serotonin/GLP-1 circuitry in a dual preclinical model for 
+psychiatric disorders and metabolic dysfunction 
+Louis J. Kolling a, Kanza Khan b, Ruixiang Wang a, Samantha R. Pierson a, 
+Benjamin D. Hartman a, Nagalakshmi Balasubramanian a, Deng-Fu Guo a, Kamal Rahmouni a, 
+Catherine A. Marcinkiewcz a,* 
+a Department of Neuroscience and Pharmacology, University of Iowa, Iowa City, IA... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Psychiatry Research 337 (2024) 115951. 2024.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Psychiatry Research 337 (2024) 115951
+Available online 8 May 2024
+0165-1781/Published by Elsevier B.V.
+Interaction of serotonin/GLP-1 circuitry in a dual preclinical model for 
+psychiatric disorders and metabolic dysfunction 
+Louis J. Kolling a, Kanza Khan b, Ruixiang Wang a, Samantha R. Pierson a, 
+Benjamin D. Hartman a, Nagalakshmi Balasubramanian a, Deng-Fu Guo a, Kamal Rahmouni a, 
+Catherine A. Marcinkiewcz a,* 
+a Department of Neuroscience and Pharmacology, University of Iowa, Iowa City, IA, USA 
+b Psychological Sciences, Daemen University, Amherst, New York, USA   
+A R T I C L E  I N F O   
+Keywords: 
+5-HT 
+Semaglutide 
+PPG 
+Insulin 
+Diabetes 
+Adolescent isolation 
+POMC 
+Isolation stress 
+Depression 
+Anxiety 
+Pain 
+Social deficit 
+A B S T R A C T   
+Isolation of rodents throughout adolescence is known to induce many behavioral abnormalities which resemble 
+neuropsychiatric disorders. Separately, this paradigm has also been shown to induce long-term metabolic 
+changes consistent with a pre-diabetic state. Here, we investigate changes in central serotonin (5-HT) and 
+glucagon-like peptide 1 (GLP-1) neurobiology that dually accompany behavioral and metabolic outcomes 
+following social isolation stress throughout adolescence. We find that adolescent-isolation mice exhibit elevated 
+blood glucose levels, impaired peripheral insulin signaling, altered pancreatic function, and fattier body 
+composition without changes in bodyweight. These mice further exhibited disruptions in sleep and enhanced 
+nociception. Using bulk and spatial transcriptomic techniques, we observe broad changes in neural 5-HT, GLP-1, 
+and appetitive circuits. We find 5-HT neurons of adolescent-isolation mice to be more excitable, transcribe fewer 
+copies of Glp1r (mRNA; GLP-1 receptor), and demonstrate resistance to the inhibitory effects of the GLP-1R 
+agonist semaglutide on action potential thresholds. Surprisingly, we find that administration of semaglutide, 
+commonly prescribed to treat metabolic syndrome, induced deficits in social interaction in group-housed mice 
+and rescued social deficits in isolated mice. Overall, we find that central 5-HT circuitry may simultaneously 
+influence mental well-being and metabolic health in this model, via interactions with GLP-1 and proopiomela­
+nocortin circuitry.   
+1. Introduction 
+Isolation of rodents throughout and beyond the age of adolescence is 
+known to induce many behavioral abnormalities which resemble 
+neuropsychiatric disorders (Matsumoto et al., 2019). These include 
+depressive-like behaviors (Amiri et al., 2015; Du Preez et al., 2020; 
+Koike et al., 2009), anxiety behaviors (Amiri et al., 2015; Koike et al., 
+2009; Okada et al., 2015), and unsurprisingly, social deficits (Kercmar 
+et al., 2011; Lukkes et al., 2009; Okada et al., 2015). Therefore, many 
+investigators find adolescent isolation to be a suitable model to char­
+acterize the co-presentation of, as well as to explore potential thera­
+peutic interventions for these disorders (Grigoryan et al., 2022; 
+Matsumoto et al., 2019; Powell and Swerdlow, 2023; Weiss and Feldon, 
+2001). Somewhat separately, isolation of rodents throughout adoles­
+cence has also been shown to induce long-term metabolic changes. 
+These changes include impaired glucose homeostasis (Bove et al., 2022; 
+Vargas et al., 2016), dysregulated lipid metabolism (Vargas et al., 2016), 
+changes in appetitive behavior (Jahng, 2011; Ryu et al., 2008) and 
+orexigenic balance (Yamada et al., 2015), and increased body fat 
+without an overall change in body weight (Schiavone et al., 2017; Sun 
+et al., 2014). Taken together, these changes suggest the induction of a 
+metabolic syndrome consistent with a pre-diabetic state (Fonseca, 2009; 
+O’Brien et al., 2014). Interestingly, central serotonin (5-HT) circuitry 
+may simultaneously influence mental well-being and metabolic health 
+in this adolescent isolation model. 
+Central 5-HT is implicated in anxiety (Akimova et al., 2009; Karayol 
+et al., 2021; Lukkes et al., 2009), depression (Arango et al., 2001; 
+Haleem, 2013; Moncrieff et al., 2022; Nemeroff and Owens, 2009), 
+schizophrenia (Bleich et al., 1988; Eggers, 2013; Haleem, 2015; 
+Sumiyoshi et al., 2014), and social interaction behaviors (Ago et al., 
+* Corresponding author at: Department of Neuroscience and Pharmacology, University of Iowa, Iowa City, Iowa, USA. 
+E-mail address: Catherine-marcinkiewcz@uiowa.edu (C.A. Marcinkiewcz).  
+Contents lists available at ScienceDirect 
+Psychiatry Research 
+journal homepage: www.elsevier.com/locate/psychres 
+https://doi.org/10.1016/j.psychres.2024.115951 
+Received 2 November 2023; Received in revised form 10 February 2024; Accepted 4 May 2024   
+Psychiatry Research 337 (2024) 115951
+2
+2013; Dekeyne et al., 2000; Kane et al., 2012; Kiser et al., 2012). 5-HT is 
+also strongly implicated in metabolic dysfunction (Sakimura et al., 
+2018), particularly appetitive (D’Agostino et al., 2018; Heisler et al., 
+2006; Jean et al., 2007; Medeiros et al., 2005) and glycemic regulation 
+(Cai et al., 2022; Jhanwar-Uniyal et al., 1994; Otlivanchik et al., 2015). 
+Activation of the 5-HT2C receptor (5-HT2CR) in the nucleus tractus sol­
+itarius (NTS) reduces appetite (D’Agostino et al., 2018; Wagner et al., 
+2023), while genetic ablation of this receptor induces hyperglycemia 
+(Berglund et al., 2013). Preproglucagon (PPG) neurons of the NTS 
+(PPGNTS) produce an insulinotropic hormone known as glucagon-like 
+peptide-1 (GLP-1) (Holt et al., 2019), whose analogs are commonly 
+prescribed to combat early diabetes. Both central 5-HT and its 5-HT2AR 
+are necessary for the therapeutic action of GLP-1 (Anderberg et al., 
+2017). Reciprocally, activation of the GLP-1 receptor (GLP-1R) modu­
+lates the activity of 5-HT neurons, and, concomitantly, appetite 
+(Anderberg et al., 2017). This downstream appetitive regulation is 
+thought to occur via interactions with proopiomelanocortin (POMC) 
+neurons of the arcuate nucleus (POMCARC), where 5-HT and GLP-1 cir­
+cuitry again intersect (Aklan et al., 2020; D’Agostino et al., 2018; Heisler 
+et al., 2006; Sohn et al., 2011). Increased activation of POMCARC is 
+further implicated in depressive-like behavioral deficits (Fang et al., 
+2022). 
+Here, we investigate changes in central 5-HT and GLP-1 neurobi­
+ology that may dually accompany behavioral and metabolic outcomes 
+following social isolation stress during adolescence. We use an isolation 
+paradigm that extends beyond adolescence, to encompass various ap­
+proaches used across the existing literature (Medendorp et al., 2018). 
+We further investigate any differential effect of the GLP-1R agonist 
+semaglutide on 5-HT neurophysiology and social interaction behavior. 
+2. Methods 
+2.1. Ethical approval 
+All animal procedures were reviewed and approved by the University 
+of Iowa (UI) Office of Animal Resources (Protocol 1,032,080) that 
+abided by the AVMA and NIH. 
+2.2. Animals 
+Male C57BL/6 J mice (catalog #000664, Jackson Labs, Bar Harbor, 
+ME, USA; RRID:IMSR_JAX:000664) were purchased for arrival at P20, 
+shipped 5 mice per cage. At age P22, half of each cohort (i.e., 10 mice) 
+was moved to individual housing. A total of 140 mice were used. Female 
+mice were not included, because they have been reported to be resistant 
+to the early-adult onset of metabolic syndrome (Casimiro et al., 2021; 
+Daniels Gatward et al., 2021; Elzinga et al., 2021; Reynolds et al., 2019). 
+All mice were housed in a temperature- and humidity-controlled 
+AALAC-approved vivarium at UI on a standard 12 h/12 h dark/light 
+(reverse) cycle in accordance with institutional requirements. Mice were 
+housed in conventional-style cob-bedding rodent cages with nestlets, 
+containing separate food and water that could be obtained ad libitum. 
+Mice were maintained on chow that was composed of 14% kcal fat, 60% 
+kcal carbohydrate, and 26% kcal protein (Catalog #5P76; Land O’Lakes, 
+Arden Hills, MN, USA). 
+Mice were experimentally assessed in the following manner 
+following completion of the 8-week isolation or group-housed period. 
+Cohort 1: von Frey, 7 rest days, Hargreaves, 7 rest days, body compo­
+sition analysis, 3 rest days, open field assay, 3 rest days, brains used for 
+RT-qPCR. Cohort 2: insulin tolerance test, 5 rest days, glucose tolerance 
+test, 7 rest days, pAKT/AKT signaling assay. Cohort 3: plasma used for 
+ELISA (post-mortem collection), pancreata used for IHC/RNAscope, 
+brains used for RNAscope. Cohort 4: Promethion metabolic phenotyping 
+chambers. Cohort 5: electrophysiology assessment of semaglutide 
+modulation. Cohorts 6 & 7: social interaction testing, vehicle or sem­
+aglutide injection. 
+2.3. Metabolic assessments 
+2.3.1. Body composition analysis 
+Body composition was assessed in vivo using an EchoMRI machine 
+(EchoMRI LLC; RRID:SCR_017104) and manufacturer software. After 
+calibration of the machine, mice were assessed for fat mass, lean mass, 
+total water, and free water. 
+2.3.2. Promethion assessment 
+Mice were metabolically profiled using indirect calorimetry by the UI 
+Metabolic Phenotyping Core. Mice were housed in Promethion cages 
+(Sable Systems International, North Las Vegas, NV, USA) to determine 
+oxygen consumption (VO2), thermogenesis, respiratory exchange ratio 
+(RER), locomotor activity, and ingestive behavior. All data were recor­
+ded in 5 min intervals, with each interval measurement representing the 
+average value during a 30 s sampling period per cage. No data were 
+acquired during the first 3 d in the chambers to permit acclimation to the 
+environment, and then experimental data were computed for each light/ 
+dark phase over 24 h (Kolling et al., 2022). Time "0" reported for the 
+analyses represents the start of the dark or light cycle, respectively. 
+2.3.3. Glucose and insulin tolerance tests 
+Glucose tolerance tests were performed after an 18 h fast starting 
+from the beginning of the dark phase (Starks et al., 2015). After initial 
+determination of fasting blood glucose, 2 g/kg glucose was administered 
+intraperitoneally in PBS. Glucose levels were measured from tail blood 
+samples taken at 0 min (before injection), 15, 30, 60, and 120 min using 
+a OneTouch Ultra 2 blood glucose meter (LifeScan, Malvern, PA, USA). 
+Insulin tolerance tests were performed after a 5 h fast starting from the 
+beginning of the light phase. 1 U/kg insulin (Humulin R; Eli Lilly, 
+Indianapolis, IN, USA) was delivered intraperitoneally. Blood glucose 
+levels were measured from tail blood samples taken at 0 min (before 
+injection), 15, 30, 60 and 120 min using a OneTouch Ultra 2 blood 
+glucose meter. 
+2.3.4. P-AKT/AKT insulin signaling assay 
+Mice were fasted overnight, anesthetized with intraperitoneal in­
+jection of a ketamine-xylazine cocktail, then intravenously injected with 
+either vehicle (PBS) or insulin (2.5 U/kg body weight). 15 min after 
+injection, insulin-sensitive tissues (liver, skeletal muscle (gastrocne­
+mius), brown adipose tissue, and white adipose tissue) were harvested. 
+Proteins were extracted by homogenizing tissues in tissue lysate buffer 
+(supplementary methods). Protein samples (20 µg) were subjected to 
+SDS PAGE, electro-transferred on a polyvinylidene fluoride membrane, 
+then probed with primary antibodies (1:1000) targeting AKT (cat.#: 
+9272; Cell Signaling Technology, Danvers, MA, USA, RRID:AB_329,827) 
+and p-AKT(Ser473) (cat.#: 4060; Cell Signaling Technology, Danvers, 
+MA, USA, RRID:AB_2,315,049). Membranes were subsequently probed 
+with secondary antibody (1:10,000). As a loading control, β-actin was 
+targeted with primary antibody (1:25,000, cat#: 60,008–1-Ig; Pro­
+teintech, Rosemont, IL, USA) followed with secondary antibody 
+(1:10,000). Protein expression was visualized with an Amersham ECL 
+detection kit (Cytiva, Marlborough, MA, USA). 
+2.3.5. Plasma insulin ELISA 
+Plasma preparations were performed using a heparin-free method. 
+Plate-based sandwich ELISAs were performed for insulin (1:4 dilution, 
+RayBiotech, cat# ELM-Insulin-1) in duplicate, and plates were analyzed 
+using a BioTek Cytation 5 Imaging Reader (RRID:SCR_019732). 
+2.3.6. Pancreatic immunohistochemistry 
+Pancreata were embedded in paraffin, sectioned at 5 µm, stained 
+with hematoxylin, and chromogenically stained for either insulin or 
+glucagon. Images of pancreata were acquired using an Olympus VS200 
+slide scanner in the brightfield configuration at 20X. Images were 
+analyzed using FIJI software, based on an approach adapted from 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+3
+Poudel et al. (2016). Islets were morphologically and histologically 
+identified as encapsulated areas devoid of hematoxylin staining and 
+blood cells. The total islet area per pancreas and the percentage of islet 
+area that was immunopositive for insulin or glucagon stain was 
+calculated. 
+2.4. Behavioral assessments 
+All behavior tests took place after roughly 8 weeks of isolation or 
+group housing. Mice were given at least 1 “rest day” between behavior 
+tests. 
+2.4.1. Open field test 
+Mice were placed in the corner of a 50×50×25 cm plexiglass arena 
+(20 lux) and allowed to freely explore the arena for 30 min. The assay 
+was recorded using an overhead camera, and the total distance traveled 
+(cm), time spent in the center of the arena, and time spent in the corners 
+of the arena were quantified using Ethovision XT14 (Noldus, Leesburg, 
+VA, USA). “Center” was defined as the central 15 % of the arena. 
+2.4.2. Von Frey 
+The von Frey test was performed as previously described (Khan et al., 
+2023). Briefly, mice were placed in a clear acrylic box (10×10×15 cm) 
+and placed on the test apparatus. The test apparatus consisted of a raised 
+wire mesh platform (holes were 5×5 mm). Mice were allowed to accli­
+mate to the acrylic box and test apparatus for three h on two consecutive 
+days. Mechanical sensitivity was evaluated by applying von Frey fila­
+ments (Stoelting, Wood Dale, IL, USA) of varying strengths to the plantar 
+surface of each hind paw. The number of responses out of 5 applications, 
+per filament per paw, was recorded and used to calculate the 50 % 
+withdrawal threshold. 
+2.4.3. Hargreaves 
+Mice were allowed to acclimate in a clear acrylic box (10×10×15 
+cm) on the test apparatus for at least 3 h on 2 consecutive days prior to 
+testing. The test apparatus consisted of a heated base (Model 400; IITC 
+Life Science, Woodland Hills, CA, USA) with temperature maintained at 
+30º C. Thermal sensitivity was evaluated by focusing a heat-generating 
+light beam onto the plantar surface of each hind paw. The time 
+required to evoke a paw withdrawal was recorded 3 times per paw and 
+averaged to calculate the paw withdrawal latency. 
+2.4.4. Social interaction test 
+Mice were given a subcutaneous injection of 0.1 mg/kg semaglutide 
+(AstaTech, Bristol, PA, USA) or vehicle (sterile saline) 60 min before the 
+beginning of the social interaction test, which was performed as previ­
+ously described (Khan et al., 2023). Briefly, the animal was placed in the 
+central chamber of a 3-chamber arena (20 lux) and allowed to explore 
+the environment for 10 min. Following this, a novel C57BL/6 J mouse 
+(“stranger mouse”) of the same sex and relative age as the test mouse 
+was placed into one of the side chambers under a metal enclosure. An 
+empty metal enclosure was placed in the alternate side chamber. The 
+test mouse was allowed to explore the environment and interact with the 
+stranger mouse for 10 min. The location of the stranger mouse was 
+alternated between the right and left chambers to control for any po­
+tential side preferences. Behavior was recorded by an overhead camera 
+and scored by a researcher blinded to experimental groups. The total 
+time spent interacting with the stranger mouse or with the novel object 
+(empty enclosure) was analyzed over a 10 min period for each trial, 3 
+trials per mouse in total. Ethovision software was used to calculate lo­
+comotor distance (with manual validation) and generate representative 
+heat maps. 
+2.5. RT-qPCR 
+Brains were flash-frozen −80 ◦C until dissection of brain regions was 
+performed. Total RNA from each dissected region was extracted using a 
+TRIzol reagent (Ambion, Life Technologies, USA) as described previ­
+ously (Balasubramanian et al., 2022). DNAse digestion was performed 
+using a DNA-free™ DNA Removal Kit (Life Technologies, USA). The 
+purity and quantity of RNA were determined using a NanoDrop 1000 
+spectrophotometer (Thermo Fisher Scientific, USA). cDNA preparation 
+of total mRNA was performed using the iScript cDNA Synthesis Kit 
+(Bio-Rad Laboratories, CA, USA) according to the manufacturer’s pro­
+tocol. RT-qPCR for target genes was performed using SYBR green qPCR 
+master mix (Bio-Rad Laboratories, USA) and primers (Supplementary 
+Table 1) with a CFX96 Real-time-PCR system (Bio-Rad Laboratories, 
+USA). Fold changes in mRNA levels were determined for each gene after 
+normalizing to β-actin Ct values using the fold change 2−ΔΔCT method 
+(Schmittgen and Livak, 2008). 
+2.6. In-situ hybridization in mouse tissue (RNAscope) 
+Pancreata were embedded in paraffin and sectioned at 5 µm. Brain 
+tissue was sectioned at 35 µm coronally. All sections were mounted on 
+histobond glass slides. RNAscope was performed according to the 
+ACDbio manufacturer’s protocol using commercially-available probes 
+(Supplementary Table 2), modified as in Croze et al. (2021). Images 
+were acquired on an Olympus VS200 slidescanner at 20X. RNAscope 
+analysis was performed using Qu-Path software (0.4.3) in accordance 
+with the protocol outlined in Secci et al. (2023). Validation of the sub­
+cellular detection algorithm was performed using manual puncta counts 
+as suggested by the developer. Subcellular detection parameters were 
+adjusted until the algorithm count was found to be within 5 % of the 
+manually-counted value, bounding a linear range from single cell to 
+anatomical region. This validation was performed once for each exper­
+imental group within each anatomical region of interest. 
+2.7. Electrophysiology 
+2.7.1. Brain slice preparation 
+The procedure has been described in detail previously (Khan et al., 
+2023). Briefly, deeply anesthetized mice were transcardially perfused 
+with ice-cold oxygenated modified artificial cerebrospinal fluid. Brains 
+were quickly dissected, and coronal slices containing the dorsal raphe 
+nucleus (DRN, 300 μm) were obtained using a vibratome (VT1200S; 
+Leica Biosystems, Wetzlar, Germany). 
+2.7.2. Ex vivo electrophysiological recordings 
+Neurons were visualized using an upright microscope (BX51W1; 
+Olympus, Tokyo, Japan) accompanied by a differential interference 
+contrast imaging system. Membrane currents were amplified with a 
+Multiclamp 700B amplifier (Molecular Devices, San Jose, CA, USA), 
+filtered at 3 kHz, and sampled at 20 kHz with a Digidata 1550B digitizer 
+(Molecular Devices). Data were acquired via pClamp 11 software (Mo­
+lecular Devices). Access resistance was monitored and changes greater 
+than 20 % would lead to discontinuation of the recordings. 
+After establishing a whole-cell configuration, cells were first sampled 
+for proper access resistance (less than 40 MΩ) prior to initiating a series 
+of current-clamp recordings. Cells were held at −55 mV between pulses 
+to compare data across cells. Peri-threshold current levels were deter­
+mined by incrementally injecting a family of current pulses of 1000 ms 
+duration. Current was injected every 10 s and was stepped in 10 pA 
+increments from −100 pA to 200 pA to obtain action potential charac­
+teristics and current-dependence data. Following the determination of 
+spike threshold, cells were stimulated with 10 super-threshold sweeps 
+using a Pd of 5000 ms every 10 s to acquire latency data. After acquiring 
+baseline recordings, 1 µM semaglutide was added to the bath solution 
+and allowed to wash over the slice for a period of 10 min. Recordings 
+were then repeated for within-cell comparisons. No washout recordings 
+were performed due to the slow koff of semaglutide (> 35 min). 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+4
+2.8. Experimental design and statistical analyses 
+Data analyses and statistical tests were performed using Prism 
+version 10 (GraphPad Software, Inc., La Jolla, CA, USA; RRID: 
+SCR_002798). Outliers were first determined using a ROUT test (Q = 1 
+%). Data were then checked for normal distribution and homogeneity of 
+variance using the Fmax test. Where data violated homogeneity of 
+variance, a non-parametric analysis was used. 
+1-dimensional plots (violin plots) report individual data points with 
+median (garnet) and quartile (black) bars. Data shown in 2-dimensional 
+plots are reported as the mean ± SEM. Statistical difference was defined 
+at α < 0.05, and all statistical tests used a two-tailed hypothesis. Exact p 
+values, statistical tests, and specific variables required for independent 
+replication are found in the Statistical Summary Table. 
+3. Results 
+3.1. Adolescent isolation alters body composition, ingestive behavior, and 
+glucose homeostasis 
+After weaning to group-housed or isolated caging (age P22), mice 
+were maintained for a period of 8 weeks (to P78) before performing 
+behavioral or physiological assessments. While adolescent isolation does 
+not alter body weight (Fig. 1A), we observed changes in lean tissue mass 
+(*p = 0.0463) and free body fluid (*p = 0.0174) with a trend toward 
+increased body fat (Fig. 1B-D). Adolescent-isolation mice consume more 
+chow during the dark phase only (*p = 0.0232, Fig. 1E), with no change 
+in water consumption during either dark or light phase (Fig. 1G-H). 
+Using Promethion metabolic phenotyping chambers, we observed no 
+overall changed in the whole-animal metabolic measures of oxygen 
+Fig. 1. Body composition, ingestive behaviors, and metabolism. A: Violin plot comparison of body weights between group-housed mice (Group; black circles) and 
+adolescent-isolation mice (Isolation; blue squares) after 8-week challenge. B-D: Comparison of fat tissue (B), lean tissue (C), and free body fluid (D) as assessed by 
+EchoMRI. E-N assessed using Promethion metabolic phenotyping cages, mice singly-housed for assessment. E-F: Total food intake per mouse over a 12-hour dark 
+phase (E) or light phase (F). G-H: Same as E-F, but water intake. I: 24-hour plot of relative oxygen consumption (VO2), with (J) integrated area under the curve 
+(iAUC) separated by dark (left) and light (right) phase. K-L: Same as I-J, but for thermogenesis as determined using indirect calorimetry. M-N: Same as I-J, but for 
+respiratory exchange ratio (RER; VO2/VCO2). *p < 0.05. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+5
+consumption, thermogenesis, or respiratory exchange ratio (Fig. 1I-N). 
+This indicated that the change in body composition was likely due to 
+hyperphagia. 
+We next performed an intraperitoneal glucose tolerance test (GTT). A 
+2-way mixed model with repeated measures (2w-ANOVA) revealed a 
+main effect of housing (*p = 0.0113, F (1, 18) = 7.970), and a housing x 
+time interaction (**p = 0.0055, F (4, 72) = 3.999, Fig. 2A). iAUC was 
+larger in group-housed mice when corrected for baseline levels (*p =
+0.0227, Fig. 2B). Interestingly, adolescent-isolation mice demonstrated 
+higher fasted blood glucose levels versus group-housed mice (****p <
+0.0001, Fig. 2C). During performance of an intraperitoneal insulin 
+tolerance test (ITT), 2w-ANOVA revealed a non-significant trend toward 
+a main effect of housing (p = 0.0594, Fig. 2D). iAUC was not different 
+between groups, however, we found glucose clearance within the first 
+15 min of the ITT to be larger in magnitude in adolescent-isolation mice 
+(**p = 0.0055, Fig. 2F). To investigate peripheral insulin signaling, we 
+performed western blot to determine the ratio of phosphorylated AKT 
+(phosphorylated protein kinase B; P-AKT) to unmodified AKT in various 
+tissues. In skeletal muscle, 1-way ANOVA (1w-ANOVA) revealed that 
+adolescent-isolation mice had a lower P-AKT/AKT ratio in response to 
+Fig. 2. Glucose homeostasis, insulin signaling, and pancreatic function. A: Blood glucose levels in response to intraperitoneal injection of glucose (glucose tolerance 
+test, GTT), with (B) iAUC. C: Comparison of fasted blood glucose levels. D-E: Same as A-B, but following intraperitoneal injection of insulin (insulin tolerance test, 
+ITT). F: Comparison of blood glucose slopes from baseline (t0) to 15 min post-injection (t1). G-K: Insulin signaling in various tissue types as determined by AKT 
+signaling. Two animals per treatment (insulin (Ins) or vehicle (Veh) injection) from each housing condition were blotted for phosphorylated AKT (P-AKT) or base 
+state AKT (blots). Corresponding graphs plotting the ratio of P-AKT/AKT as determined using quantitative densitometry for liver (H), skeletal muscle (I), brown 
+adipose tissue (BAT, J) and white adipose tissue (WAT, K). L-O: Immunohistochemical assessment of insulin and glucagon production in pancreata. L: Representative 
+brightfield images of pancreata immunolabeled (brown) for insulin in group-housed (left) and adolescent-isolation (right). M: Pixels immunopositive for insulin as a 
+percentage of total islet area. N: Same as M, but for glucagon. O: Total islet area per pancreas section. P-S: RNAscope assessment of relevant genes in pancreata. P: 
+Representative images for pancreata labeled with in situ probes for Ins2 (insulin, cyan), Gcg (glucagon, yellow), and Sst (somatostatin, magenta) for group-housed 
+(left) and adolescent-isolation (right). Q: Sst/Ins2 ratio across averaged across entire pancreatic sections. R: Same, but Sst/Gcg ratio. S: Comparison of fast 
+plasma insulin levels as assessed by ELISA. *p < 0.05, **p < 0.01, ****p < 0.0001. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+6
+insulin injection than group-housed mice (****p = 0.0001, F (3, 15) =
+46.29, Fig. 2I). Quantitative densitometry determined that the amount 
+of total AKT could not account for this difference, as it was found to be 
+higher in group-housed insulin-injected mice versus adolescent-isolation 
+insulin-injected mice when normalized to β-actin loading controls (**p 
+= 0.0029, Fig. 2G, purple annotation). We further used IHC and RNA­
+scope to characterize relevant pancreatic function. In adolescent- 
+isolation mice, we found less immune-positive area for insulin as a 
+percentage of total islet area (*p = 0.0211, Fig. 2M). Using RNAscope, 
+we profiled transcription levels for Ins2 (insulin), Gcg (glucagon), and Sst 
+(somatostatin). In pancreata, somatostatin inhibits the secretion of in­
+sulin and glucagon. We found the Sst/Ins2 ratio to be diminished in 
+adolescent-isolation mice (*p = 0.0434, Fig. 2Q) without an apparent 
+change in the Sst/Gcg ratio, suggesting an increase in relative Ins2 
+transcription levels. Interestingly, an ELISA assessment of plasma insulin 
+found no difference between group-housed and adolescent-isolation 
+mice (Fig. 2S). 
+3.2. Adolescent isolation affects sleep, locomotion, and pain sensitivity 
+Using Promethion metabolic phenotyping chambers, we examined 
+locomotion and sleep behaviors in a home cage environment. We 
+observed no difference in locomotion (Fig. 3A-B), with a reduction in 
+time spent asleep during the light phase only (*p = 0.0288, Fig. 3D). We 
+then performed an open field assay, and found that adolescent-isolation 
+mice traveled less distance throughout the test (Fig. 3E,H,J) without an 
+apparent change in time spent in the center (Fig. 3F,I,L) or corners of the 
+arena (Fig. 3G,J,M). We further found no change in time spent in the 
+center or corners of the arena when data were analyzed in a time- 
+dependent manner (comparisons not shown). 
+Adolescent isolation has been shown to increase mechanical pain 
+thresholds, without affecting thermal sensitivity in ddY and CFW mouse 
+strains (Horiguchi et al., 2013; Konecka and Sroczynska, 2008). Using a 
+Von Frey assessment, we observed a decrease in mechanical pain 
+thresholds in adolescent-isolation C57 mice as compared to 
+group-housed controls. 2w-ANOVA revealed a housing x filament 
+interaction (*p =
+0.0193, F (8, 144) =
+2.384, Fig. 4A). 
+Adolescent-isolation further showed a shallower average slope across 
+Fig. 3. Locomotion, sleep, and anxiety-like behavior. A-D assessed using Promethion metabolic phenotyping cages, mice singly-housed for assessment. A-B: Total 
+locomotor distance throughout dark phase (A) and light phase (B). C-D: Total time spent asleep during dark phase (C) and light phase (D). E-M: Open field assay. E-G: 
+Total distance traveled (E), time spent in center of the arena (F), and time spent in corners of the arena (G) as determined by Ethovision software over the first 10 min 
+of the test. H-J: Same as E-G, but for the first 20 min of the test. K-M: Same as E-G, but for all 30 min of the test. *p < 0.05, **p < 0.01, ***p < 0.001. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+7
+filament gauges (*p = 0.0235, Fig. 4B), and may have a reduction in 50 
+% withdrawal threshold (p = 0.0503, Fig. 4C) We observed no difference 
+in thermal sensitivity by measuring paw withdrawal time during a 
+Hargreaves test (Fig. 4D). 
+3.3. Adolescent isolation induces transcriptional changes in neural 5-HT, 
+GLP-1, and appetitive circuits 
+To probe changes in neural gene expression that could accompany 
+the phenotypic changes observed in adolescent-isolation mice, we used 
+RT-qPCR to examine the olfactory bulb (OB), arcuate nucleus and 
+ventromedial hypothalamus (ARC/VMH), suprachiasmatic nucleus 
+(SCN), lateral hypothalamic area (LHA), periaqueductal grey (PAG), 
+laterodorsal tegmental nucleus (LDT), and rostral ventromedial medulla 
+(RVM). These regions were selected for their known roles in eating 
+behavior, regulation of circadian behaviors, and nociception. We 
+observed broad transcriptional changes in 5-HT-related genes (Slc6a4, 
+Htr1a, Htr2c), insulinotropic genes (Gcg, Insr, Glp1r), and appetitive 
+genes (Faah, Cnr1, Cart1, Hcrt) (Fig. 5). 
+We next used RNAscope to spatially determine differences in the 
+transcription of genes associated with the 5-HT, GLP-1, and POMC cir­
+cuitry. In 5-HT neurons of the raphe nuclei (5-HTRN), these included 
+Tph2 (which regulates 5-HT production) and Glp1r (GLP-1R) (Fig. 6A). 
+Activation of GLP-1R can increase the activity of 5-HTRN, modulating 
+appetite (Anderberg et al., 2017). We first profiled several raphe nuclei 
+separately for the number of in situ Glp1r mRNA spots per Tph2-positive 
+cell, then pooled relevant raphe nuclei together. We found no change in 
+the relative percentage of Tph2-positive cells that expressed Glp1r, 
+within each or across all raphe nuclei, respectively (Fig. 6D-E). We found 
+that 5-HTB9 of adolescent-isolation mice transcribed fewer copies of 
+Glp1r compared to group-housed mice (*p = 0.0227), and this held true 
+across all raphe nuclei pooled together (*p = 0.0447) (Fig. 6F-G). 
+In PPGNTS, we spatially profiled transcription of Gcg (GLP-1), Htr1a 
+(5-HT1AR), and Htr2c (5-HT2CR) (Fig. 6B). Activation of 5-HT1AR is 
+known to inhibit PPGNTS, and activation of 5-HT2CR is known to excite 
+them (Holt et al., 2017). We found no change in the relative percentage 
+of PPGNTS that expressed either Htr1a, Htr2c, or both (Fig. 6H). PPGNTS 
+of adolescent-isolation mice trended toward increased Gcg transcription 
+(p = 0.0624), while exhibiting a decrease in Htr1a (*p = 0.0227), and no 
+change in Htr2c (Fig. 6I). In the hypothalamus, POMCARC are a potent 
+inhibitor of appetitive drive and represent an intersection of 5-HT and 
+GLP-1 circuitry. Herein, we first spatially profiled the transcription of 
+Pomc (POMC), Htr2c, and Fos (c-Fos) to infer basal activation of POM­
+CARC (Fig. 6C). We found that more Fos-negative POMCARC expressed 
+Htr2c in adolescent-isolation mice, with no apparent change in the 
+overall percentage of Fos-positive POMCARC (Fig. 6J). To complement 
+this, we further profiled the transcription levels of Glp1r and Htr2c. 
+POMCARC of adolescent-isolation mice exhibited an increase in Glp1r 
+transcription (**p = 0.0045, Fig. 6K) with no change in Htr2c puncta per 
+neuron (Fig. 6L). These findings align with those found using RT-qPCR 
+of brain punches (Fig. 5). 
+3.4. 5-HT neurons of isolated mice are resistant to the glp-1r agonist 
+semaglutide, which rescues deficits in social interaction 
+Since we discovered reduced levels of Glp1r in the 5-HTRN of 
+adolescent-isolation mice (Fig. 6), we sought to determine the effects of 
+the GLP-1R agonist semaglutide on neuronal physiology. We first used 
+ex vivo electrophysiology in the whole-cell configuration to profile 
+evoked and innate properties of 5-HT neurons in the dorsal raphe nu­
+cleus (5-HTDRN). To profile the electrical activity of 5-HT circuitry, we 
+blocked GABAergic and glutamatergic transmission while leaving 5-HT 
+transmission intact. A 2w-ANOVA revealed that the 5-HTDRN of 
+adolescent-isolation mice exhibited higher action potential frequency 
+(*p = 0.0170, F (1, 462) = 5.736, Fig. 7A), and shorter interspike in­
+terval across current stimuli (****p < 0.0001, F (1, 440) = 18.01, 
+Fig. 7B). Though baseline rheobase (a measure of excitability) did not 
+differ between groups, 2w-ANOVA revealed that bath application of 1 
+µM semaglutide affected this property in only 5-HTDRN of group-housed 
+mice (*p = 0.0456, F (1, 21) = 4.518, Fig. 7D). A housing x drug 
+interaction was also observed (*p = 0.0269, F (1, 21) = 5.665). This 
+suggests that the loss of Glp1r in adolescent-isolation 5-HTDRN (Fig. 7B) 
+Fig. 4. Mechanical and thermal pain sensitivity. A-C: Von Frey test. A: Percent response throughout a von Frey test, plungers represent SEM. B: Comparison of 
+average slope between filaments. C: 50 % withdrawal threshold as determined using the Chaplain up-down method. D: Hargreaves test comparing thermal paw 
+withdrawal latency for both paws averaged. *p < 0.05. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+8
+may render them resistant to some effects of semaglutide. Semaglutide 
+reduced the overall action potential frequency of 5-HTDRN in both con­
+ditions (Group: ****p < 0.0001; Isolation: **p = 0.0066) without an 
+interaction effect of housing (3-way ANOVA; current x housing x drug 
+interaction p = 0.9846, Fig. 7E). Interestingly, the effect size of sem­
+aglutide on frequency was notably smaller in 5-HTDRN of adolescent- 
+isolation mice (Group: 30.41, Isolation: 7.459). Lastly, we categorized 
+the individual within-cell effects of semaglutide on normalized metrics 
+of frequency (Fig. 7F), interspike interval (Fig. 7G), and latency to first 
+spike (Fig. 7H). We find the 5-HTDRN to be highly heterogenous in their 
+responses to semaglutide, with no apparent up- or down-regulation bias 
+aligning with housing condition (2w-ANOVA; Frequency: p = 0.2189; 
+Interspike Interval: p = 0.5985; Latency to First Spike: p = 0.9603). 
+Though our findings suggest that adolescent-isolation 5-HTDRN are 
+resistant to semaglutide (Fig. 6D-G, Fig. 7D-E), other brain areas rele­
+vant to social interaction behaviors (Fang et al., 2022; Krzywkowski 
+et al., 2020; Lo et al., 2019) exhibited an increase in Glp1r, specifically 
+the arcuate nucleus of the hypothalamus (Fig. 5B, Fig. 6K). We therefore 
+injected mice with 0.1 mg/kg semaglutide or vehicle (sterile saline) 60 
+min prior to the commencement of a 3-chamber social interaction test to 
+explore any differential effects on sociability. Since adolescent-isolation 
+mice exhibited hypolocomotive activity during the open field assay 
+(Fig. 3K), we first assessed the total distance traveled during the task. A 
+2w-ANOVA revealed a main effect of drug (***p = 0.0003, F = (1, 36) =
+16.08, Fig. 8B), with semaglutide reducing locomotor activity in only 
+adolescent-isolation mice (**p = 0.0016). No difference was observed in 
+vehicle-injected mice across housing conditions. We next assessed the 
+number of entrances per chamber, with a 3w-ANOVA revealing a 
+housing x drug x chamber interaction (*p = 0.0267, F (0.6676, 5.340) =
+10.29, Fig. 8C). Interestingly, Tukey’s multiple comparison test found 
+that semaglutide reduced the number of entrances to the social chamber 
+in group-housed mice (*p = 0.0229), while also reducing the number of 
+Fig. 5. RT-qPCR of target genes. Relative changes in transcription are in adolescent-isolation mice (Isolation) compared to group-housed mice (Group) separated by 
+olfactory bulb (OB, A), arcuate nucleus with ventromedial hypothalamus (ARC/VMH, B), lateral hypothalamic area (LHA, C), periaqueductal grey (PAG, D), lat­
+erodorsal tegmental nucleus (LDT, E), and rostral ventromedial medulla (RVM, F). G: Color-coded heat map denoting fold change for all assessed genes. *p < 0.05, 
+**p < 0.01, ***p < 0.001, ****p < 0.0001. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+9
+entrances to the empty chamber in adolescent-isolation mice (*p =
+0.0454). A 3w-ANOVA further revealed a housing x drug x chamber 
+interaction for total time spent in either the social or empty chambers 
+(**p = 0.0032, F (1, 9) = 15.84, Fig. 8D). Compared to vehicle-injected 
+group-housed mice, Tukey’s multiple comparisons test demonstrated 
+social deficits in both semaglutide-injected group-housed mice (*p =
+0.270) and vehicle-injected adolescent-isolation mice (*p = 0.0237), but 
+not in semaglutide-injected adolescent-isolation mice (p > 0.9999), 
+suggesting a housing-dependent effect of semaglutide injection- sup­
+pressing sociability in group-housed mice, and enhancing sociability in 
+adolescent-isolation mice. Given that semaglutide did not affect the 
+locomotion of group-housed mice (Fig. 8B), it is unlikely that differences 
+in locomotor activity could account for the observed differential 
+housing-dependent effects of semaglutide on social interaction. 
+4. Discussion 
+4.1. Summary of key findings 
+Isolation of rodents throughout adolescence has long been used as an 
+experimental paradigm to study neuropsychiatric disorders. Herein, we 
+report that much of the affected central circuitry may dually influence 
+mental well-being and metabolic health. This circuitry includes the 
+neural 5-HT, GLP-1, POMC and endocannabinoid systems. We further 
+report reciprocal changes in receptor expression within the DRN–NTS 
+circuit, and changes in receptor expression at their point of convergence 
+Fig. 6. Spatial transcriptomic assessment of raphe nuclei, nucleus tractus solitarius (NTS), and arcuate nucleus (ARC) using RNAscope. A: Coronal sections con­
+taining B9 5-HT neurons (5-HTNs) and median raphe nucleus (MRN) (left) or dorsal raphe nucleus (DRN) and raphe magnus (RM) (right) labeled with in situ probes 
+for Tph2 (green) and Glp1r (magenta), (inset, left). B: Coronal section containing PPG neurons (PPGNs) of the NTS labeled with in situ probes for Gcg (green), Htr1a 
+(cyan) and Htr2c (magenta). C: Coronal section of the ARC containing POMC neurons (POMCNs) labeled with Pomc (green), Htr2c (cyan) and Fos (magenta). D: 
+Percentage of Tph2-positive cells within each serotonergic nucleus without or with co-labeling of Glp1r. E: Same as D, but combined across all sampled nuclei. F: 
+Quantitation of in situ probe spots per Tph2-positive cell, separated by serotonergic nucleus. Each data point represents the mean across an entire tissue section. G: 
+Same as F, but combined across all sampled nuclei. H: Percentage of Gcg-positive cells without co-labeling (Gcg only) or with co-labeling of Htr1a, Htr2c, or both. I: 
+Quantitation of in situ probe spots per Gcg-positive cell. J: Percentage of Pomc-positive cells without co-labeling (Pomc only) or with co-labeling of Fos, Htr2c, or both. 
+K: Quantitation of in situ Glp1r probe spots per Pomc-positive cell. L: Same, but for Htr2c. *p < 0.05, **p < 0.01. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+10
+in the hypothalamus. Most interestingly, we report that the GLP-1R 
+agonist semaglutide, commonly prescribed for the treatment of type 2 
+diabetes, was sufficient to differentially affect social interaction. This is 
+especially interesting since semaglutide is not known to cross the blood 
+brain barrier (Salameh et al., 2020), but rather directly accesses GLP-1Rs 
+on the brainstem and hypothalamus (Gabery et al., 2020). The neural 
+circuitry discussed in this report may underlie the central action of 
+GLP-1 analogues, separate from effects mediated by the gut-brain axis. 
+These findings elevate the role of neural GLP-1, often overshadowed by 
+its peripherally-produced counterpart, and suggest a role for central 
+serotonin circuitry in its action. 
+4.2. Preclinical models 
+Though reduction of Glp1r rendered 5-HTDRN resistant to 
+semaglutide, the drug was still sufficient to rescue social interaction 
+behavior (Fig. 8), a deficit commonly attributed to 5-HT function. 5-HT 
+and GLP-1 circuitries separately converge onto POMCARC, which express 
+5-HT2CR and GLP-1R. Our finding of increased Glp1r in POMCARC 
+(Fig. 6K) may underlie chronic housing-dependent activation of these 
+neurons (Fang et al., 2022), accounting for this rescuable deficit in social 
+interaction (Fig. 8C,F). However, this circuitry does not explain the 
+hyperphagic/obesogenic phenotype commonly observed in this para­
+digm (Figs. 1,2). Interestingly, we observed increased Hcrt in the 
+ARC/VMH of adolescent-isolation mice (Fig. 5B). Orexin is known to 
+directly activate 5-HTDRN, which then reciprocally projects to orexin 
+neurons to suppress their activity (Liu et al., 2002). Our findings suggest 
+a loss of serotonin-mediated inhibition of orexin neurons, com­
+plementing previous reports of hyperactive AGRP neurons in hyper­
+phagic adolescent-isolation mice (Yamada et al., 2015). Despite this, 
+Fig. 7. Electrophysiological assessment of putative 5-HT neurons, as assessed via whole-cell access. A: Comparison of action potential frequency across a range of 
+electrical stimuli. B: Interspike interval across the same range of electrical stimuli as in A. C: Representative recordings for a pair of cells across electrical stimuli. D: 
+Comparison of rheobase before and after bath application of 1 µM semaglutide. E: Two-way plots demonstrating the effect of 1 µM semaglutide on action potential 
+frequency of 5-HT neurons from group-housed mice (left) and adolescent-isolation mice (right). Remaining 3-way ANOVA comparison is shown above. F-H: 
+Normalized plots showing relative changes in action potential frequency (F), interspike interval (G), and latency to first spike (H) at suprathreshold current before 
+and after semaglutide application. *p < 0.05, **p < 0.01, ****p < 0.0001. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+11
+basal Fos levels within POMC neurons did not differ between groups 
+(Fig. 6J). This finding suggests the involvement of other neural circuitry, 
+possibly including joint modulation of olfactory neurons by serotonin 
+and locally-produced GLP-1 (Huang et al., 2021, 2017; Thiebaud et al., 
+2019). 
+Though 
+we 
+observed 
+reduced 
+Gcg 
+in 
+the 
+OB 
+of 
+adolescent-isolation mice, the involvement of olfactory circuitry is 
+beyond the scope of this report. 
+Limited data demonstrate that GLP-1R agonists are sufficient to in­
+crease 5-HT activity at the single-cell level, without broadly profiling 
+these effects on full data sets (Anderberg et al., 2017). 5-HT nuclei are 
+subject to de facto lateral inhibition, wherein activation of the 5-HT1AR 
+on 5-HT neurons is sufficient to reduce their activity (Quentin et al., 
+2018). Accordingly, we find that the GLP-1 analog semaglutide sup­
+pressed the activity of most 5-HTDRN when 5-HT transmission was left 
+intact, despite pharmacological block of glutamatergic and GABAergic 
+transmission. This suggests a heterogenous population of 5-HT neurons 
+within the DRN that do not uniformly express 5-HT1AR and GLP-1R. In 
+seeming opposition to our findings, other groups have reported 
+decreased 5-HTDRN activity following isolation throughout adolescence 
+(Sargin et al., 2016). However, this investigation was performed using 
+transgenic mice without blockade of glutamatergic transmission, and 
+the electrical stimuli used were unconventionally large in magnitude. 
+Within the stimulus range that we now report, the data contained in 
+Sargin et al. (2016) display no apparent difference in 5-HT neuron 
+excitability for adolescent-isolation mice. Despite this effect of 
+adolescent isolation on 5-HTDRN function, we did not observe typical 
+anxiety-like behaviors during the open field assay. However, given that 
+we observed no housing-dependent differences in locomotor activity 
+while housed in a home cage environment (Fig. 3A-B) or during the 
+social interaction test (Fig. 8B), the difference in locomotion during the 
+open field assay could possibly represent a milder anxiety-like behavior 
+(Fig. 3E,H,K). 
+4.3. Metabolic dysregulation, mental health disorders, and social isolation 
+in human populations 
+In 2020, social distancing and stay-at-home orders were imple­
+mented as a non-pharmacological measure to stem the spread of SARS- 
+CoV-2 worldwide. This period ranged in duration from 3 to 30 months 
+(CDC et al., 2022; Moreland et al., 2020), far greater than the 10-day 
+duration that is known to cause lasting psychiatric effects (Brooks 
+et al., 2020; Leigh-Hunt et al., 2017; Pietrabissa and Simpson, 2020; 
+Rogers et al., 2020). Social isolation can be particularly harmful to 
+children and adolescents (Saurabh and Ranjan, 2020; Schinka et al., 
+2013; Sprang and Silman, 2013), greatly impacting development and 
+increasing the risk of disease in adulthood (Andersen et al., 1980; Caspi 
+et al., 2006; Danese et al., 2009; Koss et al., 2014; Lacey et al., 2014). 
+During the pandemic, the rate of body weight gain nearly doubled in 
+persons aged 2–19. From August 2019 to August 2020, obesity preva­
+lence increased from 19.3 % to 22.4 % in this age group (Lange et al., 
+Fig. 8. Social interaction behaviors, and the effects of semaglutide administration. Group-housed (Group, Gr) and adolescent-isolation (Isolation, Iso) mice were 
+subcutaneously injected with either sterile saline (vehicle, Veh) or 0.1 mg/kg semaglutide (Sema) 60 mins prior to testing. A: Representative heat maps generated 
+using Ethovision software for a single mouse per condition, representing mouse position across the entirety of a 10 min experimental trial. B: Total distance traveled 
+through the experimental trial. Main and interactive effects determined by 2-way mixed model with Tukey’s multiple comparisons test. C: Number of entries into 
+either a chamber containing an enclosure populated by a stranger mouse (Social Chamber) or a chamber containing an empty enclosure (Empty Chamber). Full main 
+and interactive effects of a 3-way ANOVA performed for housing (H), drug (D) and chamber (C) shown at top, post-hoc testing performed using Tukey’s multiple 
+comparisons test. D: Total time spent within either the social or empty chamber, statistical testing and experimental conditions performed as in C. *p < 0.05, **p 
+< 0.01. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+12
+2021). Separately, the perception of social isolation greatly increased 
+the occurrence of depression during covid (Pietrabissa and Simpson, 
+2020). The co-presentation of metabolic dysfunction and depression was 
+not assessed in these groups, but first-episode psychosis patients often 
+present with metabolic alterations. This is thought to be due to their 
+voluntary social isolation (Bocchio-Chiavetto et al., 2018), which is 
+known to be a risk factor for type 2 diabetes (Henriksen et al., 2023). In 
+human populations, it is unclear whether psychiatric-related isolation 
+drives metabolic alterations, if impaired insulinotropic signaling pro­
+motes the development of psychiatric disorders, or if dysfunction of 
+central 5-HT could be simultaneously driving both conditions. Further 
+investigation is needed to determine if central 5-HT/GLP-1 circuitry may 
+represent a pharmaceutical intersection for persons co-presenting with 
+metabolic dysregulation and psychiatric symptoms. 
+CRediT authorship contribution statement 
+Louis J. Kolling: Conceptualization, Data curation, Formal analysis, 
+Methodology, Validation, Writing – original draft, Writing – review & 
+editing. Kanza Khan: Conceptualization, Data curation, Formal anal­
+ysis, Methodology, Validation. Ruixiang Wang: Data curation, Formal 
+analysis, Methodology, Validation. Samantha R. Pierson: Formal 
+analysis, Funding acquisition, Methodology, Validation. Benjamin D. 
+Hartman: 
+Formal 
+analysis, 
+Validation. 
+Nagalakshmi 
+Balasu­
+bramanian: Data curation, Formal analysis, Methodology, Validation. 
+Deng-Fu Guo: Data curation, Formal analysis, Methodology, Valida­
+tion. Kamal Rahmouni: Data curation, Formal analysis, Investigation, 
+Methodology, Resources, Supervision, Validation. Catherine A. Mar­
+cinkiewcz: Data curation, Formal analysis, Investigation, Methodology, 
+Resources, Supervision, Validation. 
+Declaration of competing interest 
+These authors declare no competing interests. 
+Acknowledgements 
+All authors critically evaluated the work for important intellectual 
+content. All authors acquired, analyzed, or interpreted data in the study. 
+As such, we confirm that all authors approved the final version of the 
+manuscript, agreed to be accountable for all aspects of the work, that all 
+persons designated as authors qualify for authorship, and all those who 
+qualify for authorship are listed. In using the CRediT (Contributor Roles 
+Taxonomy) guidelines, L.K., K.K., K.R. and C.M. were responsible for 
+project conceptualization, formal analyses, and methodology. L.K., K.K., 
+R.W., S.P., B.H., N.B., and D.G. performed data acquisition and analysis. 
+L.K. was responsible for writing the original draft of the manuscript, all 
+authors contributed to reviewing and editing the manuscript. C.M. and 
+K.R. were responsible for project administration and supervision. C.M. is 
+the guarantor of this work and, as such, has had full access to all data and 
+takes responsibility for its integrity and analysis. 
+We thank Yu Xu for performing routine technical assistance and 
+maintaining mouse colonies, Eric Weatherford of the Metabolic Phe­
+notyping Core Laboratory for operating the Promethion system, as well 
+as Mariah Leidinger of the Comparative Pathology Laboratory for per­
+forming immunostaining of pancreata. 
+Funding 
+This work was supported by a NARSAD Young Investigator Award, 
+and a Williams-Cannon Faculty Fellowship. L.K. was supported by T32 
+NS045549 and K.K. was supported by T32 DK112751. The authors have 
+no competing interests to declare, scientific or financial. 
+Supplementary materials 
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.psychres.2024.115951. 
+References 
+Ago, Y., Araki, R., Tanaka, T., Sasaga, A., Nishiyama, S., Takuma, K., Matsuda, T., 2013. 
+Role of social encounter-induced activation of prefrontal serotonergic systems in the 
+abnormal behaviors of isolation-reared mice. Neuropsychopharmacol 38, 
+1535–1547. https://doi.org/10.1038/npp.2013.52. 
+Akimova, E., Lanzenberger, R., Kasper, S., 2009. The serotonin-1A receptor in anxiety 
+disorders. Biol. Psychiatry 66, 627–635. https://doi.org/10.1016/J. 
+BIOPSYCH.2009.03.012. 
+Aklan, I., Sayar Atasoy, N., Yavuz, Y., Ates, T., Coban, I., Koksalar, F., Filiz, G., Topcu, I. 
+C., Oncul, M., Dilsiz, P., Cebecioglu, U., Alp, M.I., Yilmaz, B., Davis, D.R., 
+Hajdukiewicz, K., Saito, K., Konopka, W., Cui, H., Atasoy, D., 2020. NTS 
+catecholamine neurons mediate hypoglycemic hunger via medial hypothalamic 
+feeding pathways. Cell Metab. 31, 313. https://doi.org/10.1016/J. 
+CMET.2019.11.016. 
+Amiri, S., Haj-Mirzaian, A., Rahimi-balaei, M., Razmi, A., Kordjazy, N., Shirzadian, A., 
+Ejtemaei Mehr, S., Sianati, H., Dehpour, A.R., 2015. Co-occurrence of anxiety and 
+depressive-like behaviors following adolescent social isolation in male mice; possible 
+role of nitrergic system. Physiol. Behav. 145, 38–44. https://doi.org/10.1016/J. 
+PHYSBEH.2015.03.032. 
+Anderberg, R.H., Richard, J.E., Eerola, K., L´opez-Ferreras, L., Banke, E., Hansson, C., 
+Nissbrandt, H., Berqquist, F., Gribble, F.M., Reimann, F., Asterholm, I.W., Lamy, C. 
+M., Skibicka, K.P., 2017. Glucagon-like peptide 1 and its analogs act in the dorsal 
+raphe and modulate central serotonin to reduce appetite and body weight. Diabetes 
+66, 1062–1073. https://doi.org/10.2337/DB16-0755. 
+Andersen, K.L., Seliger, V., Rutenfranz, J., Nesset, T., 1980. Physical performance 
+capacity of children in Norway. V. The influence of social isolation on the rate of 
+growth in body size and composition and on the achievement in lung function and 
+maximal aerobic power of children in a rural community. Eur. J. Appl. Physiol. O 45, 
+155–166. https://doi.org/10.1007/BF00421323. 
+Arango, V., Underwood, M.D., Boldrini, M., Tamir, H., Kassir, S.A., Hsiung, S.C., Chen, J. 
+J.X., Mann, J.J., 2001. Serotonin 1A receptors, serotonin transporter binding and 
+serotonin transporter mRNA expression in the brainstem of depressed suicide 
+victims. Neuropsychopharmacol 25, 892–903. https://doi.org/10.1016/S0893-133X 
+(01)00310-4. 
+Balasubramanian, N., James, T.D., Selvakumar, G.P., Reinhardt, J., Marcinkiewcz, C.A., 
+2022. Repeated ethanol exposure and withdrawal alters angiotensin-converting 
+enzyme 2 expression in discrete brain regions: implications for SARS-CoV-2 
+neuroinvasion. Alcohol Clin. Exp. Res. 00, 1–21. https://doi.org/10.1111/ 
+ACER.15000. 
+Berglund, E.D., Liu, C., Sohn, J.W., Liu, T., Kim, M.H., Lee, C.E., Vianna, C.R., 
+Williams, K.W., Xu, Y., Elmquist, J.K., 2013. Serotonin 2C receptors in pro- 
+opiomelanocortin neurons regulate energy and glucose homeostasis. J. Clin. Invest. 
+123, 5061. https://doi.org/10.1172/JCI70338. 
+Bleich, A., Brown, S.L., Kahn, R., Van Praag, H.M., 1988. The role of serotonin in 
+schizophrenia. Schizophr. Bull. 14, 297–315. https://doi.org/10.1093/SCHBUL/ 
+14.2.297. 
+Bocchio-Chiavetto, L., Zanardini, R., Tosato, S., Ventriglia, M., Ferrari, C., Bonetto, C., 
+Lasalvia, A., Giubilini, F., Fioritti, A., Pileggi, F., Pratelli, M., Pavanati, M., 
+Favaro, A., De Girolamo, G., Frisoni, G.B., Ruggeri, M., Gennarelli, M., 2018. 
+Immune and metabolic alterations in first episode psychosis (FEP) patients. Brain 
+Behav. Immun. 70, 315–324. https://doi.org/10.1016/J.BBI.2018.03.013. 
+Bove, M., Lama, A., Schiavone, S., Pirozzi, C., Tucci, P., Sikora, V., Trinchese, G., 
+Corso, G., Morgese, M.G., Trabace, L., 2022. Social isolation triggers oxidative status 
+and impairs systemic and hepatic insulin sensitivity in normoglycemic rats. Biomed. 
+Pharmacotherapy 149, 112820. https://doi.org/10.1016/J.BIOPHA.2022.112820. 
+Brooks, S.K., Webster, R.K., Smith, L.E., Woodland, L., Wessely, S., Greenberg, N., 
+Rubin, G.J., 2020. The psychological impact of quarantine and how to reduce it: 
+rapid review of the evidence. Lancet 395, 912. https://doi.org/10.1016/S0140-6736 
+(20)30460-8. 
+Cai, Y., Li, X., Zhou, H., Zhou, J., 2022. The serotonergic system dysfunction in diabetes 
+mellitus. Front. Cell Neurosci. 16, 899069 https://doi.org/10.3389/ 
+FNCEL.2022.899069. 
+Casimiro, I., Stull, N.D., Tersey, S.A., Mirmira, R.G., 2021. Phenotypic sexual 
+dimorphism in response to dietary fat manipulation in C57BL/6J mice. J. Diabetes 
+Complicat 35, 107795. https://doi.org/10.1016/J.JDIACOMP.2020.107795. 
+Caspi, A., Harrington, H.L., Moffitt, T.E., Milne, B.J., Poulton, R., 2006. Socially isolated 
+children 20 years later: risk of cardiovascular disease. Arch. Pediatr. Adolesc. Med. 
+160, 805–811. https://doi.org/10.1001/ARCHPEDI.160.8.805. 
+CDC, 2022. Interim Infection Prevention and Control Recommendations for Healthcare 
+Personnel During the Coronavirus Disease 2019 (COVID-19) Pandemic [WWW 
+Document]. https://doi.org/10.26616/NIOSHPUB2020119. 
+Croze, M.L., Flisher, M.F., Guillaume, A., Tremblay, C., Noguchi, G.M., Granziera, S., 
+Vivot, K., Castillo, V.C., Campbell, S.A., Ghislain, J., Huising, M.O., Poitout, V., 
+2021. Free fatty acid receptor 4 inhibitory signaling in delta cells regulates islet 
+hormone secretion in mice. Mol. Metab. 45, 101166 https://doi.org/10.1016/J. 
+MOLMET.2021.101166. 
+D’Agostino, G., Lyons, D., Cristiano, C., Lettieri, M., Olarte-Sanchez, C., Burke, L.K., 
+Greenwald-Yarnell, M., Cansell, C., Doslikova, B., Georgescu, T., Martinez de 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+13
+Morentin, P.B., Myers, M.G., Rochford, J.J., Heisler, L.K., 2018. Nucleus of the 
+Solitary Tract Serotonin 5-HT2C Receptors Modulate Food Intake. Cell Metab. 28, 
+619. https://doi.org/10.1016/J.CMET.2018.07.017. 
+Danese, A., Moffitt, T.E., Harrington, H.L., Milne, B.J., Polanczyk, G., Pariante, C.M., 
+Poulton, R., Caspi, A., 2009. Adverse childhood experiences and adult risk factors for 
+age-related disease: depression, inflammation, and clustering of metabolic risk 
+markers. Arch. Pediatr. Adolesc. Med. 163, 1135–1143. https://doi.org/10.1001/ 
+ARCHPEDIATRICS.2009.214. 
+Daniels Gatward, L.F., Kennard, M.R., Smith, L.I.F., King, A.J.F., 2021. The use of mice in 
+diabetes research: the impact of physiological characteristics, choice of model and 
+husbandry practices. Diabet. Med. 38, e14711. https://doi.org/10.1111/ 
+DME.14711. 
+Dekeyne, A., Denorme, B., Monneyron, S., Millan, M.J., 2000. Citalopram reduces social 
+interaction in rats by activation of serotonin (5-HT)2C receptors. Neuropharmacol 
+39, 1114–1117. https://doi.org/10.1016/S0028-3908(99)00268-3. 
+Du Preez, A., Law, T., Onorato, D., Lim, Y.M., Eiben, P., Musaelyan, K., Egeland, M., 
+Hye, A., Zunszain, P.A., Thuret, S., Pariante, C.M., Fernandes, C., 2020. The type of 
+stress matters: repeated injection and permanent social isolation stress in male mice 
+have a differential effect on anxiety- and depressive-like behaviours, and associated 
+biological alterations. Transl. Psychiatry 10 (1), 1–17. https://doi.org/10.1038/ 
+s41398-020-01000-3, 202010.  
+Eggers, A.E., 2013. A serotonin hypothesis of schizophrenia. Med. Hypotheses. 80, 
+791–794. https://doi.org/10.1016/J.MEHY.2013.03.013. 
+Elzinga, S.E., Savelieff, M.G., O’Brien, P.D., Mendelson, F.E., Hayes, J.M., Feldman, E.L., 
+2021. Sex differences in insulin resistance, but not peripheral neuropathy, in a diet- 
+induced prediabetes mouse model. Dis. Model. Mech. 14 https://doi.org/10.1242/ 
+DMM.048909/237743. 
+Fang, X., Chen, Y., Wang, J., Zhang, Z., Bai, Y., Denney, K., Gan, L., Guo, M., 
+Weintraub, N.L., Lei, Y., Lu, X.Y., 2022. Increased intrinsic and synaptic excitability 
+of hypothalamic POMC neurons underlies chronic stress-induced behavioral deficits. 
+Mol. Psychiatry 28, 1365–1382. https://doi.org/10.1038/s41380-022-01872-5. 
+Fonseca, V.A., 2009. Defining and characterizing the progression of type 2 diabetes. 
+Diabetes Care 32, S151. https://doi.org/10.2337/DC09-S301. 
+Gabery, S., Salinas, C.G., Paulsen, S.J., Ahnfelt-Rønne, J., Alanentalo, T., Baquero, A.F., 
+Buckley, S.T., Farkas, E., Fekete, C., Frederiksen, K.S., Helms, H.C.C., Jeppesen, J.F., 
+John, L.M., Pyke, C., Nøhr, J., Lu, T.T., Polex-Wolf, J., Prevot, V., Raun, K., 
+Simonsen, L., Sun, G., Szilv´asy-Szab´o, A., Willenbrock, H., Secher, A., Knudsen, L.B., 
+2020. Semaglutide lowers body weight in rodents via distributed neural pathways. 
+JCI. Insight. 5 https://doi.org/10.1172/JCI.INSIGHT.133429. 
+Grigoryan, G.A., Pavlova, I.V., Zaichenko, M.I., 2022. Effects of social isolation on the 
+development of anxiety and depression-like behavior in model experiments in 
+animals. Neurosci. Behav. Physiol. 52, 722–738. https://doi.org/10.1007/S11055- 
+022-01297-1. 
+Haleem, D.J., 2015. 5-HT1A receptor-dependent control of nigrostriatal dopamine 
+neurotransmission in the pharmacotherapy of Parkinson’s disease and 
+schizophrenia. Behav. Pharmacol. 26, 45–58. https://doi.org/10.1097/ 
+FBP.0000000000000123. 
+Haleem, D.J., 2013. Extending therapeutic use of psychostimulants: focus on serotonin- 
+1A receptor. Prog. Neuropsychopharmacol. Biol. Psychiatry 46, 170–180. https:// 
+doi.org/10.1016/J.PNPBP.2013.07.015. 
+Heisler, L.K., Jobst, E.E., Sutton, G.M., Zhou, L., Borok, E., Thornton-Jones, Z., Liu, H.Y., 
+Zigman, J.M., Balthasar, N., Kishi, T., Lee, C.E., Aschkenasi, C.J., Zhang, C.Y., Yu, J., 
+Boss, O., Mountjoy, K.G., Clifton, P.G., Lowell, B.B., Friedman, J.M., Horvath, T., 
+Butler, A.A., Elmquist, J.K., Cowley, M.A., 2006. Serotonin reciprocally regulates 
+melanocortin neurons to modulate food intake. Neuron 51, 239–249. https://doi. 
+org/10.1016/J.NEURON.2006.06.004. 
+Henriksen, R.E., Nilsen, R.M., Strandberg, R.B., 2023. Loneliness increases the risk of 
+type 2 diabetes: a 20 year follow-up – results from the HUNT study. Diabetologia 66, 
+82. https://doi.org/10.1007/S00125-022-05791-6. 
+Holt, M.K., Llewellyn-Smith, I.J., Reimann, F., Gribble, F.M., Trapp, S., 2017. 
+Serotonergic modulation of the activity of GLP-1 producing neurons in the nucleus of 
+the solitary tract in mouse. Mol. Metab. 6, 909–921. https://doi.org/10.1016/J. 
+MOLMET.2017.06.002. 
+Holt, M.K., Richards, J.E., Cook, D.R., Brierley, D.I., Williams, D.L., Reimann, F., 
+Gribble, F.M., Trapp, S., 2019. Preproglucagon neurons in the nucleus of the solitary 
+tract are the main source of brain GLP-1, mediate stress-induced hypophagia, and 
+limit unusually large intakes of food. Diabetes 68, 21–33. https://doi.org/10.2337/ 
+DB18-0729/-/DC1. 
+Horiguchi, N., Ago, Y., Hasebe, S., Higashino, K., Asada, K., Kita, Y., Takuma, K., 
+Matsuda, T., 2013. Isolation rearing reduces mechanical allodynia in a mouse model 
+of chronic inflammatory pain. Pharmacol. Biochem. Behav. 113, 46–52. https://doi. 
+org/10.1016/J.PBB.2013.10.017. 
+Huang, Z., Tatti, R., Loeven, A.M., Landi Conde, D.R., Fadool, D.A., 2021. Modulation of 
+neural microcircuits that control complex dynamics in olfactory networks. Front. 
+Cell Neurosci. 15, 662184 https://doi.org/10.3389/FNCEL.2021.662184/BIBTEX. 
+Huang, Z., Thiebaud, N., Fadool, D.A., 2017. Differential serotonergic modulation across 
+the main and accessory olfactory bulbs. J. Physiol. 595, 3515–3533. https://doi.org/ 
+10.1113/JP273945 [doi].  
+Jahng, J.W., 2011. An animal model of eating disorders associated with stressful 
+experience in early life. Horm. Behav. 59, 213–220. https://doi.org/10.1016/J. 
+YHBEH.2010.11.010. 
+Jean, A., Conductier, G., Manrique, C., Bouras, C., Berta, P., Hen, R., Charnay, Y., 
+Bockaert, J., Compan, V., 2007. Anorexia induced by activation of serotonin 5-HT4 
+receptors is mediated by increases in CART in the nucleus accumbens. Proc. Natl. 
+Acad. Sci. U.S.A. 104, 16335. https://doi.org/10.1073/PNAS.0701471104. 
+Jhanwar-Uniyal, M., Moorjani, B., Kahn, A.H., 1994. Indications of pre- and post- 
+synaptic 5-HT1A receptor interactions in feeding behavior and neuroendocrine 
+regulation. Brain Res. 646, 247–257. https://doi.org/10.1016/0006-8993(94) 
+90086-8. 
+Kane, M.J., Angoa-Per´ez, M., Briggs, D.I., Sykes, C.E., Francescutti, D.M., Rosenberg, D. 
+R., Kuhn, D.M., 2012. Mice genetically depleted of brain serotonin display social 
+impairments, communication deficits and repetitive behaviors: possible relevance to 
+autism. PLoS ONE 7, 48975. https://doi.org/10.1371/JOURNAL.PONE.0048975. 
+Karayol, R., Medrihan, L., Warner-Schmidt, J.L., Fait, B.W., Rao, M.N., Holzner, E.B., 
+Greengard, P., Heintz, N., Schmidt, E.F., 2021. Serotonin receptor 4 in the 
+hippocampus modulates mood and anxiety. Mol. Psychiatry 26, 2334–2349. https:// 
+doi.org/10.1038/s41380-020-00994-y. 
+Kercmar, J., Büdefeld, T., Grgurevic, N., Tobet, S.A., Majdic, G., 2011. Adolescent social 
+isolation changes social recognition in adult mice. Behav. Brain Res. 216, 647–651. 
+https://doi.org/10.1016/J.BBR.2010.09.007. 
+Khan, K.M., Balasubramanian, N., Gaudencio, G., Wang, R., Selvakumar, G.P., 
+Kolling, L., Pierson, S., Tadinada, S.M., Abel, T., Hefti, M., Marcinkiewcz, C.A., 2023. 
+Human tau-overexpressing mice recapitulate brainstem involvement and 
+neuropsychiatric features of early Alzheimer’s disease. Acta Neuropathol. Commun. 
+11, 57. https://doi.org/10.1186/S40478-023-01546-5. 
+Kiser, D., SteemerS, B., Branchi, I., Homberg, J.R., 2012. The reciprocal interaction 
+between serotonin and social behaviour. Neurosci. Biobehav. Rev. 36, 786–798. 
+https://doi.org/10.1016/J.NEUBIOREV.2011.12.009. 
+Koike, H., Ibi, D., Mizoguchi, H., Nagai, T., Nitta, A., Takuma, K., Nabeshima, T., 
+Yoneda, Y., Yamada, K., 2009. Behavioral abnormality and pharmacologic response 
+in social isolation-reared mice. Behav. Brain Res. 202, 114–121. https://doi.org/ 
+10.1016/J.BBR.2009.03.028. 
+Kolling, L.J., Tatti, R., Lowry, T., Loeven, A.M., Fadool, J.M., Fadool, D.A., 2022. 
+Modulating the excitability of olfactory output neurons affects whole-body 
+metabolism. J. Neurosci. 42, 5966–5990. https://doi.org/10.1523/ 
+JNEUROSCI.0190-22.2022. 
+Konecka, A.M., Sroczynska, I., 2008. Stressors and pain sensitivity in CFW mice. Role of 
+opioid peptides. Arch. Int. Physiol. Biochim. Biophys. 98, 245–252. https://doi.org/ 
+10.3109/13813459009113984. 
+Koss, K.J., Hostinar, C.E., Donzella, B., Gunnar, M.R., 2014. Social deprivation and the 
+HPA axis in early development. Psychoneuroendocrinology. 50, 1. https://doi.org/ 
+10.1016/J.PSYNEUEN.2014.07.028. 
+Krzywkowski, P., Penna, B., Gross, C.T., 2020. Dynamic encoding of social threat and 
+spatial context in the hypothalamus. Elife 9, 1–20. https://doi.org/10.7554/ 
+ELIFE.57148. 
+Lacey, R.E., Kumari, M., Bartley, M., 2014. Social isolation in childhood and adult 
+inflammation: evidence from the National Child Development Study. 
+Psychoneuroendocrinology. 50, 85–94. https://doi.org/10.1016/J. 
+PSYNEUEN.2014.08.007. 
+Lange, S.J., Kompaniyets, L., Freedman, D.S., Kraus, E.M., Porter, R., Blanck, H.M., 
+Goodman, A.B., 2021. Longitudinal trends in body mass index before and during the 
+COVID-19 pandemic among persons aged 2–19 years — United States, 2018–2020. 
+Morb. Mortal Wkly Rep. 70, 1278–1283. https://doi.org/10.15585/MMWR. 
+MM7037A3. 
+Leigh-Hunt, N., Bagguley, D., Bash, K., Turner, V., Turnbull, S., Valtorta, N., Caan, W., 
+2017. An overview of systematic reviews on the public health consequences of social 
+isolation and loneliness. Public Health 152, 157–171. https://doi.org/10.1016/J. 
+PUHE.2017.07.035. 
+Liu, R.J., Van Den Pol, A.N., Aghajanian, G.K., 2002. Hypocretins (Orexins) regulate 
+serotonin neurons in the dorsal raphe nucleus by excitatory direct and inhibitory 
+indirect actions. J. Neurosci. 22, 9453. https://doi.org/10.1523/JNEUROSCI.22-21- 
+09453.2002. 
+Lo, L., Yao, S., Kim, D.W., Cetin, A., Harris, J., Zeng, H., Anderson, D.J., Weissbourd, B., 
+2019. Connectional architecture of a mouse hypothalamic circuit node controlling 
+social behavior. Proc. Natl. Acad. Sci. U.S.A. 116, 7503–7512. https://doi.org/ 
+10.1073/PNAS.1817503116/SUPPL_FILE/PNAS.1817503116.SAPP.PDF. 
+Lukkes, J., Vuong, S., Scholl, J., Oliver, H., Forster, G., 2009. Corticotropin-releasing 
+factor receptor antagonism within the dorsal raphe nucleus reduces social anxiety- 
+like behavior after early-life social isolation. J. Neurosci. 29, 9955. https://doi.org/ 
+10.1523/JNEUROSCI.0854-09.2009. 
+Matsumoto, K., Fujiwara, H., Araki, R., Yabe, T., 2019. Post-weaning social isolation of 
+mice: a putative animal model of developmental disorders. J. Pharmacol. Sci. 141, 
+111–118. https://doi.org/10.1016/J.JPHS.2019.10.002. 
+Medeiros, M.A., Costa-e-Sousa, R.H., Olivares, E.L., Cˆortes, W.S., Reis, L.C., 2005. 
+A reassessment of the role of serotonergic system in the control of feeding behavior. 
+An. Acad. Bras. Cienc. 77, 103–111. https://doi.org/10.1590/S0001- 
+37652005000100008. 
+Medendorp, W.E., Petersen, E.D., Pal, A., Wagner, L.M., Myers, A.R., 
+Hochgeschwender, U., Jenrow, K.A., 2018. Altered behavior in mice socially isolated 
+during adolescence corresponds with immature dendritic spine morphology and 
+impaired plasticity in the prefrontal cortex. Front. Behav. Neurosci. 12 https://doi. 
+org/10.3389/FNBEH.2018.00087. 
+Moncrieff, J., Cooper, R.E., Stockmann, T., Amendola, S., Hengartner, M.P., Horowitz, M. 
+A., 2022. The serotonin theory of depression: a systematic umbrella review of the 
+evidence. Mol. Psychiatry 1–14. https://doi.org/10.1038/s41380-022-01661-0. 
+Moreland, A., Herlihy, C., Tynan, M.A., Sunshine, G., McCord, R.F., Hilton, C., 
+Poovey, J., Werner, A.K., Jones, C.D., Fulmer, E.B., Gundlapalli, A.V., Strosnider, H., 
+Potvien, A., García, M.C., Honeycutt, S., Baldwin, G., Clodfelter, C., Howard- 
+Williams, M., Jeong, G., Landsman, L., Shelburne, J., Brown, A., Cramer, R., 
+Gilchrist, S., Hulkower, R., Limeres, A., Popoola, A., 2020. Timing of state and 
+territorial COVID-19 stay-at-home orders and changes in population movement — 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+Psychiatry Research 337 (2024) 115951
+14
+United States, March 1–May 31, 2020. Morb. Mortal. Wkly Rep. 69, 1198–1203. 
+https://doi.org/10.15585/MMWR.MM6935A2. 
+Nemeroff, C.B., Owens, M.J., 2009. The role of serotonin in the pathophysiology of 
+depression: as important as ever. Clin. Chem. 55, 1578–1579. https://doi.org/ 
+10.1373/CLINCHEM.2009.123752. 
+O’Brien, P.D., Sakowski, S.A., Feldman, E.L., 2014. Mouse Models of Diabetic 
+Neuropathy. ILAR. J. 54, 259. https://doi.org/10.1093/ILAR/ILT052. 
+Okada, R., Fujiwara, H., Mizuki, D., Araki, R., Yabe, T., Matsumoto, K., 2015. 
+Involvement of dopaminergic and cholinergic systems in social isolation-induced 
+deficits in social affiliation and conditional fear memory in mice. NeuroSci. 299, 
+134–145. https://doi.org/10.1016/J.NEUROSCIENCE.2015.04.064. 
+Otlivanchik, O., Le Foll, C., Levin, B.E., 2015. Perifornical hypothalamic orexin and 
+serotonin modulate the counterregulatory response to hypoglycemic and glucoprivic 
+stimuli. Diabetes 64, 226–235. https://doi.org/10.2337/DB14-0671/-/DC1. 
+Pietrabissa, G., Simpson, S.G., 2020. Psychological consequences of social isolation 
+during COVID-19 outbreak. Front. Psychol. 11, 2201. https://doi.org/10.3389/ 
+FPSYG.2020.02201/BIBTEX. 
+Poudel, A., Fowler, J.L., Zielinski, M.C., Kilimnik, G., Hara, M., 2016. Stereological 
+analyses of the whole human pancreas. Sci. Rep. 6 https://doi.org/10.1038/ 
+SREP34049. 
+Powell, S.B., Swerdlow, N.R., 2023. The relevance of animal models of social isolation 
+and social motivation for understanding schizophrenia: review and future directions. 
+Schizophr. Bull. 49, 1112–1126. https://doi.org/10.1093/SCHBUL/SBAD098. 
+Quentin, E., Belmer, A., Maroteaux, L., 2018. Somato-Dendritic Regulation of Raphe 
+Serotonin Neurons; A Key to Antidepressant Action. Front. Neurosci. 12, 427376 
+https://doi.org/10.3389/FNINS.2018.00982/BIBTEX. 
+Reynolds, T.H., Dalton, A., Calzini, L., Tuluca, A., Hoyte, D., Ives, S.J., 2019. The impact 
+of age and sex on body composition and glucose sensitivity in C57BL/6J mice. 
+Physiol. Rep. 7 https://doi.org/10.14814/PHY2.13995. 
+Rogers, J.P., Chesney, E., Oliver, D., Pollak, T.A., McGuire, P., Fusar-Poli, P., Zandi, M.S., 
+Lewis, G., David, A.S., 2020. Psychiatric and neuropsychiatric presentations 
+associated with severe coronavirus infections: a systematic review and meta-analysis 
+with comparison to the COVID-19 pandemic. Lancet Psychiatry 7, 611. https://doi. 
+org/10.1016/S2215-0366(20)30203-0. 
+Ryu, V., Lee, J.H., Yoo, S.B., Gu, X.F., Moon, Y.W., Jahng, J.W., 2008. Sustained 
+hyperphagia in adolescent rats that experienced neonatal maternal separation. IJO 
+32, 1355–1362. https://doi.org/10.1038/ijo.2008.108. 
+Sakimura, K., Maekawa, T., Sasagawa, K., Ishii, Y., Kume, S.ichi, Ohta, T., 2018. 
+Depression-related behavioural and neuroendocrine changes in the Spontaneously 
+Diabetic Torii (SDT) fatty rat, an animal model of type 2 diabetes mellitus. Clin. Exp. 
+Pharmacol. Physiol. 45, 927–933. https://doi.org/10.1111/1440-1681.12965. 
+Salameh, T.S., Rhea, E.M., Talbot, K., Banks, W.A., 2020. Brain uptake pharmacokinetics 
+of incretin receptor agonists showing promise as Alzheimer’s and Parkinson’s 
+disease therapeutics. Biochem. Pharmacol. 180, 114187 https://doi.org/10.1016/J. 
+BCP.2020.114187. 
+Sargin, D., Oliver, D.K., Lambe, E.K., 2016. Chronic social isolation reduces 5-HT 
+neuronal activity via upregulated SK3 calcium-activated potassium channels. 
+ElifeElife 5. https://doi.org/10.7554/ELIFE.21416. 
+Saurabh, K., Ranjan, S., 2020. Compliance and psychological impact of quarantine in 
+children and adolescents due to COVID-19 pandemic. Indian J. Pediatr. 87, 532. 
+https://doi.org/10.1007/S12098-020-03347-3. 
+Schiavone, S., Camerino, G.M., Mhillaj, E., Zotti, M., Colaianna, M., Giorgi, A.De, 
+Trotta, A., Cantatore, F.P., Conte, E., Bove, M., Tucci, P., Morgese, M.G., Trabace, L., 
+2017. Visceral fat dysfunctions in the rat social isolation model of psychosis. Front. 
+Phamacol. 8, 285651 https://doi.org/10.3389/FPHAR.2017.00787/BIBTEX. 
+Schinka, K.C., Van Dulmen, M.H.M., Mata, A.D., Bossarte, R., Swahn, M., 2013. 
+Psychosocial predictors and outcomes of loneliness trajectories from childhood to 
+early adolescence. J. Adolesc. 36, 1251–1260. https://doi.org/10.1016/J. 
+ADOLESCENCE.2013.08.002. 
+Schmittgen, T.D., Livak, K.J., 2008. Analyzing real-time PCR data by the comparative CT 
+method. Nat 3, 1101–1108. https://doi.org/10.1038/nprot.2008.73. 
+Secci, M.E., Reed, T., Quinlan, V., Gilpin, N.W., Avegno, E.M., 2023. Quantitative 
+analysis of gene expression in RNAscope-processed brain tissue. Bio Protoc. 13, 
+4580. https://doi.org/10.21769/BIOPROTOC.4580. 
+Sohn, J.W., Xu, Y., Jones, J.E., Wickman, K., Williams, K.W., Elmquist, J.K., 2011. 
+Serotonin 2C receptor activates a distinct population of arcuate pro- 
+opiomelanocortin neurons via TRPC channels. Neuron 71, 488. https://doi.org/ 
+10.1016/J.NEURON.2011.06.012. 
+Sprang, G., Silman, M., 2013. Posttraumatic stress disorder in parents and youth after 
+health-related disasters. Disaster. Med. Public Health Prep. 7, 105–110. https://doi. 
+org/10.1017/DMP.2013.22. 
+Starks, R.D., Beyer, A.M., Guo, D.F., Boland, L., Zhang, Q., Sheffield, V.C., Rahmouni, K., 
+2015. Regulation of insulin receptor trafficking by bardet biedl syndrome proteins. 
+PLoS. Genet. 11 https://doi.org/10.1371/JOURNAL.PGEN.1005311. 
+Sumiyoshi, T., Kunugi, H., Nakagome, K., 2014. Serotonin and dopamine receptors in 
+motivational and cognitive disturbances of schizophrenia. Front. Neurosci. 8, 
+102018 https://doi.org/10.3389/FNINS.2014.00395/BIBTEX. 
+Sun, M., Choi, E.Y., Magee, D.J., Stets, C.W., During, M.J., Lin, E.-J.D., 2014. Metabolic 
+effects of social isolation in adult C57BL/6 Mice. Int. Sch. Res. Notices. 2014, 1–9. 
+https://doi.org/10.1155/2014/690950. 
+Thiebaud, N., Gribble, F., Reimann, F., Trapp, S., Fadool, D.A., 2019. A unique olfactory 
+bulb microcircuit driven by neurons expressing the precursor to glucagon-like 
+peptide 1. Sci. Rep. 9 https://doi.org/10.1038/s41598-019-51880-9. 
+Vargas, J., Junco, M., Gomez, C., Lajud, N., 2016. Early life stress increases metabolic 
+risk, HPA axis reactivity, and depressive-like behavior when combined with 
+postweaning social isolation in rats. PLoS ONE 11, e0162665. https://doi.org/ 
+10.1371/JOURNAL.PONE.0162665. 
+Wagner, S., Brierley, D.I., Leeson-Payne, A., Jiang, W., Chianese, R., Lam, B.Y.H., 
+Dowsett, G.K.C., Cristiano, C., Lyons, D., Reimann, F., Gribble, F.M., Martinez de 
+Morentin, P.B., Yeo, G.S.H., Trapp, S., Heisler, L.K., 2023. Obesity medication 
+lorcaserin activates brainstem GLP-1 neurons to reduce food intake and augments 
+GLP-1 receptor agonist induced appetite suppression. Mol. Metab. 68, 101665 
+https://doi.org/10.1016/J.MOLMET.2022.101665. 
+Weiss, I.C., Feldon, J., 2001. Environmental animal models for sensorimotor gating 
+deficiencies in schizophrenia: a review. Psychopharmacol 156, 305–326. https://doi. 
+org/10.1007/S002130100800/METRICS. 
+Yamada, C., Saegusa, Y., Nahata, M., Sadakane, C., Hattori, T., Takeda, H., 2015. 
+Influence of Aging and Gender Differences on Feeding Behavior and Ghrelin-Related 
+Factors during Social Isolation in Mice. PLoS ONE 10. https://doi.org/10.1371/ 
+JOURNAL.PONE.0140094. 
+L.J. Kolling et al.                                                                                                                                                                                                                                
+

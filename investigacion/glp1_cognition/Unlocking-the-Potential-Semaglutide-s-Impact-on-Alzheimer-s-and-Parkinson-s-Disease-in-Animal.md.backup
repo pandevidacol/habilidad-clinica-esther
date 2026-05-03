@@ -1,0 +1,1209 @@
+# Citation: Meca, A.D.; Boboc, I.K.S.;
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2024
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Unlocking-the-Potential-Semaglutide-s-Impact-on-Alzheimer-s-and-Parkinson-s-Disease-in-Animal.pdf
+
+## Abstract / Summary
+Citation: Meca, A.D.; Boboc, I.K.S.;
+Mititelu-Tartau, L.; Bogdan, M.
+Unlocking the Potential:
+Semaglutide’s Impact on Alzheimer’s
+and Parkinson’s Disease in Animal
+Models. Curr. Issues Mol. Biol. 2024,
+46, 5929–5949. https://doi.org/
+10.3390/cimb46060354
+Academic Editor: Dumitru A. Iacobas
+Received: 17 May 2024
+Revised: 4 June 2024
+Accepted: 6 June 2024
+Published: 13 June 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Citation: Meca, A.D.; Boboc, I.K.S.;. 2024.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Citation: Meca, A.D.; Boboc, I.K.S.;
+Mititelu-Tartau, L.; Bogdan, M.
+Unlocking the Potential:
+Semaglutide’s Impact on Alzheimer’s
+and Parkinson’s Disease in Animal
+Models. Curr. Issues Mol. Biol. 2024,
+46, 5929–5949. https://doi.org/
+10.3390/cimb46060354
+Academic Editor: Dumitru A. Iacobas
+Received: 17 May 2024
+Revised: 4 June 2024
+Accepted: 6 June 2024
+Published: 13 June 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Review
+Unlocking the Potential: Semaglutide’s Impact on Alzheimer’s
+and Parkinson’s Disease in Animal Models
+Andreea Daniela Meca 1,†
+, Ianis Kevyn Stefan Boboc 1,†
+, Liliana Mititelu-Tartau 2,*
+and Maria Bogdan 1,*
+1
+Department of Pharmacology, Faculty of Pharmacy, University of Medicine and Pharmacy,
+200349 Craiova, Romania; andreea_mdc@yahoo.com (A.D.M.); kevynboboc@gmail.com (I.K.S.B.)
+2
+Department of Pharmacology, Faculty of Medicine, ‘Grigore T. Popa’ University of Medicine and Pharmacy,
+700115 Iasi, Romania
+*
+Correspondence: liliana.tartau@umfiasi.ro (L.M.-T.); maria.bogdan@umfcv.ro (M.B.)
+†
+These authors contributed equally to this work.
+Abstract: Semaglutide (SEM), a glucagon-like peptide-1 receptor agonist, has garnered increasing
+interest for its potential therapeutic effects in neurodegenerative disorders such as Alzheimer’s
+disease (AD) and Parkinson’s disease (PD). This review provides a comprehensive description of
+SEM’s mechanism of action and its effects in preclinical studies of these debilitating conditions.
+In animal models of AD, SEM has proved beneficial effects on multiple pathological hallmarks
+of the disease. SEM administration has been associated with reductions in amyloid-beta plaque
+deposition and mitigation of neuroinflammation. Moreover, SEM treatment has been shown to
+ameliorate behavioral deficits related to anxiety and social interaction. SEM-treated animals exhibit
+improvements in spatial learning and memory retention tasks, as evidenced by enhanced performance
+in maze navigation tests and novel object recognition assays. Similarly, in animal models of PD,
+SEM has demonstrated promising neuroprotective effects through various mechanisms. These
+include modulation of neuroinflammation, enhancement of mitochondrial function, and promotion
+of neurogenesis. Additionally, SEM has been shown to improve motor function and ameliorate
+dopaminergic neuronal loss, offering the potential for disease-modifying treatment strategies. Overall,
+the accumulating evidence from preclinical studies suggests that SEM holds promise as a novel
+therapeutic approach for AD and PD. Further research is warranted to elucidate the underlying
+mechanisms of SEM’s neuroprotective effects and to translate these findings into clinical applications
+for the treatment of these devastating neurodegenerative disorders.
+Keywords: semaglutide; neuroprotective; Alzheimer’s disease; Parkinson’s disease; animal models
+1. Introduction
+Alzheimer’s disease (AD) is a neurodegenerative condition marked by cognitive
+decline, memory impairment, and eventual loss of executive function [1,2]. It accounts
+for 50% to 75% of diagnosed dementia cases [3]. AD is classified into two types: senile
+(sporadic), which is predominant in 95–98% of cases, and presenile (familial) [4,5]. It is
+hypothesized that the neurodegenerative processes associated with sporadic AD may begin
+as early as 20 years before the onset of clinical symptoms [6].
+Parkinson’s disease (PD) is a prevalent condition among the elderly, characterized by
+progressive neurodegeneration that significantly impacts patients’ lives, particularly when
+left unmanaged [7,8]. Typically initiating around the ages of 60–65, though occasionally
+manifesting earlier, it ranks among the most prevalent movement disorders [9–12]. Pri-
+marily triggered by dopamine deficiency, PD chiefly involves the degeneration of neurons
+responsible for dopamine production within the substantia nigra [10–14].
+Various analogs of glucagon-like peptide-1 (GLP-1) have been examined for their
+potential in AD and PD, including those that activate receptors for a single type of incretin
+[single incretin receptor agonists—exenatide, liraglutide, lixisenatide, and semaglutide
+Curr. Issues Mol. Biol. 2024, 46, 5929–5949. https://doi.org/10.3390/cimb46060354
+https://www.mdpi.com/journal/cimb
+Curr. Issues Mol. Biol. 2024, 46
+5930
+(SEM)] and those that activate receptors for both types of incretins (dual incretin receptor
+agonists—Peptide 19, DA4-JC, DA5-CH, DA3-CH) [12–16].
+SEM, a long-acting peptide-modified human GLP-1 receptor agonist resistant to pro-
+tease, has been shown to significantly reduce blood glucose and glycated hemoglobin
+(HbA1c) levels compared to short-acting agents [16–20]. It was approved for type 2 dia-
+betes in the USA in 2017 and in Canada and Europe in 2018 for 1 mg SEM administered
+subcutaneously once weekly, exhibiting a safety profile similar to other antidiabetic agents
+and offering additional advantages [21,22]. In 2019 in the USA and 2020 in Europe, an
+oral dose of a maximum of 14 mg daily of SEM received approval as type 2 diabetes
+pharmacotherapy [10,21,22] so that doctors can choose the most suitable formulation for
+the patients’ necessities (Figure 1) [10].
+Figure 1. Characteristics of subcutaneous and oral formulations of SEM.
+Curr. Issues Mol. Biol. 2024, 46
+5931
+Nevertheless, in 2021, the FDA offered an additional approval for 2.4 mg of SEM,
+administered once a week subcutaneously, as an adjunct able to reduce caloric intake in
+individuals diagnosed with obesity (BMI higher than 30 kg/m2 or higher than 27 kg/m2
+with at least one comorbidity related to weight) [10,21,22]. Due to its pharmacokinetic
+profile, SEM presents a slightly different toxicity profile when compared to other GLP-1
+receptor agonists, such as less frequent injection site effects and hypoglycemic risk (that
+can further increase when associated with insulin or sulfonylureas), but also more frequent
+vomiting [9].
+SEM boasts an extended half-life of 7 days in the bloodstream, allowing for once-
+weekly administration at any time of the day, with or without food. The initial injectable
+dose typically starts at 0.25 mg, while the regular dosage ranges from 0.5 to 1 mg [20].
+Additionally, it is available in oral tablet form in strengths of 3, 7, or 14 mg, exhibiting
+similar efficacy to subcutaneous doses. SEM stands out as the sole GLP-1 receptor agonist
+offered in both injectable and oral pharmaceutical formulations [9,14,23]. With a 94%
+homology to native GLP-1, SEM results in only 1% presence of antibodies against SEM or
+GLP-1 post-treatment, thus minimizing the risk of allergic reactions [23,24]. Furthermore,
+it can be excreted via both urine and feces, eliminating the need for dose adjustment in
+cases of renal insufficiency [25,26]. An absorption enhancer (SNAC or sodium N-[8-(2-
+hydroxybenzoyl)]-aminocaprylate) for SEM has been noticed due to its ability to protect
+this GLP-1 agonist from proteolytic degradation within the stomach and also to facilitate
+active intestinal transport [9].
+The objective of this review is to offer an extensive description of SEM’s involvement
+in the pathophysiology of AD and PD, emphasizing the drug’s mechanism of action and
+its relevance in animal models of these disorders.
+2. SEM Mechanism of Action
+GLP-1 receptor agonists, also referred to as incretin analogs, play a crucial role in
+maintaining glycemic control by stimulating natural mechanisms and responses to nu-
+trient intake [25]. This process involves the release of the incretin hormone GLP-1 from
+intestinal L cells following meals [26–28]. GLP-1 receptor agonists bind to specific receptors
+distributed widely throughout the body, including pancreatic islets, renal, pulmonary,
+cardiovascular, gastrointestinal, immune, and brain cells [19]. GLP-1 and GIP (glucose-
+dependent insulinotropic polypeptide) receptors belong to the G protein-coupled B1 class
+receptors (the secretin family), which can trigger the production of cAMP (cyclic adenosine
+monophosphate) and undergo conformational changes upon activation [27]. The activation
+of GLP-1 and GIP hormones consequently leads to delayed gastric emptying and mod-
+ulation of insulin secretion [24,25]. However, shortly after their release, GLP-1 and GIP
+are broken down by the enzyme dipeptidyl peptidase-4 (DPP-4), resulting in their short
+half-lives as endogenous molecules [27–29].
+As versatile peptides, GLP-1 receptor agonists, such as SEM, play a role in enhanc-
+ing insulin and amylin secretion by stimulating pancreatic β-cells while simultaneously
+inhibiting glucagon secretion from pancreatic α-cells in a glucose-dependent manner. They
+also decrease hepatic glucose production, increase feelings of satiety, and regulate appetite
+through central mechanisms [19,29,30]. Additionally, GLP-1 is involved in promoting pan-
+creatic β-cell proliferation and preventing apoptosis [25]. SEM promotes insulin uptake in
+peripheral tissues, resulting in weight loss, reduced risk of hepatic steatosis, and increased
+lipolysis, making them beneficial for patients with type 2 diabetes and obesity [19,28].
+Activation of GLP-1 receptors correlates with increased intracellular calcium levels and
+ERK1/2 phosphorylation to stimulate insulin production [25,28]. Furthermore, SEM can
+enhance glycolysis by upregulating GLUT2 transporters and glucokinase expression. SEM
+also regulates tissue sensitivity to insulin [26].
+These benefits arise from the activation of peripheral and central intestinal and brain re-
+ceptors, particularly those located in hypothalamic satiety centers, which are also involved
+in regulating perceptions of motivation and reward-related to food intake [19,23]. Acting as
+Curr. Issues Mol. Biol. 2024, 46
+5932
+a multifunctional peptide, brain-derived GLP-1 is synthesized by pre-proglucagon neurons
+situated in the caudal area of the nucleus tractus solitarius (NTS) [30]. GLP-1 receptors are
+expressed in various regions of the brain, including the frontal cortex, hippocampus, sub-
+stantia nigra, and cerebellum [24]. Moreover, GLP-1 has the capacity to modulate diverse
+brain functions such as water intake, energy homeostasis, thermogenesis, neural genesis,
+degeneration, and responses to stress [31]. The amelioration of cognitive impairment has
+led to the recommendation of GLP-1 receptor agonists for neurological deficits associated
+with type 2 diabetes and obesity [28]. Additionally, most GLP-1 receptor agonists can
+penetrate the blood-brain barrier (BBB) and initiate neuroprotective effects, as shown in
+a murine study for the i.v. injection of 1 × 106 counts per minute of radioactively labeled
+exenatide, lixisenatide, Peptide 17, Peptide 21, DA3-CH, DA4-JC [18,32].
+GLP-1 receptor agonists are distinguished by their prolonged half-life compared to
+endogenous GLP-1, allowing them to remain bound to specific receptors for an extended
+period [31]. Their safety profile includes a low risk of hypoglycemia, facilitation of weight
+loss, beneficial cardiovascular and renal effects, reduced dosing frequency, and decreased
+injection burden, leading to improved treatment adherence among patients [19,20]. Addi-
+tionally, one of the most significant advantages of GLP-1 receptor agonists is their ability to
+traverse the BBB to varying extents within the class [9,10]. Even when compared to other
+long-acting agents, such as exenatide with extended release and dulaglutide, subcutaneous
+SEM has demonstrated superior efficacy in improving glycemic control [28]. Furthermore,
+SEM exhibits pleiotropic effects by correcting insulin resistance, protecting against glucol-
+ipotoxicity, and inhibiting apoptosis [14,28]. This GLP-1 receptor agonist can also enhance
+lipid profiles by activating an intrinsic gut–liver signaling pathway, thereby reducing VLDL
+production [14]. Moreover, SEM has been shown to lower systolic blood pressure, protect
+renal function, improve insulin resistance, and induce anti-obesity effects [14,32]. However,
+recent research has focused on investigating the potential of SEM to provide neuroprotec-
+tion and mitigate the progression of various neurodegenerative diseases. In this review, we
+examine the therapeutic potential of SEM and its underlying neuroprotective pathways in
+both AD and PD.
+3. Therapeutic Potential of SEM in Neurodegenerative Diseases
+Impaired cognitive function is associated with insulin resistance, as neuronal metabolism
+and synaptic efficacy suffer from the desensitization of insulin signaling pathways [33,34].
+Insulin is crucial in activating various growth factors that further stimulate brain receptors,
+thereby regulating mitochondrial functionality, cellular energy utilization, cell survival, and
+synaptic processes [33,35]. Reduced or delayed neuronal repair due to impaired insulin
+signaling has been correlated with an increased risk of developing neurodegenerative patholo-
+gies [33,35]. Since neurons cannot produce or store glucose, they rely on the activation and
+sensitization of specific proteins acting as glucose transporters to prevent neurodegenera-
+tion [35]. GLP-1 receptor agonists, more specifically SEM, can compensate for deficiencies in
+insulin signaling by activating the same growth factor cascades as insulin [33,34]. Moreover,
+recent research has unveiled the neurotrophic and neuroprotective activities of GLP-1 [36,37].
+Neuronal loss in AD has been associated with neurocyte apoptosis [36,38]. However,
+both insulin resistance and hyperinsulinemia can contribute to cognitive impairment in
+adults, highlighting impaired tissue sensitivity to insulin as a pathogenic mechanism
+in AD [29]. As demonstrated by Yu et al. in their experimental study using the water
+navigation task, liraglutide has shown efficacy in preventing neuronal apoptosis [38].
+GLP-1 receptor activation can also mitigate tau phosphorylation and amyloid β deposition,
+critical factors in delaying the progression of AD [29,30]. GLP-1 receptor agonists (especially
+SEM) have been found to reduce neuronal apoptosis, neuroinflammation, synapse loss,
+and brain accumulation of advanced glycation end products, as concluded by a systematic
+review [25].
+Moreover, the onset of PD has been linked to type 2 diabetes and desensitized insulin
+signaling [23,34,39]. In various mouse models of PD, GLP-1 mimetics have shown efficacy
+Curr. Issues Mol. Biol. 2024, 46
+5933
+in reducing chronic neuronal inflammation, dopaminergic neuron loss, oxidative stress, and
+α-synuclein levels, ultimately leading to improved motor coordination [23,34]. Activation
+of GLP-1 brain receptors has been found to mitigate microglial neurotoxicity by inhibiting
+A1 astrocyte activity, thereby delaying neuronal death in neurodegenerative disorders [29].
+Notably, liraglutide and lixisenatide demonstrated superior efficacy compared to other
+short-acting agents in maintaining tyrosine hydroxylase expression, a crucial enzyme
+in dopamine production [34]. In experimental mouse models, exenatide restored motor
+functionality, while SEM prevented the loss of dopaminergic neurons by down-regulating
+microgliosis and astrogliosis, thus reducing chronic inflammation [20,23,25]. Furthermore,
+SEM normalized the expression of autophagy-related proteins in the substantia nigra
+and striatum in mice, including P62, ATG7, Beclin, and LC3, leading to the alleviation of
+oxidative stress and promotion of neurovascular reconstruction [31,32,39]. When compared
+in equivalent doses in experimental PD models, SEM exhibited superior efficacy in restoring
+mitochondrial functionality and antioxidative balance by enhancing autophagy [23,39].
+SEM has been shown to reduce oxidative stress, a critical factor in NMDA excitotox-
+icity. By lowering oxidative stress levels, SEM can help mitigate the damage caused by
+excessive Ca2+ influx and reactive oxygen species (ROS) generation [40]. This reduction
+in oxidative stress also helps preserve the integrity and function of cholinergic neurons,
+thereby supporting acetylcholine production [41,42].
+SEM has been found to improve mitochondrial function, which could help protect
+neurons from excitotoxic damage. Enhancing mitochondrial efficiency is crucial for main-
+taining neuronal health and preventing the cascade of events leading to cell death in
+AD [23,43].
+By modulating the release and uptake of glutamate, SEM could help prevent the
+overactivation of NMDA receptors, thereby reducing excitotoxicity. This regulation of
+glutamate dynamics is essential for protecting neurons from the harmful effects of excessive
+glutamate signaling [44–46].
+Chronic neuroinflammation is a hallmark of AD and is exacerbated by NMDA
+excitotoxicity. SEM exhibits anti-inflammatory properties, reducing the release of pro-
+inflammatory cytokines and potentially lessening the neuronal damage associated with
+excitotoxicity [44,47,48].
+Although SEM’s primary mechanism is not the inhibition of acetylcholinesterase,
+there is some evidence to suggest that GLP-1 receptor agonists can reduce the activity of
+acetylcholinesterase, increasing the availability of acetylcholine in the brain, albeit this
+effect is less pronounced compared to traditional acetylcholinesterase inhibitors used in AD
+treatment. Furthermore, SEM can enhance the cholinergic system function by supporting
+the growth and maintenance of cholinergic synapses [41,45].
+Figure 2 shows the pathogenic mechanisms of AD and PD and the effects (decrease/
+increase) produced by SEM therapy.
+Various experimental studies have shown the neurotrophic effects of GLP-1 agonists,
+although the exact mechanism of neuroprotection is not yet fully understood [18,20]. SEM,
+especially, is considered a versatile multifaceted agent [49,50]; it can activate both the
+production and signaling of neuronal stem cells [49].
+Incretin signaling has also proven beneficial with regard to the outgrowth of the
+essential synaptic components called neurites through a mechanism similar to that of the
+nerve growth factor (NGF) [20,51]. Nevertheless, chronic administration of GLP-1 agonists
+(for more than 4 weeks) in mice models of diabetes has led to early DCX-positive neurons in
+the dentate gyrus area [51]. Neuronal precursors and other immature nervous cells usually
+express DCX, a microtubule-associated protein, suggesting an active division process and
+multiplication [51]. After binding and activating GLP-1 receptors, cAMP levels increase
+rapidly and activate two pathways through PI3K (phosphoinositide 3-kinase) and protein
+kinase A, being involved in protein and mitochondrial biogenesis while inhibiting neuronal
+apoptosis [20,51]. Therefore, GLP-1 agonists have been associated with neurotrophic effects.
+Curr. Issues Mol. Biol. 2024, 46
+5934
+ 
+Figure 2. The pathogenesis of AD and PD and the effects of SEM.
+The PI3K/Akt signaling pathway has been experimentally correlated with the neuro-
+protective properties of SEM due to enhanced mitochondrial functionality and reduction
+of neuro-apoptotic reactions [20]. Another GLP-1 agonist, exenatide, has initiated cellular
+stem proliferation through ciliary neurotrophic factor (CNTF), increased Ki-67 gene expres-
+sion, and also induced microglial activation with reduction of astrogliosis [51], suggesting
+GLP-1 agonists utility in both AD and PD.
+Even more, SEM PI3K/Akt pathway activation led to inhibition of a proinflammatory
+and neurodegenerative serine/threonine kinase (GSK3β or glycogen synthase kinase-3),
+noted in various nervous system diseases [52,53]. However, regulation of GSK3β by treat-
+ment GLP-1 agonists is complex and needs to be investigated in further experimental or
+clinical studies. Among its neuroprotective and neurotrophic effects, SEM has activated
+proteolytic and autophagic mechanisms that further led to the diminished accumulation
+of α-synuclein and therefore maintained an equilibrium among dopaminergic neurons in
+the substantia nigra in experimental-induced PD models [29,49]. This suggests a strong
+correlation between SEM treatment and improved mitochondrial functionality with re-
+duced impairment of autophagic and lysosomal pathways, which needs to be monitored in
+clinical studies [20].
+Curr. Issues Mol. Biol. 2024, 46
+5935
+4. SEM Pharmacokinetics in Animal Models
+SEM, an acylated GLP-1 analog, emerges as a distinctive contender among the insulin
+receptor agonists (IRAs) scrutinized by the Salameh team [18]. Unlike linear peptides
+such as exenatide and lixisenatide, SEM exhibits acylation, a characteristic it shares with
+liraglutide. Notably, the acylated dual agonist, Peptide 19, stands out for its significantly
+greater lipid solubility compared to its counterparts, including liraglutide and SEM. This
+heightened lipid solubility could potentially influence the pharmacokinetics and distribu-
+tion of Peptide 19 in vivo. Moreover, SEM demonstrates remarkable stability, with less
+than 2% degradation in serum and less than 12% in the whole brain over the specified time
+frame of 60 min [18,54–57]. In another study [58], the stability of SEM was evaluated under
+four different storage conditions (i.e., 4 h at room temperature, 7 days at −70 ◦C, 24 h in the
+autosampler, and freeze/thaw cycles). It was found that SEM exhibited average stability
+ranging from 93.94% to 106.13% in plasma and 91.64% to 107.31% in brain tissue, with
+no significant deviations observed under all tested conditions [58]. Such robust stability
+positions SEM favorably when compared to other IRAs like DA3-CH, which experiences
+higher degradation rates, indicating that SEM remains stable for routine analysis. These
+structural and stability distinctions underscore SEM’s potential advantages in bioavailabil-
+ity and durability, contributing to its unique profile within the landscape of insulin receptor
+agonists [18,58–60].
+Following intravenous administration, SEM plasma concentrations exhibited a multi-
+exponential decline, with an average half-life (T1/2) of 9.26 ± 1.06 h and an average
+clearance and distribution volume estimated at 0.21 mL/min/kg (0.10 L/kg) [58]. In a
+study on CD-1 mice conducted by Salameh’s team, the serum clearance of SEM labeled
+with mCi Na 125I was 2.5 h. Concerning subcutaneous administration, SEM plasma
+concentration increased gradually, reaching peak concentration between 3 and 12 h, and
+decreased with an average half-life of 7.22–8.99 h [18]. The absolute bioavailability of
+SEM in rats was reported to be 76.65–82.85%. However, in humans, the half-life after s.c.
+administration ranges between 165 and 183 h, with the highest bioavailability (89%) among
+all GLP-1 agonists [59–62].
+Brain influx rates were analyzed to assess SEM’s ability to cross the BBB. It was
+observed that there was no significant correlation between blood-to-serum (B/S) ratios
+and exposure time, indicating a lack of transport. Additionally, SEM, along with other
+tested IRAs, exhibited varying capabilities in accessing the brain parenchyma. Within a
+15 min timeframe after i.v. injection, the majority of DA4-JC, DA3-CH, exenatide, Pep-
+tide 17, and lixisenatide successfully entered the brain parenchyma. Conversely, Peptide
+21 and liraglutide were predominantly sequestered in brain endothelial cells during the
+same period, indicating an obstacle to complete passage across the capillary wall. No-
+tably, SEM and Peptide 19 encountered challenges in reliable detection within the brain
+parenchyma [18,58,63].
+Despite the assertion that SEM generally does not penetrate the BBB, there is intriguing
+evidence of localized distribution of SEM within the brain, particularly in the hypotha-
+lamus [63,64]. Concentrations of SEM in the hypothalamus were notably higher than
+those observed in other brain regions, exhibiting an average concentration and blood-brain
+partition coefficient (Kp) that were 2.26- and 1.82-fold higher, respectively, compared to the
+total brain following both intravenous and subcutaneous injections [58].
+This localized distribution in the hypothalamus is significant as it aligns with the
+proposed effects of SEM in the brain, such as neuroprotection. These effects are believed to
+be associated with the interaction of SEM with GLP-1 receptors in the brain [64–68]. This
+paradoxical finding underscores the complexity of SEM’s interaction with the brain and
+challenges the conventional understanding of its BBB permeability.
+5. SEM Potential Mechanism of Action in AD
+AD is a progressive neurodegenerative disorder characterized by a decline in cognitive
+function, memory impairment, and changes in behavior and personality. It is the most
+Curr. Issues Mol. Biol. 2024, 46
+5936
+common cause of dementia among older adults. The pathological disturbances in AD are
+multifaceted and involve a combination of genetic, molecular, and cellular mechanisms. The
+primary pathological hallmarks of AD include amyloid-beta (Aβ) plaques, neurofibrillary
+tangles (NFTs), neuroinflammation, and synaptic and neuronal loss [69].
+Aβ plaques are extracellular deposits of amyloid-beta peptides that accumulate in
+the brain. These peptides are derived from the amyloid precursor protein (APP), which is
+cleaved by the enzymes β-secretase and γ-secretase. The accumulation of Aβ is thought
+to result from an imbalance between production and clearance. The aggregation of Aβ
+peptides leads to the formation of soluble oligomers, which are neurotoxic, and eventually
+to the deposition of insoluble fibrils in plaques. The toxic oligomers disrupt synaptic
+function, impairing communication between neurons. They also induce oxidative stress
+and inflammatory responses, contributing to neuronal damage and cell death [70].
+NFTs are intracellular aggregates of hyperphosphorylated tau protein. Tau is nor-
+mally associated with microtubules, aiding in their stabilization and function in neuronal
+transport. In AD, tau becomes abnormally phosphorylated, leading to its detachment from
+microtubules and aggregation into paired helical filaments that form NFTs. The forma-
+tion of NFTs disrupts the microtubule network, impairing axonal transport and leading
+to neuronal dysfunction and death. The spread of tau pathology follows a stereotypical
+pattern, starting in the entorhinal cortex and hippocampus before progressing to other
+brain regions [71].
+Neuroinflammation is a significant component of AD’s pathology. It involves ac-
+tivating microglia and astrocytes, the brain’s resident immune cells, in response to Aβ
+plaques and NFTs. Activated microglia and astrocytes release pro-inflammatory cytokines
+and chemokines, contributing to a chronic inflammatory environment. This inflammation
+exacerbates neuronal injury and promotes further Aβ and tau pathology. Additionally,
+chronic neuroinflammation can disrupt the BBB, leading to further neuronal damage [72].
+Synaptic loss and neuronal death are key features of AD, leading to the clinical
+symptoms of cognitive decline and memory impairment. The combined effects of Aβ
+toxicity, tau pathology, and neuroinflammation result in synaptic dysfunction and loss.
+Synapses are the primary sites of neural communication, and their loss directly correlates
+with cognitive deficits. Neuronal death occurs through various mechanisms, including
+apoptosis and necrosis, leading to brain atrophy [73].
+Genetic factors play a significant role in AD, especially in early-onset cases. Mutations
+in genes such as APP, PSEN1, and PSEN2 are associated with familial forms of AD, leading
+to increased production of Aβ [74,75].
+Cerebrovascular disease and impaired cerebral blood flow are increasingly recognized
+as contributing factors in AD. Vascular dysfunction can exacerbate Aβ deposition and tau
+pathology by impairing clearance mechanisms and promoting hypoxia and oxidative stress.
+This can further enhance neuroinflammation and neuronal damage [76].
+Increased oxidative stress, resulting from an imbalance between the production of
+ROS and antioxidant defenses, is observed in AD. This leads to lipid peroxidation, protein
+oxidation, and DNA damage, contributing to neuronal injury. Impaired mitochondrial
+function is a hallmark of AD, leading to reduced energy production, increased ROS, and
+activation of apoptotic pathways [77,78].
+5.1. Cell Viability
+SEM has shown protective effects against the detrimental effects of Aβ25-35 on SH-SY5Y
+cells [35] and has also been found to activate the SIRT1/GLUT4 pathway [33,36,64–68,79,80].
+5.2. Apoptosis Inhibition
+SEM prevents Aβ25-35-induced apoptosis [39], as evidenced by elevated levels of the
+prosurvival BCl2 protein and reduced levels of the proapoptotic Bax protein. BCl2 is recognized
+for its anti-apoptotic function, whereas Bax promotes apoptosis [35]. This alteration in their
+equilibrium implies a protective effect against programmed cell death [33,35,36].
+Curr. Issues Mol. Biol. 2024, 46
+5937
+5.3. Enhanced Autophagy
+Initially, Aβ25-35 inhibits autophagy, but this inhibition is reversed in the presence of
+SEM [24,32,35,39]. Autophagy is a cellular process involving the degradation and recycling
+of cellular components. The reversal is confirmed by alterations in the expression of
+key autophagy-related proteins: LC3II (a marker of autophagosome formation) increases;
+ATG7 (an essential autophagy-related protein) exhibits enhanced expression; P62 (a protein
+degraded during autophagy) decreases; Beclin1 (a regulator of autophagy initiation) shows
+increased expression [35,68,80].
+5.4. SIRT1/GLUT4 Pathway
+SEM enhances the expression of Sirtuin 1 (SIRT1), a protein involved in various cellular
+processes such as glucose metabolism, energy regulation, and cellular stress response, as well
+as the expression of GLUT4 (Glucose transporter 4), a pivotal protein facilitating glucose
+transport into cells. GLUT4 holds particular significance in glucose metabolism [33,36]. The
+interplay between SIRT1 and GLUT4, known as the SIRT1/GLUT4 pathway, appears to be
+crucial [33,36,68]. This pathway likely contributes to the regulation of glucose metabolism,
+potentially augmenting glucose uptake by cells, particularly in regions like the hippocampal
+CA3 region [33,36,68].
+5.5. Improved Aβ and Tau Pathology
+SEM appears to mitigate Aβ pathology in the hippocampal CA3 region, imply-
+ing a potential therapeutic effect on the aggregation or build-up of Aβ, a hallmark of
+AD [33,36,81,82]. Tau pathology involves the accumulation of abnormal tau protein, result-
+ing in neurofibrillary tangles within nerve cells [33,36]. Tau pathology is another prominent
+characteristic of AD. SEM also exhibits the ability to alleviate tau pathology in the same
+hippocampal CA3 region, suggesting a potential influence on the abnormal aggregation or
+alteration of tau proteins, thereby contributing to the amelioration of AD-related pathologi-
+cal changes [33,36,82–86].
+5.6. Reduction of Neuroinflammation
+Another potential mechanism proposed for SEM in the context of dementia, which may
+also be extrapolated to AD, involves neuroprotection through the reduction of neuroinflam-
+mation [84,85,87], particularly concerning microglial involvement in neurodegenerative
+diseases. SEM has been demonstrated to decrease markers of systemic inflammation in
+patients, and both liraglutide and SEM have exhibited anti-inflammatory effects by mitigat-
+ing the development of atherosclerotic plaques in mouse models deficient in APOE and
+LDLr [84,85,87].
+6. SEM Potential Mechanism of Action in PD
+The pathological disturbances in PD are complex and involve a combination of ge-
+netic, molecular, and cellular mechanisms. The primary pathological hallmarks include
+the loss of dopaminergic neurons in the substantia nigra, the presence of Lewy bodies,
+neuroinflammation, oxidative stress, and mitochondrial dysfunction. The most prominent
+pathological feature of PD is the selective loss of dopaminergic neurons in the substantia
+nigra pars compacta. The degeneration of these neurons leads to a significant reduction in
+dopamine levels in the striatum, a critical brain region involved in regulating movement.
+The loss of dopamine disrupts the balance between the excitatory and inhibitory pathways
+in the basal ganglia, leading to the characteristic motor symptoms of PD [16].
+Lewy bodies are intracytoplasmic inclusions composed primarily of α-synuclein, a
+presynaptic neuronal protein. The presence of Lewy bodies is a key histopathological hall-
+mark of PD. α-Synuclein undergoes misfolding and aggregation, forming insoluble fibrils
+that are deposited as Lewy bodies within neurons. The aggregation of α-synuclein is be-
+lieved to impair various cellular functions, including synaptic vesicle trafficking, mitochon-
+drial function, and protein degradation pathways, contributing to neuronal death [88,89].
+Curr. Issues Mol. Biol. 2024, 46
+5938
+Neuroinflammation is a significant feature of PD, involving the activation of microglia
+and astrocytes, the brain’s resident immune cells. Activated microglia and astrocytes release
+pro-inflammatory cytokines and chemokines, creating a chronic inflammatory environment.
+This inflammation contributes to neuronal injury and exacerbates the progression of the
+disease. Neuroinflammation may be triggered by the presence of α-synuclein aggregates
+and other cellular debris resulting from neuronal degeneration.
+Oxidative stress plays a crucial role in the pathogenesis of PD. It results from an
+imbalance between the production of ROS and the brain’s ability to detoxify these reactive
+intermediates. Dopaminergic neurons are especially vulnerable to oxidative stress due
+to dopamine metabolism, which generates ROS. Oxidative stress can damage cellular
+components, including lipids, proteins, and DNA, leading to neuronal dysfunction and
+death. The accumulation of oxidized dopamine and α-synuclein also contributes to the
+formation of Lewy bodies [90,91].
+Mitochondrial dysfunction is a well-established feature of PD, affecting neurons’
+energy metabolism and viability. Mitochondria are responsible for ATP production through
+oxidative phosphorylation. In PD, there is evidence of impaired mitochondrial function,
+including deficiencies in complex I activity of the electron transport chain. This leads
+to reduced ATP production, increased ROS generation, and the activation of apoptotic
+pathways, contributing to neuronal death [92,93].
+Genetic factors contribute significantly to the pathogenesis of PD, especially in fa-
+milial cases. Mutations in these genes are associated with autosomal recessive forms of
+PD. They are involved in mitochondrial quality control, and their dysfunction leads to
+impaired mitochondrial function and increased susceptibility to oxidative stress [94]. An-
+other pathological feature in PD is impairment of the ubiquitin-proteasome system and
+autophagy-lysosome pathway. These pathways are essential for the clearance of dam-
+aged proteins and organelles. Dysfunction in these systems leads to the accumulation of
+misfolded proteins and cellular debris, contributing to neuronal death [95,96].
+6.1. Inhibition of Cell Death and Neurodegeneration
+Following the 6-OHDA treatment, there was a notable decrease in cell viability.
+Nonetheless, the administration of either SEM or liraglutide reversed this decline in cell
+viability. Notably, no discernible differences were observed between the effects of SEM and
+liraglutide treatments [23].
+Treatment with SEM improved neurodegeneration, especially in the ventral posterior
+medial and lateral nuclei of the thalamus (VPM/VPL) in Pla2g6−/−mice [97].
+Untreated PD mice exhibited significant downregulation of BClxL and BCl2. However,
+SEM treatment increased levels of both BClxL and BCl2, restoring them to levels found in
+wild-type controls [97]. Zhang et al. (2018) demonstrated that MPTP induces apoptosis
+by inhibiting mitochondrial enzyme complex I, and SEM partly reverses this process
+by modulating BCl2 and Bax levels (Table 1) [32]. Additionally, SEM interferes with
+mechanisms leading to the accumulation and aggregation of α-synuclein (α-syn), reducing
+α-syn expression and potentially preventing the spread of toxic forms of α-syn between
+neurons, thus promoting neuronal survival [24,31,35,97–103].
+Curr. Issues Mol. Biol. 2024, 46
+5939
+Table 1. Characteristics of animal studies that analyze the impact of SEM in PD.
+Article
+Animals/
+Cells
+Study Design
+(Randomization, Blind)
+Pathology Model
+Biochemical Tests
+Behavior Tests
+SEM
+(dose, Administration,
+Period of Time)
+Other Drugs
+Poupon-Bejuit 2022
+[97]
+Mice
+Randomized, double-blind
+Pla2g6−/−transgenic
+mice
+-
+Hematoxylin/eosin staining
+-
+PAS staining.
+-
+Immunohistochemistry: CD68, NeuN,
+GFAP, Iba-1.
+-
+Western blot: RIP1, RIP3, β-actin.
+-
+PCR: GLP-1R gene, ATF-3, BCl2,
+BClxL Bax.
+-
+Stereology: pan-neuronal marker
+NeuN.
+-
+Blood analysis: total white blood cell
+count, neutrophils, lymphocytes,
+monocytes, eosinophils and basophils
+count, hematocrit, platelets, red blood
+cells, hemoglobin, and mean
+corpuscular volume.
+Open field
+Rotarod
+Vertical pole
+0.5, 0.25, 0.15 µg/g, i.p.
+injected once a week until
+the end of the experiment
+No
+Zhang 2018
+[32]
+Mice
+Randomized
+MPTP 20 mg/kg i.p. once
+daily for 7 days
+-
+Immunohistochemistry: TH, GFAP,
+Iba-1, 4-HNE, BCl2, Bax.
+-
+Western blot: BCl2, Bax, β-actin,
+ATC7, LC2, Beclin1, SQSTM1, P62.
+Open field
+Rotarod
+Footprint
+25 nmol/kg, i.p., once daily
+for 7 days
+Liraglutide
+25 nmol/kg i.p. once daily
+for 7 days
+Zhang 2019
+[103]
+Mice
+In vivo, randomized
+MPTP 20 mg/kg i.p. once
+daily for 30 days
+-
+Immunohistochemistry: TH, GFAP,
+Iba-1, 4-HNE.
+-
+Western blot: BCl2, Bax, β-actin,
+α-Syn, ATC7, LC3, Beclin1, SQSTM1,
+GDNF.
+Open field
+Rotarod
+Footprint gait
+Grip strength
+25 nmol/kg, i.p., once daily
+for 30 days
+Liraglutide
+25 nmol/kg i.p. once daily
+for 30 days
+Zhang 2022
+[20]
+Rats
+Randomized, blind
+6-OHDA
+-
+ELISA: DA, TNF-α, IL-1β.
+-
+Western blot: TH, α-syn, IRS-1,
+IRS-1(phospho-S312), β-actin,
+GAPDH.
+-
+Immunofluorescence: TH.
+Apomorphine Rotation
+25 nmol/kg, i.p., once daily
+for 30 days postlesion
+DA5-CH
+25 nmol/kg, i.p., once daily
+for 30 days postlesion
+Curr. Issues Mol. Biol. 2024, 46
+5940
+Table 1. Cont.
+Article
+Animals/
+Cells
+Study Design
+(Randomization, Blind)
+Pathology Model
+Biochemical Tests
+Behavior Tests
+SEM
+(dose, Administration,
+Period of Time)
+Other Drugs
+Liu 2022
+[23]
+SH-SY5Y cells
+In vitro
+6-OHDA
+-
+MTT method.
+-
+Western blot: LC3II, LC3I, Beclin1, P62,
+β-actin, ATG7.
+-
+Flow cytometry: measurement of ROS
+levels, membrane potential.
+Not applicable
+0, 1, 10, 100 nmol/L
+semaglutide
+Liraglutide
+0, 1, 10, 100 nmol/L
+Abbreviations: Pla2g6−/−—Phospholipase A2, group VI knockout (a genetic modification where the Pla2g6 gene is knocked out), PAS—Periodic Acid-Schiff stain (a staining method
+used to detect glycogen and other carbohydrates), CD68—Cluster of differentiation 68 (a marker for macrophages and monocytes), NeuN—Neuronal Nuclei (a neuron-specific
+nuclear protein), GFAP—glial fibrillary acidic protein (a marker for astrocytes), Iba-1—Ionized calcium-binding adapter molecule 1 (a marker for microglia), RIP1—Receptor-
+interacting protein 1, RIP3—rRceptor-interacting protein 3, β-actin—Beta-actin (a cytoskeletal protein often used as a loading control in Western blots), PCR—Polymerase chain
+reaction, GLP-1R gene—Glucagon-like peptide-1 receptor gene, ATF-3—activating transcription Factor 3, BCl2—B-cell lymphoma 2 (anti-apoptotic protein), BClxL—B-cell lymphoma-
+extra large (anti-apoptotic protein), Bax—Bcl-2-associated X protein (pro-apoptotic protein), MPTP—1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (a neurotoxin), TH—Tyrosine
+Hydroxylase (an enzyme involved in dopamine synthesis), 4-HNE—4-Hydroxynonenal (a marker of oxidative stress), ATC7—Autophagy-related gene 7 (part of the autophagy process),
+LC2—Light chain 2 (part of the autophagy process), Beclin1—Bcl-2-interacting myosin-like coiled-coil protein 1, SQSTM1—Sequestosome-1 (also known as P62, a protein involved in
+autophagy), P62—Sequestosome-1, α-Syn—Alpha-synuclein (a protein associated with neurodegenerative disorders), LC3—Microtubule-associated protein 1A/1B-light chain 3 (part
+of the autophagy process), GDNF—Glial cell-derived neurotrophic Factor, 6-OHDA—6-Hydroxydopamine (a neurotoxin), DA—Dopamine, TNF-α—Tumor necrosis factor-alpha,
+IL-1β—Interleukin-1 beta, IRS-1—Insulin receptor substrate 1, IRS-1(phospho-S312)—Phosphorylated form of IRS-1 at serine 312, GAPDH—Glyceraldehyde-3-phosphate dehydrogenase
+(a common housekeeping gene used as a loading control in experiments), DA5-CH—Dopamine-5,6-chlorohydroxydihydroxyphenylalanine, ATG7—Autophagy-related gene 7,
+LC3II—Microtubule-associated protein 1A/1B-light chain 3 (processed form), LC3I—Microtubule-associated protein 1A/1B-light chain 3 isoform I, ROS—Reactive oxygen species.
+Curr. Issues Mol. Biol. 2024, 46
+5941
+In the MPTP murine model of PD, which disrupts dopamine synthesis in the brain,
+both SEM and liraglutide restore dopamine synthesis. SEM proves more effective than
+liraglutide in normalizing TH expression [14,24,30,32], potentially by reducing the num-
+ber of damaged dopaminergic neurons [30,32]. SEM’s efficacy in this context might be
+attributed to its ability to protect dopaminergic neurons against stress and damage rather
+than directly enhancing dopamine synthesis. In another murine PD model involving 6-
+hydroxydopamine (6-OHDA), SEM shields against 6-OHDA-induced damage to dopamin-
+ergic neurons in the substantia nigra [20,30]. Another potential mechanism involves
+restoring glial cell line-derived neurotrophic factor levels (GDNF), crucial for the survival
+of midbrain dopamine neurons implicated in PD [20,24,30,32,99–101]. Interestingly, SEM
+does not significantly impact the recovery of dopamine synthesis in the substantia nigra;
+however, the administration of DA5-CH exhibits higher dopamine levels [30,32,99–101].
+This suggests that while SEM plays a critical role in maintaining the viability and function
+of dopaminergic neurons, its effects on dopamine synthesis might be indirect, focusing
+more on neuronal survival and health rather than directly increasing dopamine production
+(Figure 3).
+Figure 3. Mechanism of action of SEM and its impact on dopamine in AD and PD.
+SEM activates GLP-1 receptors, triggering cAMP/PKA and PI3K/Akt pathways,
+reducing oxidative stress and pro-inflammatory cytokines. This protects dopaminergic
+neurons therefore enhancing dopamine synthesis and preventing apoptosis. In PD, it
+improves motor control and slows neurodegeneration. In AD, it reduces beta-amyloid
+plaques and enhances cognitive function.
+Curr. Issues Mol. Biol. 2024, 46
+5942
+6.2. GSK3β Levels
+Treatment with SEM improved GSK3β levels in a murine model of PD, restoring them
+to levels comparable to those seen in wild-type animals. Additionally, phosphorylated
+GSK3β Y216 protein levels, which were elevated in untreated PD mice, returned to wild-
+type levels after SEM treatment (Table 1) [97].
+6.3. CREB Gene Expression
+Treatment with SEM elevated CREB mRNA levels in Pla2g6−/−mice, reinstating
+expression levels to those seen in wild-type controls [97].
+6.4. Inflammation Response
+Treatment with SEM markedly decreased CD68 immunoreactivity in all affected brain
+areas compared to controls [97].
+Untreated mice displayed significantly heightened microglial activation compared to
+wild-type controls in various brain regions. SEM treatment notably decreased microglial ac-
+tivation, except in the cerebellum [97]. The study conducted by Zhang’s team [20,30,32] also
+revealed a decrease in microgliosis in the substantia nigra, thereby improving the chronic
+inflammation response in the brain. PD animals exhibited significant astrogliosis in various
+brain regions; SEM treatment alleviated astrogliosis, particularly in the hippocampus, with
+no statistically significant difference observed in the thalamus and cerebellum [97], but
+also in the substantia nigra [20,30,32]. SEM demonstrates greater efficacy in reducing
+astrogliosis and microgliosis compared to liraglutide [30,32,103].
+6.5. Oxidative Stress
+Both SEM and liraglutide reduce oxidative stress, as measured by 4-hydroxynonenal
+biomarker levels. SEM displays greater effectiveness in diminishing oxidative stress by
+inhibiting the formation of ROS [20,30,32,102]. Both SEM and liraglutide protect against
+the detrimental effects of 6-OHDA by suppressing the elevation of ROS levels within
+cells. While exposure to 6-OHDA resulted in a notable increase in ROS levels, neither
+SEM nor liraglutide alone affected ROS levels compared to the control group. However,
+when combined with 6-OHDA, both SEM and liraglutide effectively lowered ROS levels,
+with SEM exhibiting superior efficacy in reducing ROS levels compared to liraglutide
+(Table 1) [23].
+6.6. Autophagy Regulation
+The activation of Beclin-1 [20,23,32] initiates autophagosome formation, initiating the
+process of autophagy. The protein ATG7 is essential for lysosome formation and contributes
+to the delayed neurodegeneration of dopamine (DA) neurons. P62, a critical cargo adaptor
+for selective autophagy, plays a central role in clearing misfolded proteins. SEM enhances
+the expression of Beclin-1, ATG7, and LC3 (leading to increased conversion of LC3B-I to
+LC3B-II) [20,30,32], as well as P62. This suggests that the drug mitigates autophagy of
+dopaminergic neurons, potentially promoting neuroprotection [32].
+6.7. Effects on Mitochondrial Membrane Potential (∆Ψm)
+Both SEM and liraglutide counteract the damage inflicted by 6-OHDA on ∆Ψm and
+mitochondrial dysfunction. Administration of either SEM or liraglutide alone does not
+impact ∆Ψm levels [23]. However, when SEM or liraglutide is co-administered with
+6-OHDA, there is a significant improvement in ∆Ψm levels, indicating the prevention of
+6-OHDA-induced mitochondrial toxicity. Notably, SEM demonstrates greater efficacy than
+liraglutide in enhancing ∆Ψm levels [23].
+Curr. Issues Mol. Biol. 2024, 46
+5943
+7. SEM Effects on Motor Recovery
+7.1. AD
+7.1.1. Open Field Test
+There were no statistically significant differences observed in the total motor distance
+and the percentage of time spent in the central area among the four groups. The drug
+interventions did not influence the motor ability and spatial exploration ability of the
+mice [33,36].
+7.1.2. Novel Object Recognition Test
+During the familiarization phase, no statistically significant differences were observed
+in the percentage of time spent exploring the first and second objects among the groups.
+However, in the testing phase, there was a significant difference in the novel object index
+(NOI) among the groups. The transgenic PD mice demonstrated a decreased NOI compared
+to WT mice (p < 0.01), and treatment with SEM increased NOI in PD mice (p < 0.05). Notably,
+this effect was reversed by the SIRT1 inhibitor EX527 [33,36].
+7.1.3. Y-Maze Task
+No significant variance was observed in the total number of arm entries across the
+various groups. However, a notable distinction was evident in the percentage of correct
+spontaneous alternations among the groups. Notably, transgenic PD mice displayed a
+decrease compared to WT mice (p < 0.05), and treatment with SEM partially mitigated this
+decline (p < 0.05). It is noteworthy the protective effect was reversed by EX527 [33,36].
+7.2. PD
+7.2.1. Rotarod Test
+Pla2g6−/−mice untreated demonstrated significant progressive deficits from 10 to
+14 weeks compared to age-matched wild-type controls [97]. However, Pla2g6−/−mice
+treated with 0.5 µg/g SEM did not display significant deficits in rotarod performance at
+any measured time point compared to wild-type controls [97]. MPTP impeded the mice’s
+ability to remain on the rotating rod for 3 min [32,103]. Post-hoc analysis revealed no
+difference between the control and SEM or liraglutide groups but a notable distinction
+between the control and MPTP groups. Both liraglutide and SEM ameliorated bradykinesia
+and imbalance induced by MPTP, with SEM showing greater efficacy [32,103].
+7.2.2. Vertical Pole Test
+Commonly employed to evaluate locomotor function and hind limb strength, the verti-
+cal pole test revealed that untreated Pla2g6−/−mice exhibited notable progressive deficits
+beginning at 9 weeks. Administration of 0.5 µg/g SEM led to a marked enhancement in
+vertical pole test performance from weeks 9 to 13, although statistical significance was not
+sustained at 14 weeks [97].
+7.2.3. Open Field Test
+Untreated Pla2g6−/−mice exhibited mobility parameter abnormalities at 12 weeks
+compared to the wild-type controls. Pla2g6−/−mice treated with high-dose SEM (0.5
+µg/g—more than three times higher than the equivalent dose given to adult diabetics via
+subcutaneous administration) showed similar results to age-matched wild-type controls
+for most parameters, with notable differences observed in freezing time at 12 weeks [97].
+Conversely, MPTP injection decreased spontaneous locomotion and overall travel time in
+mice [30,32]. Post-hoc analyses revealed no distinction between the control and liraglutide
+or SEM groups but a significant contrast between the control and MPTP groups [32]. SEM
+demonstrated greater efficacy than liraglutide in restoring MPTP-induced impairments in
+locomotor and exploratory activity [32]. In another study by Zhang et al. [103], there was
+an overall disparity in distance traveled, with no discrepancy between the control group
+and groups treated with liraglutide or SEM. However, significant variances were noted
+Curr. Issues Mol. Biol. 2024, 46
+5944
+between the control and MPTP groups, MPTP + liraglutide and MPTP + SEM [103]. Both
+liraglutide and SEM normalized MPTP-induced impairments in locomotor and exploratory
+activity [103]. No significant distinction was observed between the MPTP + SEM and MPTP
++ liraglutide groups [103], despite SEM demonstrating superior benefits over liraglutide in
+the previous study [32].
+7.2.4. Footprint Test (Motor Coordination)
+MPTP induced postural and gait abnormalities in mice, resulting in a significant
+overall difference between groups. Post-hoc analyses showed no distinction between
+the control and liraglutide or SEM groups but a notable difference between the control
+and MPTP groups. Both liraglutide and SEM ameliorated the abnormal posture and gait
+induced by MPTP, with SEM demonstrating greater effectiveness [32,103].
+7.2.5. Grip Strength Test
+SEM and liraglutide both enhanced muscle strength impaired by MPTP, with SEM
+showing greater efficacy compared to liraglutide [103].
+7.2.6. Apomorphine-Induced Rotation
+Variations in rotational behavior among the experimental conditions were evident,
+with significant differences observed across all groups [30]. The sham + saline group did
+not display contralateral rotations upon apomorphine challenge [30]. Both the 6-OHDA +
+saline group and the 6-OHDA + SEM group exhibited a notable increase in contralateral
+rotations following apomorphine injection compared to the sham + saline group (p <
+0.0001) [30]. The 6-OHDA + SEM group showed a significant difference from the 6-OHDA
++ saline group (p < 0.001). Moreover, the 6-OHDA + DA5-CH group displayed significant
+differences from both the 6-OHDA + saline group (p < 0.001) and the 6-OHDA + SEM
+group (p < 0.0004) [30]. The study suggests that DA5-CH exhibits greater potency than
+SEM in safeguarding the brain against 6-OHDA toxicity [30].
+8. Conclusions
+In summary, the studies indicate a diverse potential for SEM in alleviating neurode-
+generative mechanisms, offering valuable perspectives for its therapeutic use in associated
+conditions. The literature collectively presents compelling evidence regarding the neu-
+roprotective capabilities of SEM in AD and PD. The drug mitigates AD pathology and
+associated symptoms, such as memory impairment, by fostering glycolysis through the
+GLP-1/SIRT1/GLUT4 pathway.
+SEM proves effective in normalizing impaired motor function, preserving dopamine
+levels, reducing inflammation, oxidative stress, and apoptosis, and enhancing autophagy
+to safeguard against dopaminergic neuron loss in models of motor impairment.
+Despite the promising preclinical results, further research is essential to fully eluci-
+date the underlying mechanisms of SEM’s neuroprotective effects. Understanding these
+mechanisms is imperative for optimizing SEM’s therapeutic potential.
+The ongoing clinical trials of SEM in AD and PD aim to provide crucial insights
+into SEM’s therapeutic potential, mechanisms of action, and optimal dosing strategies.
+Successful outcomes from these trials could lead to new, effective treatment options for
+millions of individuals affected by AD and PD, ultimately improving their quality of life
+and offering hope for better disease management.
+Author Contributions: Conceptualization and methodology, A.D.M., I.K.S.B. and M.B.; writing—original
+draft preparation, A.D.M. and I.K.S.B.; writing—review and editing, L.M.-T. and M.B.; supervision, L.M.-T.
+and M.B. All authors have read and agreed to the published version of the manuscript.
+Curr. Issues Mol. Biol. 2024, 46
+5945
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1.
+Su, M.; Nizamutdinov, D.; Liu, H.; Huang, J.H. Recent Mechanisms of Neurodegeneration and Photobiomodulation in the
+Context of Alzheimer’s Disease. Int. J. Mol. Sci. 2023, 24, 9272. [CrossRef]
+2.
+Bano, D.; Ehninger, D.; Bagetta, G. Decoding metabolic signatures in Alzheimer’s disease: A mitochondrial perspective. Cell
+Death Discov. 2023, 9, 432. [CrossRef]
+3.
+Tahami Monfared, A.A.; Byrnes, M.J.; White, L.A.; Zhang, Q. Alzheimer’s Disease: Epidemiology and Clinical Progression.
+Neurol. Ther. 2022, 11, 553–569. [CrossRef]
+4.
+Ferrer, I. Hypothesis review: Alzheimer’s overture guidelines. Brain Pathol. 2023, 33, e13122. [CrossRef] [PubMed]
+5.
+Theron, D.; Hopkins, L.N.; Sutherland, H.G.; Griffiths, L.R.; Fernandez, F. Can Genetic Markers Predict the Sporadic Form of
+Alzheimer’s Disease? An Updated Review on Genetic Peripheral Markers. Int. J. Mol. Sci. 2023, 24, 13480. [CrossRef] [PubMed]
+6.
+Wei, P. Ultra-Early Screening of Cognitive Decline Due to Alzheimer’s Pathology. Biomedicines 2023, 11, 1423. [CrossRef]
+7.
+Prajjwal, P.; Flores Sanga, H.S.; Acharya, K.; Tango, T.; John, J.; Rodriguez, R.S.C.; Dheyaa Marsool Marsool, M.; Sulaimanov, M.;
+Ahmed, A.; Hussin, O.A. Parkinson’s disease updates: Addressing the pathophysiology, risk factors, genetics, diagnosis, along
+with the medical and surgical treatment. Ann. Med. Surg. 2023, 85, 4887–4902. [CrossRef]
+8.
+Adam, H.; Gopinath, S.C.B.; Md Arshad, M.K.; Adam, T.; Parmin, N.A.; Husein, I.; Hashim, U. An update on pathogenesis and
+clinical scenario for Parkinson’s disease: Diagnosis and treatment. 3 Biotech 2023, 13, 142. [CrossRef]
+9.
+Smits, M.M.; Van Raalte, D.H. Safety of Semaglutide. Front. Endocrinol. 2021, 12, 645563, Erratum in: Front. Endocrinol. 2021,
+12, 786732. [CrossRef]
+10.
+Meier, J.J. Efficacy of Semaglutide in a Subcutaneous and an Oral Formulation. Front. Endocrinol. 2021, 12, 645617. [CrossRef]
+11.
+Nauck, M.A.; Quast, D.R.; Wefers, J.; Meier, J.J. GLP-1 receptor agonists in the treatment of type 2 diabetes—State-of-the-art. Mol.
+Metab. 2021, 46, 101102. [CrossRef] [PubMed]
+12.
+Vilsbøll, T.; Bain, S.C.; Leiter, L.A.; Lingvay, I.; Matthews, D.; Simó, R.; Helmark, I.C.; Wijayasinghe, N.; Larsen, M. Semaglutide,
+Reduction in Glycated Haemoglobin and the Risk of Diabetic Retinopathy. Diabetes Obes. Metab. 2018, 20, 889–897. [CrossRef]
+[PubMed]
+13.
+Gaborit, B.; Julla, J.B.; Besbes, S.; Proust, M.; Vincentelli, C.; Alos, B.; Ancel, P.; Alzaid, F.; Garcia, R.; Mailly, P.; et al. Glucagon-Like
+Peptide 1 Receptor Agonists, Diabetic Retinopathy and Angiogenesis: The AngioSafe Type 2 Diabetes Study. J. Clin. Endocrinol.
+Metab. 2020, 105, e1549-60. [CrossRef] [PubMed]
+14.
+Chen, F.; Chen, S.; Si, A.; Luo, Y.; Hu, W.; Zhang, Y.; Ma, J. The long-term trend of Parkinson’s disease incidence and mortality in
+China and a Bayesian projection from 2020 to 2030. Front. Aging Neurosci. 2022, 14, 973310. [CrossRef] [PubMed]
+15.
+Ramesh, S.; Arachchige, A.S.P.M. Depletion of dopamine in Parkinson’s disease and relevant therapeutic options: A review of the
+literature. AIMS Neurosci. 2023, 10, 200–231. [CrossRef] [PubMed]
+16.
+Zhou, Z.D.; Yi, L.X.; Wang, D.Q.; Lim, T.M.; Tan, E.K. Role of dopamine in the pathophysiology of Parkinson’s disease. Transl.
+Neurodegener. 2023, 12, 44. [CrossRef] [PubMed]
+17.
+Cramb, K.M.L.; Beccano-Kelly, D.; Cragg, S.J.; Wade-Martins, R. Impaired dopamine release in Parkinson’s disease. Brain 2023,
+146, 3117–3132. [CrossRef] [PubMed]
+18.
+Salameh, T.S.; Rhea, E.M.; Talbot, K.; Banks, W.A. Brain uptake pharmacokinetics of incretin receptor agonists showing promise
+as Alzheimer’s and Parkinson’s disease therapeutics. Biochem Pharmacol. 2020, 180, 114187, Erratum in: Biochem Pharmacol. 2023,
+210, 115474. https://doi.org/10.1016/j.bcp.2023.115474. [CrossRef]
+19.
+Cornell, S. A review of GLP-1 receptor agonists in type 2 diabetes: A focus on the mechanism of action of once-weekly agents.
+J. Clin. Pharm. Ther. 2020, 45 (Suppl. S1), 17–27. [CrossRef]
+20.
+Zhang, L.; Li, C.; Zhang, Z.; Zhang, Z.; Jin, Q.Q.; Li, L.; Hölscher, C. DA5-CH and Semaglutide Protect against Neurodegeneration
+and Reduce α-Synuclein Levels in the 6-OHDA Parkinson’s Disease Rat Model. Park. Dis. 2022, 2022, 1428817. [CrossRef]
+21.
+FDA Drug Approvals and Databases. Available online: https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trial-
+snapshot-ozempic (accessed on 15 February 2024).
+22.
+FDA Medicines. Available online: https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic (accessed on 15 February 2024).
+23.
+Liu, D.X.; Zhao, C.S.; Wei, X.N.; Ma, Y.P.; Wu, J.K. Semaglutide Protects against 6-OHDA Toxicity by Enhancing Autophagy and
+Inhibiting Oxidative Stress. Park. Dis. 2022, 2022, 6813017. [CrossRef] [PubMed]
+24.
+Chen, S.D.; Chuang, Y.C.; Lin, T.K.; Yang, J.L. Alternative role of glucagon-like Peptide-1 receptor agonists in neurodegenerative
+diseases. Eur. J. Pharmacol. 2023, 938, 175439. [CrossRef] [PubMed]
+25.
+Laurindo, L.F.; Barbalho, S.M.; Guiguer, E.L.; da Silva Soares de Souza, M.; de Souza, G.A.; Fidalgo, T.M.; Araújo, A.C.; de Souza
+Gonzaga, H.F.; de Bortoli Teixeira, D.; de Oliveira Silva Ullmann, T.; et al. GLP-1a: Going beyond Traditional Use. Int. J. Mol. Sci.
+2022, 23, 739. [CrossRef] [PubMed]
+Curr. Issues Mol. Biol. 2024, 46
+5946
+26.
+Kabahizi, A.; Wallace, B.; Lieu, L.; Chau, D.; Dong, Y.; Hwang, E.S.; Williams, K.W. Glucagon-like peptide-1 (GLP-1) signalling in
+the brain: From neural circuits and metabolism to therapeutics. Br. J. Pharmacol. 2022, 179, 600–624. [CrossRef] [PubMed]
+27.
+McLean, B.A.; Wong, C.K.; Campbell, J.E.; Hodson, D.J.; Trapp, S.; Drucker, D.J. Revisiting the Complexity of GLP-1 Action from
+Sites of Synthesis to Receptor Activation. Endocr. Rev. 2021, 42, 101–132. [CrossRef] [PubMed]
+28.
+Mayendraraj, A.; Rosenkilde, M.M.; Gasbjerg, L.S. GLP-1 and GIP receptor signaling in beta cells—A review of receptor
+interactions and co-stimulation. Peptides 2022, 151, 170749. [CrossRef] [PubMed]
+29.
+Kopp, K.O.; Glotfelty, E.J.; Li, Y.; Greig, N.H. Glucagon-like peptide-1 (GLP-1) receptor agonists and neuroinflammation:
+Implications for neurodegenerative disease treatment. Pharmacol. Res. 2022, 186, 106550. [CrossRef] [PubMed]
+30.
+Zhang, L.; Zhang, W.; Tian, X. The pleiotropic of GLP-1/GLP-1R axis in central nervous system diseases. Int. J. Neurosci. 2023,
+133, 473–491. [CrossRef] [PubMed]
+31.
+Mahapatra, M.K.; Karuppasamy, M.; Sahoo, B.M. Therapeutic Potential of Semaglutide, a Newer GLP-1 Receptor Agonist, in
+Abating Obesity, Non-Alcoholic Steatohepatitis and Neurodegenerative diseases: A Narrative Review. Pharm. Res. 2022, 39,
+1233–1248. [CrossRef]
+32.
+Zhang, L.; Zhang, L.; Li, L.; Hölscher, C. Neuroprotective effects of the novel GLP-1 long acting analogue semaglutide in the
+MPTP Parkinson’s disease mouse model. Neuropeptides 2018, 71, 70–80. [CrossRef]
+33.
+Wang, Y.; Hu, H.; Liu, X.; Guo, X. Hypoglycemic medicines in the treatment of Alzheimer’s disease: Pathophysiological links
+between AD and glucose metabolism. Front. Pharmacol. 2023, 14, 1138499. [CrossRef]
+34.
+Mulvaney, C.A.; Duarte, G.S.; Handley, J.; Evans, D.J.; Menon, S.; Wyse, R.; Emsley, H.C. GLP-1 receptor agonists for Parkinson’s
+disease. Cochrane Database Syst. Rev. 2020, 7, CD012990. [CrossRef]
+35.
+Chang, Y.F.; Zhang, D.; Hu, W.M.; Liu, D.X.; Li, L. Semaglutide-mediated protection against Aβ correlated with enhancement of
+autophagy and inhibition of apotosis. J. Clin. Neurosci. 2020, 81, 234–239. [CrossRef] [PubMed]
+36.
+Wang, Z.J.; Li, X.R.; Chai, S.F.; Li, W.R.; Li, S.; Hou, M.; Li, J.L.; Ye, Y.C.; Cai, H.Y.; Hölscher, C.; et al. Semaglutide ameliorates
+cognition and glucose metabolism dysfunction in the 3xTg mouse model of Alzheimer’s disease via the GLP-1R/SIRT1/GLUT4
+pathway. Neuropharmacology 2023, 240, 109716. [CrossRef]
+37.
+Dai, C.; Tan, C.; Zhao, L.; Liang, Y.; Liu, G.; Liu, H.; Zhong, Y.; Liu, Z.; Mo, L.; Liu, X.; et al. Glucose metabolism impairment in
+Parkinson’s disease. Brain Res. Bull. 2023, 199, 110672. [CrossRef] [PubMed]
+38.
+Yu, C.J.; Ma, D.; Song, L.L.; Zhai, Z.N.; Tao, Y.; Zhang, Y.; Cai, L.Y.; Hou, Y.H.; Chen, H.Y.; Wang, L.; et al. The role of GLP-1/GIP
+receptor agonists in Alzheimer’s disease. Adv. Clin. Exp. Med. 2020, 29, 661–668. [CrossRef] [PubMed]
+39.
+Gouveri, E.; Popovic, D.S.; Papanas, N. Potential New Therapeutic Implications of Semaglutide: New Colours of the Rainbow?
+Diabetes Ther. 2024, 15, 13–18. [CrossRef] [PubMed]
+40.
+Nowell, J.; Blunt, E.; Edison, P. Incretin and insulin signaling as novel therapeutic targets for Alzheimer’s and Parkinson’s disease.
+Mol. Psychiatry 2023, 28, 217–229. [CrossRef]
+41.
+Reich, N.; Hölscher, C. The neuroprotective effects of glucagon-like peptide 1 in Alzheimer’s and Parkinson’s disease: An
+in-depth review. Front Neurosci. 2022, 16, 970925. [CrossRef]
+42.
+Sadek, M.A.; Kandil, E.A.; El Sayed, N.S.; Sayed, H.M.; Rabie, M.A. Semaglutide, a novel glucagon-like peptide-1 agonist, amends
+experimental autoimmune encephalomyelitis-induced multiple sclerosis in mice: Involvement of the PI3K/Akt/GSK-3β pathway.
+Int. Immunopharmacol. 2023, 115, 109647. [CrossRef]
+43.
+Plascencia-Villa, G.; Perry, G. Exploring Molecular Targets for Mitochondrial Therapies in Neurodegenerative Diseases. Int. J.
+Mol. Sci. 2023, 24, 12486. [CrossRef] [PubMed]
+44.
+Tipa, R.O.; Balan, D.G.; Georgescu, M.T.; Ignat, L.A.; Vacaroiu, I.A.; Georgescu, D.E.; Raducu, L.; Mihai, D.A.; Chiperi, L.V.;
+Balcangiu-Stroescu, A.E. A Systematic Review of Semaglutide’s Influence on Cognitive Function in Preclinical Animal Models
+and Cell-Line Studies. Int. J. Mol. Sci. 2024, 25, 4972. [CrossRef]
+45.
+Chen, X.; Chen, S.; Li, Z.; Zhu, R.; Jia, Z.; Ban, J.; Zhen, R.; Chen, X.; Pan, X.; Ren, Q.; et al. Effect of semaglutide and empagliflozin
+on cognitive function and hippocampal phosphoproteomic in obese mice. Front. Pharmacol. 2023, 14, 975830. [CrossRef] [PubMed]
+46.
+Rebosio, C.; Balbi, M.; Passalacqua, M.; Ricciarelli, R.; Fedele, E. Presynaptic GLP-1 receptors enhance the depolarization-evoked
+release of glutamate and GABA in the mouse cortex and hippocampus. Biofactors 2018, 44, 148–157. [CrossRef]
+47.
+Park, J.S.; Kam, T.I.; Lee, S.; Park, H.; Oh, Y.; Kwon, S.H.; Song, J.J.; Kim, D.; Kim, H.; Jhaldiyal, A.; et al. Blocking microglial
+activation of reactive astrocytes is neuroprotective in models of Alzheimer’s disease. Acta Neuropathol. Commun. 2021, 9, 78.
+[CrossRef] [PubMed]
+48.
+Singh, B.; Day, C.M.; Abdella, S.; Garg, S. Alzheimer’s disease current therapies, novel drug delivery systems and future directions
+for better disease management. J. Control. Release 2024, 367, 402–424. [CrossRef] [PubMed]
+49.
+Lisco, G.; De Tullio, A.; Iovino, M.; Disoteo, O.; Guastamacchia, E.; Giagulli, V.A.; Triggiani, V. Dopamine in the Regulation of
+Glucose Homeostasis, Pathogenesis of Type 2 Diabetes, and Chronic Conditions of Impaired Dopamine Activity/Metabolism:
+Implication for Pathophysiological and Therapeutic Purposes. Biomedicines 2023, 11, 2993. [CrossRef]
+50.
+Gentilella, R.; Pechtner, V.; Corcos, A.; Consoli, A. Glucagon-like peptide-1 receptor agonists in type 2 diabetes treatment: Are
+they all the same? Diabetes Metab. Res. Rev. 2019, 35, e3070. [CrossRef] [PubMed]
+51.
+Kim, D.S.; Choi, H.I.; Wang, Y.; Luo, Y.; Hoffer, B.J.; Greig, N.H. A New Treatment Strategy for Parkinson’s Disease through the
+Gut-Brain Axis: The Glucagon-Like Peptide-1 Receptor Pathway. Cell Transplant. 2017, 26, 1560–1571. [CrossRef]
+Curr. Issues Mol. Biol. 2024, 46
+5947
+52.
+Beurel, E.; Grieco, S.F.; Jope, R.S. Glycogen synthase kinase-3 (GSK3): Regulation, actions, and diseases. Pharmacol. Ther. 2015,
+148, 114–131. [CrossRef]
+53.
+Duda, P.; Wi´sniewski, J.; Wójtowicz, T.; Wójcicka, O.; Ja´skiewicz, M.; Drulis-Fajdasz, D.; Rakus, D.; McCubrey, J.A.; Gizak, A.
+Targeting GSK3 signaling as a potential therapy of neurodegenerative diseases and aging. Expert. Opin. Ther. Targets. 2018, 10,
+833–848. [CrossRef] [PubMed]
+54.
+Kalinderi, K.; Papaliagkas, V.; Fidani, L. GLP-1 Receptor Agonists: A New Treatment in Parkinson’s Disease. Int. J. Mol. Sci. 2024,
+25, 3812. [CrossRef] [PubMed]
+55.
+Diz-Chaves, Y.; Maastor, Z.; Spuch, C.; Lamas, J.A.; González-Matías, L.C.; Mallo, F. Glucagon-like peptide 1 receptor activation:
+Anti-inflammatory effects in the brain. Neural Regen. Res. 2024, 19, 1671–1677. [CrossRef] [PubMed]
+56.
+Chao, A.M.; Tronieri, J.S.; Amaro, A.; Wadden, T.A. Semaglutide for the treatment of obesity. Trends Cardiovasc. Med. 2023, 33,
+159–166. [CrossRef] [PubMed]
+57.
+Bergmann, N.C.; Davies, M.J.; Lingvay, I.; Knop, F.K. Semaglutide for the treatment of overweight and obesity: A review. Diabetes
+Obes. Metab. 2023, 25, 18–35. [CrossRef] [PubMed]
+58.
+Lee, T.S.; Park, E.J.; Choi, M.; Oh, H.S.; An, Y.; Kim, T.; Kim, T.H.; Shin, B.S.; Shin, S. Novel LC-MS/MS analysis of the GLP-1
+analog semaglutide with its application to pharmacokinetics and brain distribution studies in rats. J. Chromatogr. B Analyt Technol.
+Biomed. Life Sci. 2023, 1221, 123688. [CrossRef] [PubMed]
+59.
+Hall, S.; Isaacs, D.; Clements, J.N. Pharmacokinetics and Clinical Implications of Semaglutide: A New Glucagon-Like Peptide
+(GLP)-1 Receptor Agonist. Clin. Pharmacokinet. 2018, 57, 1529–1538. [CrossRef]
+60.
+Secher, A.; Jelsing, J.; Baquero, A.F.; Hecksher-Sørensen, J.; Cowley, M.A.; Dalbøge, L.S.; Hansen, G.; Grove, K.L.; Pyke, C.;
+Raun, K.; et al. The arcuate nucleus mediates GLP-1 receptor agonist liraglutide-dependent weight loss. J. Clin. Investig. 2014, 124,
+4473–4488. [CrossRef] [PubMed]
+61.
+Jensen, C.B.; Pyke, C.; Rasch, M.G.; Dahl, A.B.; Knudsen, L.B.; Secher, A. Characterization of the Glucagonlike Peptide-1 Receptor
+in Male Mouse Brain Using a Novel Antibody and In Situ Hybridization. Endocrinology 2018, 159, 665–675. [CrossRef] [PubMed]
+62.
+Kapitza, C.; Nosek, L.; Jensen, L.; Hartvig, H.; Jensen, C.B.; Flint, A. Semaglutide, a once-weekly human GLP-1 analog, does
+not reduce the bioavailability of the combined oral contraceptive, ethinylestradiol/levonorgestrel. J. Clin. Pharmacol. 2015, 55,
+497–504. [CrossRef]
+63.
+Smith, B.; Ownby, R.L. Disease-Modifying Treatments and Their Future in Alzheimer’s Disease Management. Cureus. 2024,
+16, e56105. [CrossRef] [PubMed]
+64.
+Marbury, T.C.; Flint, A.; Jacobsen, J.B.; Derving Karsbøl, J.; Lasseter, K. Pharmacokinetics and Tolerability of a Single Dose of
+Semaglutide, a Human Glucagon-Like Peptide-1 Analog, in Subjects With and Without Renal Impairment. Clin. Pharmacokinet.
+2017, 56, 1381–1390. [CrossRef] [PubMed]
+65.
+Adem, M.A.; Decourt, B.; Sabbagh, M.N. Pharmacological Approaches Using Diabetic Drugs Repurposed for Alzheimer’s
+Disease. Biomedicines 2024, 12, 99. [CrossRef]
+66.
+Gabery, S.; Salinas, C.G.; Paulsen, S.J.; Ahnfelt-Rønne, J.; Alanentalo, T.; Baquero, A.F.; Buckley, S.T.; Farkas, E.; Fekete, C.;
+Frederiksen, K.S.; et al. Semaglutide lowers body weight in rodents via distributed neural pathways. JCI Insight. 2020, 5, e133429.
+[CrossRef] [PubMed]
+67.
+Złotek, M.; Kurowska, A.; Herbet, M.; Pi ˛atkowska-Chmiel, I. GLP-1 Analogs, SGLT-2, and DPP-4 Inhibitors: A Triad of Hope for
+Alzheimer’s Disease Therapy. Biomedicines 2023, 11, 3035. [CrossRef] [PubMed]
+68.
+Cao, Y.; Yu, F.; Lyu, Y.; Lu, X. Promising candidates from drug clinical trials: Implications for clinical treatment of Alzheimer’s
+disease in China. Front. Neurol. 2022, 13, 1034243. [CrossRef] [PubMed]
+69.
+Vejandla, B.; Savani, S.; Appalaneni, R.; Veeravalli, R.S.; Gude, S.S. Alzheimer’s Disease: The Past, Present, and Future of a
+Globally Progressive Disease. Cureus 2024, 16, e51705. [CrossRef] [PubMed]
+70.
+Vogt, A.-C.S.; Jennings, G.T.; Mohsen, M.O.; Vogel, M.; Bachmann, M.F. Alzheimer’s Disease: A Brief History of Immunotherapies
+Targeting Amyloid β. Int. J. Mol. Sci. 2023, 24, 3895. [CrossRef] [PubMed]
+71.
+Ramachandran, A.K.; Das, S.; Joseph, A.; Shenoy, G.G.; Alex, A.T.; Mudgal, J. Neurodegenerative Pathways in Alzheimer’s
+Disease: A Review. Curr. Neuropharmacol. 2021, 19, 679–692. [CrossRef]
+72.
+Wetering, J.V.; Geut, H.; Bol, J.J.; Galis, Y.; Timmermans, E.; Twisk, J.W.R.; Hepp, D.H.; Morella, M.L.; Pihlstrom, L.; Lemstra, A.W.;
+et al. Neuroinflammation is associated with Alzheimer’s disease co-pathology in dementia with Lewy bodies. Acta Neuropathol.
+Commun. 2024, 12, 73. [CrossRef]
+73.
+Subramanian, J.; Savage, J.C.; Tremblay, M.È. Synaptic Loss in Alzheimer’s Disease: Mechanistic Insights Provided by Two-Photon
+in vivo Imaging of Transgenic Mouse Models. Front. Cell. Neurosci. 2020, 14, 592607. [CrossRef] [PubMed]
+74.
+Manuello, J.; Min, J.; McCarthy, P.; Alfaro-Almagro, F.; Lee, S.; Smith, S.; Elliott, L.T.; Winkler, A.M.; Douaud, G. The effects of
+genetic and modifiable risk factors on brain regions vulnerable to ageing and disease. Nat. Commun. 2024, 15, 2576. [CrossRef]
+[PubMed]
+75.
+Xiao, X.; Liu, H.; Liu, X.; Zhang, W.; Zhang, S.; Jiao, B. APP, PSEN1, and PSEN2 Variants in Alzheimer’s Disease: Systematic
+Re-evaluation According to ACMG Guidelines. Front. Aging Neurosci. 2021, 13, 695808. [CrossRef] [PubMed]
+76.
+Goldsmith, H.S. Alzheimer’s Disease: A Decreased Cerebral Blood Flow to Critical Intraneuronal Elements Is the Cause.
+J. Alzheimers Dis. 2022, 85, 1419–1422. [CrossRef] [PubMed]
+Curr. Issues Mol. Biol. 2024, 46
+5948
+77.
+Tamagno, E.; Guglielmotto, M.; Vasciaveo, V.; Tabaton, M. Oxidative Stress and Beta Amyloid in Alzheimer’s Disease. Which
+Comes First: The Chicken or the Egg? Antioxidants 2021, 10, 1479. [CrossRef] [PubMed]
+78.
+Roy, R.G.; Mandal, P.K.; Maroon, J.C. Oxidative Stress Occurs Prior to Amyloid Aβ Plaque Formation and Tau Phosphorylation
+in Alzheimer’s Disease: Role of Glutathione and Metal Ions. ACS Chem. Neurosci. 2023, 14, 2944–2954. [CrossRef]
+79.
+Xia, W.; Yu, H.; Wen, P. Meta-analysis on GLP-1 mediated modulation of autophagy in islet β-cells: Prospectus for improved
+wound healing in type 2 diabetes. Int. Wound, J. 2024, 21, e14841. [CrossRef]
+80.
+Dave, B.P.; Shah, Y.B.; Maheshwari, K.G.; Mansuri, K.A.; Prajapati, B.S.; Postwala, H.I.; Chorawala, M.R. Pathophysiological
+Aspects and Therapeutic Armamentarium of Alzheimer’s Disease: Recent Trends and Future Development. Cell. Mol. Neurobiol.
+2023, 43, 3847–3884. [CrossRef] [PubMed]
+81.
+Arnold, S.E.; Arvanitakis, Z.; Macauley-Rambach, S.L.; Koenig, A.M.; Wang, H.Y.; Ahima, R.S.; Craft, S.; Gandy, S.;
+Buettner, C.; Stoeckel, L.E.; et al. Brain insulin resistance in type 2 diabetes and Alzheimer disease: Concepts and conundrums.
+Nat. Rev. Neurol. 2018, 14, 168–181. [CrossRef]
+82.
+Baker, L.D.; Cross, D.J.; Minoshima, S.; Belongia, D.; Watson, G.S.; Craft, S. Insulin resistance and Alzheimer-like reductions in
+regional cerebral glucose metabolism for cognitively normal adults with prediabetes or early type 2 diabetes. Arch. Neurol. 2011,
+68, 51–57. [CrossRef]
+83.
+Currais, A.; Prior, M.; Lo, D.; Jolivalt, C.; Schubert, D.; Maher, P. Diabetes exacerbates amyloid and neurovascular pathology in
+aging-accelerated mice. Aging Cell 2012, 11, 1017–1026. [CrossRef] [PubMed]
+84.
+Owen, M.; Bose, N.; Nisenbaum, L.; Partrick, K.A.; Fillit, H.M. The Critical Role of Biomarkers for Drug Development Targeting
+the Biology of Aging. J. Prev. Alzheimers Dis. 2023, 10, 729–742. [CrossRef] [PubMed]
+85.
+Nørgaard, C.H.; Friedrich, S.; Hansen, C.T.; Gerds, T.; Ballard, C.; Møller, D.V.; Knudsen, L.B.; Kvist, K.; Zinman, B.;
+Holm, E.; et al. Treatment with glucagon-like peptide-1 receptor agonists and incidence of dementia: Data from pooled
+double-blind randomized controlled trials and nationwide disease and prescription registers. Alzheimers Dement. 2022, 8, e12268.
+[CrossRef]
+86.
+Muriach, M.; Flores-Bellver, M.; Romero, F.J.; Barcia, J.M. Diabetes and the brain: Oxidative stress, inflammation, and autophagy.
+Oxid. Med. Cell Longev. 2014, 2014, 102158. [CrossRef] [PubMed]
+87.
+Butterfield, D.A.; Halliwell, B. Oxidative stress, dysfunctional glucose metabolism and Alzheimer disease. Nat. Rev. Neurosci.
+2019, 20, 148–160. [CrossRef] [PubMed]
+88.
+Simon, C.; Soga, T.; Okano, H.J.; Parhar, I. α-Synuclein-mediated neurodegeneration in Dementia with Lewy bodies: The
+pathobiology of a paradox. Cell Biosci. 2021, 11, 196. [CrossRef] [PubMed]
+89.
+Borghammer, P.; Okkels, N.; Weintraub, D. Parkinson’s Disease and Dementia with Lewy Bodies: One and the Same. J. Park. Dis.
+2024, 14, 383–397. [CrossRef] [PubMed]
+90.
+Kouli, A.; Spindler, L.R.B.; Fryer, T.D.; Hong, Y.T.; Malpetti, M.; Aigbirhio, F.I.; White, S.R.; Camacho, M.; O’Brien, J.T.; Williams-
+Gray, C.H. Neuroinflammation is linked to dementia risk in Parkinson’s disease. Brain 2024, 147, 923–935. [CrossRef]
+91.
+Wang, Y.; Shi, X.; Yin, Y.; Yang, F.; Zhang, Y.; He, X.; Wen, D.; Li, B.X.; Ma, K. Association Between Neuroinflammation and
+Parkinson’s Disease: A Comprehensive Mendelian Randomization Study. Mol. Neurobiol. 2024, 1–11. [CrossRef]
+92.
+Payne, T.; Burgess, T.; Bradley, S.; Roscoe, S.; Sassani, M.; Dunning, M.J.; Hernandez, D.; Scholz, S.; McNeill, A.; Taylor, R.; et al.
+Multimodal assessment of mitochondrial function in Parkinson’s disease. Brain 2024, 147, 267–280. [CrossRef]
+93.
+Blagov, A.; Postnov, A.; Sukhorukov, V.; Popov, M.; Uzokov, J.; Orekhov, A. Significance of Mitochondrial Dysfunction in the
+Pathogenesis of Parkinson’s Disease. Front. Biosci. (Landmark Ed.) 2024, 29, 36. [CrossRef]
+94.
+Bhore, N.; Bogacki, E.C.; O’Callaghan, B.; Plun-Favreau, H.; Lewis, P.A.; Herbst, S. Common genetic risk for Parkinson’s disease
+and dysfunction of the endo-lysosomal system. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2024, 379, 20220517. [CrossRef]
+95.
+Hull, A.; Atilano, M.L.; Gergi, L.; Kinghorn, K.J. Lysosomal storage, impaired autophagy and innate immunity in Gaucher and
+Parkinson’s diseases: Insights for drug discovery. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2024, 379, 20220381. [CrossRef]
+96.
+Volta, M. Roles of neuronal lysosomes in the etiology of Parkinson’s disease. Neural Regen. Res. 2024, 19, 1981–1983. [CrossRef]
+97.
+Poupon-Bejuit, L.; Hughes, M.P.; Liu, W.; Geard, A.; Faour-Slika, N.; Whaler, S.; Massaro, G.; Rahim, A.A. A GLP1 receptor
+agonist diabetes drug ameliorates neurodegeneration in a mouse model of infantile neurometabolic disease. Sci. Rep. 2022,
+12, 13825. [CrossRef]
+98.
+Cerroni, C.; Steiner, A.; Seanez, L.; Kwon, S.; Lewis, A.S. Effects of repeated developmental GLP-1R agonist exposure on young
+adult behavior and hippocampal structure in mice. Neurosci. Lett. 2023, 808, 137299. [CrossRef] [PubMed]
+99.
+Loh, J.S.; Mak, W.Q.; Tan, L.K.S.; Ng, C.X.; Chan, H.H.; Yeow, S.H.; Foo, J.B.; Ong, Y.S.; How, C.W.; Khaw, K.Y. Microbiota-gut-
+brain axis and its therapeutic applications in neurodegenerative diseases. Signal Transduct. Target. Ther. 2024, 9, 37. [CrossRef]
+[PubMed]
+100. Battini, V.; Barbieri, M.A.; Carnovale, C.; Spina, E.; Clementi, E.; Sessa, M. Comparing major and mild cognitive impairment risks
+in older type-2 diabetic patients: A Danish register-based study on dipeptidyl peptidase-4 inhibitors vs. glucagon-like peptide-1
+analogues. J. Neurol. 2024, 271, 3417–3425. [CrossRef] [PubMed]
+101. Dei Cas, A.; Micheli, M.M.; Aldigeri, R.; Gardini, S.; Ferrari-Pellegrini, F.; Perini, M.; Messa, G.; Antonini, M.; Spigoni, V.;
+Cinquegrani, G.; et al. Long-acting exenatide does not prevent cognitive decline in mild cognitive impairment: A proof-of-concept
+clinical trial. J. Endocrinol. Investig. 2024, 1–11. [CrossRef]
+Curr. Issues Mol. Biol. 2024, 46
+5949
+102. Husain, M.; Bain, S.C.; Jeppesen, O.K.; Lingvay, I.; Sørrig, R.; Treppendahl, M.B.; Vilsbøll, T. Semaglutide (SUSTAIN and
+PIONEER) Reduces Cardiovascular Events in Type 2 Diabetes Across Varying Cardiovascular Risk. Diabetes Obes. Metab. 2020, 22,
+442–451. [CrossRef]
+103. Zhang, L.; Zhang, L.; Li, L.; Hölscher, C. Semaglutide is Neuroprotective and Reduces α-Synuclein Levels in the Chronic MPTP
+Mouse Model of Parkinson’s Disease. J. Park. Dis. 2019, 9, 157–171. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+

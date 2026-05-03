@@ -1,0 +1,1089 @@
+# Full Paper
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2021
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: zhang2021.pdf
+
+## Abstract / Summary
+Full Paper
+Liraglutide ameliorates diabetes-associated cognitive dysfunction via
+rescuing autophagic ﬂux
+Meng Zhang a, 1, Wenhui Yan a, 1, Ye Yu a, Jie Cheng a, Xinyao Yi a, Tingli Guo a, Na Liu a,
+Jia Shang a, Zhuanzhuan Wang a, Hao Hu a, Lina Chen a, b, *
+a Department of Pharmacology, School of Basic Medical Sciences, Xi'an Jiaotong University Health Science Center, Xi'an 710061, China
+b Key Laboratory of Environment and Genes Related to Diseases (Xi'an Jiaotong University), Ministry of Educat... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Full Paper. 2021.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Full Paper
+Liraglutide ameliorates diabetes-associated cognitive dysfunction via
+rescuing autophagic ﬂux
+Meng Zhang a, 1, Wenhui Yan a, 1, Ye Yu a, Jie Cheng a, Xinyao Yi a, Tingli Guo a, Na Liu a,
+Jia Shang a, Zhuanzhuan Wang a, Hao Hu a, Lina Chen a, b, *
+a Department of Pharmacology, School of Basic Medical Sciences, Xi'an Jiaotong University Health Science Center, Xi'an 710061, China
+b Key Laboratory of Environment and Genes Related to Diseases (Xi'an Jiaotong University), Ministry of Education, Xi'an 710061, China
+a r t i c l e
+i n f o
+Article history:
+Received 5 April 2021
+Received in revised form
+28 June 2021
+Accepted 15 July 2021
+Available online 24 July 2021
+Keywords:
+Diabetes-associated cognitive dysfunction
+Liraglutide
+Autophagic ﬂux
+Amyloid b
+a b s t r a c t
+The incidence of diabeteseassociated cognitive dysfunction is increasing. However, few clinical in-
+terventions are available to prevent the disorder. Several researches have shown that liraglutide, as a
+glucagon-like peptide-1 analog, has protective effects on various neurodegenerative diseases, but its
+roles in diabetic cognitive dysfunction are rarely reported. This study aims to investigate the protective
+effects of liraglutide on diabetic cognitive dysfunction and its underlying mechanisms. In vivo, the effects
+of liraglutide treatment were investigated in a mouse model of type 2 diabetes mellitus (T2DM). In vitro,
+we investigated the effects of liraglutide on the high-glucose-induced rat primary neurons. The results
+showed that liraglutide reduced the escape latency and increased the time in effective area in the Morris
+water maze test, improved the damage of hippocampal and synaptic ultrastructure, and decreased the
+accumulation of amyloid b protein in hippocampus of T2DM mice. Furthermore, liraglutide increased the
+ratio of microtubule-associated protein light 1 chain II/I, the expression of Beclin1 protein and Lysosome-
+associated membrane protein 2 in vivo and vitro. Additionally, Baﬁlomycin A1 which can inhibit the
+fusion of autophagosome and lysosome partially abolished the effects of liraglutide. These ﬁndings
+indicate liraglutide ameliorates diabetes-associated cognitive dysfunction by rescuing autophagic ﬂux.
+© 2021 The Authors. Production and hosting by Elsevier B.V. on behalf of Japanese Pharmacological
+Society. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/lice
+nses/by-nc-nd/4.0/).
+1. Introduction
+Diabetes mellitus (DM) is a chronic metabolic disorder syndrome,
+which is characterized by hyperglycemia and insulin resistance.
+According to International Diabetes Federation, there were 425
+million diabetics in 2017 and will be 700 million diabetics in 2045
+(IDF, 2017). Particularly, type 2 diabetes mellitus (T2DM) accounts for
+90 % of all diabetics. Substantial evidences indicate that DM leads to a
+variety of complications, among which diabetes-associated cognitive
+impairment affects individuals worldwide.1,2 About 60e70 % pa-
+tients with DM has mild or moderate cognitive impairment,3 which
+manifests in slower in learning and memory, reasoning ability, a lack
+of attention and other symptoms.4 Epidemiological evidence shows
+DM is associated with a higher risk of dementia and Alzheimer's
+disease (AD) and has a 2e3 times increase in relative risk of AD.5
+Interestingly, amyloid b protein (Ab) deposition and neuroﬁbrillary
+tangles consisting of hyperphosphorylated tau protein, which are
+two major pathological hallmarks in AD, are more likely to be
+pathological hallmarks for diabetes-associated cognitive dysfunc-
+tion.6 Notably, some researchers have indicated the failure of Ab
+clearance might impair the insulin pathway, increasing Ab accu-
+mulation in T2DM patients.7 However, the mechanisms underlying
+the diabetes-associated cognitive dysfunction have not been clearly
+identiﬁed, and few effective clinical interventions are available to
+prevent the disease.
+Glucagon-like peptide-1 (GLP-1) is a 30-amino acid endogenous
+incretin hormone, which is released by small intestinal L-cells after
+meal to perform metabolic functions (e.g. modulating glucose ho-
+meostasis by potentiating glucose-dependent insulin secretion
+in vivo). GLP-1 plays an important role in physiology by binding to
+GLP-1 receptor (GLP-1R).8,9 Researchers show that GLP-1R is found
+in neurons of rodents and human brains. And GLP-1 can cross the
+bloodebrain barrier (BBB) to promote synaptic formation, neuro-
+genesis and reduce chronic inﬂammatory response of neuron
+cells.8,10,11 In addition, GLP-1 provides neuroprotection via regulating
+* Corresponding author. No. 76 Yanta West Road, Xi'an 710061, Shaanxi, PR China.
+E-mail address: chenlin@xjtu.edu.cn (L. Chen).
+Peer review under responsibility of Japanese Pharmacological Society.
+1 Contributed equally.
+Contents lists available at ScienceDirect
+Journal of Pharmacological Sciences
+journal homepage: www.elsevier.com/locate/jphs
+https://doi.org/10.1016/j.jphs.2021.07.004
+1347-8613/© 2021 The Authors. Production and hosting by Elsevier B.V. on behalf of Japanese Pharmacological Society. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Journal of Pharmacological Sciences 147 (2021) 234e244
+Ca2þ homeostasis, reducing neuronal apoptosis, modulating Ab
+clearance, improving the mitochondrial dysfunction and amelio-
+rating the autophagy, thereby improving the cognitive function.12e15
+Liraglutide is a long-acting analog of GLP-1 and binds to GLP-1R to
+exhibit neuroprotective effects.16 But the mechanisms underlying
+liraglutide's affecting diabetes-associated
+cognitive
+impairment
+remain to be clariﬁed.
+Autophagy is characterized by degradation of intracellular and
+damaged organelles and helps maintain cellular homeostasis. In
+most cases, autophagy plays a role in preventing and delaying cell
+death, but autophagic accumulation leads to cell death. Notably, the
+defect of autophagic ﬂux is thought to be common to many
+neurodegenerative disorders, including AD, amyotrophic lateral
+sclerosis and Parkinson's disease (PD).17 Moreover, the defected
+autophagic ﬂux in central nervous system causes the accumulation
+of damaged proteins and organelles, indicating an essential role of
+autophagy in neurodegeneration. T2DM is also associated with the
+defection of autophagic ﬂux, which could be the pathogenesis of
+diabetes-associated cognitive impairment. Therefore, targeting to
+autophagic ﬂux may be neuroprotective in diabetes-associated
+cognitive impairment.18,19
+Recently, liraglutide has been found to attenuate the impaired
+learning and memory, synaptic plasticity, decrease hippocampal
+neuronal
+loss,
+reduce
+Ab
+oligomer
+levels
+and
+tau
+hyper-
+phosphorylation, and promote neurogenesis in AD mice.20,21 Re-
+searchers also indicate liraglutide ameliorates cognitive decline by
+promoting autophagy in diabetic mice.15,22 But the speciﬁc mech-
+anism by which liraglutide regulates autophagic ﬂux is still unclear.
+Therefore, in this study, we explore whether liraglutide can
+ameliorate the impaired autophagic ﬂux by reducing the accumu-
+lation of autophagosomes and increasing the fusion of autopha-
+gosome and lysosome in vivo and vitro. To better understand the
+potential mechanisms underlying diabetic-associated cognitive
+impairment, high glucose (HG)-injured rat primary cortical neu-
+rons and T2DM mice (fed with high fat diet combined with strep-
+tozotocin (STZ)) with cognitive deﬁcit were used in our study.
+2. Materials and methods
+2.1. The establishment of type 2 diabetes (T2DM) model and drug
+administration
+All animal were used in accordance with the National Institutes
+of Health Guide for Care and Use of Laboratory Animals. Six-week-
+old healthy male C57BL/6 mice weighting 18e22 g were purchased
+from Medical Experimental Animal Center of Xi'an Jiaotong
+University Health Science Center. All the mice were housed in a
+consistent temperature (21 ± 2 C), humidity (40%e60 %), and light
+cycle (12 h/12 h light/dark) environment with free access to food
+and water.
+After 1 week of acclimatization, mice were randomly divided
+into normal control group (n ¼ 8, fed with an ordinary diet until the
+end of the experiment) and high-fat diet (HFD) group (n ¼ 20, fed
+with HFD containing 20 % protein, 20 % carbohydrate, 60 % fat until
+the end of the experiment) (Xietong Organism, Jiangsu, China).
+After 8 weeks of ordinary or high-fat diet administration, HFD mice
+were received intraperitoneal (i.p.) injection of STZ at a dose of
+60 mg/kg (SigmaeAldrich, USA) for consecutive 3 days after fasted
+for 12 h to induce diabetes. Control mice (n ¼ 8) were received an
+intraperitoneal injection of equivalent volume of citrate buffer.
+After 3 days of STZ injection, fasting blood glucose (FBG) levels were
+determined with a blood glucometer after fasted for 6 h by snipping
+the tails. The mice with a FBG level in the range of 15e25 mmol/L
+were considered as T2DM model. The success rate was 80 %. Then
+the HFD mice (n ¼ 16) were randomly divided into 2 groups as
+follows: (1) T2DM group (n ¼ 8), in which the mice were received
+subcutaneous injection of equivalent volume of normal saline for 6
+weeks; (2) Liraglutide group (n ¼ 8), in which the mice were
+received subcutaneous injection of liraglutide (Novo Alle, DK-2880
+Bagsvaerd, Denmark) at a dose of 300 mg/kg/day for 6 weeks. The
+mice in the normal control group were received subcutaneous in-
+jection of equivalent volume of normal saline for 6 weeks. The body
+weight (BW) and FBG levels were determined in each week. When
+the Morris water maze (MWM) tests were ﬁnished, all the mice
+were deeply anesthetized with sodium pentobarbital (40 mg/kg).
+Three of 8 mice in each group were used to harvest the brains for
+morphologic analysis. Others were used for protein analysis. For
+morphologic analysis, the mice were perfused with 0.9 % saline
+followed by 4 % paraformaldehyde (PFA). And the brains were
+removed and ﬁxed in 4 % PFA. For protein analysis, the mice were
+isolated the hippocampus tissues and the hippocampus were
+stored in 80 C.
+2.2. Intraperitoneal glucose tolerance test (IPGTT) and insulin
+tolerance test (ITT)
+IPGTT and ITT were assessed at the 5th week during the drug
+administration. For the IPGTT, mice were injected intraperitoneally
+with glucose (2 g/kg body weight) after fasted for 6 h. The blood
+glucose levels were measured with a blood glucose meter (Ruidien,
+Jiangsu, China) at 0, 30, 60, 120 min by snipping the tails and the
+Abbreviations
+GLP-1
+glucagon like peptide-1
+T2DM
+type 2 diabetes mellitus
+STZ
+streptozotocin
+HG
+high glucose
+MWM
+Morris water maze
+Ab
+amyloid b protein
+LC3
+microtubule-associated protein light 1 chain
+LAMP-2
+lysosome-associated membrane protein 2
+DM
+diabetes mellitus
+AD
+Alzheimer's disease
+GLP-1R
+GLP-1 receptor
+BBB
+bloodebrain barrier
+ULK1/2
+unc-51 like autophagy activating kinase 1/2
+PD
+Parkinson's disease
+HFD
+high-fat diet
+FBG
+fasting blood glucose
+FINS
+fasting insulin
+BW
+body weight
+PFA
+paraformaldehyde
+IPGTT
+intraperitoneal glucose tolerance test
+ITT
+insulin tolerance test
+AUC
+area under the curve
+HOMA-IR homeostasis model assessment of insulin resistance
+ELISA
+enzyme-linked immune sorbent assay
+TEM
+transmission electron microscope
+HE
+hematoxylin and eosin
+CCK-8
+cell counting kit-8
+HD
+Huntington's disease
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+235
+area under the curve (AUC) of the blood glucose versus time was
+calculated.
+For the ITT, mice were injected subcutaneously with insulin
+(0.75 U/kg body weight (Jiangsu Wanbang Biochemistry Medicine
+Co. Ltd., Xuzhou, China); after fasted for 6 h. The blood glucose
+levels were measured with a blood glucose meter (Ruidien, Jiangsu,
+China) at 0, 15, 30, 60, 120 min by snipping the tails and the area
+under the curve (AUC) of the blood glucose versus time was
+calculated.
+2.3. Morris water maze (MWM)
+Subsequently, MWM (Taimeng Technology, Chengdu, China)
+tests were used to perform spatial learning and memory at the 6th
+week during the drug administration. The test consisted of place
+navigation and spatial probe test. The water maze apparatus was
+comprised of a circular with 120 cm in diameter and 50 cm in
+height, and was ﬁlled with water that was controlled at 22 ± 1 C.
+The water maze area was divided into four equal quadrants and a
+hidden platform (10 cm in diameter) was located in approximately
+2 cm below the water surface at the center of one of the four
+quadrants in the tank. The place navigation which consisted of four
+trails per day was carried out from day 1e6. Each mouse was
+allowed to swim freely to ﬁnd the hidden platform within 90 s. If
+the mouse could ﬁnd the platform and remained on it over 5 s, the
+test was terminated. And the time that each mouse spent to ﬁnd the
+platform was recorded as escape latency. If the mouse could not
+ﬁnd the platform within 90 s, it was guided to the platform and
+kept it staying on platform for 15 s, simultaneously, the escape la-
+tency was recorded as 90 s. The spatial probe test was conducted on
+the 7th day. The hidden platform was removed and each mouse
+freely swam in the tank within 90 s. The swimming time in the
+effective was recorded.
+2.4. Homeostasis model assessment of insulin resistance (HOMA-IR)
+determination
+After MWM test, 6 h fasting blood samples were obtained for
+serum insulin and plasma glucose determinations in order to
+calculate the HOMA-IR. Fasting blood samples were collected from
+the retro-orbital artery and placed into an Eppendorf tube. Then
+they were centrifuged at 3000 rpm/min for 15 min at room tem-
+perature. Serum was stored at 80 C until the assay. The serum
+insulin was detected by mouse insulin enzyme-linked immune
+sorbent assay (ELISA) (Shanghai Elisa Biotech Co., Ltd. Shanghai,
+China). The homeostasis model assessment of insulin resistance
+(HOMA-IR) was calculated by the formula23: HOMA-IR ¼ FBG
+(mmol/L)*fasting insulin (FINS, IU/mL)/22.5.
+2.5. Transmission electron microscope (TEM)
+The hippocampus were minced into 1 mm3 cubes and ﬁxed with
+2.5 % glutaraldehyde and 2 % osmic acid, then dehydrated and
+embedded in epoxy resin. Ultrathin sections were collected onto
+200-mesh copper grids, double stained with uranyl acetate and
+lead acetate, and then observed with a Hitachi H-7650 transmission
+electron microscope (Hitachi, Tokyo, Japan).
+2.6. Hematoxylin and eosin staining (HE staining)
+Brains were ﬁxed in 4 % PFA for 24 h and embedded in parafﬁn.
+Then rain tissue sections of 4 mm were obtained for HE staining.
+Morphologic changes in hippocampal and cerebral cortical neurons
+were observed using light microscopy (BX51, Olympus, Tokyo,
+Japan) at 400 magniﬁcation.
+2.7. Primary cortical neuron cultures
+The method of primary cortical neuron culture was conducted
+as previously described.24 Primary cortical neurons of rat were
+prepared from E18 to E19 SpragueeDawley rat embryos. The
+pregnant SD rat was anesthetized with 10 % chloral hydrate at a
+dose of 3 mL/kg body weight. Then the embryos were removed to
+isolate the brains. 5 to 7 embryos were used to isolate the brains for
+our subsequent experiment. The cerebral cortices were dissected
+from the brain in sterile ice cold PBS with the blood vessels and
+meninges carefully removed. After being collected in a glass Petri
+dish, all the cerebral cortices were cut into cubes of 1 mm3 and then
+pipetted 20 times in 5 mL DMEM medium (Hyclone, USA). Undis-
+persed pieces were ﬁltered through a nylon mesh with a pore size
+of 75 mm, and then the supernatant was transferred to a new sterile
+15 mL tube and centrifuged at 1000 rpm/min for 3 min at room
+temperature. Cell aliquots were resuspended, and viable cells were
+counted using a trypan blue dye exclusion assay. The single-cell
+suspension was then cultured in a Neurobasal medium (Gibco
+Invitrogen Corporation, Carlsbad, CA, USA) supplemented with 2 %
+B27 supplement (Gibco Invitrogen Corporation, Carlsbad, CA, USA),
+0.25 % GlutaMax (Gibco Invitrogen Corporation, Carlsbad, CA, USA),
+0.5 % penicillin/streptomycin (Beijing Solarbio Science & Technol-
+ogy Co., Ltd. Beijing, China). Then the cortical neurons were incu-
+bated in 5 % CO2/95 % air at 37 C. And the cortical neurons were
+plated on poly-L-ornithine hydrobromide-coated 96-well plate
+(5  104 cells/well) for cell viability assay, and 6-well plate
+(2  106 cells/well) for Western blots analysis. Half of the medium
+was replaced by fresh medium every three days.
+2.8. Cell viability assay
+Cell counting kit-8 (CCK-8) (FDbio Science Biotech Co., Ltd.
+Hangzhou, China) was used to determined cell viability. The cortical
+neurons were plated on poly-L-ornithine hydrobromide-coated 96-
+well plate (5  104 cells/well). After cultured for 7 d, the cortical
+neurons were treated with Baﬁlomycin A1 (Baﬁlomycin A1 is most
+known for its use as an autophagy inhibitor, which inhibited the
+fusion of autophagosome and lysosome.) for 1 h in advance, then
+were treated with glucose (50 mmol/L) and/or different concen-
+trations of liraglutide (1, 10, 100, 500, 1000 mmol/L) for another
+48 h.24 Subsequently, each well was treated with CCK-8 and the
+plate was incubated in 5 % CO2/95 % air at 37 C for 2 h. The
+absorbance at 450 nm was measured by monochromator micro-
+plate reader. The optical density value equaled OD value.
+2.9. Immunoﬂuorescence labeling
+Brains were ﬁxed in 4% PFA for 24 h and embedded in parafﬁn.
+The brain tissue sections of 4 mm were obtained for immunohis-
+tochemistry. For heat-induced epitope retrieval, deparafﬁnized
+sections were incubated in citrate buffer (Heart, China) at 98 C for
+30 min by a microwave oven. After incubated with 3 % H2O2 for
+20 min at room temperature, sections were washed using PBS.
+Subsequently, sections were blocked with 5 % BSA for 2 h, followed
+by treatment with rabbit anti-microtubule-associated protein light
+1 chain (LC3B) monoclonal antibody (1:200, GeneTex, Inc., Irvine,
+CA) at 4 C overnight. After washed with PBS, sections were treated
+with goat anti-rabbit IgG (Alexa Fluor 488) (1:200, Zhuangzhi,
+China) at room temperature for 2 h. Then sections were washed
+using PBS, followed by mounting with DAPI (Beijing Solarbio Sci-
+ence & Technology Co., Ltd. Beijing, China) nuclear counter stain-
+ing. Stained cells were subsequently observed using an Olympus
+BX-51 ﬂuorescence microscope (Olympus, Tokyo, Japan) at 400
+magniﬁcation.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+236
+2.10. Western blots analysis
+Western blots were performed by the standard method.24 Brieﬂy,
+the hippocampus tissue and cortical neurons (plated on poly-L-
+ornithine hydrobromide-coated 96-well plate (2  106 cells/well)
+were homogenized in RIPA lysate (Beyotime Institute of Biotech-
+nology, Xi'an, China) containing protease inhibitor (Roche, Basel,
+Switzerland) with an electric homogenizer (Kinematica, Swiss), then
+processed by ultrasonic disruptor (Sonics, Newtown, USA). After
+incubated on ice for 15 min and clariﬁed by centrifugation at
+16,000g for 15 min at 4 C. The supernatants were obtained and the
+concentrations of all samples were measured by BCA protein assay
+kit (Beijing Solarbio Science & Technology Co., Ltd. Beijing, China).
+Then 20e30 mg of protein from each sample was loaded into 8%e
+15 % SDS-PAGE gels electrophoresis. After electrophoresis, the pro-
+teins were transferred to PVDF membranes (Millipore, MA, USA).
+After blocked with 5 % non-fat milk at room temperature for 2 h, the
+membranes were incubated with primary antibody against LC3B
+(1:1500, GeneTex, Inc., Irvine, CA), P62/SQSTM1 (1:1500, Proteintech
+Group, Chicago, USA), Beclin1 (1:1000, Cell Signaling Technology,
+USA), Ab (1:1500, Abcam, UK), Lysosome-associated membrane
+protein (LAMP-2) (1:1000, Thermo Fisher Scientiﬁc, USA), GLP-1R
+(1:1000, Abcam, UK) and GAPDH (1:10,000, Proteintech Group,
+Chicago, USA) at 4 C overnight. Next day, the membranes were
+washed 10 min with TBST for 3 times and subsequently incubated
+with corresponding HRP-conjugated secondary antibodies at room
+temperature for 2 h. After washed for another 3 times in TBST, pro-
+tein bands were detected with Super-Lumia ECL Plus HRP Substrate
+Kit solution (Abbkine; Redlands, CA, USA) by chemiluminescence
+imaging system (UVP, Upland, USA) and the band intensity were
+quantiﬁed by using ImageJ.
+2.11. Statistical analysis
+Data were analyzed by using SPSS 18.0 software. All the results
+were expressed as mean ± standard error of mean (SEM). Differ-
+ences between groups were analyzed by using one-way ANOVA
+test. If data were showed normally distributed, pairwise compari-
+sons were conducted by LSD test. If not, pairwise comparisons were
+conducted by Dunnett T3 test. The escape latency in Morris water
+maze was analyzed by MANOVA (multivariate analysis of variance)
+of repeated measures for comparisons among trials. All P values
+were two-sided, and a value of P less than 0.05 were considered as
+statistically signiﬁcant.
+3. Results
+3.1. Effects of liraglutide on BW and FBG levels of T2DM mice
+After successfully establishing T2DM model, the BW and FBG
+levels in control, T2DM and liraglutide groups were determined
+weekly during 6 weeks of drug treatment. As shown in Fig. 1A, the
+BW of control, T2DM and liraglutide groups didn't show any sig-
+niﬁcant difference. FBG was measured after fasted for 6 h. As shown
+in Fig. 1B, compared with the control group, signiﬁcantly increased
+FBG levels were observed in T2DM group (P < 0.01). Compared with
+T2DM group, liraglutide could signiﬁcantly decrease the FBG in
+T2DM mice (P < 0.01).
+3.2. Effects of liraglutide on IPGTT and ITT of T2DM mice
+IPGTT and ITT are widely used to evaluate the glucose and insulin
+tolerance. As shown in Fig. 1. In IPGTT, T2DM mice manifested a
+higher glucose load at baseline and a strongly elevated load
+following glucose administration compared with the control group
+(Fig. 1C, P < 0.01). The glucose load was decreased much more
+promptly and persisted in the mice treated with liraglutide, as
+compared to the T2DM group (Fig.1C, P < 0.01). The AUC of the IPGTT
+in the model group was signiﬁcantly increased than those in the
+control group (Fig. 1D, P < 0.01). However, the AUC of IPGTT in the
+liraglutide group was signiﬁcantly lower than those in the T2DM
+group (Fig. 1D, P < 0.01). In the ITT, the blood glucose levels were
+rapidly decreased within 60 min and increased at 120 min after the
+insulin injection in all groups. Compared with T2DM group, the
+blood glucose levels in liraglutide group were signiﬁcantly decreased
+at 0, 15, and 30 min after insulin injection (Fig. 1E, P < 0.01), while
+they were still higher than that in control group (Fig. 1E, P < 0.01).
+Furthermore, the AUC of T2DM mice was signiﬁcantly higher than
+that of control mice (Fig. 1F, P < 0.01). The AUC of liraglutide group
+was lower than the T2DM group (Fig. 1F, P < 0.01). Altogether, these
+data indicated that liraglutide could ameliorate the impaired glucose
+and insulin tolerance in T2DM mice.
+3.3. Effects of liraglutide on serum insulin levels and insulin
+resistance
+Insulin plays an important role in glucose regulation, so the
+effects of liraglutide on serum insulin levels were investigated. As
+shown in Fig. 1G, the T2DM mice showed obviously increased
+serum insulin levels compared with the control mice (Fig. 1G,
+P < 0.01), and treatment with liraglutide signiﬁcantly reduced
+serum insulin levels (Fig. 1G, P < 0.01). Subsequently, HOMA-IR was
+assayed to examine the insulin sensitivity in these groups. HOMA-
+IR of T2DM group was markedly increased compared with control
+group (Fig. 1H, P < 0.01). However, liraglutide could ameliorate the
+insulin resistance in T2DM mice (Fig. 1H, P < 0.05).
+3.4. Liraglutide ameliorates the learning and memory impairments
+in T2DM mice
+We next evaluated the effect of liraglutide on the spatial
+learning and memory by using MWM test. As shown in Fig. 2,
+compared with control group, T2DM group showed a signiﬁcantly
+increased escape latency during the place navigation acquisition
+from day 3 to day 6 (Fig. 2A, P < 0.01). In probe trail, the T2DM mice
+spent less time in the effective area (Fig. 2B, P < 0.01). Whereas, the
+mice treated with liraglutide found the hidden platform more
+quickly (Fig. 2A, P < 0.01) and spent more time in the effective area
+(Fig. 2B, P < 0.05) compared with T2DM group. Collectively, the
+results suggested that T2DM mice showed a cognitive deﬁcit, while
+liraglutide ameliorated the impaired spatial learning and memory
+ability in T2DM mice.
+3.5. Liraglutide alleviates hippocampal neuronal injuries and
+synaptic ultrastructural degradation in T2DM mice
+The hippocampus, a key brain region responsible for learning
+and memory, is vulnerable to changes in glucose homeostasis. The
+structure of hippocampal neurons in T2DM mice was observed by
+HE staining and TEM. The representative graphs of neuronal
+morphology in each group were shown in Fig. 3. The hippocampal
+regions CA1 in the mice from each group were stained with HE. The
+nuclei showing pyknosis were deeply stained and lost and the
+neurons arrangement became obviously disordered in hippocam-
+pal CA1 regions of T2DM mice compared with the control group.
+Additionally, liraglutide signiﬁcantly ameliorated the pathologic
+changes in T2DM mice. According to the TEM results, the hippo-
+campal neurons in T2DM mice showed severe degenerative
+changes, including the decline in the number of neurons, swelling
+and dilatation of Golgi complex, blurred or vacuolated cristae of
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+237
+mitochondria and synaptic morphometry changes (Fig. 3E, P < 0.01)
+compared with control group. However, the ultrastructure of
+neurons in liraglutide treatment was improved to varying degrees.
+Collectively, these observations indicated that liraglutide reduced
+the pathological degeneration and improved the ultrastructure of
+neurons.
+3.6. Liraglutide prevents autophagic ﬂux impairment and reduces
+Ab deposition in T2DM mice
+To conﬁrm whether liraglutide exerted its protective roles in
+learning and memory in T2DM mice via preventing autophagic ﬂux
+impairment and reducing Ab deposition, Western blots assay and
+immunoﬂuorescence labeling were used to detect the expressions
+of related proteins. The results showed that LC3BII/I ratio (Fig. 4A,
+P < 0.01) and Beclin1 protein expression (Fig. 4B, P < 0.05) were
+signiﬁcantly decreased, while p62 protein expression (Fig. 4C,
+P < 0.01) was increased in T2DM group compared with those of
+control group. These results indicated autophagic ﬂux dysfunction
+occurred in T2DM mice. Notably, liraglutide could increase LC3BII/I
+ratio (Fig. 4A, P < 0.01) and Beclin1 protein expression (Fig. 4B,
+P < 0.05), and decrease p62 protein expression (Fig. 4C, P < 0.01) in
+T2DM mice. The results suggested that liraglutide could ameliorate
+autophagic ﬂux dysfunction.
+Fig. 1. Effects of liraglutide on the parameters of tolerance and insulin resistance in T2DM mice. (A) BW. (B) FBG. (C) IPGTT. (D) AUC of IPGTT. (E) ITT. (F) AUC of ITT. (G) Serum insulin
+levels. (H) HOMA-IR. Data are expressed as mean ± SEM, (AeF) n ¼ 8. (GeH) n ¼ 5. *P < 0.05, **P < 0.01, versus Control; #P < 0.05, ##P < 0.01, versus T2DM.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+238
+Western blots results showed LAMP-2 protein expression
+(which is associated with lysosome) was signiﬁcantly decreased
+(Fig. 4D, P < 0.01) in T2DM group compared with control group.
+However, liraglutide could signiﬁcantly increase LAMP-2 protein
+expression (Fig. 4D, P < 0.01), suggesting that liraglutide improve
+the function of lysosome. In immunoﬂuorescence labeling, we
+examined the expression of LC3B (an autophagosome marker) in
+hippocampus of each group. The punctate LC3B expression was
+obviously attenuated in the hippocampus of T2DM mice. In
+contrast,
+liraglutide
+could
+increase
+LC3B
+protein
+expression
+(Fig. 4F). The results suggested that liraglutide could active auto-
+phagy and enhance the formation of autophagosome.
+To investigate whether liraglutide could reduce Ab deposition in
+T2DM mice, the expression of Ab was measured by Western blots.
+As shown in Fig. 4E, the Ab expression was signiﬁcantly increased in
+T2DM mice. However, liraglutide could reduce the expression of Ab
+protein. These results suggested that liraglutide could reduce the
+Ab deposition.
+3.7. Liraglutide inhibits high glucose (HG)-induced damage of
+primary cortical neurons
+The CCK-8 kit was used to examine whether liraglutide affected
+the extent of HG-induced (50 mmol/L for 48 h) primary cortical
+neurons damage. Primary cortical neurons were co-treated with
+different concentrations of liraglutide (1, 10, 100, 500, 1000 nmol/L)
+and/or glucose (50 mmol/L) for 48 h. As shown in Fig. 5, liraglutide
+protected the primary cortical neurons stimulated with HG in a
+concentration-dependent manner. When treated with 100 nmol/L
+liraglutide, the cell viability of HG-induced primary cortical
+Fig. 2. Effects of liraglutide on cognitive performance of T2DM mice in MWM test. (A) The escape latency during the place navigation test; (B) time in effective area during the
+spatial probe test. Data are expressed as mean ± SEM, n ¼ 8. **P < 0.01, versus Control; #P < 0.05, ##P < 0.01, versus T2DM.
+Fig. 3. Liraglutide alleviates hippocampal neuronal injuries and synaptic ultrastructure degradation in T2DM mice. (A) The representatives picture of HE staining in hippocampal
+regions CA1 (400  ) from each group. (B) The representative picture of hippocampal neurons (4000  ) from each group. Scale bar, 2 mm. (C) The representative pictures of neuronal
+synapses (arrows) (40,000  ) from each group. Scale bar, 500 nm. (D) The representative pictures of mitochondria (white arrow) (50,000  ) from each group. Scale bar, 200 nm. (E)
+The number of synapses in hippocampus. Data are expressed as mean ± SEM, n ¼ 3. **P < 0.01, versus Control; ##P < 0.01, versus T2DM.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+239
+Fig. 4. Liraglutide prevents autophagic ﬂux impairment and reduces Ab deposition in hippocampus of T2DM mice. (A) The expression of LC3B protein. (B) The expression of Beclin1
+protein. (C) The expression of p62 protein. (D) The expression of LAMP-2 protein. (E) The expression of Ab protein. In Western blots, data are expressed as mean ± SEM, n ¼ 5.
+*P < 0.05, **P < 0.01, versus Control; #P < 0.05, ##P < 0.01, versus T2DM (F) Representative double immunoﬂuorescence staining for LC3B (green) and DAPI (blue) for each group
+(400  ). Scale bars: 20 mm.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+240
+neurons was recovered to more than 90 % (Fig. 5A, P < 0.05), and
+treatment with liraglutide alone did not affect the primary cortical
+neurons (Fig. 5B, P < 0.05). Then we chose 100 nmol/L liraglutide for
+use in subsequence experiments.
+3.8. Liraglutide protects primary cortical neurons by ameliorating
+autophagic ﬂux
+Autophagic ﬂux is controlled by the balance between autopha-
+gosome formation and autophagic degradation. To investigate
+whether liraglutide could ameliorate the damaged autophagic ﬂux
+in HG-induced primary cortical neurons, we used Western blots
+assay and immunocytochemistry labeling to detect the expressions
+of related proteins. Results showed LC3BII/I ratio (Fig. 6A, P < 0.01)
+and Beclin1 protein expression (Fig. 6B, P<0.05) were signiﬁcantly
+decreased, while p62 protein expression (Fig. 6C, P < 0.01) was
+increased in HG-induced primary cortical neurons compared with
+those of control group. These results indicated autophagic ﬂux
+dysfunction occurred in HG-induced primary cortical neurons.
+However, liraglutide could signiﬁcantly increase LC3BII/I ratio
+(Fig. 6A, P < 0.01) and Beclin1 protein expression (Fig. 6B, P < 0.05),
+while decrease p62 protein expression(Fig. 6C, P < 0.01), which
+indicated that liraglutide could recuse the autophagic ﬂux in HG-
+induced primary cortical neurons. Compared with control group,
+LAMP-2 protein expression (which is associated with lysosome)
+was signiﬁcantly decreased (Fig. 6D, P < 0.01) in HG-induced pri-
+mary cortical neurons. However, liraglutide could signiﬁcantly in-
+crease LAMP-2 protein expression (Fig. 6D, P < 0.01). Liraglutide
+ameliorated the function of lysosome.
+To determine whether the protective effects of liraglutide on
+HG-induced primary cortical neurons were mediated through
+improved lysosome function, the primary cortical neurons were
+treated with Baﬁlomycin A1. Baﬁlomycin A1 is most known for its
+use as an autophagy inhibitor, which inhibited the fusion of auto-
+phagosome and lysosome. As shown in Fig. 6A-D, Baﬁlomycin A1
+markedly increased LC3BII/I ratio and the expression of p62 protein
+and decreased the expression of LAMP-2 protein, although the
+expression of Beclin1 was not signiﬁcantly changed. In addition,
+Baﬁlomycin A1 partially abolished the effects of liraglutide. Baﬁ-
+lomycin A1 evidently prevented the fusion of autophagosome and
+lysosome.
+4. Discussion
+T2DM is a global health problem with the increased risk of de-
+mentia.25,26 Multiple population-based studies have reported an
+association between T2DM and cognitive impairment. With regard
+to speciﬁc cognitive domains, associations between T2DM or in-
+sulin resistance are most commonly reported with both episodic
+memory and
+decreased
+executive
+function,
+including
+verbal
+ﬂuency, working memory, processing speed, cognitive ﬂexibility,
+and cognitive control.27e29 However, effective clinical drugs to
+prevent this decline are very limited. The GLP-1 analog liraglutide
+has been recognized as the important drug for T2DM. In addition to
+exerting beneﬁcial effects at pancreatic sites, liraglutide has also
+been shown to exert neuroprotective effects on some neurode-
+generative disease, including AD, PD, Huntington's disease (HD) or
+amyotrophic lateral sclerosis, stroke.30e33 In our study, we evalu-
+ated the beneﬁcial effect of liraglutide on learning and memory and
+explored its underlying mechanisms in T2DM mice with cognitive
+dysfunction and HG-induced rat primary cortical neurons. The
+ﬁnding was that treatment with liraglutide alleviated cognitive
+decline, reduced hippocampal and synaptic ultrastructure injuries,
+decreased the accumulation of Ab in hippocampus of T2DM mice.
+Furthermore, we found that liraglutide prevented the development
+of T2DM cognitive dysfunction by restoring the damaged auto-
+phagic ﬂux, including reducing the accumulation of autophago-
+somes and increasing the fusion of autophagosome and lysosome
+in vivo and vitro. These ﬁndings suggested that liraglutide can be
+exploited as a potential therapeutic reagent for the improvement of
+diabetic-associated cognitive impairment.
+T2DM is an endocrine and metabolic disorder disease, which is
+characterized by hyperglycemia and insulin resistance.34 Therefore,
+improving insulin resistance and glucose levels have been consid-
+ered as a principal strategy to treat T2DM. Insulin plays an impor-
+tant role in blood glucose homeostasis. Under the insulin resistance
+conditions, insulin cannot play an effective role in promoting
+glucose uptake, thereby leading to an excessive increase in the in-
+sulin secretion. Such compensatory hyperinsulinemia is probably
+the cause of many other disorders such as hyperglycemia and
+dyslipidemia.35,36 In the present study, we found that the treatment
+with liraglutide has little effect on the body weight, but signiﬁ-
+cantly decreased FBG in T2DM mice. Results of serum insulin test
+revealed that the treatment with liraglutide could decrease the
+serum insulin levels and HOMA-IR in T2DM mice. IPGTT and ITT
+results showed liraglutide could ameliorate glucose tolerance and
+insulin sensitivity in T2DM mice. All the results were consistent
+with previous studies.37,38 Chronic hyperglycemia and insulin
+resistance are regarded as major causes for T2DM and its compli-
+cations, triggering progressive structural and functional abnor-
+malities of brain.39,40 Interestingly, it has been proved that GLP-1 is
+a good candidate for improving cognitive dysfunction in diabetes-
+induced dementia, related to controlling glycemic homeostasis
+and insulin resistance.41 Based on these data, we inferred the
+Fig. 5. Liraglutide attenuates HG-induced primary cortical neurons damage. (A) The effects of different concentrations of liraglutide on HG-induced primary cortical neurons
+damage. (B) The effects of 100 nmol/L liraglutide on the cell viability of primary cortical neurons treated with or without HG. The cell viability was measured by CCK-8 kit. Data are
+expressed as mean ± SEM, n ¼ 4. **P < 0.01, versus Control; #P < 0.05, ##P < 0.01, versus HG.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+241
+amelioration of cognitive impairments achieved by liraglutide was
+associated with improved glycemic homeostasis and insulin resis-
+tance to some extent.
+Accumulating evidences have conﬁrmed diabetes have been
+regarded as an independent risk factor for AD. Diabetes-associated
+cognitive dysfunction has gained widespread attention for its
+deleterious impact on individuals with diabetes.6,42 As the safest
+therapy for T2DM, the neuroprotective effects of GLP-1 analogs
+have been widely discussed in patients with metabolic disorder.
+Previous studies have shown that GLP-1 analogs slow down the
+progression of cognitive decline in different animal models.13,15,43
+Learning and memory are two vital components of cognitive
+function. In our previous research, liraglutide could improve
+learning and memory in T1DM mice reﬂected by improved per-
+formance on Morris water maze task. In addition, it revealed that
+liraglutide treatment reduced hippocampal and synaptic injuries,
+protected against oxidative and inhibited neuronal apoptosis
+through PI3K/Akt signaling pathway.13 In our current study, we
+found that liraglutide treatment could markedly decrease the
+escape latency and increase the time in the effective area in MWM
+test in T2DM mice. Hippocampus is an important brain region
+which plays a key role in learning and memory. And the hippo-
+campal neuronal injuries partially lead to the impaired learning and
+memory.44 Synapse is essential for functional connection between
+neurons and signal transmission, and synaptic plasticity is thought
+to be cellular mechanisms of learning and memory.45 In our present
+study, liraglutide treatment improved the damaged neuronal
+morphology in the hippocampal CA1 region. Meanwhile, TEM ob-
+servations suggested that liraglutide protected cognitive impair-
+ment in T2DM mice by reducing neuronal and synaptic injuries.
+These results indicated that liraglutide showed a potential in
+ameliorating cognitive deﬁcit in T2DM.
+Extracellular amyloid plaques, which are markedly pathological
+features of AD, are composed of an insoluble aggregation of Ab. And
+Fig. 6. Liraglutide protects primary cortical neurons by ameliorating autophagic ﬂux. (A) The expression of LC3B protein. (B) The expression of Beclin1 protein. (C) The expression of
+p62 protein. (D) The expression of LAMP-2 protein. In Western blots, data are expressed as mean ± SEM, n ¼ 5. *P < 0.05, **P < 0.01, versus Control; #P < 0.05, ##P < 0.01, versus HG;
+&P < 0.05, &&P < 0.01, versus liraglutide group without Baﬁlomycin A1. Baﬁlomycin A1 is an autophagy inhibitor, which inhibited the fusion of autophagosome and lysosome.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+242
+the deposition of Ab is hypothesized to initiate a pathological
+cascade leading to AD, which can cause neuron necrosis, apoptosis
+and amyloidosis, and peripheral insulin resistance.31,46 A few
+studies also showed that T2DM patients exhibited impaired insulin
+signaling pathways accompanied with increased Ab accumula-
+tion.47 Notably, GLP-1 analogs such as liraglutide and exendin-4
+attenuate endogenous levels of Ab in the brain and prevent Ab
+accumulation in the AD brain.21,48 But few studies have clariﬁed
+whether liraglutide could attenuate the Ab accumulation in hip-
+pocampus of T2DM. In the current study, we found that liraglutide
+could signiﬁcantly reduce the Ab accumulation in hippocampus of
+T2DM. Ab over-deposition can mediate oxidative stress, mito-
+chondrial damage and DNA fragmentation.21,49 Therefore, we
+assumed that Ab accumulation could cause neuronal injury, which
+would further result in learning and memory in T2DM mice.
+Interestingly, Ma et al. conﬁrmed autophagy-lysosome dysfunction
+may be involved in the Ab over-deposition in STZ-induced diabetic
+cognitive dysfunction.50 In accordance with this, we further dis-
+cussed the possible mechanisms underlying neuroprotective ef-
+fects of liraglutide through modulating autophagic ﬂux.
+Autophagy
+plays
+critical
+roles
+in
+cellular
+self-digestion
+pathway that is responsible for the systematic degradation and
+recycling of harmful components, such as protein aggregates and
+impaired organelles, which is essential for neuronal homeosta-
+sis.51 Autophagy impairment is associated with multiple diseases
+including diabetes-related disease, which was activated exces-
+sively or inhibited.52,53 Meanwhile, autophagy is common in many
+neurodegenerative disorders including AD, PD and diabetes-
+associated cognitive impairment.49,50 Autophagy is a dynamic
+process
+including
+induction,
+autophagosome
+formation,
+the
+fusion of autophagosome with lysosome to form autolysosome,
+and ﬁnal digestion by proteases to generate amino acids and en-
+ergy. Autophagic ﬂux is controlled by the balance between auto-
+phagosome
+formation
+and
+autophagic
+degradation.
+In
+the
+healthy brain, autophagy is active and the clearance of the
+autophagosomal-lysosomal pathway is highly efﬁcient to prevent
+autophagic
+substrate
+accumulation.
+Then
+autophagic
+ﬂux
+dysfunction is closely related to diabetes-associated cognitive
+dysfunction that shows abnormally aggregated proteins.50,54 It
+should be noted that GLP-1 analogs also exert a neuroprotective
+effect via modulating autophagic ﬂux. Kong and her group found
+that liraglutide ameliorates cognitive decline by promoting
+autophagy via the AMPK/PI3K pathway in T1DM.15 Candeias et al.
+reported that brain GLP-1/IGF-1 signaling and autophagy medi-
+ated exendin-4 protection against apoptosis in T2DM rats.55 Yang
+concluded that the protective effects of liraglutide may be asso-
+ciated with autophagy via activation of the AMPK and PI3K/Akt
+signaling pathways.22 In line with these studies, we found that
+treatment with liraglutide restored the impaired neuronal auto-
+phagic ﬂux in vivo and in vitro. LC3B is a biomarker for autophagic
+structures. LC3BeI is distributed homogeneously with the cyto-
+plasm. On the other hand, LC3B-II is bound to both sides of the
+autophagosomal double membrane. As autophagy is active, the
+alteration in the ratio of LC3B-II/I indicates changes in autophagy
+activity. Beclin1 is part of a lipid kinase complex, playing a central
+role in autophagy. Autophagy might stimulate the expression of
+Beclin1. Generally, accumulation of p62 has been used as a marker
+for autophagy inhibition. LAMP-2 is a critical component of lyso-
+somal membrane, playing a role in mediating autophagy vacuoles
+and lysosomal fusion.56 In our current study, T2DM mice and HG-
+induced rat primary cortical neurons showed a decreased ratio of
+LC3BII/Iand expression of Beclin1 and LAMP-2, but an elevated
+expression of p62 in hippocampus, indicating the autophagy was
+inhibited. However, liraglutide could reverse the changes, which
+is consistent with previous research.22 Furthermore, compared
+with the liraglutide treatment in HG-induced rat primary cortical
+neurons without Baﬁlomycin A1, the lysosomes were impaired in
+HG-induced rat primary cortical neurons when co-treated with
+Baﬁlomycin A1, as revealed the expression of LAMP-2 protein
+signiﬁcantly decreased compared with liraglutide treatment.
+Subsequently, damaged lysosomes could not fuse with autopha-
+gosomes, which caused autophagosomes accumulation. These
+results revealed liraglutide treatment signiﬁcantly reversed lyso-
+somal defects and increased the clearance of autophagosomes
+(LC3BII/I ratio signiﬁcantly increased compared with liraglutide
+treatment), which suggested that the protective effects of lir-
+aglutide on HG-induced rat primary cortical neurons were closely
+associated with autophagic ﬂux. Our results were consistent with
+exendin-4
+on
+autophagy
+clearance
+in b
+cell
+of
+rats
+with
+tacrolimus-induced diabetes mellitus.57 Therefore, our results
+revealed liraglutide activated autophagy but did not lead to
+autophagy clearance disorder, and increased the lysosomal func-
+tion of the fusion of autophagosomes and lysosomes.
+Autophagy is the key way to clear over-produced protein or
+abnormal organelles. Ma et al. showed Ab deposition may be
+related to autophagy-lysosome dysfunction. However, another
+possible result of diabetes-induced Ab deposition in the hippo-
+campus is that Ab deposition
+leads to autophagy-lysosome
+impairment, creating a vicious circle.50 In our study, liraglutide
+might reduce the Ab deposition in the hippocampus via preventing
+the autophagy-lysosome impairment in T2DM. However, more
+researches are needed to study the speciﬁc mechanisms in the
+future. The crosstalk between lysosomal function, autophagy-
+lysosome and Ab, and its underlying molecular mechanism,
+should be investigated. And the colocalization of Ab, LC3B and
+LAMP-2 awaits further study. Additionally the relationship be-
+tween decreasing blood glucose, ameliorating autophagy ﬂux and
+reducing Ab of the liraglutide treatment is still need to be discussed
+in diabetes-associated cognitive dysfunction.
+In conclusion, these above observations suggested that the
+neuroprotective effects of liraglutide on cognitive dysfunction,
+hippocampal neuronal injuries and Ab deposition appear to be
+related to restoring the autophagic ﬂux. These ﬁndings enhance
+our
+understanding
+of
+liraglutide-mediated
+neuroprotection
+against diabetes-associated cognitive impairment. Our results
+suggest that liraglutide may provide potential therapeutic strat-
+egy for preventing cognitive defect in T2DM. Although accumu-
+lating studies have indicated that effective anti-diabetic agents
+are also promising therapeutic interventions to prevent cognitive
+disorders,58 these hypoglycemic agents have some shortcomings
+in the treatment of diabetic cognitive dysfunction. Metformin or
+sulfonylureas are difﬁcult to maintain stable blood glucose level
+for a long time, and the long-term use of insulin may lead to hy-
+poglycemia, which might deteriorate the cognitive function.59
+Liraglutide, as a GLP-1 analog, is different from conventional hy-
+poglycemic drugs. It stimulates insulin secretion and inhibit
+glucagon production in a glucose-dependent manner without
+prompting hypoglycemia. In this regard, liraglutide is more
+effective and possibly safer than those conventional anti-diabetic
+drugs.
+Declaration of competing interest
+The authors declare that there are no conﬂicts of interest.
+Acknowledgement
+This work was supported by grants from National Natural Sci-
+ence Foundation of China (81471031).
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+243
+References
+1. Kawamura T, Umemura T, Hotta N. Cognitive impairment in diabetic patients:
+can diabetic control prevent cognitive decline? J Diabetes Invest. 2012;3(5):
+413e423.
+2. Xu YH, Zhou H, Zhu Q. The impact of microbiota-gut-brain axis on diabetic
+cognition impairment. Front Aging Neurosci. 2017;9:106.
+3. Biessels GJ. Sweet memories: 20 years of progress in research on cognitive
+functioning in diabetes. Eur J Pharmacol. 2013;719(1e3):153e160.
+4. Biessels GJ, Despa F. Cognitive decline and dementia in diabetes mellitus:
+mechanisms and clinical implications. Nat Rev Endocrinol. 2018;14(10):
+591e604.
+5. Schmidt R, Launer LJ, Nilsson LG, et al. Magnetic resonance imaging of the brain
+in diabetes: the cardiovascular determinants of dementia (CASCADE) study.
+Diabetes. 2004;53(3):687e692.
+6. Lee HJ, Seo HI. Diabetes and Alzheimer's disease: mechanisms and nutritional
+aspects. Clin Nutr Res. 2018;7(4):229e240.
+7. Yang Y, Song W. Molecular links between Alzheimer's disease and diabetes
+mellitus. Neuroscience. 2013;250:140e150.
+8. Holscher C. The role of GLP-1 in neuronal activity and neurodegeneration.
+Vitam Horm. 2010;84:331e354.
+9. Xu HH, Zhang X, Zheng HH, Han QY, Lin AF, Yan WH. Association of HLA-G 3'
+UTR polymorphism and expression with the progression of cervical lesions in
+human papillomavirus 18 infections. Infect Agents Canc. 2018;13:42.
+10. McClean PL, Holscher C. Lixisenatide, a drug developed to treat type 2 diabetes,
+shows neuroprotective effects in a mouse model of Alzheimer's disease.
+Neuropharmacology. 2014;86:241e258.
+11. Tai J, Liu W, Li Y, Li L, Holscher C. Neuroprotective effects of a triple GLP-1/GIP/
+glucagon receptor agonist in the APP/PS1 transgenic mouse model of Alz-
+heimer's disease. Brain Res. 2018;1678:64e74.
+12. Gilman CP, Perry T, Furukawa K, Grieg NH, Egan JM, Mattson MP. Glucagon-like
+peptide 1 modulates calcium responses to glutamate and membrane depo-
+larization in hippocampal neurons. J Neurochem. 2003;87(5):1137e1144.
+13. Yan W, Pang M, Yu Y, et al. The neuroprotection of liraglutide on diabetic
+cognitive deﬁcits is associated with improved hippocampal synapses and
+inhibited neuronal apoptosis. Life Sci. 2019;231:116566.
+14. Chen S, Zhou M, Sun J, et al. DPP-4 inhibitor improves learning and memory
+deﬁcits and AD-like neurodegeneration by modulating the GLP-1 signaling.
+Neuropharmacology. 2019;157:107668.
+15. Kong FJ, Wu JH, Sun SY, Ma LL, Zhou JQ. Liraglutide ameliorates cognitive
+decline by promoting autophagy via the AMP-activated protein kinase/
+mammalian target of rapamycin pathway in a streptozotocin-induced mouse
+model of diabetes. Neuropharmacology. 2018;131:316e325.
+16. McClean PL, Parthsarathy V, Faivre E, Holscher C. The diabetes drug liraglutide
+prevents degenerative processes in a mouse model of Alzheimer's disease.
+J Neurosci. 2011;31(17):6587e6594.
+17. Nixon RA. The role of autophagy in neurodegenerative disease. Nat Med.
+2013;19(8):983e997.
+18. Wang B, Huang J, Li J, Zhong Y. Control of macrophage autophagy by miR-384-
+5p in the development of diabetic encephalopathy. Am J Transl Res. 2018;10(2):
+511e518.
+19. Li Z, Hao S, Yin H, Gao J, Yang Z. Autophagy ameliorates cognitive impairment
+through activation of PVT1 and apoptosis in diabetes mice. Behav Brain Res.
+2016;305:265e277.
+20. Batista AF, Forny-Germano L, Clarke JR, et al. The diabetes drug liraglutide
+reverses cognitive impairment in mice and attenuates insulin receptor and
+synaptic pathology in a non-human primate model of Alzheimer's disease.
+J Pathol. 2018;245(1):85e100.
+21. McClean PL, Holscher C. Liraglutide can reverse memory impairment, synaptic
+loss and reduce plaque load in aged APP/PS1 mice, a model of Alzheimer's
+disease. Neuropharmacology. 2014;76 Pt A:57e67.
+22. Yang Y, Fang H, Xu G, et al. Liraglutide improves cognitive impairment via the
+AMPK and PI3K/Akt signaling pathways in type 2 diabetic rats. Mol Med Rep.
+2018;18(2):2449e2457.
+23. Lu J, Ji W, Zhao M, et al. Protamine zinc insulin combined with sodium selenite
+improves glycometabolism in the diabetic KKAy mice. Sci Rep. 2016;6:26563.
+24. Yan W, Zhang M, Yu Y, et al. Blockade of voltage-gated potassium channels
+ameliorates diabetes-associated cognitive dysfunction in vivo and in vitro. Exp
+Neurol. 2019;320:112988.
+25. Kimura N. Diabetes mellitus induces Alzheimer's disease pathology: histo-
+pathological evidence from animal models. Int J Mol Sci. 2016;17(4):503.
+26. Movassat J, Delangre E, Liu J, Gu Y, Janel N. Hypothesis and theory: circulating
+Alzheimer's-related biomarkers in type 2 diabetes. Insight from the Goto-
+Kakizaki rat. Front Neurol. 2019;10:649.
+27. Cholerton B, Baker LD, Montine TJ, Craft S. Type 2 diabetes, cognition, and
+dementia in older adults: toward a precision health approach. Diabetes Spectr.
+2016;29(4):210e219.
+28. McCrimmon RJ, Ryan CM, Frier BM. Diabetes and cognitive dysfunction. Lancet.
+2012;379(9833):2291e2299.
+29. Shaik MA, Chan QL, Xu J, et al. Risk factors of cognitive impairment and brief
+cognitive tests to predict cognitive performance determined by a formal
+neuropsychological evaluation of primary health care patients. J Am Med Dir
+Assoc. 2016;17(4):343e347.
+30. Holscher C. Potential role of glucagon-like peptide-1 (GLP-1) in neuro-
+protection. CNS Drugs. 2012;26(10):871e882.
+31. Zheng C, Zhou M, Sun J, et al. The protective effects of liraglutide on AD-like
+neurodegeneration induced by oxidative stress in human neuroblastoma SH-
+SY5Y cells. Chem Biol Interact. 2019;310:108688.
+32. Badawi GA, Abd El Fattah MA, Zaki HF, El Sayed MI. Sitagliptin and liraglutide
+reversed nigrostriatal degeneration of rodent brain in rotenone-induced Par-
+kinson's disease. Inﬂammopharmacology. 2017;25(3):369e382.
+33. Chang CC, Lin TC, Ho HL, et al. GLP-1 analogue liraglutide attenuates mutant
+Huntingtin-induced neurotoxicity by restoration of neuronal insulin signaling.
+Int J Mol Sci. 2018;19(9).
+34. Bavenholm PN, Pigon J, Ostenson CG, Efendic S. Insulin sensitivity of sup-
+pression of endogenous glucose production is the single most important
+determinant of glucose tolerance. Diabetes. 2001;50(6):1449e1454.
+35. Li
+XM.
+Protective
+effect
+of
+Lycium
+barbarum
+polysaccharides
+on
+streptozotocin-induced oxidative stress in rats. Int J Biol Macromol. 2007;40(5):
+461e465.
+36. Kuai M, Li Y, Sun X, et al. A novel formula Sang-Tong-Jian improves glyco-
+metabolism and ameliorates insulin resistance by activating PI3K/AKT pathway
+in type 2 diabetic KKAy mice. Biomed Pharmacother. 2016;84:1585e1594.
+37. Chen LN, Lyu J, Yang XF, et al. Liraglutide ameliorates glycometabolism and
+insulin resistance through the upregulation of GLUT4 in diabetic KKAy mice. Int
+J Mol Med. 2013;32(4):892e900.
+38. Gault VA, Kerr BD, Harriott P, Flatt PR. Administration of an acylated GLP-1 and
+GIP preparation provides added beneﬁcial glucose-lowering and insulinotropic
+actions over single incretins in mice with Type 2 diabetes and obesity. Clin Sci.
+2011;121(3):107e117.
+39. Gradman TJ, Laws A, Thompson LW, Reaven GM. Verbal learning and/or
+memory improves with glycemic control in older subjects with non-insulin-
+dependent diabetes mellitus. J Am Geriatr Soc. 1993;41(12):1305e1312.
+40. Gaspar JM, Baptista FI, Macedo MP, Ambrosio AF. Inside the diabetic brain: role
+of different
+players
+involved
+in cognitive
+decline.
+ACS Chem Neurosci.
+2016;7(2):131e142.
+41. Bae CS, Song J. The role of glucagon-like peptide 1 (GLP1) in type 3 diabetes:
+GLP-1 controls insulin resistance, neuroinﬂammation and neurogenesis in the
+brain. Int Journal of Mol Sci. 2017;18(11):2493.
+42. Cai XJ, Wang L, Hu CM. Effects of GABAB receptor activation on spatial cogni-
+tive function and hippocampal neurones in rat models of type 2 diabetes
+mellitus. Biosci Rep. 2018;38(1), BSR20171184.
+43. Koshal P, Jamwal S, Kumar P. Glucagon-like peptide-1 (GLP-1) and neuro-
+transmitters signaling in epilepsy: an insight review. Neuropharmacology.
+2018;136(Pt B):271e279.
+44. Preston AR, Eichenbaum H. Interplay of hippocampus and prefrontal cortex in
+memory. Curr Biol. 2013;23(17):R764eR773.
+45. Todorova V, Blokland A. Mitochondria and synaptic plasticity in the mature and
+aging nervous system. Curr Neuropharmacol. 2017;15(1):166e173.
+46. Wijesekara N, Goncalves RA, De Felice FG, Fraser PE. Impaired peripheral
+glucose homeostasis and Alzheimer's disease. Neuropharmacology. 2018;136(Pt
+B):172e181.
+47. Son SM, Song H, Byun J, et al. Accumulation of autophagosomes contributes to
+enhanced amyloidogenic APP processing under insulin-resistant conditions.
+Autophagy. 2012;8(12):1842e1844.
+48. Wang X, Wang L, Jiang R, Xu Y, Zhao X, Li Y. Exendin-4 antagonizes Abeta1-42-
+induced attenuation of spatial learning and memory ability. Exp The Med.
+2016;12(5):2885e2892.
+49. Li Q, Liu Y, Sun M. Autophagy and Alzheimer's disease. Cell Mol Neurobiol.
+2017;37(3):377e388.
+50. Ma LY, Lv YL, Huo K, et al. Autophagy-lysosome dysfunction is involved in
+Abeta deposition in STZ-induced diabetic rats. Behav Brain Res. 2017;320:
+484e493.
+51. Thorburn A. Autophagy and disease. J Biol Chem. 2018;293(15):5425e5430.
+52. Kanamori H, Takemura G, Goto K, et al. Autophagic adaptations in diabetic
+cardiomyopathy differ between type 1 and type 2 diabetes. Autophagy.
+2015;11(7):1146e1160.
+53. Wang W, Wang Q, Wan D, et al. Histone HIST1H1C/H1.2 regulates autophagy in
+the development of diabetic retinopathy. Autophagy. 2017;13(5):941e954.
+54. Chen JL, Luo C, Pu D, et al. Metformin attenuates diabetes-induced tau
+hyperphosphorylation in vitro and in vivo by enhancing autophagic clearance.
+Exp Neurol. 2019;311:44e56.
+55. Candeias E, Sebastiao I, Cardoso S, et al. Brain GLP-1/IGF-1 signaling and
+autophagy mediate exendin-4 protection against apoptosis in type 2 diabetic
+rats. Mol Neurobiol. 2018;55(5):4030e4050.
+56. Rothaug M, Stroobants S, Schweizer M, et al. LAMP-2 deﬁciency leads to hip-
+pocampal
+dysfunction
+but
+normal
+clearance
+of
+neuronal
+substrates
+of
+chaperone-mediated autophagy in a mouse model for Danon disease. Acta
+Neuropathol Commun. 2015;3:6.
+57. Lim SW, Jin L, Jin J, Yang CW. Effect of Exendin-4 on autophagy clearance in beta
+cell of rats with tacrolimus-induced diabetes mellitus. Sci Rep. 2016;6:29921.
+58. Yaribeygi H, Rashidy-Pour A, Atkin SL, Jamialahmadi T, Sahebkar A. GLP-1
+mimetics and cognition. Life Sci. 2021;264:118645.
+59. Pasciak WE, Berg DN, Cherlin E, Fried T, Lipska KJ. Qualitative analysis of rea-
+sons for hospitalization for severe hypoglycemia among older adults with
+diabetes. BMC Geriatr. 2021;21(1):318.
+M. Zhang, W. Yan, Y. Yu et al.
+Journal of Pharmacological Sciences 147 (2021) 234e244
+244
+

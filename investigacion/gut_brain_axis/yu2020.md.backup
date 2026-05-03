@@ -1,0 +1,824 @@
+# Vagal sensory neurons and gut-brain signaling
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2020
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: yu2020.pdf
+
+## Abstract / Summary
+Vagal sensory neurons and gut-brain signaling
+Chuyue D Yu1,2,3, Qian J Xu1,2,3 and Rui B Chang1
+Our understanding of the gut system has been revolutionized
+over the past decade, in particular regarding its role in immune
+control and psychological regulation. The vagus nerve is a
+crucial link between gut and brain, transmitting diverse gut-
+derived signals, and has been implicated in many
+gastrointestinal, neurological, and immunological disorders.
+Using state-of-the-art technologies including si... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Vagal sensory neurons and gut-brain signaling. 2020.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Vagal sensory neurons and gut-brain signaling
+Chuyue D Yu1,2,3, Qian J Xu1,2,3 and Rui B Chang1
+Our understanding of the gut system has been revolutionized
+over the past decade, in particular regarding its role in immune
+control and psychological regulation. The vagus nerve is a
+crucial link between gut and brain, transmitting diverse gut-
+derived signals, and has been implicated in many
+gastrointestinal, neurological, and immunological disorders.
+Using state-of-the-art technologies including single-cell
+genomic analysis, real-time neural activity recording, trans-
+synaptic tracing, and electron microscopy, novel physiological
+functions of vagal gut afferents have been uncovered, and new
+gut-to-brain pathways have been revealed. Here, we review the
+most recent ﬁndings on vagal sensory neurons and the gut-
+brain signaling, focusing on the anatomical basis and the
+underlying molecular and cellular mechanisms. Such new
+discoveries explain some of the old puzzling problems and also
+raise new questions in this exciting and rapidly growing ﬁeld.
+Addresses
+1 Department of Neuroscience, Department of Cellular and Molecular
+Physiology, Yale University School of Medicine, New Haven, CT 06510,
+United States
+2 Interdepartmental Neuroscience Program, Yale University School of
+Medicine, New Haven, CT 06520, United States
+Corresponding author: Chang, Rui B (rui.chang@yale.edu)
+3 Co-ﬁrst author.
+Current Opinion in Neurobiology 2020, 62:133–140
+This review comes from a themed issue on Brain, gut, and immune
+system interactions
+Edited by Asya Rolls and Isaac Chiu
+https://doi.org/10.1016/j.conb.2020.03.006
+0959-4388/ã 2020 Elsevier Ltd. All rights reserved.
+Introduction
+The gastrointestinal (GI) tract is home to 500 million
+enteric neurons, 70% of the body’s immune cells, and
+over 100 trillion microbes [1,2]. Numerous information
+needs to be monitored from the gut, including ingested
+food, energy homeostasis, inﬂammatory signals, and
+digestive progress, to ensure appropriate regulation of
+body physiological processes and behaviors to promote
+overall health. Food contents are constantly surveyed by
+specialized epithelial cells named enteroendocrine cells
+lining along the GI tract while mechanical changes asso-
+ciated with ingestion and digestion are detected by
+enteric neurons, enteroendocrine cells, and sensory nerve
+endings 
+residing in 
+GI 
+walls. 
+Absorbed 
+nutrients,
+microbial metabolites, and secreted immune mediators
+such as cytokines and chemokines are all actively moni-
+tored signals from the gut. Intriguingly, a clear association
+between many neurological disorders and digestive pro-
+blems in human patients was noticed and extensively
+demonstrated in early studies [3], suggesting that the gut-
+brain axis is not only important for appetite control and
+intestinal immunity but also essential for brain cognitive
+functions.
+The gut-to-brain axis contains two major pathways: affer-
+ents that originate from the nodose and dorsal root ganglia
+(DRG) transmit gut signals to the central nervous system
+(CNS) via the vagus and spinal sensory nerves respec-
+tively, while gut-derived hormones, neurotransmitters,
+inﬂammatory cues, and immune signals also enter the
+brain via circulation. As a major bidirectional connection
+between body and the brain, the vagus nerve has been a
+key focus in recent investigations of the gut-brain axis.
+The vagus nerve is the 10th cranial nerve that supplies
+many GI organs including esophagus, stomach, small
+intestine, and colon, other essential organs in the diges-
+tive system such as liver, pancreas, and gallbladder, as
+well as cardiopulmonary organs such as heart, lung, tra-
+chea, and aortic arch [4]. Sensory (afferent) and motor
+(efferent) ﬁbers are intermingled in the vagus nerve, with
+their cell bodies reside in different locations: sensory
+neurons in the nodose/jugular ganglia adjacent to the
+jugular foramen and motor neurons in the dorsal motor
+nucleus of the vagus (DMV) and the nucleus ambiguus in
+the brainstem. Sensory neurons in the vagus nerve are
+genetically heterogeneous [5,6,7], equipped with a
+diversity of molecular machineries for detecting stretch,
+tension, and various chemical cues, or for communicating
+with other sensory cells such as enteroendocrine cells,
+neuroepithelia bodies, taste buds, and enteric neurons.
+Genetically distinct sensory neurons in the vagus nerve
+likely encode different body information [7]. However,
+the coding logic in vagal sensory ganglia has not been fully
+understood yet. What are the anatomical and molecular
+bases for sensing diverse gut inputs? How do distinct GI
+signals differentially regulate physiology, behavior, and
+brain functions? In this review, we will summarize recent
+progress on understanding the roles of vagal sensory
+neurons in mediating the gut-brain signaling and discuss
+potential future directions.
+How do vagal sensory neurons receive diverse
+gut-brain signals?
+Specialized sensory terminal endings evolve to better
+detect diversiﬁed sensory cues. Vagal sensory neurons
+form a diversity of mechano-sensory and chemo-sensory
+terminals along the GI tract (Figure 1), including
+Available online at www.sciencedirect.com
+ScienceDirect
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2020, 62:133–140
+intraganglionic laminar endings (IGLEs) that communi-
+cate with clusters of myenteric neurons between longi-
+tudinal and circular muscle layers, intramuscular array
+endings (IMAs) which are branches of parallel telodendria
+running in parallel to smooth muscle ﬁbers more strate-
+gically located near the sphincters, and mucosal endings
+arborizing within the mucosa layer with various morphol-
+ogies [4,8–12]. In addition, vagal afferents also innervate
+intestinal glands, antral glands, and extreme posterior
+taste buds in the pharynx and upper esophagus [12,13].
+Both IGLEs and IMAs are believed to detect mechanical
+changes [14–18], yet the underlying molecular mecha-
+nisms by which gut distension is sensed by these afferent
+endings are not well understood [19]. Mechanosensitive
+PIEZO channels mediate a number of body mechano-
+sensory processes including pulmonary stretch, gentle
+touch, and blood pressure ﬂuctuation [20–22]. It is unclear
+whether 
+PIEZO 
+channels 
+also 
+contribute 
+to 
+gut
+mechanosensation. Nevertheless, while PIEZO channels
+are Gd3+ sensitive [23], IGLEs’ mechano-sensitivity is
+Gd3+ insensitive [18], suggesting the existence of PIEZO
+independent mechanisms.
+The gastrointestinal mucosal barrier, formed by a single
+layer of epithelial cells, prevents luminal entities from
+entering the underlying GI tissue. Enteroendocrine cells
+are the primary sensors for intestinal nutrients, and they
+function as an interface between luminal contents and
+afferent nerves [24]. A large number of GI neurohor-
+mones including cholecystokinin (CCK), glucagon-like
+peptide-1 (GLP-1), peptide YY (PYY), and serotonin are
+released from enteroendocrine cells to regulate digestion,
+nutrient absorption, and food intake. Enteroendocrine
+cells were traditionally categorized alphabetically into
+eight subpopulations based on the principal hormones
+they produce [24] and were recently shown to be more
+heterogeneous using single-cell transcriptomics [25,26],
+suggesting that the coding logic for intestinal nutrients in
+134 
+Brain, gut, and immune system interactions
+Figure 1
+(a) 
+(b)
+Lumen
+Villus
+Epithelial
+Barrier
+Mucosa
+Muscularis
+Mucosa
+Submucosal
+Plexus
+Circular
+Muscle
+Myenteric
+Plexus
+Longitudibnal
+Muscle
+Nodose ganglion
+Vagus nerve
+Feeding pathway
+Rewarding pathway
+Nutrition
+Gut hormone-paracrine
+Enteroendocrine cell
+Neuropod
+Enteric neuron
+Vagus nerve
+Gut hormone-endocrine
+Vagus nerve
+Current Opinion in Neurobiology
+Diverse gut-brain connections via the sensory vagus nerve.
+(a) The gross anatomy of the sensory vagus nerve. Neurons with cell bodies within the nodose/jugular ganglia project to peripheral organs to
+monitor and send diverse body signals to a variety of brain regions including hypothalamus, SFO, striatum, and hippocampus via the NTS to
+regulate food intake, fluid homeostasis, reward, memory, cognition, and other brain functions. (b) Vagal afferents and nutrient sensation in the gut.
+Anatomically, vagus afferents form IGLEs with enteric neurons, IMAs within both circular and longitudinal muscle layers, and free endings
+arborizing the villi. After being activated by specific nutrients, enteroendocrine cells release hormones to local or distal enteric neurons and vagal
+sensory endings. Some enteroendocrine cells named neuropods also form synapses onto vagal sensory terminals.
+Current Opinion in Neurobiology 2020, 62:133–140 
+www.sciencedirect.com
+enteroendocrine cells is at best partially understood.
+Vagal afferents travel through the intestinal villus shaft,
+arborize along its apical pole, and form varicosities and
+swellings near the enteroendocrine cells [12]. It was
+believed, for a long time, that enteroendocrine cells lack
+physical contact with afferent nerves. Instead, they com-
+municate in a paracrine fashion that released hormones
+will diffuse to signal adjacent afferent terminals. Recep-
+tors for many gut hormones, including CCKAR, GLP1R,
+NPY2R, and HTR3A are expressed in vagal sensory
+neurons [6,7,27,28]. Although the roles of some gut
+peptide/receptor pairs including GLP-1/GLP1R in this
+communication have been questioned [7,29], the impor-
+tance of this paracrine connection in the gut-brain axis has
+been extensively described and well accepted. In addi-
+tion to this classical model, recent studies using immu-
+nostaining of synaptic markers, monosynaptic rabies virus
+tracing, and electron microscopy have demonstrated that
+about two-thirds of enteroendocrine cells are able to
+make synapses with adjacent nerves [30,31] and a new
+connection mechanism between enteroendocrine cells
+and vagal afferents involving glutamatergic synapses
+was discovered [32] (Figure 1). Such synapses enable
+ultrafast millisecond transmission from enteroendocrine
+cells to vagal sensory neurons, which together with para-
+crine communication provide a complete time spectrum,
+from fast to slow, for gut-brain signaling. This break-
+through ﬁnding suggests that our understanding of the
+enteroendocrine-vagus interaction is far from complete
+and will open up new vistas in this important area.
+How do vagal afferents communicate with the
+brain?
+Vagal afferents primarily terminate in the nucleus of
+solitary tract (NTS) in the brainstem, where visceral
+information is further transmitted to higher brain regions
+such as the locus coeruleus (LC), the rostral ventrolateral
+medulla, the dorsal raphe nucleus, and the hypothalamus
+via multi-synaptic connections [4,33,34]. In fact, using
+large-scale neural mapping techniques, it has been shown
+that numerous brain regions are impacted by vagus nerve
+stimulation, and this connectivity has been termed the
+‘vagus afferent network’. For example, the effects of
+vagus nerve stimulation on epilepsy and depression are
+thought to be at least in part through the NTS-LC
+pathway [33]. Recently, a novel gut-vagus-NTS-medial
+septum-hippocampus pathway has been characterized in
+detail, providing anatomical evidence for gut control of
+learning and memory [35].
+Upon food consumption, vagal afferents from the gut
+send satiety signals to the hypothalamus via the NTS
+to regulate meal size in a negative-feedback manner
+[34,36,37]. In the hypothalamic arcuate nucleus, activa-
+tion of AgRP neurons by food deprivation induces food
+craving, seeking, and consumption behaviors while
+POMC neurons are activated under fed condition and
+promote satiety [38]. During a meal, activity of AgRP
+neurons is dynamically regulated by multiple sensory
+inputs including visual and olfactory cues, nutrient detec-
+tion in the mouth and upper GI tract, and homeostatic
+signals [39–41]. Simply presenting food to a hungry
+mouse rapidly and transiently inhibits AgRP neurons
+and activates POMC neurons even before food is con-
+sumed. Sustained inhibition of AgRP neurons requires
+not only food consumption but also calorie intake
+[42,43]. Consistently, AgRP neurons are inhibited in a
+fast and persistent manner by intragastric infusion of
+nutrients and intraperitoneal injection of gut-derived
+hormones (CCK, PYY, amylin, and serotonin) but not
+gastric distension. It is worth noting that AgRP neurons
+can distinguish calorie-free gel from caloric gel within 40 s
+after consumption, suggesting that a rapid gut-brain sig-
+naling pathway is involved. Considering the timescale of
+such acute responses, and the fact that both CCK and PYY
+receptors are expressed on vagal sensory neurons, the
+vagus nerve is likely responsible for transmitting this gut
+signal to AgRP neurons. Although it is commonly thought
+that calorie detection requires nutrient sensing, a recent
+report suggests that vagal intestinal IGLE mechanore-
+ceptors but not mucosal endings are essential for inhibi-
+tion of AgRP neurons and food intake [44].
+Neurons in the subfornical organ (SFO) play an important
+role in ﬂuid homeostasis and thirst satiation [45]. Like the
+rapid inhibition of AgRP neurons by food cues, ingestion
+of ﬂuid and intragastric infusion of water rapidly inhibit
+Nos1+ excitatory neurons in the SFO in dehydrated
+animals [46,47]. Intragastric infusion of water also inhi-
+bits drinking behavior in dehydrated mice, suggesting gut
+signals are able to suppress thirst sensation. Both effects
+are greatly reduced in subdiaphragmatic vagotomized
+animals [47], indicating an essential role of this gut-
+vagus-SFO pathway in thirst control. Reduction of gut
+osmolarity may also activate SFO GLP1R neurons to
+inhibit water intake [48]. Vagal afferent responses to
+osmolarity challenges have been described in early stud-
+ies [49] and are likely mediated by vagal GPR65 neurons,
+as these neurons exhibit afferent terminals arborizing the
+apical pore of intestinal villi and detect polymodal signals
+from the gut in vivo [7]. Direct neural projection from the
+NTS to the SFO has been reported earlier [50]; however,
+whether this connection is involved in the gut-to-SFO
+circuit still needs to be conﬁrmed.
+Increasing evidence has demonstrated the importance of
+the vagus nerve in neuropsychological functions. Vagal
+afferents are typically associated with suppression of food
+intake and negative valence but not the reward system.
+Using state-of-the-art viral tracing approaches, a novel
+gut-vagus-NTS-PBNdl (the dorsal lateral parabrachial
+nucleus)-SNc (the substantia nigra pars compacta) reward
+pathway was discovered [51]. Surprisingly, although
+both left and right vagus nerves carry satiety cues from
+Vagal sensory neurons and gut-brain signaling Yu, Xu and Chang 
+135
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2020, 62:133–140
+136 
+Brain, gut, and immune system interactions
+Figure 2
+Current Opinion in Neurobiology
+The microbiome/immune-gut-brain pathway mediated by the vagus nerve.
+Sensory neurons in the vagus nerve may communicate with microbiome and immune cells via multiple pathways. While some pathogenic
+Current Opinion in Neurobiology 2020, 62:133–140 
+www.sciencedirect.com
+the gut, this gut-SNc pathway is only mediated by the
+right vagus nerve. Optogenetic stimulation of this path-
+way induces a panel of reward behaviors, which is not
+mutually exclusive to satiation mediated by both vagus
+nerve branches. This striking ﬁnding not only provides
+evidence for a direct neural pathway that links the gut
+with the reward center in the brain, but also suggests
+functional asymmetry between left and right vagus
+nerves. Identifying the molecular signature of such neu-
+rons and the underlying anatomical and sensory basis
+would be informative to better understand this gut-brain
+reward pathway.
+Vagal afferents, microbiota, and cognitive
+functions
+Tens oftrillionsof microorganisms live in ourgut, including
+over 1000 known bacteria species. Together they play
+crucial roles in development, gut physiology, immune
+functions, perception, cognition, memory, and other brain
+functions [2,52–54]. Numerous studies have suggested the
+existence of a microbiome-gut-brain axis (Figure 2). Gut
+microbiota are closely associated with many social beha-
+viors and psychiatric disorders including anxiety, depres-
+sion, Parkinson’s disease, Alzheimer’s disease, and autism
+spectrum disorder. In particular, germ-free animals receiv-
+ing microbiota transplantation from animals or patients
+with such neurological diseases will develop similar symp-
+toms [52–54]. Accumulatingevidence issuggesting that the
+vagus nerve is one of the major routes in the microbiome-
+gut-brain axis. For example, the beneﬁcial effects of
+chronic treatment with Lactobacillus rhamnosus, a kind of
+lactic acid bacteria, on emotional behaviors are diminished
+in subdiaphragmatic vagotomized animals [55]. Similarly,
+Lactobacillus reuteri is able to rescue social deﬁcits in mice
+with autism spectrum disorder by modulating synaptic
+plasticity in the ventral tegmental area (VTA) via oxytocin
+and the vagus nerve [56]. Microbes trigger secretion of gut-
+derived neurotransmitters, peptides, and hormones as well
+as local immune mediators such as cytokines and chemo-
+kines. Metabolites produced by isolated gut microbes can
+signal enterochromafﬁn cells and regulate biosynthesis of
+serotonin [57], a crucial mediator for many physiological
+processes. In particular, serotonin can activate vagal affer-
+ents via serotonin receptor HTR3A [7], and therefore, may
+serve as a major signaling molecule between gut microbiota
+and the vagus nerve. Gut microbiota may also modulate
+brainfunctionsvia vagus nerve-independentpathways.For
+example, a recent study shows that gut bacteria that are
+signiﬁcantly altered by ketogenic diet, such as Akkermansia
+and Parabacteroides, are essential for ketogenic diet-
+mediated anti-seizure effect by regulating ketogenic
+gamma-glutamylated amino acids, crucial fuels for gluta-
+mate and GABA biosynthesis [58].
+Despite the consensus that the vagus nerve is a major
+component of the microbiota-gut-brain axis, it is less clear
+whether gut microbiota and/or microbial metabolites will
+activate vagal gut afferents directly. Sensory neurons inner-
+vating lung and skin are known to monitor and protect
+against bacterial/viral infection. Similar to this concept, an
+early study showed that Campylobacter jejuni, a diarrhea-
+causing pathogen, can induce neuronal activation in vagal
+ganglia and vagal central targets (NTS) [59]. In contrast, a
+recent study using modern genetic tools clearly demon-
+strated that gut-projecting afferent neurons that directly
+respond to exposure of Salmonella enterica serovar Typhi-
+murium (STm) and protect the host against this bacterial
+pathogen are nociceptors located in the dorsal root ganglia
+but not the vagus nerve [60]. As sensory ﬁbers do not
+contact intestinal luminal contents under physiological
+conditions, direct activation of vagal afferents by gut
+microbes in vivo is likely due to altered intestinal perme-
+ability. In contrast, most commensal microbiota stays in the
+intestinal lumen and has to communicate with afferents in
+an indirect way. Gut microbiota produces numerous highly
+divergent metabolites and microbial products, including
+short-chain fatty acids (SCFAs), bile acids, lipopolysacchar-
+ides (LPS), and caseinolytic protease B (ClpB), many of
+which are potential neuronal modulators and are implicated
+in disease [61]. A recent chemical genetic screen systemat-
+ically revealed numerous G-protein coupled receptors
+(GPCRs) as targets of human gut microbiota metabolites
+[62]. Gut microbiota can also modulate serotonin produc-
+tion in enterochromafﬁn cells [31,57], while 5-HT recep-
+tors are highly expressed in enteric neurons and gut vagal
+afferents [7,63]. Using electrophysiology, it was shown that
+L. rhamnosus elicits mesenteric vagal afferent ﬁring [64,65].
+Nevertheless, whether this observation can be generalized
+to other psychoactive bacteria is not clear. Alternatively,
+commensal microbiota may inﬂuence the brain by modu-
+lating vagal neuron responses to other GI signals. In short,
+we still lack mechanistic understanding of the roles of vagal
+sensory neurons in the microbiota-gut-brain axis, calling for
+more cell-type speciﬁc ablation studies in the future.
+Vagal afferents and inﬂammation
+Inﬂammation is a tightly regulated protective response to
+invaders or injury. The intestinal immune system con-
+tains the majority of body’s immune cells and is con-
+stantly challenged by antigens from ingested food or gut
+Vagal sensory neurons and gut-brain signaling Yu, Xu and Chang 
+137
+microbes may activate vagal afferent terminals directly through a leaky intestinal barrier, most commensal microbiota interacts indirectly with the
+vagus nerve via enteroendocrine cells and/or enteric neurons, potentially through a serotonin dependent mechanism. Detection of inflammatory
+signals including TNF and IL-1 released from gut immune cells in the vagus nerve is likely mediated by a designated sensory neuron population
+that co-expresses multiple cytokine receptors, and cytokine information is specifically encoded with distinct neurograms. Such detection will
+trigger the ‘inflammatory reflex’ to regulate immune cell functions via the efferent arm of the vagus nerve.
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2020, 62:133–140
+microbiota. The vagus nerve plays an important role in
+neuronal regulation of intestine immunity. While the
+vagal efferent cholinergic anti-inﬂammatory pathway
+has been beautifully demonstrated through a series of
+seminal studies [66,67], how vagal afferents encode
+inﬂammatory cues and are involved in the ‘inﬂammatory
+reﬂex’ is less clear. Early work has suggested that vagal
+afferents may detect cytokines and other immune-
+derived signals via direct and indirect pathways [68].
+Vagal sensory neurons express receptors for a number
+of inﬂammatory mediators, such as TNFR1 and IL1R,
+and can be activated by tumor necrosis factor (TNF) and
+interleukin 1 (IL-1) both in culture and in vivo
+[69,70,71]. 
+Recent 
+studies 
+using 
+computational
+approaches revealed that TNF and IL-1 elicit different
+ﬁring patterns in vagal afferents in vivo, indicating
+immune signals are differentially encoded [70,71]. It
+is worth noting that TNFR1 and IL1R are largely
+expressed in the same vagal sensory neurons [70], sug-
+gesting that there is one designated neuron population for
+immune sensing in the vagus nerve that uses different
+cytokine receptors, potentially different intracellular sig-
+naling pathways, and distinct neurograms to encode cyto-
+kine-speciﬁc immune signals (Figure 2). It was hypothe-
+sized that vagal afferents within the intestinal villi could
+be primed for communicating with immune cells in the
+gut [68]. Alternatively, sensory endings targeting the
+portal vein or lymph nodes are also ideal candidates for
+monitoring immune signals. Nevertheless, the anatomical
+basis for immune sensing in the vagus nerve remains to be
+a mystery and needs to be addressed in the future.
+Conclusion
+New ﬁndings of the gut-brain axis are shaping the way we
+live and making important improvement for human
+health. The gut is not only considered as a system for
+digestion but a crucial regulator for immune and cognitive
+functions as well. Vagal sensory neurons convey impor-
+tant gut signals to the brain, providing an excellent
+therapeutic target for treating digestive, immunological,
+and psychological diseases. However, our current under-
+standing of this gut-brain pathway at the molecular and
+cellular level is far from complete. Many key issues
+including coding logic of gut signals in vagal sensory
+ganglia, the underlying sensory machineries and mecha-
+nisms, and function-speciﬁc neural circuits still need to be
+addressed. Applying state-of-the-art technologies such as
+single cell genomics, cell-type speciﬁc neural modulation,
+and real-time neural activity recordings in the future will
+greatly advance our understanding of this system and may
+provide essential information for improving existing
+vagus nerve stimulation based therapies and developing
+new therapeutic strategies.
+Conﬂict of interest statement
+Nothing declared.
+Acknowledgements
+Funding was provided by the National Institute of Diabetes and Digestive
+and Kidney Diseases (NIDDK) (K01 DK113047 to R.B.C.), the National
+Heart, Lung, and Blood Institute (NHLBI) (R01 HL150449 to R.B.C.), the
+NIH Director’s New Innovator Award (DP2 HL151354 to R.B.C), and the
+China Scholarship Council (CSC) – Yale World Scholars Program in
+Biomedical Sciences (to C.D.Y. and Q.J.X.).
+References and recommended reading
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+ 
+of special interest
+ of outstanding interest
+1. 
+Furness JB, Kunze WA, Clerc N: Nutrient tasting and signaling
+mechanisms in the gut. II. The intestine as a sensory organ:
+neural, endocrine, and immune responses. Am J Physiol 1999,
+277:G922-G928.
+2. 
+Hill DA, Artis D: Intestinal bacteria and the regulation of immune
+cell homeostasis. Annu Rev Immunol 2010, 28:623-667.
+3. 
+North CS, Hong BA, Alpers DH: Relationship of functional
+gastrointestinal disorders and psychiatric disorders:
+implications for treatment. World J Gastroenterol 2007, 13:2020-
+2027.
+4. 
+Berthoud HR, Neuhuber WL: Functional and chemical anatomy
+of the afferent vagal system. Auton Neurosci 2000, 85:1-17.
+5.
+
+Kupari J, Haring M, Agirre E, Castelo-Branco G, Ernfors P: An
+atlas of vagal sensory neurons and their molecular
+specialization. Cell Rep 2019, 27:2508-2523 e2504.
+6. 
+Chang RB, Strochlic DE, Williams EK, Umans BD, Liberles SD:
+Vagal sensory neuron subtypes that differentially control
+breathing. Cell 2015, 161:622-633.
+7.
+
+Williams EK, Chang RB, Strochlic DE, Umans BD, Lowell BB,
+Liberles SD: Sensory neurons that detect stretch and nutrients
+in the digestive system. Cell 2016, 166:209-221.
+8. 
+Harsanyiova J, Ru F, Zatko T, Kollarik M, Hennel M: Vagus nerves
+provide a robust afferent innervation of the mucosa
+throughout the body of the esophagus in the mouse. Dysphagia
+2019 https://doi.org/10.1007/s00455-019-10051-8.
+9. 
+Powley TL, Baronowsky EA, Gilbert JM, Hudson CN, Martin FN,
+Mason JK, McAdams JL, Phillips RJ: Vagal afferent innervation
+of the lower esophageal sphincter. Auton Neurosci 2013,
+177:129-142.
+10. Dutsch M, Eichhorn U, Worl J, Wank M, Berthoud HR,
+Neuhuber WL: Vagal and spinal afferent innervation of the rat
+esophagus: a combined retrograde tracing and
+immunocytochemical study with special emphasis on
+calcium-binding proteins. J Comp Neurol 1998, 398:289-307.
+11. Wang FB, Powley TL: Topographic inventories of vagal
+afferents in gastrointestinal muscle. J Comp Neurol 2000,
+421:302-324.
+12. Powley TL, Spaulding RA, Haglof SA: Vagal afferent innervation
+of the proximal gastrointestinal tract mucosa: chemoreceptor
+and mechanoreceptor architecture. J Comp Neurol 2011,
+519:644-660.
+13. Simpson KL: Olfaction and taste. In Fundamental Neuroscience
+for Basic and Clinical Applications, edn 5. Edited by Haines DE,
+Mihailoff GA.2018:334-345.
+14. Powley TL, Phillips RJ: Vagal intramuscular array afferents form
+complexes with interstitial cells of Cajal in gastrointestinal
+smooth muscle: analogues of muscle spindle organs?
+Neuroscience 2011, 186:188-200.
+15. Powley TL, Hudson CN, McAdams JL, Baronowsky EA,
+Phillips RJ: Vagal intramuscular arrays: the specialized
+mechanoreceptor arbors that innervate the smooth muscle
+layers of the stomach examined in the rat. J Comp Neurol 2016,
+524:713-737.
+138 
+Brain, gut, and immune system interactions
+Current Opinion in Neurobiology 2020, 62:133–140 
+www.sciencedirect.com
+16. Zagorodnyuk VP, Brookes SJ: Transduction sites of vagal
+mechanoreceptors in the guinea pig esophagus. J Neurosci
+2000, 20:6249-6255.
+17. Zagorodnyuk VP, Chen BN, Brookes SJ: Intraganglionic laminar
+endings are mechano-transduction sites of vagal tension
+receptors in the guinea-pig stomach. J Physiol 2001, 534:255-
+268.
+18. Zagorodnyuk VP, Chen BN, Costa M, Brookes SJ:
+Mechanotransduction by intraganglionic laminar endings of
+vagal tension receptors in the guinea-pig oesophagus. J
+Physiol 2003, 553:575-587.
+19. Umans BD, Liberles SD: Neural sensing of organ volume. Trends
+Neurosci 2018, 41:911-924.
+20. Nonomura K, Woo SH, Chang RB, Gillich A, Qiu Z, Francisco AG,
+Ranade SS, Liberles SD, Patapoutian A: Piezo2 senses airway
+stretch and mediates lung inﬂation-induced apnoea. Nature
+2017, 541:176-181.
+21. Zeng WZ, Marshall KL, Min S, Daou I, Chapleau MW, Abboud FM,
+Liberles SD, Patapoutian A: PIEZOs mediate neuronal sensing
+of blood pressure and the baroreceptor reﬂex. Science 2018,
+362:464-467.
+22. Ranade SS, Woo SH, Dubin AE, Moshourab RA, Wetzel C,
+Petrus M, Mathur J, Begay V, Coste B, Mainquist J et al.: Piezo2 is
+the major transducer of mechanical forces for touch sensation
+in mice. Nature 2014, 516:121-125.
+23. Coste B, Mathur J, Schmidt M, Earley TJ, Ranade S, Petrus MJ,
+Dubin AE, Patapoutian A: Piezo1 and Piezo2 are essential
+components of distinct mechanically activated cation
+channels. Science 2010, 330:55-60.
+24. Gribble FM, Reimann F: Enteroendocrine cells: chemosensors
+in the intestinal epithelium. Annu Rev Physiol 2016, 78:277-299.
+25. Haber AL, Biton M, Rogel N, Herbst RH, Shekhar K, Smillie C,
+Burgin G, Delorey TM, Howitt MR, Katz Y et al.: A single-cell
+survey of the small intestinal epithelium. Nature 2017, 551:333-
+339.
+26. Glass LL, Calero-Nieto FJ, Jawaid W, Larrauﬁe P, Kay RG,
+Gottgens B, Reimann F, Gribble FM: Single-cell RNA-
+sequencing reveals a distinct population of proglucagon-
+expressing cells speciﬁc to the mouse upper small intestine.
+Mol Metab 2017, 6:1296-1303.
+27. Egerod KL, Petersen N, Timshel PN, Rekling JC, Wang Y, Liu Q,
+Schwartz TW, Gautron L: Proﬁling of G protein-coupled
+receptors in vagal afferents reveals novel gut-to-brain sensing
+mechanisms. Mol Metab 2018, 12:62-75.
+28. Husted AS, Trauelsen M, Rudenko O, Hjorth SA, Schwartz TW:
+GPCR-mediated signaling of metabolites. Cell Metab 2017,
+25:777-796.
+29. Sisley S, Gutierrez-Aguilar R, Scott M, D’Alessio DA, Sandoval DA,
+Seeley RJ: Neuronal GLP1R mediates liraglutide’s anorectic
+but not glucose-lowering effect. J Clin Invest 2014, 124:2456-
+2463.
+30. Bohorquez DV, Shahid RA, Erdmann A, Kreger AM, Wang Y,
+Calakos N, Wang F, Liddle RA: Neuroepithelial circuit formed by
+innervation of sensory enteroendocrine cells. J Clin Invest
+2015, 125:782-786.
+31.
+
+Bellono NW, Bayrer JR, Leitch DB, Castro J, Zhang C,
+O’Donnell TA, Brierley SM, Ingraham HA, Julius D:
+Enterochromafﬁn cells are gut chemosensors that couple to
+sensory neural pathways. Cell 2017, 170:185-198 e116.
+32.
+
+Kaelberer MM, Buchanan KL, Klein ME, Barth BB, Montoya MM,
+Shen X, Bohorquez DV: A gut-brain neural circuit for nutrient
+sensory transduction. Science 2018, 361.
+33. Hachem LD, Wong SM, Ibrahim GM: The vagus afferent
+network: emerging role in translational connectomics.
+Neurosurg Focus 2018, 45:E2.
+34. Grill HJ, Hayes MR: Hindbrain neurons as an essential hub in
+the neuroanatomically distributed control of energy balance.
+Cell Metab 2012, 16:296-309.
+35. Suarez AN, Hsu TM, Liu CM, Noble EE, Cortella AM,
+Nakamoto EM, Hahn JD, de Lartigue G, Kanoski SE: Gut vagal
+sensory signaling regulates hippocampus function through
+multi-order pathways. Nat Commun 2018, 9:2181.
+36. Browning KN, Verheijden S, Boeckxstaens GE: The vagus nerve
+in appetite regulation, mood, and intestinal inﬂammation.
+Gastroenterology 2017, 152:730-744.
+37. Schwartz GJ: The role of gastrointestinal vagal afferents in the
+control of food intake: current prospects. Nutrition 2000,
+16:866-873.
+38. Andermann ML, Lowell BB: Toward a wiring diagram
+understanding of appetite control. Neuron 2017, 95:757-778.
+39. Chen Y, Lin YC, Kuo TW, Knight ZA: Sensory detection of food
+rapidly modulates arcuate feeding circuits. Cell 2015, 160:829-
+841.
+40. Betley JN, Xu S, Cao ZFH, Gong R, Magnus CJ, Yu Y,
+Sternson SM: Neurons for hunger and thirst transmit a
+negative-valence teaching signal. Nature 2015, 521:180-185.
+41. Mandelblat-Cerf Y, Ramesh RN, Burgess CR, Patella P, Yang Z,
+Lowell BB, Andermann ML: Arcuate hypothalamic AgRP and
+putative POMC neurons show opposite changes in spiking
+across multiple timescales. eLife 2015, 4.
+42.
+
+Su Z, Alhadeff AL, Betley JN: Nutritive, post-ingestive signals
+are the primary regulators of AgRP neuron activity. Cell Rep
+2017, 21:2724-2736.
+43.
+
+Beutler LR, Chen Y, Ahn JS, Lin YC, Essner RA, Knight ZA:
+Dynamics of gut-brain communication underlying hunger.
+Neuron 2017, 96:461-475 e465.
+44.
+
+Bai L, Mesgarzadeh S, Ramesh KS, Huey EL, Liu Y, Gray LA,
+Aitken TJ, Chen Y, Beutler LR, Ahn JS et al.: Genetic
+identiﬁcation of vagal sensory neurons that control feeding.
+Cell 2019, 179:1129-1143 e1123.
+45. Zimmerman CA, Leib DE, Knight ZA: Neural circuits underlying
+thirst and ﬂuid homeostasis. Nat Rev Neurosci 2017, 18:459-
+469.
+46. Zimmerman CA, Lin YC, Leib DE, Guo L, Huey EL, Daly GE,
+Chen Y, Knight ZA: Thirst neurons anticipate the homeostatic
+consequences of eating and drinking. Nature 2016, 537:680-
+684.
+47.
+
+Zimmerman CA, Huey EL, Ahn JS, Beutler LR, Tan CL, Kosar S,
+Bai L, Chen Y, Corpuz TV, Madisen L et al.: A gut-to-brain signal
+of ﬂuid osmolarity controls thirst satiation. Nature 2019,
+568:98-102.
+48.
+
+Augustine V, Ebisu H, Zhao Y, Lee S, Ho B, Mizuno GO, Tian L,
+Oka Y: Temporally and spatially distinct thirst satiation signals.
+Neuron 2019, 103:242-249 e244.
+49. Mei N, Garnier L: Osmosensitive vagal receptors in the small
+intestine of the cat. J Auton Nerv Syst 1986, 16:159-170.
+50. Zardetto-Smith AM, Gray TS: A direct neural projection from the
+nucleus of the solitary tract to the subfornical organ in the rat.
+Neurosci Lett 1987, 80:163-166.
+51.
+
+Han W, Tellez LA, Perkins MH, Perez IO, Qu T, Ferreira J,
+Ferreira TL, Quinn D, Liu ZW, Gao XB et al.: A neural circuit for
+gut-induced reward. Cell 2018, 175:665-678 e623.
+52. Sarkar A, Harty S, Lehto SM, Moeller AH, Dinan TG, Dunbar RIM,
+Cryan JF, Burnet PWJ: The microbiome in psychology and
+cognitive neuroscience. Trends Cogn Sci 2018, 22:611-636.
+53. Vuong HE, Yano JM, Fung TC, Hsiao EY: The microbiome and
+host behavior. Annu Rev Neurosci 2017, 40:21-49.
+54. Cryan JF, O’Riordan KJ, Cowan CSM, Sandhu KV,
+Bastiaanssen TFS, Boehme M, Codagnone MG, Cussotto S,
+Fulling C, Golubeva AV et al.: The microbiota-gut-brain axis.
+Physiol Rev 2019, 99:1877-2013.
+55. Bravo JA, Forsythe P, Chew MV, Escaravage E, Savignac HM,
+Dinan TG, Bienenstock J, Cryan JF: Ingestion of Lactobacillus
+strain regulates emotional behavior and central GABA
+Vagal sensory neurons and gut-brain signaling Yu, Xu and Chang 
+139
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2020, 62:133–140
+receptor expression in a mouse via the vagus nerve. Proc Natl
+Acad Sci U S A 2011, 108:16050-16055.
+56. Sgritta M, Dooling SW, Bufﬁngton SA, Momin EN, Francis MB,
+Britton RA, Costa-Mattioli M: Mechanisms underlying microbial-
+mediated changes in social behavior in mouse models of
+autism spectrum disorder. Neuron 2019, 101:246-259 e246.
+57.
+
+Yano JM, Yu K, Donaldson GP, Shastri GG, Ann P, Ma L,
+Nagler CR, Ismagilov RF, Mazmanian SK, Hsiao EY: Indigenous
+bacteria from the gut microbiota regulate host serotonin
+biosynthesis. Cell 2015, 161:264-276.
+58. Olson CA, Vuong HE, Yano JM, Liang QY, Nusbaum DJ, Hsiao EY:
+The gut microbiota mediates the anti-seizure effects of the
+ketogenic diet. Cell 2018, 173:1728-1741 e1713.
+59. Goehler LE, Gaykema RP, Opitz N, Reddaway R, Badr N, Lyte M:
+Activation in vagal afferents and central autonomic pathways:
+early responses to intestinal infection with Campylobacter
+jejuni. Brain Behav Immun 2005, 19:334-344.
+60. Lai NY, Musser MA, Pinho-Ribeiro FA, Baral P, Jacobson A, Ma P,
+Potts DE, Chen Z, Paik D, Soualhi S et al.: Gut-innervating
+nociceptor neurons regulate Peyer’s patch microfold cells and
+SFB levels to mediate salmonella host defense. Cell 2020,
+180:33-49 e22.
+61. Heiss CN, Olofsson LE: Gut microbiota-dependent modulation
+of energy metabolism. J Innate Immun 2018, 10:163-171.
+62. Chen H, Nwe PK, Yang Y, Rosen CE, Bielecka AA, Kuchroo M,
+Cline GW, Kruse AC, Ring AM, Crawford JM et al.: A forward
+chemical genetic screen reveals gut microbiota metabolites
+that modulate host physiology. Cell 2019, 177:1217-1231
+e1218.
+63. McLean PG, Borman RA, Lee K: 5-HT in the enteric nervous
+system: gut function and neuropharmacology. Trends Neurosci
+2007, 30:9-13.
+64. Perez-Burgos A, Wang B, Mao YK, Mistry B, McVey Neufeld KA,
+Bienenstock J, Kunze W: Psychoactive bacteria Lactobacillus
+rhamnosus (JB-1) elicits rapid frequency facilitation in vagal
+afferents. Am J Physiol Gastrointest Liver Physiol 2013, 304:G211-220.
+65. Perez-Burgos A, Mao YK, Bienenstock J, Kunze WA: The gut-
+brain axis rewired: adding a functional vagal nicotinic
+“sensory synapse”. FASEB J 2014, 28:3064-3074.
+66. Andersson U, Tracey KJ: Reﬂex principles of immunological
+homeostasis. Annu Rev Immunol 2012, 30:313-335.
+67. Pavlov VA, Chavan SS, Tracey KJ: Molecular and functional
+neuroscience in immunity. Annu Rev Immunol 2018, 36:783-812.
+68. Goehler LE, Gaykema RP, Hansen MK, Anderson K, Maier SF,
+Watkins LR: Vagal immune-to-brain communication: a visceral
+chemosensory pathway. Auton Neurosci 2000, 85:49-59.
+69. Niijima A: The afferent discharges from sensors for interleukin
+1 beta in the hepatoportal system in the anesthetized rat. J
+Auton Nerv Syst 1996, 61:287-291.
+70.
+
+Steinberg BE, Silverman HA, Robbiati S, Gunasekaran MK,
+Tsaava T, Battinelli E, Stiegler A, Bouton CE, Chavan SS,
+Tracey KJ et al.: Cytokine-speciﬁc neurograms in the sensory
+vagus nerve. Bioelectron Med 2016, 3:7-17.
+71.
+
+Zanos TP, Silverman HA, Levy T, Tsaava T, Battinelli E,
+Lorraine PW, Ashe JM, Chavan SS, Tracey KJ, Bouton CE:
+Identiﬁcation of cytokine-speciﬁc sensory neural signals by
+decoding murine vagus nerve activity. Proc Natl Acad Sci U S A
+2018, 115:E4843-E4852.
+140 
+Brain, gut, and immune system interactions
+Current Opinion in Neurobiology 2020, 62:133–140 
+www.sciencedirect.com
+

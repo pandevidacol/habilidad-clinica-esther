@@ -1,0 +1,881 @@
+# Contents lists available at ScienceDirect
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2013
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: jensen2020.pdf
+
+## Abstract / Summary
+Contents lists available at ScienceDirect
+Neurochemistry International
+journal homepage: www.elsevier.com/locate/neuint
+Glucagon-like peptide-1 receptor regulation of basal dopamine transporter
+activity is species-dependent
+Mathias E. Jensena,∗, Aurelio Gallij, Morgane Thomsena, Kathrine L. Jensenb, Gerda K. Thomsenc,
+Mette K. Klausena, Tina Vilsbølld,e, Mikkel B. Christensend,f, Jens J. Holstg, Anthony Owensh,
+Sabrina Robertsoni, Lynette Dawsh, Daniele Zanellaj, Ulrik Getherb, Gitte M. Knudsenc... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Contents lists available at ScienceDirect. 2013.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Contents lists available at ScienceDirect
+Neurochemistry International
+journal homepage: www.elsevier.com/locate/neuint
+Glucagon-like peptide-1 receptor regulation of basal dopamine transporter
+activity is species-dependent
+Mathias E. Jensena,∗, Aurelio Gallij, Morgane Thomsena, Kathrine L. Jensenb, Gerda K. Thomsenc,
+Mette K. Klausena, Tina Vilsbølld,e, Mikkel B. Christensend,f, Jens J. Holstg, Anthony Owensh,
+Sabrina Robertsoni, Lynette Dawsh, Daniele Zanellaj, Ulrik Getherb, Gitte M. Knudsenc,d,
+Anders Fink-Jensena,d
+a Psychiatric Centre Copenhagen, University Hospital of Copenhagen, Denmark
+b Molecular Neuropharmacology and Genetics Laboratory, Department of Neuroscience, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen,
+Denmark
+c Neurobiology Research Unit, Neuroscience Centre, Copenhagen University Hospital Rigshospitalet, Copenhagen, Denmark
+d Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark
+e Steno Diabetes Center Copenhagen, Gentofte Hospital, Denmark
+f Department of Clinical Pharmacology, Bispebjerg Hospital, University of Copenhagen, Denmark
+g Novo Nordisk Foundation Center for Basic Metabolic Research Endocrinology and Metabolism, Copenhagen, Denmark
+h Department of Cellular and Integrative Physiology, University of Texas Health Science Center at San Antonio, USA
+i Department of Psychology and Neuroscience, University of North Carolina at Chapel Hill, USA
+j Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, USA
+A R T I C L E I N F O
+Keywords:
+Dopamine transporter
+Dopamine uptake
+Striatum
+Glucagon-like peptide-1
+Addiction
+A B S T R A C T
+Introduction: A solid body of preclinical evidence shows that glucagon-like peptide-1 receptor (GLP-1R) agonists
+attenuate the effects of substance use disorder related behaviors. The mechanisms underlying these effects re-
+main elusive. In the present study, we hypothesized that GLP-1R activation modulates dopaminetransporter
+(DAT) and thus dopamine (DA) homeostasis in striatum. This was evaluated in three different experiments: two
+preclinical and one clinical.
+Methods: Rat striatal DA uptake, DA clearance and DAT cell surface expression was assessed following GLP-1 (7-
+36)-amide exposure in vitro. DA uptake in mice was assesed ex vivo following systemic treatment with the GLP-
+1R agonist exenatide. In addition, DA uptake was measured in GLP-1R knockout mice and compared with DA-
+uptake in wild type mice. In healthy humans, changes in DAT availability was assessed during infusion of
+exenatide measured by single-photon emission computed tomography imaging.
+Results: In rats, GLP-1 (7-36)-amide increased DA uptake, DA clearance and DAT cell surface expression in
+striatum. In mice, exenatide did not change striatal DA uptake. In GLP-1R knockout mice, DA uptake was similar
+to what was measured in wildtype mice. In humans, systemic infusion of exenatide did not result in acute
+changes in striatal DAT availability.
+Conclusions: The GLP-1R agonist-induced modulation of striatal DAT activity in vitro in rats could not be re-
+plicated ex vivo in mice and in vivo in humans. Therefore, the underlying mechanisms of action for the GLP-1R
+agonists-induced efficacy in varios addiction-like behavioural models still remain.
+1. Introduction
+Natural reward and drug reward converge on a common neural
+pathway, the mesolimbic dopamine system. Since drugs activate the
+same reward system that underlies food reward (Volkow et al., 2013) it
+is perhaps no surprise that appetite-regulating peptides, besides
+governing energy homeostasis, also target brain areas associated with
+reward and addiction (Engel and Jerlhag, 2014). Glucagon-like peptide-
+1 (GLP-1) is a peptide that acts both as an incretin hormone that reg-
+ulates blood sugar and as a neuropeptide in the brain regulating satiety
+(Holst, 2013). Its anorexic and glucoregulatory effects are well-estab-
+lished and GLP-1 receptor (GLP-1R) agonists (GLP-1RA) are approved
+https://doi.org/10.1016/j.neuint.2020.104772
+Received 31 December 2019; Received in revised form 17 May 2020; Accepted 20 May 2020
+∗Corresponding author.
+E-mail address: mathias.ebbesen.jensen.01@regionh.dk (M.E. Jensen).
+Neurochemistry International 138 (2020) 104772
+Available online 25 May 2020
+0197-0186/ © 2020 Elsevier Ltd. All rights reserved.
+T
+for clinical use in type 2 diabetes and obesity (Isaacs et al., 2016).
+Recent years of research have broadened the understanding of the GLP-
+1 system especially by linking it to the rewarding properties of food
+(Dickson et al., 2012; Skibicka, 2013; Sisley et al., 2014). In the brain,
+GLP-1Rs are found in areas associated with reward, reinforcement and
+addiction including the ventral tegmental area (VTA) and striatum
+(Göke et al., 1995; Merchenthaler et al., 1999; Alhadeff et al., 2012).
+The VTA and its dopaminergic projections to the nucleus accumbens
+(NAc) orchestrate motivated behavior to obtain natural reward (such as
+food and sex) but are prone to be hijacked by artificial reward sub-
+stances (such as drugs of abuse and alcohol) ultimately leading to ad-
+diction (Koob, 1992). Importantly, many appetite-regulating hormones
+including GLP-1 exert a direct influence on the VTA and NAc (Fulton,
+2010). Taken together these data have led to the hypothesis that the
+central GLP-1R system modulates the reward system. Indeed, systemic
+or central administration of GLP-1RAs in rodents and non-human pri-
+mates attenuate addiction-related effects of alcohol, central stimulants
+and nicotine (Graham et al., 2013; Egecioglu et al., 2013; Sørensen
+et al., 2015; Reddy et al., 2016; Fortin and Roitman, 2017; Thomsen
+et al., 2017, 2019; Brunchmann et al., 2019; Tuesta, 2017). In addition,
+gene variants of GLP-1R in humans have been associated with the
+prevalence of alcohol use disorder (AUD) (Suchankova et al., 2015).
+Although GLP-1R activation attenuates the rewarding properties of
+food, drugs and alcohol, the underlying mechanisms remain largely
+unknown. We recently suggested a link between GLP-1R activation and
+the dopamine transporter (DAT) that regulates dopamine (DA) home-
+ostasis in the lateral septum (LS) of the brain (Reddy et al., 2016), and
+elsewhere. GLP-1Rs are highly expressed in LS, which is also associated
+with reward (OLDS and MILNER, 1954). Brain DA plays a pivotal role
+in drug addiction and since plasma membrane DAT is essential for
+terminating DA neurotransmission, regulation of DAT may or may not
+underlie the observed effects of GLP-1R on reward. Since the striatum
+serves as a central interface in the reward system (Yager et al., 2015)
+we wanted to investigate if the GLP-1R system modulates DAT and
+consequently, levels of synaptic DA.
+Here we report data using native GLP-1 (rodents) and GLP-1RA
+(humans) as tools in three different studies; two studies in rodents and
+one study in healthy humans. Our hypothesis was supported by the
+present rat striatal data, but not by data from mice or humans.
+2. Materials and methods
+2.1. Experiment 1 – assessing ex vivo and in vivo effects of GLP-1R on DA
+homeostasis in striatum in rats
+2.1.1. Animals and striatal slice preparation
+Experimentally naïve male Sprague-Dawley rats (275–300g Charles
+River) were used. Corticostriatal hemislices (300 μm; hereafter “striatal
+slices”) were prepared with a vibratome (Leica VT1000S) in an ice cold
+oxygenated (95% O2/5% CO2) sucrose cutting solution consisting of (in
+mM): 210 sucrose, 20 NaCl, 2.5 KCl, 1 MgCl2, 1.2 NaH2PO4, 10 glu-
+cose, 26 NaHCO3. Slices were then transferred to oxygenated artificial
+cerebrospinal fluid (aCSF) at 28 °C for a minimum of 1 h. The aCSF
+consisted of (in mM): 125 NaCl, 2.5 KCl, 1 MgCl2, 2 CaCl2, 1.2
+NaH2PO4, 10 glucose, 26 NaHCO3. All chemicals were purchased from
+Sigma unless otherwise indicated. GLP-1 (7–36)-amide was purchased
+from Phoenix Pharmaceuticals. Drug treatments were performed in
+oxygenated aCSF at 28 °C unless otherwise indicated. Slices were ana-
+tomically matched before assignment for drug treatments.
+All experiments were conducted in accordance with the National
+Institutes of Health Guide for the Care and Use of Laboratory Animals
+and Vanderbilt University's and University of Texas Health Science
+Center at San Antonio Institutional Animal Care and Use Committee
+guidelines.
+2.1.2. Dopamine uptake
+Striatal slices were treated at 28 °C for 10 min with control aCSF
+solution or 100 nM GLP-1 (7–36)-amide. Slices were then transferred to
+a 37 °C chamber with the same drugs plus 50 nM [3H]DA for 10 min. At
+the end of the [3H]DA treatment, the slices were washed with cold aCSF
+and the striatum dissected. Tissue samples were then homogenized in
+200 μL of 1% Triton lysis buffer consisting of 150 mM NaCl, 25 mM
+HEPES, 2 mM sodium orthovanadate, 2 mM sodium fluoride, 1 μg/ml
+leupeptin, 1 μg/ml aprotinin, 1 μg/ml pepstatin, 0.5 mM phe-
+nylmethylsulfonyl fluoride, 1% Triton-X100. The homogenate was
+centrifuged at 13,000 g at 4 °C for 30 min and the supernatant added to
+500 μL of 0.1% Triton buffer consisting of 150 mM NaCl, 25 mM
+HEPES, 2 mM sodium orthovanadate, 2 mM sodium fluoride, 1 μg/ml
+leupeptin, 1 μg/ml aprotinin, 1 μg/ml pepstatin, 0.5 mM phe-
+nylmethylsulfonyl fluoride, 0.1% Triton-100. The protein concentration
+of each sample was measured and 500 μL of each sample was added to
+scintillation vials to count [3H]DA. Counts were expressed as a ratio to
+protein content and normalized to the mean value for the control
+condition within each experiment.
+2.1.3. DAT cell surface expression
+Slices were treated at 28 °C for 20 min with control aCSF solution or
+100 nM GLP-1 (7–36)-amide and were then washed with cold aCSF to
+terminate the drug treatment. Biotinylation was performed as pre-
+viously described (Siuta et al., 2010). In brief, slices were incubated
+with 1 mg/mL Sulfo-NHS-SS-Biotin (Pierce) in oxygenated aCSF on ice
+for 45 min, then washed and incubated in cold aCSF for 10 min twice.
+The biotin reaction was quenched by washing twice for 20 min each
+with cold oxygenated aCSF with glycine. Slices were washed with cold
+aCSF and the striatum dissected and immediately frozen on dry ice.
+Tissue samples were then homogenized in 200 μL of 1% Triton lysis
+buffer and the homogenate was centrifuged at 13,000 g at 4 °C for
+30 min and the supernatant added to 500 μL of 0.1% Triton buffer.
+Protein concentration of each sample was measured and equal amounts
+of protein for each sample were incubated with ImmunoPure im-
+mobilized streptavidin beads (Pierce) overnight at 4 °C under gentle
+rotation. Beads were washed three times with 0.1% Triton buffer and
+biotinylated proteins were then eluted in 50 μL of Laemmli sample
+loading buffer at 95 °C for 5 min and then cooled to room temperature.
+Biotinylated and total lysate samples were analyzed by SDS-PAGE and
+western blotted with a DAT primary mouse monoclonal antibody
+(1:2000 Dr. Roxanne Vaughan, University of North Dakota).
+2.1.4. Dopamine clearance
+Measurement of DA clearance in vivo was performed using the Fast
+Analytical Sensing Technology system (Quanteon) as previously de-
+scribed (Speed et al., 2011; Daws et al., 2016). Briefly, a carbon fiber
+electrode (30 μm diameter, 150 μm in length; Specialty Materials) was
+coated with Nafion 3–4 times baked at 200 °C for 5 min per coat.
+Electrodes displayed linear amperometric responses to DA during in
+vitro calibration in phosphate-buffered saline and were ≥1000 fold
+selective for DA over the DA metabolite dihydroxyphenylacetic acid
+(DOPAC). The electrode was coupled to a glass multi-barrel micropip-
+ette at a center-to-center distance of 300 μm. Animals were anesthe-
+tized with injections of urethane (850 mg/kg, i.p.) and α-chloralose
+(85 mg/kg, i.p.), fitted with an endotracheal tube to facilitate
+breathing, and placed into a stereotaxic frame (David Kopf Instru-
+ments). The electrode/micropipette assembly was lowered into the
+striatum at the following coordinates (in mm from bregma): A/P +1.5;
+M/L, +/−2.2; D/V, −3.5 to −5.5 and DA pressure-ejected at 5 min
+intervals. Pressure application of solutions was accomplished using a
+Picospritzer II (General Valve Corporation) in an ejection volume of
+100–150 nl (5–25 psi for 0.25–3 s). DA concentration at the recording
+electrode was measured by high-speed chronoamperometry. Voltage
+steps, consisting of 100 ms square pulses of 550 mV each separated by a
+900 ms interval during which the resting potential was maintained at
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+2
+0 mV, were applied with respect to an Ag/AgCl reference electrode
+implanted into the contralateral superficial cortex. Oxidation signals
+were converted to DA concentration based on in vitro calibration with
+DA standards. For each recording session, DA was identified by its re-
+duction/oxidation signal ratio: 0.55–0.80. Electrode placement was
+confirmed by making an electrolytic lesion at the recording site at the
+conclusion of the experiment. Following establishment of a stable
+baseline DA signal, either vehicle or GLP-1 (7–36)-amide (0.25 pmol)
+was locally microinjected, and 2 min later DA was applied again. DA
+clearance rate was quantified by the slope of the linear portion of the
+current decay curve (20–60% decay amplitude from the maximal signal
+amplitude). For each experiment, DA clearance rate following vehicle
+or GLP-1 (7–36)-amide injection was expressed as a percentage of the
+pre-injection baseline DA clearance rate (Daws et al., 2007, 2016).
+2.2. Experiment 2 – assessing the effect of exenatide- and of GLP-1R
+knockout on DA uptake in striatum in mice
+2.2.1. Animals
+In Experiment 2, DA uptake was assessed in global GLP-1R knockout
+(KO) mice, as well as mice treated acutely with the GLP-1RA, exenatide
+(purchased from Tocris Bioscience). Therefore, two different strains of
+mice were used for the DA uptake experiments. For the effect of acutely
+administered exenatide on DA uptake, we used naïve male C57BL/6NRj
+mice acquired at 6 weeks of age (Janvier Labs, France). Mice were al-
+lowed to acclimate to the facility for one week prior of initiation of the
+experiment. For the assessment of the effect of global knockout of en-
+dogenous GLP-1R on DA uptake we used Glp1rflox/flox nestin-
+Cre ± KO mice with a neuronal-specific deletion of the GLP-1R,
+generated as previously described (Sisley et al., 2014) and bred at the
+University of Copenhagen, Panum facility. Glp1rflox/flox nestin-Cre−/
+−littermate mice were used as wild-type (WT) controls. Genotype was
+determined by polymerase chain reaction on DNA extracted from ear
+clip samples.
+All mice were group-housed with ad libitum water and rodent chow
+(Altromin 1310, Brogaarden, Denmark), in a temperature- and hu-
+midity-controlled room. Lights were on from 07:00 to 19:00, and as-
+sessments were performed during the light phase. Study procedures
+were conducted at the University of Copenhagen Department of
+Experimental Medicine, Panum facility, in accordance with the EU di-
+rective 2010/63/EU and were approved by the Animal Experiments
+Inspectorate under the Danish Ministry of Food, Agriculture, and
+Fisheries.
+2.2.2. Dopamine uptake
+We assessed the role of the GLP-1R on striatal DA uptake in mice by
+two different experimental approaches. The acute effects were assessed
+in C57BL/6NRj mice (n = 3 per group) receiving either 3.2 μg/kg ex-
+enatide at an injection volume of 10 μL/g or 10 ml/kg 0.9% saline
+injected intraperitoneally exactly 60 min prior of decapitation of the
+animal. Striatal tissue was dissected on ice from coronal sections using a
+brain matrix and a puncher. For assessment of the effect of global
+knockout of GLP-1R, GLP-1R nestin-Cre KO and WT mice (n = 5) re-
+ceived no treatment before decapitation. In both experiments, sy-
+naptosomal DA uptake was assessed as previously described (Jensen
+et al., 2017; Runegaard et al., 2017). In brief, striata were weighed and
+homogenized in ice-cold HEPES buffer (4 mM HEPES, 0.32 M sucrise,
+pH 7.4) followed by homogenizations. Pellet was resuspended and
+10 μL incubated at 37 °C in 440 μL uptake buffer (25 mM HEPES pH 7.4,
+120 mM NaCl, 5 mM KCl, 1.2 mM CaCl2, 1.2 mM MgSO4, 1 mM L-
+ascorbic acid, 5 mM D-glucose, 1 μM pargyline, 100 nM desipramine
+and 10 nM cathechol-O-methyl-transferase inhibitor (RO-41-0960,
+R108 Sigma Aldrich, Germany)) with or without the presence of
+500 μM cocaine (used to assess non-specific uptake). Six different
+concentrations of 2, 5, 6-[3H]-DA (91.1 Ci/mmol, PerkinElmer Life
+Sciences, Boston, MA, USA) was added for creation a concentration
+curve of 5 min DA uptake. A standard BCA™Protein Assay kit (Thermo
+Scientific Pierce, Rockford, IL, USA) was used to determine protein
+concentrations of the synaptosomes for adjustments from counts per
+min to fmol/min/μg for analysis. Background-subtracted fmol/min/μg
+protein counts were fitted by Michaelis–Menten kinetics using the
+median of triplicate determinations for each mouse.
+2.3. Experiment 3 – assessing the effect of exenatide on DAT availability in
+striatum in healthy volunteers
+2.3.1. Participants
+Participants were screened within 7 days prior to the experiment.
+Inclusion criteria were 18–40 years of age, healthy and not taking any
+medication on a daily basis (except contraceptives), alcohol consump-
+tion less than the limit recommended by Danish Health Authority (14/
+21 units/week w/m) and no heavy drinking days (defined as > 5 units
+of alcohol in one occasion) for the last week prior to the date of in-
+clusion. None of the participants had any history of physical, neurolo-
+gical, or psychiatric disorders, nor history of or current treatment of any
+addiction or any active substance abuse/dependence for the past six
+months assessed by Copenhagen Stimulant Screening Questionnaire. All
+had an Alcohol Use Disorder Identification Test score < 8 (mean score
+was 5.8) and were non-smokers. Neurological examination, routine
+blood and urine tests including plasma glucose, glycaeted haemoglobin
+A1c (HbA1c) and urine drug test were normal in all participants. The
+females were excluded if they were pregnant, breast-feeding, had in-
+tentions of becoming pregnant, or if they did not use adequate con-
+traceptives. Finally, the participants were excluded if they had been
+exposed to excessive radioactivity during the last 12 months or had
+received any investigational drug within the last 3 months.
+The participants were recruited through advertising on www.
+forsoegsperson.dk and they all gave informed written consent. The
+study was performed in accordance with the ethical standards of the
+Declaration of Helsinki and was approved by the ethical committee of
+Copenhagen Capital Region (Protocol number: H-1 2010-109 and
+Protocol H–B-2008-024).
+2.3.2. Design
+The study was an open-label, placebo-controlled, repeated-measures
+experiment.
+2.3.3. Radioligand administration
+We
+used
+123I‐labeled‐N‐(3‐iodoprop‐2E‐enyl)‐2‐β‐carbomethoxy‐
+3β‐(4‐methylphenyl) nortropane (123I-PE2I) (MAP Medical Technolo
+gies) which is a highly selective DAT ligand with fast kinetics and high
+target‐to‐background ratio in striatum (Ziebell, 2011). Cannulas in each
+cubital vein and one in the back of the hand were established for tracer
+administration, blood sampling, and exenatide infusion, respectively.
+To block thyroid uptake of free radioiodine, all participants received
+200 mg potassium perchloride intravenously 10 min before 123I-PE2I
+injection. A bolus/infusion protocol of 2.7 (i.e. the bolus is worth 2.7 h
+of infusion) was used to reach a steady state condition (Pinborg et al.,
+2005). An average intravenous bolus of 81.8 MBq (range, 71.4–88.6
+MBq) of 123I-PE2I was administered, immediately followed by a con-
+stant infusion until the end of experiment (3 h and 40 min; mean 111.3
+MBq, range, 92.8–124.7 MBq).
+2.3.4. GLP-1RA infusion
+All participants underwent a 100-min Single-photon emission
+computed tomography (SPECT) scan. A baseline scan was obtained
+during the first 40 min during which saline was infused (0.5 ml/min).
+Without interruption, the scan was continued for 60 min during which
+exenatide was infused at two different rates to achieve steady state
+(Edwards et al., 2001): 0.2 pmol/kg/min for 30 min followed by
+0.1 pmol/kg/min until the end of the scan.
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+3
+2.3.5. Blood sampling
+Venous blood was collected at different time points for measuring
+plasma radioactivity (10, 20, 30, 60, 80 and 100 min) and exenatide
+concentration (40, 70, 85 and 100 min). For plasma radioactivity, the
+blood sample was centrifuged at 2800 rpm 4 °C for 10 min, plasma was
+collected, and octanol was added to derive the lipophilic phase con-
+taining the radioligand parent compound (Ziebell et al., 2010). The
+sample was shaken and centrifuged, the octanol phase was pipetted into
+a counting vial, and radioactivity was measured in a γ-counter (Cobra
+II; Packard Instrument Co). As a safety measure, we also measured
+blood glucose levels by finger stick at different time points during the
+infusion of exenatide (40, 70 and 100 min).
+2.3.6. SPECT acquisition and image reconstruction
+SPECT imaging was performed with a triple‐head IRIX camera
+(Philips Medical, Cleveland, USA) fitted with low‐energy, general all‐-
+purpose parallel‐holed collimators (spatial resolution 8.5 mm at 10 cm).
+Mean radius of rotation was 15.5 cm. Each camera covered 120° of the
+circular
+orbit.
+Scans
+were
+performed
+in
+continuous
+mode.
+Reconstruction of the images was performed with a MATLAB 6.5
+(MathWorks) based program in 128 × 128 matrices (2.33 mm pixels
+and identical slice thickness) using standard filtered back projection
+with a low pass fourth‐order Butterworth filter at 0.3 Nyquist (= 0.64
+c−1). The imaging energy window was positioned at 143–175 keV.
+High‐energy photons of 123I penetrated through the lead of the colli-
+mator, and Compton scatter in the scintillation crystal caused erroneous
+counts in the imaging energy window. A second energy window posi-
+tioned at 184–216 keV was used to correct for these down‐scattered
+photons in the imaging window. Before reconstruction, the projection
+images of the second energy window were subtracted from the imaging
+energy window with a weight of 1.1.
+2.3.7. Binding potentials
+123I-PE2I binding potential relative to plasma (BPP) was used as a
+measure of DAT availability. 123I-PE2I BPP was calculated as the ratio at
+steady‐state of the concentration of intracerebrally non-displaceable
+and specifically bound 123I-PE2I, i.e., the concentration of 123I-PE2I in a
+region of interest, denoted CT, minus the concentration of in-
+tracerebrally 123I-PE2I in a reference region devoid of DAT, denoted
+Cref, to the concentration of 123I-PE2I in plasma, denoted CP:
+=
+BP
+C
+C
+C
+P
+T
+ref
+P
+Tracer steady‐state was attained 120 min after 123I-PE2I injection
+and cerebellum was used as a reference devoid of DAT (Pinborg et al.,
+2005). For all participants, BPP values were calculated in striatum using
+an algorithm (DATquan) developed in‐house. DATquan offers a fast,
+accurate, and highly reproducible method for semiautomatic ROI de-
+lineation and 123I-PE2I quantifications of CT and Cref using a templa-
+te‐based approach (Jensen et al., 2011).
+For statistical comparison we calculated three different BPP values:
+a baseline value comprising the first 40 min of scan (saline), and two
+BPP values during exenatide infusion comprising 20 min of scan ac-
+quired at time intervals 50–70 min and at 70–90 min. Time-corre-
+sponding CP values were used in the calculations, i.e., for the baseline
+BPP we used a mean CP from timepoints 10, 20 and 30 min and for the
+BPP's during exenatide infusion, we used mid-time CP values at 60 and
+80 min.
+3. Data analysis
+In Experiment 1, DA uptake data were analyzed by one-way ANOVA
+followed by Bonferroni-Holm post-hoc test. DAT data were analyzed by
+one tailed paired t-test and DA clearance data were analyzed by
+Student's t-test. In Experiment 2, DA uptake data were analyzed by two-
+way ANOVA with exenatide treatment or genotype as between-subjects
+factor
+and
+DA
+concentration
+as
+repeated-measures
+factor.
+In
+Experiment 3, data were analyzed by one-way ANOVA with BPP as
+repeated-measures factor. All data are presented as means ± standard
+error of the mean (s.e.m) unless otherwise stated and the level of sig-
+nificance was set at p < 0.05. Statistical tests were conducted using
+Prism software (Experiment 1), Stata software (Experiment 2) and SPSS
+software (Experiment 3).
+4. Results
+4.1. Experiment 1 – GLP-1 (7–36)-amide increased DA uptake, DAT
+expression and DA clearance in rats
+Incubating slices with 100 nM GLP-1 (7–36)-amide significantly
+increased DA uptake relative to aCSF control (Fig. 1A). Cell surface DAT
+expression, labeled by biotinylation, was also significantly increased in
+GLP-1 (7–36)-amide -treated slices compared to vehicle (Fig. 1B). Using
+high-speed chronoamperometry (HSCA), we measured the effect of lo-
+cally microinjected GLP-1 (7–36)-amide in vivo on DA clearance in the
+striatum. GLP-1(7–36)-amide produced a transient increase in the rate
+of DA clearance that was maximal 10 min after injection (Fig. 2A, re-
+presentative traces). In contrast, intrastriatal injection of vehicle had no
+Fig. 1. Experiment 1: increased DA uptake (A) and DAT expression (B) after treatment with GLP-1 (7–36)-amide.
+A, DA uptake into striatal synaptosomes as % of aCSF control in striatal slices incubated with aCSF (Control) or 100 nM GLP-1 (7–36)-amide (n = 20 slices - one-way
+ANOVA followed by Bonferroni-Holm post-hoc test). B, ratio of surface to total DAT protein as % of aCSF control in striatal slices incubated with aCSF (control) or
+100 nM GLP-1 (7–36)-amide (n = 7 slices - one tailed paired t-test).*p < 0.05 vs. aCSF control.
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+4
+effect on DA clearance (Fig. 2B, representative traces). DA clearance
+rates were significantly increase by GLP-1 (7–36)-amide (Fig. 2C).
+4.2. Experiment 2 – No effect of exenatide on DA uptake and no change in
+DA uptake in GLP-1R KO in mice
+Synaptosomal DA uptake did not differ between striatum taken from
+mice treated with exenatide in vivo relative to saline-treated mice
+(Fig. 3A). DA uptake was related to DA concentration [F(5, 20) = 163,
+p < 0.0001] with no significant effect of exenatide or interaction.
+Exenatide treatment did not change the calculated maximal DA uptake
+capacity Vmax (saline: 62.7 ± 0.8, exenatide: 62.1 ± 7.0 fmol/min/
+μg) or apparent affinity KM (0.36 ± 0.11, 0.38 ± 0.10 μM). DA up-
+take in striatum was also comparable between GLP-1R nestin-Cre KO
+mice and WT mice (Fig. 3B); effect of DA concentration [F(5,
+40) = 15.4, p < 0.0001]). WT and KO mice had comparable Vmax
+(WT: 35.96 ± 3.26, KO: 31.93 ± 3.72 fmol/min/μg) and KM (WT:
+0.053 ± 0.019, KO: 0.037 ± 0.019 μM).
+4.3. Experiment 3 - No effect of exenatide on DAT availability in striatum in
+healthy individuals
+Ten healthy participants (5 males) were included. See Fig. 4 for
+flowchart. Each participant arrived in the morning, not fasting, and
+Fig. 2. Experiment 1: accelerated DA clearance after
+treatment with GLP-1 (7–36)-amide.
+Representative DA oxidation currents, converted to
+concentration using DA standards, produced by in-
+trastriatal pressure pulse application of exogenous
+DA. A, shows the effect of local microinjection of
+GLP-1 (7–36)-amide (0.25 pmol), blue trace, or B,
+vehicle, red trace, on DA clearance as a function of
+time, compared to baseline (black dashed traces).
+Traces are superimposed for ease of comparison. C,
+DA clearance rate was quantified by the slope of the
+linear portion of the DA concentration time course,
+from 20 to 60% decay from the maximal DA con-
+centration amplitude. For each treatment (vehicle or
+GLP-1 (7–36)-amide), DA clearance rate was ex-
+pressed as a percentage of baseline DA clearance
+rate. GLP-1 (7–36)-amide (blue bar) microinjection
+significantly increases DA clearance rate compared
+with vehicle (red bar) injection (*p < 0.05 Student's
+t-test; n = 6).
+Fig. 3. Experiment 2: no changes in DA uptake after treatment with exenatide in C57BL/6NRj mice (A) or in GLP-1R KO mice vs WT (B). A, DA uptake as a function of
+DA concentration in striatum of C57BL/6NRj mice treated with saline (n = 3) or exenatide (n = 3) in vivo and B, in striatum of KO mice lacking neuronal GLP-1Rs
+and WT littermates (n = 5) . Abbreviations: Sal; saline, Ex4; exendin-4, WT; wild type, KO; knockout.
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+5
+underwent the same procedure followed by an hour of observation with
+a light meal. See Fig. 5 for overview of the experiment. The mean age
+was 24.0 years (SD ± 3.5 years; range, 18–29 years), the mean body
+weight was 73.1 kg (SD ± 13.8 kg; range, 52.0–98.5 kg). One parti-
+cipant failed to complete the experimental day due to vasovagal hy-
+potension when establishing intravenous cannulas. In one participant,
+we had to extrapolate values of plasma exenatide and plasma radio-
+activity due to an intravenous access that became faulty towards the
+end of scan (i.e. the last three blood samples are missing). No adverse
+reactions were observed. None of the participants became hypogly-
+cemic (defined as < 55 mg/dL i.e. < 3.0 mmol/L) (Desimone et al.,
+2000) at any time during the experiment (mean blood glucose at
+t100 min was 3.47 ± 0.31 mmol/L).
+4.3.1. Plasma exenatide
+Mean exenatide dose was 2.8 ( ± 0.17) μg. As intended, plasma
+exenatide increased during the exenatide infusion for each of the par-
+ticipants. Infusion began after 40 min of scan and plasma exenatide
+concentrations increased significantly within the following 30 min and
+remained elevated throughout the rest of the scan (effect of time [F(3,
+24) = 25.1, p < 0.001]). Mean concentrations were 102.3 ± 7.4,
+112.5 ± 14.2, and 131.0 ± 24.1 pmol/L at 70, 85, and 100 min,
+respectively.
+4.3.2. BPP during exenatide infusion
+Fig. 6 depicts the striatal DAT binding potentials for each partici-
+pant over time. We found no statistically significant effect of exenatide
+on DAT BPP when comparing with baseline [F(1.9, 17.2) = 0.84,
+p = 0.44]. Furthermore, there was no correlation between BPP and
+plasma exenatide concentrations (r2 = 0.0007). Assessing changes in
+BPP for caudate and putamen separately did not change the result (not
+depicted).
+5. Discussion
+5.1. Preclinical results
+A regulatory role of GLP-1Rs for reward modulating DAT and DA
+homeostasis seems likely since it has been shown that GLP-1Rs are
+widely expressed in the mesolimbic dopamine system including
+striatum (Merchenthaler et al., 1999) and several preclinical studies
+have demonstrated an attenuating effect on feeding as well as alcohol-
+and drug-related behavior (Engel and Jerlhag, 2014; Skibicka, 2013).
+We have previously demonstrated that the GLP-1RA exenatide attenu-
+ates cocaine-induced DA release in LS (Reddy et al., 2016). Cocaine
+alters DA homeostasis by targeting DAT and we found that exenatide
+exerted its effect via an increase of DAT expression (Reddy et al., 2016).
+We and others have also shown that GLP-1RAs blunt cocaine's action
+Fig. 4. Experiment 3: Flowchart.
+Fig. 5. Experiment 3: Overview .
+Fig. 6. Experiment 3: no change in DAT availability in striatum during ex-
+enatide infusion in healthy individuals.
+Each line represents a subject (n = 10). No significant difference comparing
+BPP at baseline (40 min) with BPP values during exenatide infusion (60 min and
+80 min), p = 0.44.
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+6
+i.e. the ability to increase DA levels in striatum (Egecioglu et al., 2013;
+Sørensen et al., 2015; Hernandez et al., 2019). Accordingly, in striatal
+slices of rats (Experiment 1) we found increased DA uptake after GLP-1
+(7–36)-amide application. DA homeostasis is primarily regulated by
+DAT function (Vaughan and Foster, 2013). DAT is exclusively found on
+DA neurons (Nirenberg et al., 1996) and densely expressed in striatum
+(Ciliax et al., 1999). DAT acts as the primary mechanism responsible for
+terminating DA neurotransmission by translocating DA from the ex-
+tracellular space back into neurons (Vaughan and Foster, 2013).
+Changes in DAT membrane trafficking can rapidly regulate dopami-
+nergic tone by altering the number of transporters present at the cell
+surface (Vaughan and Foster, 2013). Overall transport capacity of DAT
+depends on the number expressed on the cell surface, hence increased
+DA uptake could be explained by increased cell surface expression of
+DAT. Indeed, we found support for this hypothesis in biotinylated rat
+striatal preparations (Experiment 1), where GLP-1 (7–36)-amide in-
+creased DAT cell surface expression. These findings are in line with our
+previous results in LS (Reddy et al., 2016). In further support, we de-
+monstrated increased striatal DA clearance in an in vivo assay after
+locally microinjecting GLP-1 (7–36)-amide into striatum of rats. We
+found that the increase in DA clearance happened within 10 min,
+suggesting that GLP-1 (7–36)-amide evoked rapid trafficking of DATs to
+the cell surface rather than de novo synthesis. Collectively, these find-
+ings suggest involvement of GLP-1R in DAT function in rat striatum.
+In Experiment 2 we turned to mice to take advantage of GLP-1R KOs
+in parsing out the role of endogenous GLP-1R signaling on DA uptake.
+We found no differences in DA uptake into striatal synaptosomes be-
+tween GLP-1R KO mice and WT controls. Because compensation in
+uptake mechanisms in GLP-1R KO mice might account for this, we
+examined the effect of exenatide on DA uptake in C57BL/6NRj mice.
+Unlike our findings in rat, DA uptake into striatal synaptosomes pre-
+pared from C57BL/6NRj mice was not affected by systemic adminis-
+tration of exenatide. For this reason, we did not assess DAT cell surface
+expression. We used a behaviorally relevant dose of 3.2 μg/kg exena-
+tide, which is within a range that produces significant effects on be-
+havioral
+and
+dopamine
+striatal
+microdialysis
+measures
+in
+mice
+(Egecioglu et al., 2013; Sørensen et al., 2015). Based on these reports,
+and our results from Experiment 1, we expected DA uptake into striatal
+synaptosomes to be increased following exenatide treatment, which
+was not the case. Collectively, mouse data suggest that GLP-1R sig-
+naling does not regulate DA uptake in striatum, which is not in accord
+with rat data (Experiment 1). The reason for this discrepancy may be
+due to differences in species since differences in striatal GLP-1R ex-
+pression have been reported (Heppner et al., 2015; Göke et al., 1995;
+Merchenthaler et al., 1999; Harasta et al., 2015). Indeed, mice show
+very sparse GLP-1R expression in dorsal striatum (Hamilton and
+Hölscher, 2009), suggesting that behavioral effects of exenatide pre-
+viously reported in mice are not mediated by its actions on striatal GLP-
+1Rs. Mixed results may also be due to use of different ligands, GLP-1
+(7–36)-amide (in rats) vs. exenatide (in mice), as different GLP-1R li-
+gands are known to produce divergent effects on some endpoints, likely
+due to different signaling bias for second messenger pathways (Fletcher
+et al., 2016; Pabreja et al., 2014; Weston et al., 2014; Zhang et al.,
+2015). Differences in tissue collection methods or route of administra-
+tion (bath applied vs intraperitoneal injection) might also play a role.
+5.2. Clinical results
+In Experiment 3 we investigated whether an acute infusion of the
+GLP-1RA exenatide would affect DAT availability in humans. To our
+knowledge, we are the first to assess the role of the GLP-1 system on
+DAT availability in healthy individuals. We found that intravenously
+infused exenatide did not result in any acute changes in DAT avail-
+ability.
+Few studies have investigated the central effect of GLP-1R activa-
+tion in humans. Two fMRI studies investigated the central GLP-1 system
+and reported that exenatide infusion vs. placebo decreased food-related
+brain responses in patients with type 2 diabetes and obese individuals
+in appetite and reward-related brain areas including putamen (van
+Bloemendaal et al., 2014). Furthermore, they found that exenatide also
+decreased anticipatory food reward (van Bloemendaal et al., 2015).
+These effects were blocked by prior GLP-1R antagonism using the GLP-
+1R antagonist exendin 9-39. Notably, one study has investigated the
+effect of long-term treatment (60 weeks) with exenatide, i.e., a 2 mg
+once weekly prolonged-release formulation, and DAT availability in
+patients with Parkinson's disease (PD) (Athauda et al., 2017). PD is
+characterized by loss of DA neurons in striatum which can be diagnosed
+with DAT-SPECT-imaging. The study found a beneficial effect of ex-
+enatide on PD symptoms, but no significant change in DAT availability
+compared to placebo (Athauda et al., 2017).
+Our participants received a clinically relevant dose with a mean
+infusion of 2.8 μg exenatide within 60 min. Patients diagnosed with
+type 2 diabetes receive an initial dose of 5 μg s.c, which corresponds to
+3.25 μg since bioavailability is approximately 65% after subcutaneous
+injection (Bray, 2006). Exenatide was administered by intravenous in-
+fusion in the periphery and is thought to cross the blood-brain barrier
+(Kastin and Akerstrom, 2003). The measured exenatide plasma con-
+centrations were comparable to other studies (Fineman et al., 2011;
+Lønborg et al., 2012). Notably, participants in the mentioned fMRI
+study (van Bloemendaal et al., 2014) had a mean concentration in the
+range of 35–43 pmol/L whereas we found a mean of 131 pmol/L (at
+t100 min) in our participants. Importantly, in three participants with a
+very high exenatide concentration > 180 pmol/L did not show any
+changes in DAT availability either and we found no correlation between
+plasma exenatide concentrations and DAT availability.
+Our results suggest that exenatide does not acutely alter DAT
+availability in healthy individuals. It should be noted that the sample
+size was small i.e. n = 5 per sex and there is a risk of type II error due to
+the low statistical power. It is, however, possible that GLP-1R activation
+affect DAT differently with longer duration of exposure and/or in
+people with abnormal DAT availability and DA. Decreased DAT avail-
+ability has been reported in patients diagnosed with AUD (Yen et al.,
+2015) and we are currently investigating the effects of long-term (26
+weeks) treatment with 2 mg exenatide once weekly on both alcohol
+consumption and DAT availability in AUD patients (Antonsen et al.,
+2018).
+Our study includes different experimental designs and methodolo-
+gies, which perhaps in part can explain the somewhat diverse results
+presented. We are not confident that our hypothesis that GLP-1R
+modulates DAT and consequently synaptic levels of DA, should be
+disregarded entirely, but other possible central mechanisms should be
+considered. For example, one study has investigated GLP-1R modula-
+tion of dynamic DA release during cocaine administration and suggest
+that instead of regulating DAT, GLP-1R activation possibly suppresses
+the excitability of DA neurons (Fortin and Roitman, 2017). Other stu-
+dies suggests that GLP-1R activation regulates reward in a non-dopa-
+minergic fashion via GABAergic inhibitory medium spiny neurons
+(Harasta et al., 2015; Mietlicki-Baase et al., 2014). Lastly, it has been
+suggested that activation of GLP-1R reduces excitatory synaptic
+strength of VTA projections to the striatum in mice (Wang et al., 2015).
+6. Conclusion
+A solid body of preclinical evidence shows that GLP-1R agonists
+attenuate the effects of substance use disorder-related behaviors. The
+mechanisms underlying these effects remain elusive. In the present
+study, we hypothesized that GLP-1R activation modulates DAT and thus
+DA homeostasis in striatum. In rats and using GLP-1 (7–36)-amide, we
+found support for this hypothesis corresponding with our previous
+findings in the LS (Reddy et al., 2016). However, we could not replicate
+the present rat striatal data in mice and humans using exenatide. This
+may be due to interspecies- and methodological differences. Another
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+7
+explanation could be that striatal DAT is not of pivotal importance with
+respect to the GLP-1R mediated effects on addiction-related behaviors
+and that other reward-related brain areas are of more importance. The
+present study does not rule this out.
+Author contribution statement
+Conceptualization-MEJ, UG, AG, TV, GM, AFJ
+Methodology-All authors
+Validation, Formal analysis, Investigation-All authors
+Resources, Data Curation-All authors
+Writing - Original Draft-MEJ
+Writing - Review & Editing-All authors
+Supervision-AG, UG, TV, GM, AFJ
+Project administration-AG, UG, TV, GM, AFJ
+Funding acquisition-AG, UG, TV, GM, AFJ
+Funding
+Funding was provided by The Research Foundation, Mental Health
+Services, Capital Region of Denmark, The Research Foundation, Capital
+Region of Denmark and by the National Institutes of Health [NIH
+DA043960]. MT was supported by NIH grant AA025071. LCD was
+supported by NIH grant MH64489.
+Acknowledgements
+We thank the staff, especially Svitlana Olsen and Peter Jensen for
+excellent technical support.
+References
+Alhadeff, A.L., Rupprecht, L.E., Hayes, M.R., 2012. GLP-1 neurons in the nucleus of the
+solitary tract project directly to the ventral tegmental area and nucleus accumbens to
+control for food intake. Endocrinology 153, 647–658.
+Antonsen, K.K., et al., 2018. Does glucagon-like peptide-1 (GLP-1) receptor agonist sti-
+mulation reduce alcohol intake in patients with alcohol dependence: study protocol
+of a randomised, double-blinded, placebo-controlled clinical trial. BMJ Open 8,
+e019562.
+Athauda, D., et al., 2017. Exenatide once weekly versus placebo in Parkinson's disease: a
+randomised, double-blind, placebo-controlled trial. Lancet 390, 1664–1675.
+Bray, G.M., 2006. Exenatide. Am J Health Syst Pharm 63, 411–418.
+Brunchmann, A., Thomsen, M., Fink-Jensen, A., 2019. The effect of glucagon-like peptide-
+1 (GLP-1) receptor agonists on substance use disorder (SUD)-related behavioural
+effects of drugs and alcohol: a systematic review. Physiol. Behav. 206, 232–242.
+Ciliax, B.J., et al., 1999. Immunocytochemical localization of the dopamine transporter in
+human brain. J. Comp. Neurol. 409, 38–56.
+Daws, L.C., Toney, G.M., 2007. In: Michael, A.C., Borland, L.M. (Eds.), Electrochemical
+Methods for Neuroscience. CRC Press/Taylor & Francis, Boca Raton (FL).
+Daws, L.C., Owens, W.A., Toney, G.M., 2016. Neurotransmitter Transporters 53-81.
+Springer.
+Desimone, M.E., Weinstock, R.S., 2000. In: Feingold, K.R. (Ed.), Endotext. MDText.com,
+Inc., South Dartmouth (MA).
+Dickson, S.L., et al., 2012. The glucagon-like peptide 1 (GLP-1) analogue, exendin-4,
+decreases the rewarding value of food: a new role for mesolimbic GLP-1 receptors. J.
+Neurosci. 32, 4812–4820.
+Edwards, C.M., et al., 2001. Exendin-4 reduces fasting and postprandial glucose and
+decreases energy intake in healthy volunteers. Am. J. Physiol. Endocrinol. Metab.
+281, E155–E161.
+Egecioglu, E., Engel, J.A., Jerlhag, E., 2013. The glucagon-like peptide 1 analogue, ex-
+endin-4, attenuates the rewarding properties of psychostimulant drugs in mice. PloS
+One 8, e69010.
+Engel, J.A., Jerlhag, E., 2014. Role of appetite-regulating peptides in the pathophysiology
+of addiction: implications for pharmacotherapy. CNS Drugs 28, 875–886.
+Fineman, M., et al., 2011. Pharmacokinetics and pharmacodynamics of exenatide ex-
+tended-release after single and multiple dosing. Clin. Pharmacokinet. 50, 65–74.
+Fletcher, M.M., Halls, M.L., Christopoulos, A., Sexton, P.M., Wootten, D., 2016. The
+complexity of signalling mediated by the glucagon-like peptide-1 receptor. Biochem.
+Soc. Trans. 44, 582–588.
+Fortin, S.M., Roitman, M.F., 2017. Central GLP-1 receptor activation modulates cocaine-
+evoked phasic dopamine signaling in the nucleus accumbens core. Physiol. Behav.
+176, 17–25.
+Fulton, S., 2010. Appetite and reward. Front. Neuroendocrinol. 31, 85–103.
+Göke, R., Larsen, P.J., Mikkelsen, J.D., Sheikh, S.P., 1995. Distribution of GLP-1 binding
+sites in the rat brain: evidence that exendin-4 is a ligand of brain GLP-1 binding sites.
+Eur. J. Neurosci. 7, 2294–2300.
+Graham, D.L., Erreger, K., Galli, A., Stanwood, G.D., 2013. GLP-1 analog attenuates co-
+caine reward. Mol. Psychiatr. 18, 961–962.
+Hamilton, A., Hölscher, C., 2009. Receptors for the incretin glucagon-like peptide-1 are
+expressed on neurons in the central nervous system. Neuroreport 20, 1161–1166.
+Harasta, A.E., et al., 2015. Septal glucagon-like peptide 1 receptor expression determines
+suppression of cocaine-induced behavior. Neuropsychopharmacology 40,
+1969–1978.
+Heppner, K.M., et al., 2015. Expression and distribution of glucagon-like peptide-1 re-
+ceptor mRNA, protein and binding in the male nonhuman primate (Macaca mulatta)
+brain. Endocrinology 156, 255–267.
+Hernandez, N.S., O'Donovan, B., Ortinski, P.I., Schmidt, H.D., 2019. Activation of glu-
+cagon-like peptide-1 receptors in the nucleus accumbens attenuates cocaine seeking
+in rats. Addiction Biol. 24, 170–181.
+Holst, J.J., 2013. Incretin hormones and the satiation signal. Int. J. Obes. 37, 1161–1168.
+Isaacs, D., Prasad-Reddy, L., Srivastava, S.B., 2016. Role of glucagon-like peptide 1 re-
+ceptor agonists in management of obesity. Am. J. Health Syst. Pharm. 73,
+1493–1507.
+Jensen, P.S., et al., 2011. Validation of a method for accurate and highly reproducible
+quantification of brain dopamine transporter SPECT studies. J. Nucl. Med. Technol.
+39, 271–278.
+Jensen, K.L., Runegaard, A.H., Weikop, P., Gether, U., Rickhag, M., 2017 Sep 21.
+Assessment of dopaminergic homeostasis in mice by use of high-performance liquid
+chromatography analysis and synaptosomal dopamine uptake. J Vis Exp (127),
+56093. https://doi.org/10.3791/56093.
+Kastin, A.J., Akerstrom, V., 2003. Entry of exendin-4 into brain is rapid but may be
+limited at high doses. Int. J. Obes. Relat. Metab. Disord. 27, 313–318.
+Koob, G.F., 1992. Drugs of abuse: anatomy, pharmacology and function of reward
+pathways. Trends Pharmacol. Sci. 13, 177–184.
+Lønborg, J., et al., 2012. Exenatide reduces final infarct size in patients with ST-seg-
+ment–elevation myocardial infarction and short-duration of ischemia. Circulation:
+Cardiovascular Interventions 5, 288–295.
+Merchenthaler, I., Lane, M., Shughrue, P., 1999. Distribution of pre-pro-glucagon and
+glucagon-like peptide-1 receptor messenger RNAs in the rat central nervous system.
+J. Comp. Neurol. 403, 261–280.
+Mietlicki-Baase, E.G., et al., 2014. Glucagon-like peptide-1 receptor activation in the
+nucleus accumbens core suppresses feeding by increasing glutamatergic AMPA/kai-
+nate signaling. J. Neurosci. 34, 6985–6992.
+Nirenberg, M.J., Vaughan, R.A., Uhl, G.R., Kuhar, M.J., Pickel, V.M., 1996. The dopamine
+transporter is localized to dendritic and axonal plasma membranes of nigrostriatal
+dopaminergic neurons. J. Neurosci. 16, 436–447.
+OLDS, J., Milner, P., 1954. Positive reinforcement produced by electrical stimulation of
+septal area and other regions of rat brain. J. Comp. Physiol. Psychol. 47, 419–427.
+Pabreja, K., Mohd, M.A., Koole, C., Wootten, D., Furness, S.G., 2014. Molecular me-
+chanisms underlying physiological and receptor pleiotropic effects mediated by GLP-
+1R activation. Br. J. Pharmacol. 171, 1114–1128.
+Pinborg, L.H., et al., 2005. Quantification of 123I-PE2I binding to dopamine transporter
+with SPECT after bolus and bolus/infusion. J. Nucl. Med. 46, 1119–1127.
+Reddy, I.A., et al., 2016. Glucagon-like peptide 1 receptor activation regulates cocaine
+actions and dopamine homeostasis in the lateral septum by decreasing arachidonic
+acid levels. Transl. Psychiatry 6, e809.
+Runegaard, A.H., et al., 2017. Preserved dopaminergic homeostasis and dopamine-related
+behaviour in hemizygous TH-Cre mice. Eur. J. Neurosci. 45, 121–128.
+Sisley, S., et al., 2014. Neuronal GLP1R mediates liraglutide's anorectic but not glucose-
+lowering effect. J. Clin. Invest. 124, 2456–2463.
+Siuta, M.A., et al., 2010. Dysregulation of the norepinephrine transporter sustains cortical
+hypodopaminergia and schizophrenia-like behaviors in neuronal rictor null mice.
+PLoS Biol. 8, e1000393.
+Skibicka, K.P., 2013. The central GLP-1: implications for food and drug reward. Front.
+Neurosci. 7, 181.
+Sørensen, G., et al., 2015. The glucagon-like peptide 1 (GLP-1) receptor agonist exendin-4
+reduces cocaine self-administration in mice. Physiol. Behav. 149, 262–268.
+Speed, N., et al., 2011. Impaired striatal Akt signaling disrupts dopamine homeostasis and
+increases feeding. PloS One 6, e25169.
+Suchankova, P., et al., 2015. The glucagon-like peptide-1 receptor as a potential treat-
+ment target in alcohol use disorder: evidence from human genetic association studies
+and a mouse model of alcohol dependence. Transl. Psychiatry 5, e583.
+Thomsen, M., et al., 2017. The glucagon-like peptide 1 receptor agonist Exendin-4 de-
+creases relapse-like drinking in socially housed mice. Pharmacol. Biochem. Behav.
+160, 14–20.
+Thomsen, M., et al., 2019. Effects of glucagon-like peptide 1 analogs on alcohol intake in
+alcohol-preferring vervet monkeys. Psychopharmacology (Berlin) 236, 603–611.
+Tuesta, L.M., et al., 2017. GLP-1 acts on habenular avoidance circuits to control nicotine
+intake. Nat. Neurosci. 20, 708–716.
+van Bloemendaal, L., et al., 2014. GLP-1 receptor activation modulates appetite- and
+reward-related brain areas in humans. Diabetes 63, 4186–4196.
+van Bloemendaal, L., et al., 2015. Brain reward-system activation in response to antici-
+pation and consumption of palatable food is altered by glucagon-like peptide-1 re-
+ceptor activation in humans. Diabetes Obes. Metabol. 17, 878–886.
+Vaughan, R.A., Foster, J.D., 2013. Mechanisms of dopamine transporter regulation in
+normal and disease states. Trends Pharmacol. Sci. 34, 489–496.
+Volkow, N.D., Wang, G.J., Tomasi, D., Baler, R.D., 2013. Obesity and addiction: neuro-
+biological overlaps. Obes. Rev. 14, 2–18.
+Wang, X.F., et al., 2015. Endogenous glucagon-like peptide-1 suppresses high-fat food
+intake by reducing synaptic drive onto mesolimbic dopamine neurons. Cell Rep. 12,
+726–733.
+Weston, C., Poyner, D., Patel, V., Dowell, S., Ladds, G., 2014. Investigating G protein
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+8
+signalling bias at the glucagon-like peptide-1 receptor in yeast. Br. J. Pharmacol. 171,
+3651–3665.
+Yager, L.M., Garcia, A.F., Wunsch, A.M., Ferguson, S.M., 2015. The ins and outs of the
+striatum: role in drug addiction. Neuroscience 301, 529–541.
+Yen, C.H., et al., 2015. Reduced dopamine transporter availability and neurocognitive
+deficits in male patients with alcohol dependence. PloS One 10, e0131017.
+Zhang, H., et al., 2015. Autocrine selection of a GLP-1R G-protein biased agonist with
+potent antidiabetic effects. Nat. Commun. 6, 8918.
+Ziebell, M., 2011. Evaluation of the superselective radioligand [123I]PE2I for imaging of
+the dopamine transporter in SPECT. Dan. Med. Bull. 58 B4279.
+Ziebell, M., et al., 2010. Serotonin transporters in dopamine transporter imaging: a head-
+to-head comparison of dopamine transporter SPECT radioligands 123I-FP-CIT and
+123I-PE2I. J. Nucl. Med. 51, 1885–1891.
+M.E. Jensen, et al.
+Neurochemistry International 138 (2020) 104772
+9
+

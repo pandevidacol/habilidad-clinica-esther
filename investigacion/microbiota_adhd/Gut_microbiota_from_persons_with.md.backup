@@ -1,0 +1,1370 @@
+# RESEARCH
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2020
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Gut microbiota from persons with.pdf
+
+## Abstract / Summary
+RESEARCH
+Open Access
+Gut microbiota from persons with
+attention-deficit/hyperactivity disorder
+affects the brain in mice
+Anouk C. Tengeler1†, Sarita A. Dam2†, Maximilian Wiesmann1, Jilly Naaijen2,3, Miranda van Bodegom1, Clara Belzer4,
+Pieter J. Dederen1, Vivienne Verweij1, Barbara Franke5,6, Tamas Kozicz1,7, Alejandro Arias Vasquez5,6† and
+Amanda J. Kiliaan1*†
+Abstract
+Background: The impact of the gut microbiota on host physiology and behavior has been relatively well
+established. Whether chan... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. RESEARCH. 2020.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+RESEARCH
+Open Access
+Gut microbiota from persons with
+attention-deficit/hyperactivity disorder
+affects the brain in mice
+Anouk C. Tengeler1†, Sarita A. Dam2†, Maximilian Wiesmann1, Jilly Naaijen2,3, Miranda van Bodegom1, Clara Belzer4,
+Pieter J. Dederen1, Vivienne Verweij1, Barbara Franke5,6, Tamas Kozicz1,7, Alejandro Arias Vasquez5,6† and
+Amanda J. Kiliaan1*†
+Abstract
+Background: The impact of the gut microbiota on host physiology and behavior has been relatively well
+established. Whether changes in microbial composition affect brain structure and function is largely elusive,
+however. This is important as altered brain structure and function have been implicated in various
+neurodevelopmental disorders, like attention-deficit/hyperactivity disorder (ADHD). We hypothesized that gut
+microbiota of persons with and without ADHD, when transplanted into mice, would differentially modify brain
+function and/or structure. We investigated this by colonizing young, male, germ-free C57BL/6JOlaHsd mice with
+microbiota from individuals with and without ADHD. We generated and analyzed microbiome data, assessed brain
+structure and function by magnetic resonance imaging (MRI), and studied mouse behavior in a behavioral test
+battery.
+Results: Principal coordinate analysis showed a clear separation of fecal microbiota of mice colonized with ADHD
+and control microbiota. With diffusion tensor imaging, we observed a decreased structural integrity of both white
+and gray matter regions (i.e., internal capsule, hippocampus) in mice that were colonized with ADHD microbiota.
+We also found significant correlations between white matter integrity and the differentially expressed microbiota.
+Mice colonized with ADHD microbiota additionally showed decreased resting-state functional MRI-based
+connectivity between right motor and right visual cortices. These regions, as well as the hippocampus and internal
+capsule, have previously been reported to be altered in several neurodevelopmental disorders. Furthermore, we
+also show that mice colonized with ADHD microbiota were more anxious in the open-field test.
+Conclusions: Taken together, we demonstrate that altered microbial composition could be a driver of altered brain
+structure and function and concomitant changes in the animals’ behavior. These findings may help to understand
+the mechanisms through which the gut microbiota contributes to the pathobiology of neurodevelopmental
+disorders.
+Keywords: ADHD, Microbiota, Behavior, Gray and white matter integrity, Functional connectivity, DTI, rs-fMRI
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: Amanda.Kiliaan@radboudumc.nl
+†Anouk C Tengeler and Sarita A Dam share first authorship.
+†Alejandro Arias Vasquez and Amanda J Kiliaan share last authorship.
+1Department of Anatomy, Donders Institute for Brain, Cognition & Behaviour,
+Preclinical Imaging Centre PRIME, Radboud University Medical Center, Geert
+Grooteplein noord 21, 6525 EZ Nijmegen, The Netherlands
+Full list of author information is available at the end of the article
+Tengeler et al. Microbiome            (2020) 8:44 
+https://doi.org/10.1186/s40168-020-00816-x
+Background
+The gut-brain axis (GBA) is a well-recognized bidirec-
+tional communication route between gut and brain [1].
+One of the key modifiers of the GBA is the intestinal
+commensal bacteria in the gut, also known as the micro-
+biota. The intestinal microbiota is a complex ecosystem
+that comprises more than 1000 different species [2],
+which can be influenced by numerous factors, including
+diet, antibiotic usage, lifestyle, and host genetics [3, 4].
+The role of gut microbiota in host physiology and
+health has been well established [5]. An increasing body
+of literature recognizes the influence of the microbiota
+on neurodevelopment and brain function as well [6, 7].
+Studies in animal models have reported an essential role
+for the microbiota in fundamental neural processes such
+as neurogenesis, myelination, and microglia activation
+[8]. In germ-free (GF) animals, affected hippocampal vol-
+ume and neurogenesis are observed, in addition to hyper-
+myelination of axons in the prefrontal cortex [9–17].
+Moreover, modulation of the gut microbiota via diet in-
+duces diet-dependent global changes in white matter
+structural integrity in rat models [18]. Perturbations in
+microbial composition have also been associated with dif-
+ferences in behavior and cognition [19]. Particularly, early
+life disturbances of the microbiota can influence neurode-
+velopment, possibly resulting in psychiatric disorders later
+in life [20].
+An increasing number of studies report possible roles
+for the microbiota in anxiety and social behavior [11, 12,
+21–23], which have been confirmed by a limited number
+of human studies [24–27]. These observations suggest
+that the microbiota may play a key role in the develop-
+ment or manifestation of many psychiatric disorders
+[28]. Several psychiatric disorders, including autism
+spectrum disorder (ASD), major depressive disorder
+(MDD),
+and
+attention-deficit/hyperactivity
+disorder
+(ADHD), are associated with differences in the gut
+microbiota [29–31]. Previous research has demonstrated
+changes in the gut microbiota of children with ASD
+compared to healthy controls, including a higher Firmi-
+cutes/Bacteroidetes ratio and a higher relative abundance
+of Clostridia species [30, 32], whereas MDD has been as-
+sociated with an increased microbiota alpha diversity
+[33]. For ADHD, several studies, by us and others, have
+identified differences in microbiota composition between
+individuals with ADHD and healthy controls [34, 35].
+An increase in the genus Bifidobacterium was observed
+in individuals with ADHD, associated with a significantly
+enhanced predicted biosynthesis potential of the dopa-
+mine precursor phenylalanine [34]. Additionally, dietary
+interventions in ADHD can be beneficial in subgroups
+of children with ADHD [36–39]. Similarly, for ASD, an
+improvement in symptoms has been observed after
+intervention.
+Here,
+antibiotic
+treatment
+alleviated
+anxiety in children with ASD [40], and treatment with
+vancomycin, an antibiotic used to treat infections with
+Clostridia, resulted in significant short-term improve-
+ment in neurobehavioral symptoms in children with aut-
+ism [41]. Following the discontinuation of vancomycin,
+the behavioral improvements largely waned.
+In the current study, we aimed to investigate the im-
+pact of human microbiota from individuals with ADHD
+on brain function and/or structure and behavior in mice.
+We hypothesized that the gut microbiota of individuals
+with ADHD, when transplanted to mice, would modify
+brain structure and/or function as well as influence be-
+havior, biological domains that are also impaired to vari-
+ous degrees in neurodevelopmental disorders in humans.
+To test this hypothesis, we colonized young, germ-free
+mice with microbiota collected from male individuals
+with ADHD (from now on called “miceADHD”) or micro-
+biota from age-matched healthy controls (“micecontrol”).
+We subsequently performed structural and resting-state
+functional magnetic resonance imaging (fMRI) and ana-
+lyzed different aspects of behavior in the microbiota-
+colonized mice. Extending insights on the impact of
+ADHD microbiota on brain phenotypes and behavior
+might increase our understanding of disorder etiology
+and ultimately open a window of opportunity for the de-
+velopment of novel treatment approaches for ADHD by
+targeting the microbiota.
+Results
+A summary of significant results is given in Table 1.
+Differences in microbiota composition between miceADHD
+and micecontrol
+First, we assessed the microbiota composition of feces from
+miceADHD and micecontrol. The within-sample diversity (α-di-
+versity) showed no significant differences between the
+miceADHD and micecontrol (Observed: t17.2 = 1.181, p = .254;
+Shannon: t19.4 = −1.731, p = .099; InvSimpson: t25 = −1.781,
+p = .087; PD: t15.9 = 0.421, p = .680; Fig. 1a). Comparison of
+groups in terms of β-diversity showed a significant difference
+between miceADHD and micecontrol (PERMANOVA p = .01).
+MiceADHD clustered separately from micecontrol in the PCoA
+plot, as illustrated in Fig. 1b.
+Linear
+discriminant
+analysis
+effect
+size
+(LEfSe)
+analysis showed that 31 genera differed in relative
+abundance
+between
+the
+two
+experimental
+groups
+(miceADHD vs. micecontrol ; LDA score > 2.0, punadjusted < .05;
+Table 1 and Fig. 1c legend). These genera were part of the
+phyla Firmicutes (24/31), Bacteroidetes (4/31), Proteobac-
+teria (2/31), and Cyanobacteria (1/31) (Fig. 1c, inner circle
+labels). In total, 14 genera were enriched in miceADHD,
+while 17 other genera were more abundant in micecontrol.
+From the genera enriched in miceADHD, 10 belonged to the
+family of Lachnospiraceae within the phylum Firmicutes.
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 2 of 14
+The overall phyla of Proteobacteria and Cyanobacteria were
+decreased in relative abundance in miceADHD, and also the
+family of Porphyromonadaceae was present in lower
+relative abundance. Additionally, from the phylum of
+Firmicutes, the Eubacteriaceae, Christensenellaceae, and
+Ruminococcaceae families were less abundant in miceADHD
+(Fig. 1c, outer circle labels). The only family that was
+present in higher relative abundance in the miceADHD,
+compared to the micecontrol
+, was an unknown Clostridiales.
+Decreased structural integrity of both white and gray
+matter and reduced functional connectivity in miceADHD
+Diffusion tensor imaging (DTI) was used to assess gray
+and white matter integrity in several brain regions.
+Fractional anisotropy (FA) is a summary measure of
+microstructural integrity, and a higher FA might reflect
+increased white matter integrity. Mean diffusivity (MD)
+is an inverse measure of membrane density, and a higher
+MD might indicate decreased gray matter integrit y[42].
+The MRI data showed that miceADHD had a decreased
+FA in the left and right hippocampus (left: F(1,20) = 6.4,
+p = .020; right: F(1,20) = 4.5, p = .047). Lowered FA in
+miceADHD was also observed in the right internal capsule
+(F(1,20) = 9.2, p = .007) and right optic tract (F(1,20) =
+4.5, p = .047) (Fig. 2a). Increased MD was detected in
+the right hippocampus (F(1,20) = 13.1, p = .002) of
+miceADHD. An increased MD was also observed in the
+fornix of miceADHD (F(1,20) = 4.6, p = .044) (Fig. 2b).
+Table 1 Overview of significant results
+Parameter
+Increase or decrease
+in miceADHD
+Microbiota
+Beta diversity
+↑
+Genus level
+g_Porphyromonadaceae_uncultured; g_Clostridiales_unknown; Anaerostipes; Coprococcus_2;
+Epulopiscium; Fusicatenibacter; Lachnospiraceae_ND3007_group; Roseburia; Eubacterium_
+fissicatena_group; Eubacterium_xylanophilum_group Ruminococcus_gauvreauii_group;
+Ruminococcus_gnavus_group;
+Ruminococcaceae_UCG-004; g_Ruminococcaceae_uncultured
+↑
+g_Bacteriodales_unknown; Coprobacter; Parabacteroides; g_Gastranaerophilales_unknown;
+Catabacter; Eubacterium; Eisenbergiella; Lachnoclostridium; Eubacterium_rectale_group;
+Anaerotruncus; Ruminococcaceae_UCG-014; Ruminococcus_1; Eubacterium_
+coprostanoligenes_group; Dielma; Holdemania; g_Enterobacteriaceae_unknown; Escherichia-
+Shigella
+↓
+Family level
+Clostridiales unknown
+↑
+Porphyromonadaceae; Bacteriodales; Gastranaerophilales_unknown; Christensenellaceae;
+Eubacteriaceae; Ruminococcaceae; Enterobacteriaceae
+↓
+Order level
+Gastranaerophilales; Enterobacteriales
+↓
+Class level
+Melainabacteria; Gammaproteobacteria
+↓
+Phylum level
+Proteobacteria; Cyanobacteria
+↓
+Open field test
+Center duration
+↓
+Corner duration
+↑
+Diffusion
+Tensor Imaging
+Fractional
+anisotropy
+Right hippocampus
+↓
+Left hippocampus
+↓
+Right internal capsule
+↓
+Right optic tract
+↓
+Mean
+diffusivity
+Right hippocampus
+↑
+Fornix
+↓
+Axial
+diffusivity
+Right auditory cortex
+↑
+Radial
+diffusivity
+Right hippocampus
+↑
+Left hippocampus
+↑
+Right internal capsule
+↑
+Corpus callosum
+↑
+Resting-state
+fMRI
+Between motor cortex (M1) and visual cortex (V1)
+↓
+↑, significant increase; ↓, significant decrease
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 3 of 14
+MiceADHD showed heightened radial diffusivity (RD) in
+the corpus callosum (F(1,20) = 4.8, p = .041), left and
+right hippocampus (left: F(1,20) = 5.3, p = .032; right:
+F(1,20) = 17.0, p = .001), and right internal capsule (F(1,20) =
+7.3, p = .014). Finally, we observed an increased axial diffusiv-
+ity (AD) in the right auditory cortex (F(1,20) = 4.6, p = .044)
+in miceADHD compared to micecontrol.
+Because of the observed differences in FA and MD in the
+hippocampus, we also assessed hippocampal volumes. How-
+ever, we did not find differences in hippocampal volumes
+between miceADHD and micecontrol (F(1,23) = 0.07; p = .798).
+Functional
+connectivity
+(FC)
+patterns,
+derived
+from
+resting-state
+fMRI
+(rs-fMRI)
+data,
+showed
+miceADHD to have a decreased FC in the partial
+Fig. 1 Microbial analyses. a Comparison of diversity between microbiota samples from miceADHD and micecontrol using alpha diversity measures
+Observed OTUs (richness), Shannon Index, InvSimpson Index, and Phylogenetic Diversity. b Principal coordinate analysis (PCoA) plot of weighted
+UniFrac distances showing a clear separation in microbial composition between miceADHD and micecontrol. c Circular representation of the
+different bacterial genera between miceADHD and micecontrol using LEfSe analysis (LDA score > 2.0, p < .05 unadjusted). Labels in inner circle
+represent phyla, and on the outer circle are the labels of the families
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 4 of 14
+correlation analysis between the right motor cortex
+and right visual cortex (F(1,14) = 5.9, p = .030; Fig.
+2c, d). We found no effects in the total correlations
+(Fig. 2e, f).
+Higher anxiety in mice colonized with ADHD microbiota,
+but no memory deficits or impulsive behavior in mice
+To explore behavioral effects of the human ADHD
+microbiota
+in
+mice,
+several
+behavioral
+tests
+were
+Fig. 2 Effects of ADHD microbiota on brain structure and function. a Differences in fractional anisotropy between miceADHD and micecontrol in the
+right internal capsule (p = 0.0007), right optic tract (p = 0.047), left hippocampus (p = 0.02), and right hippocampus (p = 0.047) were found. b
+Differences in mean diffusivity in the fornix (p = 0.044) and right hippocampus (p = 0.002) were found. Resting-state functional connectivity (FC)
+based on total (c, d) and partial (e, f) correlation analyses of 12 regions of interest (ROIs) in the mouse brain. Total (c) and partial (e) correlation
+matrices of control (left) and ADHD (right) mice. f A decreased al correlation analysis between the right motor cortex and right visual cortex (p =
+0.03) was found in miceADHD
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 5 of 14
+performed. We assessed general locomotor activity and
+novel environment exploration with the open field test
+(OFT). MiceADHD spent more time in the corners (F(1,
+24) = 6.6, p = .017) and less time in the center (F(1,24) =
+10.4, p = .004) of the open field arena compared to
+micecontrol (Fig. 3a). Groups did not differ in the fre-
+quency of entering the corners (F(1,24) = 1.8, p = .190)
+or center (F(1,24) = 1.7, p = .211). This suggests that the
+altered exploratory behavior in miceADHD reflects increased
+anxiety. Analysis of locomotion activity did not reveal any
+differences in velocity (F(1,24) = 0.4, p = .527), total dis-
+tance traveled (F(1,24) = 0.2, p = .687), or any of the manu-
+ally scored behaviors, like jumping, wall leaning, rearing,
+and grooming. Additionally, no differences in home cage
+activity during day or night were observed between the two
+experimental groups (Additional file 1: Figure S1).
+During the familiarization phase of the novel object
+recognition (NOR) test, used to assess memory, all mice
+explored both identical objects equally (F(1,25) = .956,
+p = .338; Fig. 3b). MiceADHD demonstrated a trend
+toward a lower discrimination index compared to micecontrol
+during the test phase of the NOR with a half hour interval
+between familiarization and test phase (F(1,25) = 3.8,
+p = .063; Fig. 3c), but not when an hour interval be-
+tween the familiarization and test phase was used
+(F(1,25) = 1.98, p = .171; Additional file 1: Figure S2).
+It has been proposed that burying of harmless objects, like
+glass marbles, reflects a form of compulsive or impulsive be-
+havior [43]. Performing the marble burying test (MBT), we
+found no differences between the number of marbles buried
+by miceADHD (mean = 1.89; SEM = .91) and by micecontrol
+(mean = 1.75; SEM = .61, H(1) = 0.56, p = .453; Additional
+file 1: Figure S3).
+Changes in microbiota are associated with anxiety and
+DTI measures in the hippocampus
+We investigated, whether the genera that differed in rela-
+tive abundance, described above and depicted in Fig. 1c,
+could be correlated to key neurobiological features (i.e.,
+anxiety and DTI measures in the hippocampus and in-
+ternal capsule). Figure 4 provides an overview of all ob-
+served correlations (p < .01).
+The relative abundance of Eubacterium showed a posi-
+tive correlation with the FA of the right and left
+Fig. 3 Effect of ADHD microbiota on behavior. a Time spent in the center (left), corners (middle), and periphery (right) of the open field.
+MiceADHD spent less time in the center (p < 0.004) and more time in the corners (p < .017) of the open field. b During the familiarization phase of
+the NOR test micecontrol (green bars) and miceADHD (red bars) explored both identical objects equally. c MiceADHD showed a trend toward a lower
+novel object discrimination index (p = 0.063) during the test phase of the NOR
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 6 of 14
+hippocampus (FA; right: R = .564, p = .006; left: R = .586,
+p = .004) and a negative correlation with the MD in the
+right hippocampus (MD; R = −.559; p = .007). Gastra-
+naerophilales unknown showed a positive correlation with
+the FA in the right and left internal capsule (right: R =
+.721, p < .001; left: R = .666, p = .001). Finally, we observed
+a positive correlation between Holdemania and the FA in
+the left hippocampus (R = .563; p = .006).
+The relative abundance of Anaerostipes showed a posi-
+tive correlation with anxiety (time spent in corners) in the
+OFT (R = .546; p = .005) and a negative correlation with
+the time spent in the center of the open field (R = −.512;
+p = .009). Additionally, the relative abundance of the
+uncultured Porphyromonadaceae (R = .555; p = .004),
+Roseburia (R = .541; p = .005), and Ruminococcaceae UCG
+004 (R = .515; p = .008) showed a positive correlation with
+anxiety (time spent in corners) in the OFT. The relative
+abundance of Eisenbergiella (R = .543; p = .005), Eubacter-
+ium rectale group (R = .626; p = .001), and Ruminococcus
+1 (R = .562; p = .003) showed a positive correlation with
+time spent in the center in the OFT.
+Discussion
+Given the current knowledge on the association between
+the gut microbiota and neurodevelopmental disorders
+via the gut-brain axis [29–31], we hypothesized that the
+microbiota of individuals with ADHD, when trans-
+planted into young GF mice, would affect brain structure
+and/or function as well as behavior. We show that
+miceADHD had an impaired structural integrity of both
+Fig. 4 Correlations between bacterial genera and key neurobiological findings. Pearson correlations between relative taxa abundance and anxiety
+(center duration and corner duration in the open field) or DTI measures FA and MD in the hippocampus and internal capsule. All correlations
+presented were statistically significant (p < 0.01) with strong correlations indicated by large circles and weaker correlations by small circles. The
+colors denote whether the correlation is negative (red) or positive (blue)
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 7 of 14
+white and gray matter, and showed decreased functional
+connectivity between the right visual cortex and right
+motor cortex.
+In the current study, we investigated if there were any
+structural brain differences in miceADHD compared to
+micecontrol using diffusion tensor imaging (DTI). One of
+the brain regions selected was the hippocampus. The
+hippocampus is highly sensitive to aging, life experiences
+such as stress, and environmental factors like malnutri-
+tion and altered microbial composition [44–46]. The
+hippocampus is important for learning and memory,
+mood regulation, and neural plasticity [44]. It is there-
+fore not surprising that impaired hippocampal function
+has been implicated in many neurodevelopmental and
+psychiatric disorders, including ASD, ADHD, and MDD
+[16, 47–50]. The DTI data revealed a decreased FA and
+increased MD in the right hippocampus, accompanied
+by increased RD and unchanged AD in miceADHD. This
+is indicative of decreased myelination rather than axonal
+damage or degeneration [42]. A decreased FA and in-
+creased MD have been reported in children and adults
+with ADHD in several brain regions, including the in-
+ternal capsule, but not in the hippocampus [51, 52].
+However, a smaller hippocampal volume has been re-
+ported in ADHD [15, 16].
+We also observed white matter alterations in the right
+internal capsule. The internal capsule is composed of af-
+ferent and efferent myelinated fibers of the cerebral cor-
+tex [53]. Abnormalities in the structure of the internal
+capsule have been implicated in neurodevelopmental
+and psychiatric disorders like schizophrenia, ADHD, and
+bipolar disorder [52, 54, 55]. We report decreased FA
+and increased RD in miceADHD in the internal capsule,
+indicative of decreased myelination in this region. This
+finding may be related to the observed decreased func-
+tional connectivity between the right primary motor cor-
+tex (M1) and the right primary visual cortex (V1) of
+miceADHD because the fibers of these regions course
+through the internal capsule [56]. Both the primary
+motor cortex and visual cortex are part of the visuo-
+motor network [57]. Reduced visuomotor adaptation has
+also been reported in schizophrenia and in individuals
+with ADHD [58, 59].
+We used various behavioral tests to investigate diverse
+aspects of mouse behavior that might be influenced by
+microbiota from individuals with ADHD. One of the
+tests that the mice performed was the OFT. In this test,
+we observed that miceADHD showed more anxiety than
+micecontrol, which was measured as time spent in the
+corners of the open field. Although this behavior is not
+specific to ADHD, many psychiatric disorders, including
+ADHD, MDD, and ASD, are highly comorbid with anx-
+iety [60–62]. Altered anxiety-related behavior is often
+found after microbiota manipulations, and this behavior
+can also be caused by fecal transplantation [19]. This
+suggests that components of the gut microbiota are able
+to regulate anxiety. We found no differences in motor
+activity between groups in either the OFT or in home
+cage activity during active and inactive phase of the
+mice. Additionally, no apparent effects were seen in the
+MBT
+assessing
+compulsivity/impulsivity
+nor
+in
+the
+memory assessing NOR task.
+Previous studies have examined and discovered some
+differences in the microbiota composition between indi-
+viduals with ADHD and controls [34, 35], although
+transplantation of the microbiota of individuals with
+ADHD into mice is novel. Therefore we investigated the
+microbial composition within and between samples and
+on different levels in the current study. The overall mi-
+crobial composition, after transplantation, revealed a
+clear
+separation
+(beta-diversity)
+between
+microbiota
+from micecontrol and miceADHD (Fig. 1b). We did not ob-
+serve, however, any significant differences in the alpha-
+diversity indices. Furthermore, in the global microbial
+composition, we found a difference in microbial commu-
+nity composition, with 31 genera showing different rela-
+tive abundance between the animal groups. Most of
+these genera (23 of the 31) are also present in our hu-
+man donors (ADHD and/or control), though we cannot
+be sure about the uncultured or unknown genera (6 out
+of 31). This means that our study has a translational
+value, especially as the microbial composition of both
+the original human samples and the mouse samples
+cluster per experimental group (ADHD and control).
+One of the genera we found to differ between our
+groups was Lachnoclostridium. It appeared to be de-
+creased in relative abundance in miceADHD. The relative
+abundance of Lachnoclostridium was also found de-
+creased in children with ASD [63] and in ADHD pa-
+tients compared to controls [34, 35]. Going up to the
+phylum level, the differentially abundant genera in our
+study belonged predominantly (24 out of 31) to the
+phylum Firmicutes, and families Lachnospiraceae and
+Ruminococcaceae,
+which
+have
+been
+associated with
+stress and social avoidance behavior [64, 65]. Ten genera
+of the Lachnospiraceae family were more abundant in
+miceADHD compared to micecontrol; in the latter group,
+three other Lachnospiraceae genera were enriched. Gen-
+era of the Lachnospiraceae family have been associated
+with immune responses and are able to control regula-
+tory T cells [66].
+Our correlation analysis showed that there was a posi-
+tive correlation between white matter integrity and the
+relative abundance of Holdemania and Eubacterium.
+These bacteria are both known to be changed in abun-
+dances in other disorders: Holdemania is increased in
+individuals with MDD [67–69], and Eubacterium is de-
+creased in children with ASD [70]. However, to our
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 8 of 14
+knowledge, this is the first study that found significant
+correlations between these bacteria and brain structural
+and functional changes. Based on our finding, it would
+therefore be of interest to investigate this further in the
+clinical populations of the mentioned disorders.
+Changes in the relative abundance of the family Rumi-
+nococcaceae have been observed in multiple psychiatric
+and neurodevelopmental diseases including ADHD, ASD,
+and MDD [71, 72]. Our results show that three genera,
+Anaerostipes, Roseburia (both from the Lachnospiraceae
+family), and Ruminococcaceae UGC-004 (Family Rumino-
+coccaceae), positively correlated with anxiety levels, while
+Eubacterium appeared to be negatively correlated to the
+severity of anxiety and positively with anxiety reduction.
+Importantly, these genera were also found to be more
+abundant in persons with ADHD, compared to controls,
+as part of our ongoing study of ADHD patients from the
+NeuroIMAGE study [73] (n = 56) and healthy participants
+(n = 49) [74].
+This work should be considered in the light of its
+strengths and limitations. First, we only used six donor
+samples (three of individuals with ADHD and three of
+controls) in our study. While this low number of sam-
+ples may possibly reduce the general distribution of
+taxonomic groups observable in adult individuals with
+ADHD, the samples used were carefully selected based
+only on the disease status (not on behavioral or MRI-
+based variables in these individuals). To reduce individ-
+ual differences, samples were pooled before colonization
+(ADHD patients or controls). Additionally, the choice of
+collecting the fecal samples from adult male donors was
+based on the fact that the adult form of ADHD is
+thought to be the most severe outcome of this disorder
+[75] and to avoid sex effects and non-controlled hormo-
+nal effects, like the use of contraceptives and the men-
+strual cycle. These hormonal effects are likely to play a
+role in the shaping of the gut microbial composition,
+both in humans and mice [76–79], and therefore only
+male mice were colonized. Besides the hormonal effects,
+it is possible that unmeasured factors of our donors, e.g.,
+body mass index, also influenced the microbial compos-
+ition. Though, based on the inclusion criteria of the sub-
+jects in the NeuroImage cohort [73], we are confident
+that the subjects in this study were physically healthy.
+Second, we used germ-free mice, housed in isolators,
+as opposed to antibiotic-treated mice. While this ap-
+proach limited our behavioral testing options (in terms
+of equipment), the sterile isolators used in this study
+provided a contamination-free environment at the time
+of behavioral testing. Additionally, this allowed us to
+make sure that the animals were only exposed to the mi-
+croorganisms from the donor samples, and competition
+between the native and newly transplanted micro-
+organisms in germ-free animals was absent, which allows
+for the study of a defined microbial composition [80].
+However, germ-free mice show various developmental
+and physiological differences when compared to conven-
+tionally raised animals. For example, germ-free mice
+show decreased anxiety and decreased expression of
+genes that are connected to synaptogenesis [12, 81].
+Nevertheless, germ-free mice, housed in isolators, still
+seem to be the best controlled animal model to study
+the impact of microbial transplantation [80]. Moreover,
+by including a group of germ-free mice that received the
+transplantation from humans without ADHD, a positive
+control was present. However, it might be interesting to
+add a third group of germ-free mice that is not colo-
+nized (negative control or mock) in future studies, to be
+able to investigate baseline behavioral (i.e., anxiety) and
+brain structural and functional indices.
+Third, we analyzed the relative microbial composition
+using 16S rRNA sequencing data. This approach is pre-
+ferred for comparison across different samples (i.e., dif-
+ferent
+strains
+of
+mice),
+treatments,
+or
+timepoints.
+Additionally, 16S rRNA sequencing techniques are more
+cost-efficient than metagenomics sequencing; it shows
+lower signal distortion due to host contamination [82]
+and has many well-developed analytical tools available
+[83]. Moreover, we (i) used mock communities in the se-
+quencing experiment in order to check for the “true”
+bacterial distribution (which validated our taxonomic
+distribution), (ii) focused on common taxa, and (iii) ap-
+plied a stringent QC for the statistical analysis to reduce
+the chance of false positives. However, the choice of se-
+quencing primers (V1-V2 variable region) includes a bias
+in the sensitivity to identify specific bacterial taxa, for ex-
+ample, the Bifidobacteria and Faecalibacterium that
+were observed to differ between ADHD patients and
+controls [34, 35], could not be measured properly in our
+samples. Therefore, sequencing the same region of the
+16S rRNA gene and the use of similar analysis pipelines
+is needed in order to properly compare studies in the
+best possible way.
+Conclusions
+In conclusion, bacterial components of the gut microbiota
+of individuals with ADHD are associated with changes in
+brain structure and function, as well as behavior in mice. Al-
+though we do not suggest that ADHD is caused by changes
+in microbial composition, the observed changes at the brain
+level, albeit not specific to ADHD, highlight the relevance of
+the gut microbiota, potentially through decreased myelin-
+ation. While further research is needed, our findings might
+increase our understanding of the etiology of psychiatric dis-
+orders and ultimately may open a window of opportunity
+for the development of potentially novel treatment strategies
+targeting the microbiota in neurodevelopmental diseases.
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 9 of 14
+Methods
+Human Participants
+Fecal samples were collected from male participants with
+ADHD (n = 3) and age-matched healthy male partici-
+pants (n = 3), with an average age of 22.7 ± 1.1 years.
+The samples were pooled to prevent transplanting indi-
+vidual microbial compositions [29] and prepared as de-
+scribed (see Additional file 2). The participants were
+drawn from the follow-up of the NeuroIMAGE study
+(NeuroIMAGE II) [38], in which participants with
+ADHD had been diagnosed based on DSM-IV criteria
+using the Kiddie Schedule for Affective Disorders and
+Schizophrenia for School-Age Children (K-SADS) [39].
+The age of the participants at the time of the K-SADS
+and feces donation is described in Table 2. Institutional
+Review Board approval (registration number 2012/542;
+NL nr.: 41950.091.12) was obtained for the study, and all
+participants provided written informed consent.
+Experimental design
+All animal experiments were carried out in accordance
+with international European ethical standards (European
+Directive 2010/63/EU) and were approved by the Veterin-
+ary Authority of the Radboud University Medical Center
+(Radboudumc; permit number: RU-DEC 2015-0077) con-
+taining a statistical power analysis to minimize group
+sizes. All applicable (inter)national and institutional guide-
+lines for the care and use of animals were followed and re-
+ported in accordance with the ARRIVE guidelines [40].
+In total, 28 male, germ-free C57BL/6JOlaHsd mice
+with an average age of 38 ± 0.5 days were used for this
+randomized and blinded controlled study. The timeline
+of the study is illustrated in Fig. 5. Mice were colonized
+with
+microbiota
+from
+participants
+with
+ADHD
+(“miceADHD”) or healthy participants (“micecontrol”) via
+oral gavage. Animals were assigned to one of the two
+BioFlex™B30 Flexible Film Isolators (Bell Isolation Sys-
+tems, Livingston, UK), in which the animals were group-
+housed in standard cages with three or four animals per
+cage (see Additional file 1: Figure S4). On 27 days post
+colonization (dpc), mice were transported to the Preclin-
+ical Imaging Centre (PRIME) in the central animal facil-
+ity (CDL) of the Radboud University where the animals
+were group-housed and scanned with MRI in a random
+order over the following 2 days. Before the scanning, the
+mice were housed in Digital Ventilated Cages (Digital
+Ventilated Cage, Tecniplast S.P.A., Buguggiate (VA)
+Italy) to study 24/7 activity using a capacitive-based sen-
+sor placed non-intrusively under the home cage on the
+cage rack [41, 42]. To ensure that the gut microbial
+composition of the mice remained stable throughout the
+experiment, mice were given booster oral inoculations at
+14 and 22 dpc with the same prepared microbiota sam-
+ples stored at −80 °C. Fecal pellets were collected weekly
+between 9 a.m. and 9:30 a.m., snap-frozen, and stored at
+−80 °C. One mouseADHD and one mousecontrol were eu-
+thanized due to complications occurring after the oral
+gavage on dpc 15 and 22, respectively. All remaining
+mice underwent MR imaging and were sacrificed dir-
+ectly afterwards using transcardial perfusion fixation.
+Brains were then collected and immunohistochemistry
+performed on brain sections (see Additional File 2).
+Microbiota methods and measures
+Bacterial DNA was extracted using a repeated bead beat-
+ing protocol and purified using a customized Maxwell
+16 Tissue LEV Total RNA Purification Kit (AS1220; Pro-
+mega Corporation, Madison, WI, USA). This kit was
+adapted by the company in order to use it for bacterial
+DNA extraction (XAS 1220 kit). Amplification of the
+specific V1-2 region of the 16S rRNA gene was per-
+formed. The PCR product was purified using the High-
+Prep™PCR kit (MagBio Genomics Inc., Gaithersburg,
+MD, USA), and libraries with final loading concentra-
+tions of 200 ng/μl were prepared for Illumia HiSeqTM se-
+quencing
+(ATC
+Biotech
+AG,
+Konstanz,
+Germany),
+consisting of 46 randomly mixed samples and 2 positive
+controls (mock communities). The sequenced data was
+run through the NG-Tax 16S rRNA pipeline [43]. Then
+as a first control, the composition of the human and
+mouse samples was compared and plotted in a PCoA
+figure (see Additional file 1: figure S5 and Additional file
+2). After this, the human samples were removed from
+further analysis to be able to define the specific changes
+between the miceADHD and micecontrol. Additionally, due
+to the microbiome changes after each (re-)colonization,
+a weighted average was calculated for each animal mi-
+crobial composition, and quality control was performed
+in several steps (see Additional file 2). The cleaned data
+were used to measure within- and between-sample bac-
+terial community diversity. For the within-sample com-
+parison, the following alpha-diversity metrics were used:
+Table 2 Characteristics of participants
+Variable
+ADHD
+Control
+Men (%)
+N = 3 (100%)
+N = 3 (100%)
+Age in years at the time of the K-SADS questionnaire (± SEM)
+22.0 (1.2)
+18.3 (1.5)
+Age in years at the time of the feces donation (± SEM)
+23.7 (1.2)
+20.3 (1.5)
+Medication use (% of participants)
+Stimulant medication (33.3%)
+No
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 10 of 14
+(1) the number of species present, measured using the
+observed species richness estimator (R), (2) number of
+species present and the equitability of each species
+present as measured by the richness and evenness esti-
+mators Shannon-Wiener diversity Index (H’; sensitive to
+the addition of rare species) and Inverse Simpson diver-
+sity index (D2; insensitive to the addition of rare species)
+[44], and (3) phylogenetic diversity (PD), which takes
+evolutionary distance of the present bacterial species
+into account.
+Between-sample
+diversity
+was
+measured
+via
+the
+phylogenetic-based assessment of difference in overall
+bacterial community composition (weighted UniFrac).
+Linear discriminant analysis effect size (LEfSe) was used
+to evaluate differences in taxa between the two experi-
+mental groups. Genera that differed significantly were
+selected for correlation analysis to link bacterial changes
+with behavior and brain parameters.
+Magnetic resonance imaging (MRI)
+All MRI measurements were performed using an 11.7-T
+BioSpec Avance III small animal MR system (Bruker
+BioSpin, Ettlingen, Germany). Isoflurane (Abbott Animal
+Health, Abbott Park, IL, USA) was used for anesthesia
+(induction with 3.5% and maintenance with ~ 1.7% iso-
+flurane in a 1:2 oxygen-air mixture). Imaging parameters
+can be found in table S1 (Additional file 3: Table S1).
+To investigate brain diffusivity, DTI was used as an
+imaging biomarker for white and gray matter integrity.
+Fractional anisotropy (FA) is a marker of the degree of
+myelination and fiber density of white matter (WM),
+while mean diffusivity (MD) characterizes an inverse
+measure of the membrane density. Axial diffusivity (AD)
+and radial diffusivity (RD) describe the parallel and per-
+pendicular directions of diffusivity, respectively [45].
+These scalars were derived from the tensor estimation as
+described (see Additional file 2) [46].
+To assess cerebral blood flow (CBF), we acquired MR
+perfusion data under resting conditions using standard-
+ized protocols as described (see Additional file 2) [47].
+We evaluated FC patterns using rs-fMRI as described
+(see Additional file 2) [47].
+Hippocampus volumes were calculated from the ana-
+tomical T2*weighted images of the MRI scans (see Add-
+itional file 3: Table S1 for imaging parameters) using
+ImageJ (National Institute of Health, Bethesda, MD,
+USA) (see Additional file 2).
+Behavioral tests
+Open field test
+Mice were allowed to freely explore the square open
+field (40 × 40 × 25 cm) with white Plexiglas walls for 15
+min. We followed a protocol that has been previously
+described [48].
+Marble burying test
+The MBT was conducted in a standard-sized cage (37 ×
+19 × 13 cm) preloaded with 3-cm unused sterile bedding
+and 15 evenly spaced sterilized black glass marbles with
+a 14-mm diameter. A protocol previously described was
+used [49].
+Novel object recognition
+This test was performed on dpc 20 (first acquisition day;
+30 min delay) and dpc 21 (second acquisition day; 60
+min delay) as previously described [47]. Preference for
+the novel object was expressed as a discrimination index,
+which is defined as the exploration time for the novel
+object minus that for the familiar object divided by the
+total amount of exploration of both objects.
+Statistical analyses
+Data were analyzed using the IBM SPSS for Windows
+22.0 software (SPSS Inc., Chicago, IL, USA) or R (version
+3.2.4). Datasets were analyzed using one-way univariate
+analysis of variance (normally distributed) or Kruskal-
+Wallis test (not normally distributed) with Bonferroni
+post hoc tests, where applicable. Beta-diversity was ana-
+lyzed using Permanova-S with 10,000 permutations [50].
+LEfSe was calculated using the Galaxy Module online
+Fig. 5 Study design. Germ-free mice were colonized with human ADHD or human control microbiota on day 1 of the experiment. Booster
+inoculations to recolonize the mice were given on day 14 and 22. Fecal pellets were collected on day 5, 14 (before recolonization), 19, and 26.
+The open field test (OFT) was performed on day 12, the marble burying test (MBT) on day 13, and the Novel object recognition test (NOR) on
+day 20 (0.5 h interval) and day 21 (1 h interval). The mice underwent MRI on day 28 or 29, after which all brains were processed for
+immunohistochemical staining
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 11 of 14
+(https://huttenhower.sph.harvard.edu/galaxy). The alpha
+value for the factorial Kruskal-Wallis test among the
+colonization groups was set to 0.05, and the threshold
+logarithmic linear discriminant analysis (LDA) score for
+discriminant features was 2.0. Pearson’s correlation coef-
+ficients between microbial composition and key neuro-
+biological findings were calculated (p < .01) and plotted
+using the corrplot package in R. Statistical outliers were
+removed from the dataset. The number of mice that was
+considered
+an
+outlier
+per
+test
+is
+described
+(see
+Additional file 3: Table S2).
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s40168-020-00816-x.
+Additional file 1: Title of data: Supplementary figures. Figure S1.
+Home-cage activity during night and day. Figure S2. Novel object recog-
+nition test with 1 h interval between the familiarization and test phase.
+Figure S3. Number of marbles buried during the marble burying test.
+Figure S4. Representative photo images of the gnotobiotic isolators that
+were used in this study. Figure S5. Beta-diversity analyses including the
+human donors.
+Additional file 2: Title of data: Supplemental methods and results.
+Description: Additional methods and results are available in the
+supplementary text, including methods of (1) experimental design, (2)
+preparation of human fecal samples, (3) microbiota analysis, (4) behavioral
+tests, (5) MRI protocols, (6) immunohistochemistry, and (6) statistical analysis.
+Additional results are also available including cerebral blood flow, total
+correlation analyses, and immunohistochemical stainings.
+Additional file 3: Title of data: Supplementary tables. Table S1. Imaging
+parameters for the anatomical references, rsfMRI, ASL and DTI. Table S2.
+Statistical outliers which were removed from the dataset per test.
+Acknowledgements
+We thank John Cryan for his very helpful comments on this manuscript. We
+also thank the bio-technicians at the Central Animal Laboratory (CDL) of the
+Radboud University Medical Center for taking excellent care of the animals.
+We thank the participants of the NeuroIMAGE study willing to contribute to
+this study. We also thank Joanna Szopinska-Tokov and the technicians of
+Wageningen University for contributing to the microbiota analysis.
+Authors’ contributions
+BF, TK, AAV, and AJK contributed to the conception of the study. ACT, SAD,
+MW, BF, TK, AAV, and AJK contributed to the design of the study. ACT, SAD,
+and MW contributed to the acquisition of the data. ACT, SAD, MW, JN, MvB,
+CB, PJD, and VV contributed to the analysis of the data. ACT, SAD, MW, BF,
+TK, AAV, and AJK contributed to drafting and critically revising the
+manuscript. All authors read and approved the final version before
+submission.
+Funding
+The research leading to these results received funding from the European
+Community’s Horizon 2020 research and innovation program under the
+Marie Sklodowska-Curie grant agreement no. 643051 (MiND) and under
+grant agreements 728018 (Eat2BeNICE) and 667302 (CoCA), and Netherlands
+Organization for Scientific Research (NWO) Food Cognition and Behaviour
+Program in relation to the B3: Brain, Bacteria & Behaviour project (grant
+agreement number 057-14-005). Barbara Franke is supported by the NWO
+through a personal Vici grant (grant number 016-130-669) and a pilot grant
+from the Dutch National Research Agenda for the NeuroLabNL project (grant
+400 17 602).
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available,
+http://gofile.me/389Ws/xRRVBW2AC.
+Ethics approval and consent to participate
+Institutional Review Board approval (registration number 2012/542; NL nr.:
+41950.091.12) was obtained for the study, and all participants provided
+written informed consent. All animal experiments were carried out in
+accordance with international European ethical standards (European
+Directive 2010/63/EU) and were approved by the Veterinary Authority of the
+Radboud university medical center (Radboudumc; Permit number: RU-DEC
+2015-0077).
+Consent for publication
+Not applicable
+Competing interests
+BF has received educational speaking fees from Medice. The other authors
+declare that they have no competing interests.
+Author details
+1Department of Anatomy, Donders Institute for Brain, Cognition & Behaviour,
+Preclinical Imaging Centre PRIME, Radboud University Medical Center, Geert
+Grooteplein noord 21, 6525 EZ Nijmegen, The Netherlands. 2Department of
+Cognitive Neuroscience, Donders Institute for Brain, Cognition and
+Behaviour, Radboud University Medical Center, 6525 EN Nijmegen, The
+Netherlands. 3Donders Institute for Brain, Cognition and Behaviour, Radboud
+University, 6525 EN Nijmegen, The Netherlands. 4Dept. Agrotechnology and
+Food Sciences, Wageningen UR (University & Research), 6708WE
+Wageningen, The Netherlands. 5Department of Psychiatry, Donders Institute
+for Brain, Cognition and Behaviour, Radboud University Medical Center, 6525
+GC Nijmegen, The Netherlands. 6Department of Human Genetics, Donders
+Institute for Brain, Cognition and Behaviour, Radboud University Medical
+Center, 6525 GA Nijmegen, The Netherlands. 7Department of Clinical
+Genomics, Mayo Clinic, Rochester, MN 55902, USA.
+Received: 3 February 2020 Accepted: 2 March 2020
+References
+1.
+Ly V, Bottelier M, Hoekstra PJ, Arias Vasquez A, Buitelaar JK, Rommelse NN.
+Elimination diets’ efficacy and mechanisms in attention deficit hyperactivity
+disorder and autism spectrum disorder. Eur Child Adolescent Psychiatry. 2017;
+26:1067–79.
+2.
+Rajilic-Stojanovic M, de Vos WM. The first 1000 cultured species of the
+human gastrointestinal microbiota. FEMS Microbiol Rev. 2014;38:996–1047.
+3.
+Borre YE, Moloney RD, Clarke G, Dinan TG, Cryan JF. The impact of
+microbiota on brain and behavior: mechanisms & therapeutic potential. Adv
+Exp Med Biol. 2014;817:373–403.
+4.
+Dinan TG, Cryan JF. Microbes, immunity, and behavior:
+psychoneuroimmunology meets the microbiome.
+Neuropsychopharmacology. 2017;42:178–92.
+5.
+Petra AI, Panagiotidou S, Hatziagelaki E, Stewart JM, Conti P, Theoharides TC.
+Gut-Microbiota-brain axis and its effect on neuropsychiatric disorders with
+suspected immune dysregulation. Clin Ther. 2015;37:984–95.
+6.
+Carabotti M, Scirocco A, Maselli MA, Severi C. The gut-brain axis: interactions
+between enteric microbiota, central and enteric nervous systems. Ann
+Gastroenterol. 2015;28:203–9.
+7.
+Kelly JR, Keane VO, Cryan JF, Clarke G, Dinan TG. Mood and microbes: gut
+to brain communication in depression. Gastroenterol Clin North Am. 2019;48:
+389–405.
+8.
+Liu P, Peng G, Zhang N, Wang B, Luo B. Crosstalk between the gut
+microbiota and the brain: an update on neuroimaging findings. Front
+Neurol. 2019;10:883.
+9.
+Hoban AE, Stilling RM, Ryan FJ, Shanahan F, Dinan TG, Claesson MJ, Clarke
+G, Cryan JF. Regulation of prefrontal cortex myelination by the microbiota.
+Transl Psychiatry. 2016;6:e774.
+10.
+Neufeld KM, Kang N, Bienenstock J, Foster JA. Reduced anxiety-like behavior
+and central neurochemical change in germ-free mice. Neurogastroenterol
+Motil. 2011;23:255–64 e119.
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 12 of 14
+11.
+Desbonnet L, Clarke G, Shanahan F, Dinan TG, Cryan JF. Microbiota is
+essential for social development in the mouse. Mol Psychiatry. 2014;19:
+146–8.
+12.
+Diaz Heijtz R, Wang S, Anuar F, Qian Y, Bjorkholm B, Samuelsson A, Hibberd
+ML, Forssberg H, Pettersson S. Normal gut microbiota modulates brain
+development and behavior. Proc Natl Acad Sci U S A. 2011;108:3047–52.
+13.
+Ogbonnaya ES, Clarke G, Shanahan F, Dinan TG, Cryan JF, O'Leary OF. Adult
+hippocampal neurogenesis is regulated by the microbiome. Biological
+Psychiatry. 2015;78:e7–9.
+14.
+Luczynski P, Whelan SO, O'Sullivan C, Clarke G, Shanahan F, Dinan TG, Cryan
+JF. Adult microbiota-deficient mice have distinct dendritic morphological
+changes: differential effects in the amygdala and hippocampus. Eur J
+Neurosci. 2016;44:2654–66.
+15.
+Al-Amin M, Zinchenko A, Geyer T. Hippocampal subfield volume changes in
+subtypes of attention deficit hyperactivity disorder. Brain Res. 2018;1685:1–8.
+16.
+Hoogman M, Bralten J, Hibar DP, Mennes M, Zwiers MP, Schweren LSJ, van
+Hulzen KJE, Medland SE, Shumskaya E, Jahanshad N, et al. Subcortical brain
+volume differences in participants with attention deficit hyperactivity
+disorder in children and adults: a cross-sectional mega-analysis. Lancet
+Psychiatry. 2017;4:310–9.
+17.
+Plessen KJ, Bansal R, Zhu H, Whiteman R, Amat J, Quackenbush GA,
+Martin L, Durkin K, Blair C, Royal J, et al. Hippocampus and amygdala
+morphology in attention-deficit/hyperactivity disorder. Arch Gen
+Psychiatry. 2006;63:795–807.
+18.
+Ong IM, Gonzalez JG, McIlwain SJ, Sawin EA, Schoen AJ, Adluru N,
+Alexander AL, Yu JJ. Gut microbiome populations are associated with
+structure-specific changes in white matter architecture. Transl Psychiatry.
+2018;8:6.
+19.
+Cryan JF, O'Riordan KJ, Cowan CSM, Sandhu KV, Bastiaanssen TFS, Boehme
+M, Codagnone MG, Cussotto S, Fulling C, Golubeva AV, et al. The
+microbiota-gut-brain axis. Physiological reviews. 2019;99:1877–2013.
+20.
+Borre YE, O'Keeffe GW, Clarke G, Stanton C, Dinan TG, Cryan JF. Microbiota
+and neurodevelopmental windows: implications for brain disorders. Trends
+Mol Med. 2014;20:509–18.
+21.
+Bercik P, Denou E, Collins J, Jackson W, Lu J, Jury J, Deng Y, Blennerhassett
+P, Macri J, McCoy KD, et al. The intestinal microbiota affect central levels of
+brain-derived neurotropic factor and behavior in mice. Gastroenterology.
+2011;141:599–609 609.e591-593.
+22.
+Degroote S, Hunting DJ, Baccarelli AA, Takser L. Maternal gut and fetal brain
+connection: Increased anxiety and reduced social interactions in Wistar rat
+offspring following peri-conceptional antibiotic exposure. Progress Neuro-
+psychopharmacol Biol Psychiatry. 2016;71:76–82.
+23.
+Arentsen T, Raith H, Qian Y, Forssberg H, Diaz Heijtz R. Host microbiota
+modulates development of social preference in mice. Microbial Ecol Health
+Dis. 2015;26:29719.
+24.
+Bruch JD. Intestinal infection associated with future onset of an anxiety
+disorder: results of a nationally representative study. Brain Behav Immun.
+2016;57:222–6.
+25.
+Zijlmans MAC, Korpela K, Riksen-Walraven JM, de Vos WM, de Weerth C.
+Maternal prenatal stress is associated with the infant intestinal microbiota.
+Psychoneuroendocrinology. 2015;53:233–45.
+26.
+Allen AP, Hutch W, Borre YE, Kennedy PJ, Temko A, Boylan G, Murphy E,
+Cryan JF, Dinan TG, Clarke G. Bifidobacterium longum 1714 as a
+translational psychobiotic: modulation of stress, electrophysiology and
+neurocognition in healthy volunteers. Transl Psychiatry. 2016;6:e939.
+27.
+Pinto-Sanchez MI, Hall GB, Ghajar K, Nardelli A, Bolino C, Lau JT, Martin F-P,
+Cominetti O, Welsh C, Rieder A, et al. Probiotic Bifidobacterium longum
+NCC3001 reduces depression scores and alters brain activity: a pilot study in
+patients with irritable bowel syndrome. Gastroenterology. 2017;153:448–459.e448.
+28.
+Cryan JF, Dinan TG. More than a gut feeling: the microbiota regulates
+neurodevelopment and behavior. Neuropsychopharmacology. 2015;40:241–2.
+29.
+Fond G, Boukouaci W, Chevalier G, Regnault A, Eberl G, Hamdani N,
+Dickerson F, Macgregor A, Boyer L, Dargel A, et al. The “psychomicrobiotic”:
+targeting microbiota in major psychiatric disorders: a systematic review.
+Pathol Biol. 2015;63:35–42.
+30.
+Liu F, Li J, Wu F, Zheng H, Peng Q, Zhou H. Altered composition and
+function of intestinal microbiota in autism spectrum disorders: a systematic
+review. Transl Psychiatry. 2019;9:43.
+31.
+Cenit MC, Nuevo IC, Codoner-Franch P, Dinan TG, Sanz Y. Gut microbiota
+and attention deficit hyperactivity disorder: new perspectives for a
+challenging condition. Eur Child Adolesc Psychiatry. 2017;26:1081–92.
+32.
+Srikantha P, Mohajeri MH. The possible role of the microbiota-gut-brain-axis
+in autism spectrum disorder. Int J Mol Sci. 2019:20.
+33.
+Kelly JR, Borre Y, OB C, Patterson E, El Aidy S, Deane J, Kennedy PJ, Beers S,
+Scott K, Moloney G, et al. Transferring the blues: depression-associated gut
+microbiota induces neurobehavioural changes in the rat. J Psychiatr Res.
+2016;82:109–18.
+34.
+Aarts E, Ederveen THA, Naaijen J, Zwiers MP, Boekhorst J, Timmerman HM,
+Smeekens SP, Netea MG, Buitelaar JK, Franke B, et al. Gut microbiome in
+ADHD and its relation to neural reward anticipation. PLoS One. 2017;12:
+e0183509.
+35.
+Jiang HY, Zhou YY, Zhou GL, Li YC, Yuan J, Li XH, Ruan B. Gut microbiota
+profiles in treatment-naive children with attention deficit hyperactivity
+disorder. Behav Brain Res. 2018;347:408–13.
+36.
+Nigg JT, Lewis K, Edinger T, Falk M. Meta-analysis of attention-deficit/
+hyperactivity disorder or attention-deficit/hyperactivity disorder symptoms,
+restriction diet, and synthetic food color additives. J Am Acad Child Adolesc
+Psychiatry. 2012;51:86–97.e88.
+37.
+Sonuga-Barke EJS, Brandeis D, Cortese S, Daley D, Ferrin M, Holtmann M,
+Stevenson J, Danckaerts M, van der Oord S, Dopfner M, et al.
+Nonpharmacological interventions for ADHD: systematic review and meta-
+analyses of randomized controlled trials of dietary and psychological
+treatments. Am J Psychiatry. 2013;170:275–89.
+38.
+Pelsser LM, Frankena K, Toorman J, Rodrigues Pereira R. Diet and ADHD,
+reviewing the evidence: a systematic review of meta-analyses of double-
+blind placebo-controlled trials evaluating the efficacy of diet interventions
+on the behavior of children with ADHD. PloS One. 2017;12:e0169277.
+39.
+Stevenson J, Buitelaar J, Cortese S, Ferrin M, Konofal E, Lecendreux M,
+Simonoff E, Wong ICK, Sonuga-Barke E. Research review: the role of diet in
+the treatment of attention-deficit/hyperactivity disorder--an appraisal of the
+evidence on efficacy and recommendations on the design of future studies.
+J Child Psychol Psychiatry Allied Disciplines. 2014;55:416–27.
+40.
+Ramirez PL, Barnhill K, Gutierrez A, Schutte C, Hewitson L. Improvements in
+behavioral symptoms following antibiotic therapy in a 14-year-old male
+with autism. Case Rep Psychiatry. 2013;2013:239034.
+41.
+Sandhu KV, Sherwin E, Schellekens H, Stanton C, Dinan TG, Cryan JF.
+Feeding the microbiota-gut-brain axis: diet, microbiome, and
+neuropsychiatry. Transl Res. 2017;179:223–44.
+42.
+Alexander AL, Hurley SA, Samsonov AA, Adluru N, Hosseinbor AP,
+Mossahebi P, Tromp DPM, Zakszewski E, Field AS. Characterization of
+cerebral white matter properties using quantitative magnetic resonance
+imaging stains. Brain Connectivity. 2011;1:423–46.
+43.
+Taylor GT, Lerch S, Chourbaji S. Marble burying as compulsive behaviors in
+male and female mice. Acta Neurobiol Exp. 2017;77:254–60.
+44.
+Hueston CM, Cryan JF, Nolan YM. Stress and adolescent hippocampal
+neurogenesis: diet and exercise as cognitive modulators. Transl Psychiatry.
+2017;7.
+45.
+Jacka FN, Cherbuin N, Anstey KJ, Sachdev P, Butterworth P. Western diet is
+associated with a smaller hippocampus: a longitudinal investigation. BMC
+Med. 2015;13:215.
+46.
+Mohle L, Mattei D, Heimesaat MM, Bereswill S, Fischer A, Alutis M, French T,
+Hambardzumyan D, Matzinger P, Dunay IR, Wolf SA. Ly6C(hi) monocytes
+provide a link between antibiotic-induced changes in gut microbiota and
+adult hippocampal neurogenesis. Cell Rep. 2016;15:1945–56.
+47.
+Perlov E, Philipsen A. Tebartz van Elst L, Ebert D, Henning J, Maier S, Bubl E,
+Hesslinger B: Hippocampus and amygdala morphology in adults with
+attention-deficit hyperactivity disorder. J Psychiatry Neurosci. 2008;33:509–15.
+48.
+Zuo C, Wang D, Tao F, Wang Y. Changes in the development of subcortical
+structures in autism spectrum disorder. Neuroreport. 2019.
+49.
+Li Y, Shen M, Stockton ME, Zhao X. Hippocampal deficits in
+neurodevelopmental disorders. Neurobiol Learning Memory. 2018.
+50.
+Kang E, Wen Z, Song H, Christian KM, Ming G-L. Adult neurogenesis and
+psychiatric disorders. Cold Spring Harbor Perspectives Biol. 2016;8.
+51.
+Chen L, Hu X, Ouyang L, He N, Liao Y, Liu Q, Zhou M, Wu M, Huang X,
+Gong Q. A systematic review and meta-analysis of tract-based spatial
+statistics studies regarding attention-deficit/hyperactivity disorder. Neurosci
+Biobehav Rev. 2016;68:838–47.
+52.
+Onnink AM, Zwiers MP, Hoogman M, Mostert JC, Dammers J, Kan CC,
+Vasquez AA, Schene AH, Buitelaar J, Franke B. Deviant white matter
+structure in adults with attention-deficit/hyperactivity disorder points to
+aberrant myelination and affects neuropsychological performance. Prog
+Neuropsychopharmacol Biol Psychiatry. 2015;63:14–22.
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 13 of 14
+53.
+Fraser JA, Newman NJ, Biousse V. Disorders of the optic tract, radiation, and
+occipital lobe. Handbook Clin Neurol. 2011;102:205–21.
+54.
+Pastura G, Doering T, Gasparetto EL, Mattos P, Araujo AP. Exploratory
+analysis of diffusion tensor imaging in children with attention deficit
+hyperactivity disorder: evidence of abnormal white matter structure. Atten
+Defic Hyperact Disord. 2016;8:65–71.
+55.
+Safadi Z, Grisot G, Jbabdi S, Behrens TE, Heilbronner SR, McLaughlin NCR,
+Mandeville J, Versace A, Phillips ML, Lehman JF, et al. Functional
+segmentation of the anterior limb of the internal capsule: linking white
+matter abnormalities to specific connections. J Neurosci. 2018;38:2106–17.
+56.
+Emos MC, Agarwal S: Neuroanatomy, internal capsule. In StatPearls. Treasure
+Island (FL); 2019.
+57.
+Archer DB, Kang N, Misra G, Marble S, Patten C, Coombes SA. Visual
+feedback alters force control and functional activity in the visuomotor
+network after stroke. NeuroImage Clin. 2018;17:505–17.
+58.
+Kurdziel LBF, Dempsey K, Zahara M, Valera E, Spencer RMC. Impaired
+visuomotor adaptation in adults with ADHD. Exp Brain Res. 2015;233:1145–53.
+59.
+Bansal S, Murthy KG, Fitzgerald J, Schwartz BL, Joiner WM. Reduced transfer
+of visuomotor adaptation is associated with aberrant sense of agency in
+schizophrenia. Neuroscience. 2019;413:108–22.
+60.
+van der Meer D, Hoekstra PJ, van Rooij D, Winkler AM, van Ewijk H,
+Heslenfeld DJ, Oosterlaan J, Faraone SV, Franke B, Buitelaar JK, Hartman CA.
+Anxiety modulates the relation between attention-deficit/hyperactivity
+disorder severity and working memory-related brain activity. World J Biol
+Psychiatry. 2017:1–11.
+61.
+Reale L, Bartoli B, Cartabia M, Zanetti M, Costantino MA, Canevini MP,
+Termine C, Bonati M, Lombardy AG, Conte S, et al. Comorbidity prevalence
+and treatment outcome in children and adolescents with ADHD. Eur Child
+Adolesc Psychiatry. 2017;26:1443–57.
+62.
+Malan-Muller S, Valles-Colomer M, Raes J, Lowry CA, Seedat S, Hemmings
+SMJ. The gut microbiome and mental health: implications for anxiety- and
+trauma-related disorders. Omics. 2018;22:90–107.
+63.
+Ma B, Liang J, Dai M, Wang J, Luo J, Zhang Z, Jing J. Altered gut microbiota
+in chinese children with autism spectrum disorders. Front Cell Infection
+Microbiol. 2019;9:40.
+64.
+Gacias M, Gaspari S, Santos P-MG, Tamburini S, Andrade M, Zhang F, Shen
+N, Tolstikov V, Kiebish MA, Dupree JL, et al. Microbiota-driven transcriptional
+changes in prefrontal cortex override genetic differences in social behavior.
+eLife. 2016;5.
+65.
+Li S, Wang Z, Yang Y, Yang S, Yao C, Liu K, Cui S, Zou Q, Sun H, Guo G.
+Lachnospiraceae shift in the microbial community of mice faecal sample
+effects on water immersion restraint stress. AMB Express. 2017;7:82.
+66.
+Atarashi K, Tanoue T, Oshima K, Suda W, Nagano Y, Nishikawa H, Fukuda S, Saito
+T, Narushima S, Hase K, et al. Treg induction by a rationally selected mixture of
+Clostridia strains from the human microbiota. Nature. 2013;500:232–6.
+67.
+Chung Y-CE, Chen H-C, Chou H-CL, Chen IM, Lee M-S, Chuang L-C, Liu Y-W, Lu
+M-L, Chen C-H, Wu C-S, et al. Exploration of microbiota targets for major
+depressive disorder and mood related traits. J Psychiatric Res. 2019;111:74–82.
+68.
+Chen Y-H, Bai J, Wu D, Yu S-F, Qiang X-L, Bai H, Wang H-N, Peng Z-W.
+Association between fecal microbiota and generalized anxiety disorder:
+severity and early treatment response. J Affective Disord. 2019;259:56–66.
+69.
+Hechler C, Borewicz K, Beijers R, Saccenti E, Riksen-Walraven M, Smidt H, de
+Weerth C. Association between psychosocial stress and fecal microbiota in
+pregnant women. Sci Rep. 2019;9:4463.
+70.
+Liu S, Li E, Sun Z, Fu D, Duan G, Jiang M, Yu Y, Mei L, Yang P, Tang Y,
+Zheng P. Altered gut microbiota and short chain fatty acids in Chinese
+children with autism spectrum disorder. Sci Rep. 2019;9:287.
+71.
+Hsiao EY, McBride SW, Hsien S, Sharon G, Hyde ER, McCue T, Codelli JA,
+Chow J, Reisman SE, Petrosino JF, et al. Microbiota modulate behavioral and
+physiological abnormalities associated with neurodevelopmental disorders.
+Cell. 2013;155:1451–63.
+72.
+Jiang H, Ling Z, Zhang Y, Mao H, Ma Z, Yin Y, Wang W, Tang W, Tan Z, Shi J,
+et al. Altered fecal microbiota composition in patients with major
+depressive disorder. Brain Behav Immun. 2015;48:186–94.
+73.
+von Rhein D, Mennes M, van Ewijk H, Groenman AP, Zwiers MP, Oosterlaan
+J, Heslenfeld D, Franke B, Hoekstra PJ, Faraone SV, et al. The NeuroIMAGE
+study: a prospective phenotypic, cognitive, genetic and MRI study in
+children with attention-deficit/hyperactivity disorder. Design and
+descriptives. Eur Child Adolesc Psychiatry. 2015;24:265–81.
+74.
+Szopinska-Tokov J, Dam S, Naaijen J, Konstanti P, Rommelse N, Belzer C,
+Buitelaar J, Franke B, Aarts E, Arias Vasquez A: Investigating the Gut
+Microbiota Composition of Individuals with Attention-Deficit/Hyperactivity
+Disorder and Association with Symptoms. Microorganisms 2020;8:406.
+https://doi.org/10.3390/microorganisms8030406.
+75.
+Bonvicini C, Faraone SV, Scassellati C. Attention-deficit hyperactivity disorder
+in adults: a systematic review and meta-analysis of genetic,
+pharmacogenetic and biochemical studies. Mol Psychiatry. 2016;21:1643.
+76.
+Yurkovetskiy L, Burrows M, Khan AA, Graham L, Volchkov P, Becker L,
+Antonopoulos D, Umesaki Y, Chervonsky AV. Gender bias in autoimmunity
+is influenced by microbiota. Immunity. 2013;39:400–12.
+77.
+Markle JGM, Frank DN, Mortin-Toth S, Robertson CE, Feazel LM, Rolle-
+Kampczyk U, von Bergen M, McCoy KD, Macpherson AJ, Danska JS. Sex
+differences in the gut microbiome drive hormone-dependent regulation of
+autoimmunity. Science (New York, N Y ). 2013;339:1084–8.
+78.
+Chen KL, Madak-Erdogan Z. Estrogen and microbiota crosstalk: should we
+pay attention? Trends Endocrinol Metabol. 2016;27:752–5.
+79.
+Elderman M, Hugenholtz F, Belzer C, Boekschoten M, van Beek A, de Haan
+B, Savelkoul H, de Vos P, Faas M. Sex and strain dependent differences in
+mucosal immunology and microbiota composition in mice. Biol Sex Diff.
+2018;9:26.
+80.
+Lundberg R, Toft MF, August B, Hansen AK, Hansen CH. Antibiotic-treated
+versus germ-free rodents for microbiota transplantation studies. Gut
+Microbes. 2016;7:68–74.
+81.
+Clarke G, Grenham S, Scully P, Fitzgerald P, Moloney RD, Shanahan F, Dinan
+TG, Cryan JF. The microbiome-gut-brain axis during early life regulates the
+hippocampal serotonergic system in a sex-dependent manner. Mol
+Psychiatry. 2013;18:666–73.
+82.
+Hilton SK, Castro-Nallar E, Perez-Losada M, Toma I, McCaffrey TA, Hoffman
+EP, Siegel MO, Simon GL, Johnson WE, Crandall KA. Metataxonomic and
+metagenomic approaches vs. culture-based techniques for clinical
+pathology. Front Microbiol. 2016;7:484.
+83.
+Poretsky R, Rodriguez RL, Luo C, Tsementzi D, Konstantinidis KT. Strengths
+and limitations of 16S rRNA gene amplicon sequencing in revealing
+temporal microbial community dynamics. PLoS One. 2014;9:e93827.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Tengeler et al. Microbiome            (2020) 8:44 
+Page 14 of 14
+

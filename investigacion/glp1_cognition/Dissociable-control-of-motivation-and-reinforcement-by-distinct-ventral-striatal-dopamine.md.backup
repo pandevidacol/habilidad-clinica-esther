@@ -1,0 +1,4441 @@
+# Nature Neuroscience
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2023
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Dissociable-control-of-motivation-and-reinforcement-by-distinct-ventral-striatal-dopamine.pdf
+
+## Abstract / Summary
+Nature Neuroscience
+nature neuroscience
+https://doi.org/10.1038/s41593-024-01819-9
+Article
+Dissociable control of motivation and 
+reinforcement by distinct ventral striatal 
+dopamine receptors
+ 
+Juan Enriquez-Traba 
+  1,2,3, Miguel Arenivar1, Hector E. Yarur-Castillo 
+  1, 
+Chloe Noh1, Rodolfo J. Flores1, Tenley Weil 
+  4, Snehashis Roy5, Ted B. Usdin 
+  5, 
+Christina T. LaGamma1, Huikun Wang1, Valerie S. Tsai 
+  1, Damien Kerspern6, 
+Amy E. Moritz7, David R. Sibley 
+  7, Andrew Lutas 
+  6, Rosa... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Nature Neuroscience. 2023.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Nature Neuroscience
+nature neuroscience
+https://doi.org/10.1038/s41593-024-01819-9
+Article
+Dissociable control of motivation and 
+reinforcement by distinct ventral striatal 
+dopamine receptors
+ 
+Juan Enriquez-Traba 
+  1,2,3, Miguel Arenivar1, Hector E. Yarur-Castillo 
+  1, 
+Chloe Noh1, Rodolfo J. Flores1, Tenley Weil 
+  4, Snehashis Roy5, Ted B. Usdin 
+  5, 
+Christina T. LaGamma1, Huikun Wang1, Valerie S. Tsai 
+  1, Damien Kerspern6, 
+Amy E. Moritz7, David R. Sibley 
+  7, Andrew Lutas 
+  6, Rosario Moratalla 
+  3, 
+Zachary Freyberg 
+  8,9 
+ & Hugo A. Tejeda 
+  1 
+Dopamine (DA) release in striatal circuits, including the nucleus accumbens 
+medial shell (mNAcSh), tracks separable features of reward like motivation 
+and reinforcement. However, the cellular and circuit mechanisms by which 
+DA receptors transform DA release into distinct constructs of reward 
+remain unclear. Here we show that DA D3 receptor (D3R) signaling in the 
+mNAcSh drives motivated behavior in mice by regulating local microcircuits. 
+Furthermore, D3Rs coexpress with DA D1 receptors, which regulate 
+reinforcement, but not motivation. Paralleling dissociable roles in reward 
+function, we report nonoverlapping physiological actions of D3R and DA D1 
+receptor signaling in mNAcSh neurons. Our results establish a fundamental 
+framework wherein DA signaling within the same nucleus accumbens cell type 
+is physiologically compartmentalized via actions on distinct DA receptors. 
+This structural and functional organization provides neurons in a limbic circuit 
+with the unique ability to orchestrate dissociable aspects of reward-related 
+behaviors relevant to the etiology o­f n­eu­ro­ps­yc­hi­atric disorders.
+DA transmission is essential for reward processes, including motiva-
+tion and reinforcement. Motivation is the internal process activating 
+and directing behavior, while reinforcement increases the likelihood 
+of a behavior through stimulus–response and action–outcome asso-
+ciations1. These separable constructs are coordinated to maximize 
+reward outcomes1, and are implicated in neuropsychiatric disorders 
+like substance use and mood disorders2,3. The mNAcSh serves as 
+a key hub for reward-related behaviors, receiving DAergic inputs 
+from the ventral tegmental area (VTA)4. Various models propose 
+that DA regulates reward via tonic and phasic activity patterns gov-
+erned by VTA DA neuron spiking and local axonal control of DAergic 
+terminals5,6. These dynamics likely underlie reinforcement, motiva-
+tion and vigor7,8. However, how DA release translates into cellular 
+changes through DA receptors to drive distinct aspects of reward 
+function remains unclear.
+mNAcSh medium spiny neurons (MSNs) express high levels of 
+DA receptors, including D1 receptors (D1Rs) and D2 receptors (D2Rs), 
+which segregate into largely nonoverlapping classes, D1-MSNs and 
+Received: 23 June 2023
+Accepted: 22 October 2024
+Published online: xx xx xxxx
+ Check for updates
+1Unit on Neuromodulation and Synaptic Integration, National Institute of Mental Health, Bethesda, MD, USA. 2Department of Biochemistry, Universidad 
+Autonoma de Madrid, Madrid, Spain. 3Department of Functional and Systems Neurobiology, Instituto Cajal-CSIC, Madrid, Spain. 4Section on Light and 
+Circadian Rhythms, National Institute of Mental Health, Bethesda, MD, USA. 5Systems Neuroscience Imaging Resource, National Institute of Mental 
+Health, Bethesda, MD, USA. 6Neuromodulation and Motivation Section, Diabetes, Endocrinology, & Obesity Branch, National Institute of Diabetes and 
+Digestive and Kidney Diseases, Bethesda, MD, USA. 7Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, 
+Bethesda, MD, USA. 8Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA. 9Department of Cell Biology, University of Pittsburgh, 
+Pittsburgh, PA, USA. 
+ e-mail: freyberg@pitt.edu; hugo.tejeda@nih.gov
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+signaling via D3R and D1R allows mNAcSh D1-MSNs to regulate dis-
+sociable constructs underlying reward-related behaviors.
+Results
+mNAcSh D3R genetic ablation results in motivational deficits
+We first investigated whether mNAcSh D3R signaling regulates specific 
+sub-features of reward-related behaviors. To this end, we generated 
+Drd3fl/fl mice (Extended Data Fig. 1a) to selectively knockout D3R expres-
+sion in the mNAcSh with intra-mNAcSh injections of adeno-associated 
+virus AAV8-hSyn-GFP-Cre (NAc-D3RcKO; Fig. 1a). NAc-D3RcKO mice had 
+decreased Drd3 mRNA expression as assessed by fluorescence in situ 
+hybridization (Fig. 1b). Furthermore, we observed decreased Drd3, 
+but not Drd1 or Drd2, mRNA expression as assessed by quantitative 
+PCR (qPCR) measures from microdissected NAc (Fig. 1c), suggesting 
+this manipulation is specific to D3R expression. We then assessed the 
+impact of mNAcSh D3RcKO in regulating reward by first examining 
+motivation for exercise using wheel running (Extended Data Fig. 1b), a 
+rewarding stimulus for laboratory and feral rodents22,23. In this context, 
+wild-type (WT) and Drd3fl/fl control mice injected with Cre-expressing 
+and GFP-expressing virus, respectively, displayed robust wheel-running 
+activity when exposed to a novel wheel during their inactive cycle (lights 
+on; Fig. 1d), when locomotor activity is typically low. NAc-D3RcKO 
+mice, conversely, had reduced wheel-running activity under the same 
+conditions (Fig. 1d and Extended Data Fig. 1c). However, running trig-
+gered by active cycle (lights off) onset (Extended Data Fig. 1c) and loco-
+motor activity in an open field did not differ between controls and 
+NAc-D3RcKO mice (Extended Data Fig. 1f). Intact locomotor activity 
+and running in response to diurnal shifts suggest that mNAcSh D3RcKO 
+impacts the motivational value of running, not performance. Running 
+triggered by novel wheel exposure during the subjective daytime in 
+rodents contains a strong motivational component24. Further, running 
+behavior is more sensitive to interference during acquisition of wheel 
+running before habituation25. With extended exposure to voluntary 
+running, running can be decoupled from motivational state and driven 
+by other factors, including but not limited to habitual behavior, diurnal 
+D2-MSNs, respectively9. DA-mediated activation of these receptors p­r­o­
+d­u­ces c­o­n­tr­a­s­ting e­f­f­ec­ts o­n D­1-­MS­Ns a­nd D­2-­MS­Ns­10–1­2­. The mNAcSh 
+is also enriched with D3Rs, Gαi/o-coupled G-protein-coupled receptors 
+(GPCRs) of the D2-like receptor family13,14. Expression of D3Rs within 
+ventral striatal circuits coincides with a motivational control by the 
+mNAcSh4. D3R is a high-affinity DA receptor with a tenfold greater DA 
+affinity than D2Rs15, suggesting it may complement D2Rs in detection 
+of tonic changes or DA dips. Although ventral striatal D3R expres-
+sion is documented13, its role in regulating reward-related behaviors 
+remains poorly understood. Pharmacological antagonism of NAc D3R 
+signaling inhibits drug-seeking behavior16. However, intra-NAc D3R 
+antagonism may have off-target effects at D2Rs. Global overexpression 
+or knockout of D3Rs increases vulnerability to cocaine or disrupted 
+motivation, respectively17,18. However, this does not specifically target 
+mNAcSh D3R function, and D3R signaling outside the NAc also regu-
+lates reward19,20. Thus, limited tools to selectively manipulate mNAcSh 
+D3R function hindered understanding of their contribution to distinct 
+reward features. Interestingly, NAc core/shell D1-MSNs coexpress 
+D3R with D1R20,21. Because D3Rs and D1Rs have different affinities for 
+DA and engage opposite signaling effectors (Gαi/o and Gαs/olf proteins, 
+respectively), these differences may translate into differential detec-
+tion of DA concentrations, impacting on D1-MSN physiology, and 
+reward-seeking behavior. We, therefore, hypothesized that D1-MSNs 
+in the mNAcSh use distinct DA receptors for orchestrating dissociable 
+reward-related functions.
+We addressed this hypothesis using anatomical tracing, slice elec-
+trophysiology and circuit-level manipulations of DA receptor function. 
+We generated and characterized a new D3R conditional knockout 
+(cKO) mouse to specifically target mNAcSh D3Rs. Leveraging this line, 
+we show that mNAcSh D3R ablation impairs motivated running and 
+operant motivation but not instrumental conditioning or negative 
+reinforcement. In contrast, D1R knockout impairs instrumental con-
+ditioning and negative reinforcement, but not motivation. Moreover, 
+we demonstrated dissociable roles for D3R and D1R in regulating MSN 
+synaptic physiology. This provides a new framework by which DA 
+Fig. 1 | cKO of D3Rs in the mNAcSh results in motivational deficits.  
+a, Experimental scheme and representative image of the mNAcSh area targeted 
+with AAV-GFP-Cre or AAV-eGFP. b, Representative in situ hybridization images 
+showing Cre (green) and Drd3 (white) mRNA expression in WT or NAc-D3RcKO 
+mice. Insets depict higher-magnification images. c, Left: quantification of Drd3 
+mRNA expression in Cre-positive neurons in the mNAcSh of WT (n = 3) and  
+NAc-D3RcKO (n = 3) mice (unpaired t-test (two-tailed), t(4) = 7.421; **P = 0.0018). 
+Right: quantitative real-time PCR analysis of Drd1, Drd2 and Drd3 mRNA 
+expression in the NAc of WT (white, n = 3) and NAc-D3RcKO (blue, n = 4) mice 
+injected with Cre-expressing virus (two-way repeated-measures analysis 
+of variance (ANOVA): gene effect, F(2,9) = 4.291, P = 0.0491; genotype effect, 
+F(1,6) = 8.948, P = 0.0243; gene × genotype, F(2,6) = 22.67, P = 0.0016; Sidak’s post 
+hoc analysis, **P = 0.0012). d, Left: time-course of wheel-running activity in WT-
+Cre (black, n = 11), Drd3fl/fl-GFP (red, n = 7) and NAc-D3RcKO (blue, n = 12) mice 
+during the first 12 h of running wheel exposure (two-way repeated-measures 
+ANOVA: time effect, F(7.449,201.1) = 20.81, P < 0.0001; treatment effect, F(2,27) = 12.97, 
+P < 0.0001; time × treatment, F(286,3,861) = 2.954, P < 0.0001). Right: quantification 
+of revolutions across the 12-h period (one-way ANOVA followed by two-sided 
+Dunnett’s test: F(2,27) = 12.97. Group comparisons, WT-Cre versus Drd3fl-fl-Cre, 
+****P < 0.0001, Drd3fl-fl-GFP versus Drd3fl-fl-Cre, ****P < 0.0001). e, Representative 
+occupancy heat maps from WT (top) and NAc-D3RcKO (bottom) mice during 
+running disks choice test. f, Left: quantification of time spent on the freely 
+moving and fixed disk (WT-Cre, n = 11 mice; Drd3fl/fl-GFP, n = 6 mice; NAc-D3RcKO, 
+n = 12 mice; two-way repeated-measures ANOVA: disk effect, F(1,52) = 81.22, 
+P < 0.0001; treatment effect, F(2,52) = 14.65, P < 0.0001; disk × treatment, 
+F(2,52) = 28.59, P < 0.0001). Middle: revolutions registered on the freely moving 
+disk for WT, Drd3fl/fl-GFP controls and NAc-D3RcKO mice (one-way ANOVA 
+followed by two-sided Dunnett’s test: F(2,27) = 12.97. Group comparisons, WT-Cre 
+versus Drd3fl-fl-Cre, ****P < 0.0001, Drd3fl-fl-GFP versus Drd3fl-fl-Cre, ****P < 0.0001). 
+Right: Spearman’s correlation between time spent on the freely moving disk and 
+revolutions. g, Timeline of operant conditioning experiment. h, Number  
+of active (filled) and inactive (unfilled) lever presses of WT (black, n = 15 mice)  
+and NAc-D3RcKO (blue, n = 11 mice) animals during FR1 acquisition sessions  
+(two-way repeated-measures ANOVA: session effect, F(3.679,86.09) = 38.81, 
+P < 0.0001; genotype effect, F(1,24) = 0.5573, P = 0.4626; session × genotype, 
+F(5,117) = 1.334, P = 0.2546). i, Number of active and inactive lever presses of 
+WT (black, n = 15 mice) and NAc-D3RcKO (blue, n = 11 mice) animals during 
+FR5 acquisition sessions (two-way repeated-measures ANOVA: session 
+effect, F(4.068,97.05) = 2.321, P = 0.0611; genotype effect, F(1,24) = 2.228, P = 0.1486; 
+session × genotype, F(7,167) = 2.360, P = 0.252). * represents a session × genotype 
+interaction. j, Left: scheme of the FR5 choice behavioral setup. Mice had free 
+access to standard lab chow and could also lever press (FR5) to obtain higher-
+palatable chocolate food pellets. Right: amount of effort-based food (FR5; solid)  
+or freely available lab chow (checkered) consumed (WT, n = 11 mice; NAc-D3RcKO, 
+n = 11 mice) (two-way repeated-measures ANOVA: type of food effect, F(1,24) = 17.97, 
+P = 0.0003; genotype effect, F(1,24) = 0.2095, P = 0.6513; type of food × genotype, 
+F(1,24) = 6.883, P = 0.0149). *** represents a significant difference between ad 
+libitum chow and FR5 pellets in WT mice. * represents a significant difference 
+between ad libitum chow between WT and mNAcSh-D3RcKO mice. k,l, Break 
+points for WT and NAc-D3RcKO mice during PR3 (k) (two-way repeated-measures 
+ANOVA: session effect, F(1.436,32.30) = 3.507, P = 0.0559; genotype effect, F(1,24) = 5.679, 
+P = 0.0254; session × genotype, F(2,45) = 0.4779, P = 0.6232) and PR7 (l) (two-way 
+repeated-measures ANOVA: session effect, F(1.833,43.99) = 1.672, P = 0.2014; genotype 
+effect, F(1,24) = 12.61, P = 0.0016; session × genotype, F(3,72) = 1.920, P = 0.1341) 
+sessions (WT, n = 11 mice; NAc-D3RcKO, n = 11 mice). * and ** in k and l represent 
+a main effect of genotype. All data are presented as the mean ± s.e.m. Error bars 
+indicate the s.e.m. Detailed figure statistics are included in Supplementary Table 
+1. Schematics were generated using BioRender.com. M, medial; V, ventral; a.u., 
+arbitrary units; NS, not significant.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+shifts, internal states, arousal and/or non-photic circadian entrain-
+ment25. Accordingly, NAc inactivation does not impair habitual run-
+ning but inhibits motivated running triggered by wheel deprivation26. 
+Thus, initial motivation to engage in wheel running, but not locomotor 
+activity or running performance, is decreased in NAc-D3RcKO mice.
+To investigate whether mNAcSh D3RcKO impaired motivation to 
+run, we designed a choice task wherein mice choose between a fixed 
+or a freely moving disk, a distinct running apparatus, during the active 
+cycle (Fig. 1e). WT-Cre and Drd3fl/fl-GFP control mice spent more time 
+on the freely moving disk than the fixed disk (Fig. 1e,f). Conversely, 
+NAc-D3RcKO mice did not prefer the freely moving disk and displayed 
+minimal running (Fig. 1e,f). Running disks require persistence for 
+optimal running to develop since early attempts are marked by mice 
+consistently falling off the disk. In control mice, but not NAc-D3RcKO 
+mice, entries into and preference for the freely moving disk increased 
+across the session (Extended Data Fig. 1d,e), consistent with increased 
+persistence. These data provide support for NAc-D3RcKO in decreasing 
+motivated running behavior, independent of diurnal cycle. We subse-
+quently determined whether mNAcSh D3RcKO impacts approach to 
+other rewarding stimuli. NAc-D3RcKO mice displayed a non-significant 
+decrease in sucrose preference relative to controls (Extended Data 
+Fig. 1g), and normal social approach (Extended Data Fig. 1h), suggesting 
+that pursuit of low-effort rewards is unaffected. Anxiety-like behavior 
+in the open field and light–dark box (Extended Data Fig. 1f,i), as well 
+Cre
+WT 
+NAc-D3RcKO
+Drd3
+Merge 
+20 µm
+WT 
+Running disks
+choice test
+WT
+Cre
+NAc
+D3RcKO
+0
+1
+2
+3
+Drd3 mRNA integrated density
+per Cre+ cell (a.u. × 105)
+WT
+Cre
+Drd3
+fl/fl
+GFP
+NAc
+D3RcKO
+WT
+Cre
+Drd3
+fl/fl
+GFP
+NAc
+D3RcKO
+WT
+Cre
+Drd3
+fl/fl
+GFP
+NAc
+D3RcKO
+0
+5
+10
+15
+20
+Revolutions (×1,000)
+0
+20
+40
+60
+80
+Test time (%)
+**** ****
+NS
+Freely moving
+Fixed
+0
+2
+4
+6
+8
+Revolutions (×1,000)
+1
+2
+3
+4
+5
+6
+0
+50
+100
+150
+FR1
+Lever presses
+Lever presses
+Active Inactive
+WT
+NAc
+D3RcKO
+a
+b
+c
+d
+e
+i
+j
+l
+k
+1
+2
+3
+4
+0
+50
+100
+150
+200
+250
+PR7
+Break point
+W T
+NAc-D3RcKO
+M
+V
+g
+h
+1
+2
+3
+4
+5
+6
+7
+8
+0
+100
+200
+300
+400
+FR5
+Lever presses
+Fixed
+Moving
+Fixed
+Moving
+1
+2
+3
+0
+50
+100
+150
+200
+PR3
+Break point
+W T
+NAc-D3RcKO
+FR1
+6 days
+FR5
+8 days
+Choice
+2 days
+PR3
+3 days
+PR7
+4 days
+Acquisition
+Pretraining
+2 days
+0
+20
+40
+60
+80
+0
+2
+4
+6
+8
+Time in freely moving disk
+(% test time) 
+Revolutions (×1,000)
+WT
+Cre
+Drd3
+fl/fl
+GFP
+R
+2 = 0.78 R
+2 = 0.75
+R
+2 = 0.04
+NAc
+D3RcKO
+f
+Operant conditioning
+Max
+Min
+WT
+NAc-D3RcKO
+FR5
+Ad libitum chow
+NS
+Ad lib chow
+FR5
+chocolate
+FR5 choice task
+20 µm
+AAV-GFP-Cre
+or
+AAV-eGFP
+WT
+or
+Drd3fl/fl
+200 µm
+M
+V
+0
+4
+8
+0
+50
+100
+150
+200
+Time (h)
+WT-Cre
+Drd3
+fl/fl-GFP
+12
+Wheel running activity
+Revolutions
+NAc-D3RcKO
+WT
+Cre
+NAc
+D3RcKO
+Drd1
+Drd2
+Drd3
+0
+0.5
+1.0
+1.5
+2.0
+mRNA fold change
+0
+0.5
+1.0
+1.5
+Total food consumed (g)
+mNAcSh
+**
+**
+****
+****
+****
+****
+***
+*
+**
+*
+*
+20 µm 20 µm
+NAc-D3RcKO
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+as novel object recognition (Extended Data Fig. 1j), was not different 
+between controls and NAc-D3RcKO mice, demonstrating that explora-
+tory behavior or interaction with novel stimuli are not impacted by 
+mNAcSh D3RcKO. These results collectively suggest that mNAcSh 
+D3RcKO disrupts running behavior associated with a motivated state.
+We subsequently determined the role of mNAcSh D3Rs in 
+effort-based instrumental motivation using operant procedures in 
+which animals press a lever to acquire a chocolate reward (Fig. 1g). 
+mNAcSh Drd3 cKO did not modify body weight (Extended Data Fig. 2a). 
+Animals first underwent an initial acquisition phase consisting of 
+fixed-ratio (FR) 1 and 5 schedules to determine whether loss of mNAcSh 
+D3R signaling impacted reinforcement of food-seeking behavior. 
+NAc-D3RcKO and WT groups displayed similar active lever pressing 
+and accuracy during FR1 sessions (Fig. 1h and Extended Data Fig. 2b,c), 
+indicating that mNAcSh D3R signaling is not essential for reward 
+reinforcement. Interestingly, NAc-D3RcKO mice transiently displayed 
+less responses when the effort required to obtain reward increased 
+to an FR5 schedule (Fig. 1i), suggesting a deficit in adapting to higher 
+effort. We further assessed whether mNAcSh D3RcKO compromises 
+motivation in an effort-based choice task where WT controls preferred 
+to work for chocolate reward under an FR5 schedule over consuming 
+freely available standard chow27 (Fig. 1j). In contrast, NAc-D3RcKO 
+mice consumed more standard chow than controls and did not show a 
+chocolate reward preference (Fig. 1j). Importantly, overall food intake 
+was similar across groups (Extended Data Fig. 2d), suggesting that 
+decreased effort-based motivation is not a consequence of altered 
+energy homeostatic drive. The same effect was observed when given 
+a choice between operant-obtained chocolate reward and freely avail-
+able chocolate reward (Extended Data Fig. 2e,f). Thus, control mice 
+prefer to exert effort versus obtaining freely available reward and 
+loss of mNAcSh D3Rs biases choice toward reward-seeking behaviors 
+requiring less effort. This is consistent with reports demonstrating 
+that decreasing NAc DA signaling increases intake of low-effort food 
+rewards and decrease effort-based or activity-based reward seek-
+ing, without impacting overall food intake28. Subsequently, mice 
+were subjected to progressive ratio (PR) schedules to further dissect 
+the role of mNAcSh D3RcKO in regulating motivation. NAc-D3RcKO 
+mice had decreased break points relative to WT controls in both PR3 
+(Fig. 1k) and PR7 (Fig. 1l) schedules, and decreased PR session lengths 
+(Extended Data Fig. 2g,h). Collectively, these data demonstrate that 
+motivated running and effort to obtain appetitive reward is disrupted 
+with mNAcSh D3RcKO.
+mNAcSh D3Rs are primarily expressed in D1-MSNs
+The NAc is primarily composed of dichotomous cell types defined 
+by DA receptor subtype (D1R-expressing and D2R-expressing MSNs), 
+in addition to markers such as prodynorphin and proenkephalin9. 
+To examine the NAc cell type expressing D3Rs, we performed fluo-
+rescence in situ hybridization experiments for Drd1, Drd2 and Drd3 
+mRNA. Drd3 mRNA, along with Drd1 and Drd2, was widely expressed 
+in the NAc (Fig. 2a). Most mNAcSh Drd3-positive cells coexpressed 
+Drd1 (79.07%), with 20.51% coexpressing Drd2 (Fig. 2b,c). Further, 
+86.69% and 13.26% of mNAcSh Drd1-positive and Drd2-positive neu-
+rons coexpressed Drd3, respectively (Fig. 2d), consistent with Drd3 
+expression representing a substantial subpopulation of D1-MSNs. These 
+percentages were lower in the NAc core, where 68.8% of Drd3-positive 
+cells coexpressed Drd1 (Extended Data Fig. 3a). Moreover, Drd3 mRNA 
+expression in D1-MSNs was 15% higher than in D2-MSNs (Fig. 2e). Drd3 
+mRNA intensity was similar between Drd1-positive and Drd2-positive 
+neurons in the NAc core and mNAcSh (Extended Data Fig. 3a). Moreo-
+ver, Drd3-Cre mice crossed with tdTomato reporter had robust tdTo-
+mato labeling in the mNAcSh, islands of Calleja and medial core, 
+but not dorsal striatum or NAc lateral shell (Extended Data Fig. 3b). 
+Evidence of preferential expression of Drd3 in mNAcSh D1-MSNs was 
+also obtained when we recorded ChR2-mediated photocurrents in 
+slices obtained from Drd1-tdtomato/Drd3-Cre mice injected with 
+AAV-DIO-ChR2-eYFP (Fig. 2f). Consistent with in situ hybridization 
+results, 77% of ChR2-positive neurons were tdTomato positive (Fig. 2f). 
+Drd3 is, therefore, expressed in mNAcSh D1-MSNs and less robustly in 
+D2-MSNs, suggesting that DA generates divergent functions via distinct 
+receptor subtypes in D1-MSNs.
+NAc MSNs select appropriate goal-directed behaviors through 
+connectivity with downstream brain regions. NAc D1-MSNs project 
+to the ventral pallidum (VP), lateral hypothalamus (LH) and VTA, 
+while NAc D2-MSNs projections are largely restricted to the VP29,30. 
+We mapped Drd3-positive MSN projections using viral-assisted 
+Fig. 2 | mNAcSh D3Rs are primarily expressed in D1-MSNs and D3-MSNs display 
+D1-MSN projection pattern. a, Representative low-magnification confocal 
+image of RNA in situ hybridization for Drd1 (green), Drd2 (red) and Drd3 (white) 
+transcripts in the NAc. Orange inset shows the region targeted for zoomed 
+images in b. b, Split high-magnification images of Drd1/Drd3, Drd2/Drd3 and 
+Drd3 RNA expression in the mNAcSh. Right image is an overlay of all channels. 
+Filled arrowheads show co-labeled cells, and empty arrowheads show single-
+labeled cells. c, Percentage of Drd3+ cells coexpressing Drd1 or Drd2 RNA in 
+the mNAcSh of WT mice (n = 3 mice; unpaired t-test (two-tailed), t(4) = 127.3; 
+****P < 0.0001). d, Percentage of Drd1+ or Drd2+ cells coexpressing Drd3 mRNA in 
+the mNAcSh (n = 3 mice; unpaired t-test (two-tailed), t(4) = 33.52; ****P < 0.0001). 
+e, Mean relative expression levels of Drd3 mRNA (mean integrated density/area) 
+relative to D1-MSNs in Drd3 mRNA-positive D2-MSNs (n = 3 mice; unpaired t-test 
+(two-tailed), t(4) = 3.598; *P = 0.0228). f, Schematic for quantification of Drd3+ 
+cells using electrophysiological recordings. Representative trace showing light-
+evoked ChR2-mediated inward current in a ChR2-EYFP+ NAc MSN evoked by 1-s 
+stimulation with 470-nm blue light. Pie chart shows quantification of tdTomato-
+positive (D1-MSNs) versus tdTomato-negative (putative D2-MSNs) in recorded 
+ChR2-positive cells. g, Left: Cre-dependent AAV-Syn-FLEX-tdTomato-T2A-
+Synaptophysin-GFP was injected in the mNAcSh of Drd3-Cre mice to visualize 
+fibers (red) and synaptic terminals (green) in the outputs from D3-MSNs. Right: 
+Representative images showing a high density of NAc D3-MSN synaptic terminals 
+in the VP, LH and VTA. Dashed and solid white lines in fluorescent images 
+depict borders between brain nuclei. h, Schematics of the electrophysiology 
+experiment to assess functional connectivity from NAc D3-MSNs. A Cre-
+dependent AAV vector expressing ChR2-eYFP was injected in the mNAcSh of 
+Drd3-Cre mice. Acute slices containing the VP, LH or VTA were prepared from 
+brains of Drd3-Cre mice 2–3 weeks after viral injection. Right: representative 
+traces showing oIPSCs in VP, LH and VTA cells. Red trace denotes bath application 
+of picrotoxin (PTX). i, Same as in h but for mNAcSh to LH projections. j, Same as 
+in h but for mNAcSh to VTA projections. k, Mean oIPSC amplitudes evoked by 
+light stimulation of NAc D3-MSN terminals versus connectivity of D3-MSNs to VP, 
+LH and VTA neurons. oIPSCs were detected in the majority of neurons recorded 
+(VP, n = 11 of 12 neurons/7 mice; LH, n = 12 of 14 neurons/8 mice; VTA, n = 11 of 14 
+neurons/9 mice; one-way ANOVA followed by two-sided Tukey’s test: F(2,29) = 1.993. 
+Group comparisons, VP versus LH, P = 0.0025, VP versus VTA, P = 0.013, LH 
+versus VTA, P = 0.937). l, Left: schematic of the retrograde tracing approach to 
+compare NAc Drd3-expressing projection MSNs. Red retrobeads were injected 
+into the VP, LH or VTA of WT mice. NAc sections were probed for Drd3 mRNA 
+using in situ hybridization. Right: representative confocal images showing 
+retrobead labeling from VP-projecting, LH-projecting or VTA-projecting NAc 
+MSNs. High-magnification images showing red-labeled retrobeads in the NAc 
+colocalized with Drd3 mRNA indicated by filled arrowheads. m, Quantification 
+of the percentage of retrobead-positive cells projecting to VP (n = 5 mice), LH 
+(n = 3 mice) or VTA (n = 3 mice) that express Drd3 in the NAc (one-way ANOVA 
+followed by two-sided Tukey’s test: F(2,8) = 17.69. Group comparisons, VP versus 
+LH, **P = 0.0078, VP versus VTA, **P = 0.0015, LH versus VTA, P = 0.4929). n, Mean 
+expression levels of Drd3 mRNA (mean integrated density/area) in neurons 
+projecting to VP (n = 5 mice), LH (n = 3 mice) or VTA (n = 3 mice; one-way ANOVA 
+followed by two-sided Tukey’s test: F(2,8) = 14.83. Group comparisons, VP versus 
+LH, **P = 0.0025, VP versus VTA, *P = 0.013, LH versus VTA, P = 0.5325). All data 
+are presented as mean ± s.e.m. Error bars indicate the s.e.m. Schematics were 
+generated using BioRender.com. SNc, substantia nigra pars compacta; SNr, 
+substantia nigra reticulata; BL, baseline.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+mNAcSh
+Bregma +1.42 200 µm 
+a
+b
+c
+****
+****
+d
+e
+Drd1-tdTomato/Drd3-Cre
+AAV-DIO-ChR2-eYFP 
+NAc
+f
+ChR2+-D3-MSN
+200 pA
+200 ms
+Drd3-Cre
+AAV-FLEX-tdTomato-
+-T2A-SynGFP
+NAc
+h
+l
+m
+NAc injection site
+200 µm 
+tdTomato
+GFP
+Terminals in the VP
+Terminals in the LH
+Terminals in the VTA
+WT mouse
+Retrobeads 555 in
+VP, LH or  VTA 
+Probe NAc for
+Drd3 (D3R)
+n = 13
+cells 
+76.9%
+D1+
+ChR2+
+23.1%
+D1-
+ChR2+
+Drd1/Drd2/Drd3
+i
+g
+Drd3-Cre
+AAV-DIO-ChR2-eYFP 
+200 µm 
+VP
+LH
+VTA
+PTX
+BL
+50 pA
+50 ms
+k
+Drd1/Drd3
+20 µm 
+Drd2/Drd3
+Drd3
+Merge
+M
+V
+VP
+LH
+VTA
+VP
+LH
+VTA
+0
+20
+40
+60
+80
+Colocalization
+Drd3/retrobeads (%)
+0
+20
+40
+60
+80
+100
+Drd3 integrated 
+density (a.u.)
+n
+M
+V
+M
+V
+M
+M
+V
+M
+V
+M
+V
+VP-projecting
+LH-projecting
+VTA-projecting
+M
+V
+M
+V
+M
+V
+M
+V
+Retrobeads
+Retrobeads
+Drd3 mRNA
+j
+0
+20
+40
+60
+80 100
+0
+500
+1,000
+1,500
+Connectivity (%)
+oIPSC amplitude (pA)
+VP
+LH
+VTA
+50 ms
+50 pA
+PTX
+BL
+PTX
+BL
+50 ms
+50 pA
+V
+AAV-DIO-ChR2-eYFP 
+AAV-DIO-ChR2-eYFP 
+20 µm
+Core
+mNAcSh
+Core
+mNAcSh
+Core
+mNAcSh
+Core
+mNAcSh
+Core
+LH
+VP
+Drd1
+/Drd3
+Drd2
+/Drd3
+0
+20
+40
+60
+80
+100
+Coexpression (%)
+Drd3
+/Drd1 
+Drd3
+/Drd2 
+0
+20
+40
+60
+80
+100
+Coexpression (%)
+Drd1
+Drd2
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+Drd3-mRNA expression levels
+(normalized to D1 MSNs)
+M
+V
+VTA
+SNc
+SNr
+*
+**
+**
+*
+**
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+anterograde tracing. Intra-mNAcSh injection of AAV-FLEX-tdTomato-
+T2A-synaptophysin-eGFP in Drd3-Cre mice (Fig. 2g) labeled putative 
+presynaptic terminals with synaptophysin-eGFP, distinct from bundles 
+of tdTomato-positive fibers lacking eGFP (Supplementary Video 1). 
+Consistent with D3R expression in D1-MSNs, GFP fluorescence revealed 
+dense innervation within the mNAcSh, VP, LH and VTA (Fig. 2g). Quan-
+tification of tdTomato fluorescence showed that fibers of passage 
+were most prominent in more anterior regions (that is, VP), in contrast 
+to putative terminals in the LH or VTA (Extended Data Fig. 3c). Thus, 
+Drd3-expressing MSNs project downstream to the VP, LH and VTA and 
+form discrete synaptic contacts. We next used ChR2-assisted mapping 
+to assess the functional connectivity between mNAcSh Drd3-expressing 
+MSNs and output regions. Slice electrophysiology recordings from 
+Drd3-Cre mice injected with Cre-dependent ChR2 showed picrotoxin 
+(PTX)-sensitive, optogenetically evoked inhibitory postsynaptic cur-
+rents (oIPSCs) in VP, LH and VTA neurons (Fig. 2h–k), indicating syn-
+aptic transmission mediated by GABAA receptors (Fig. 2h–j). These 
+findings demonstrate mNAcSh D3-MSNs may regulate limbic circuits 
+by sending inhibitory outputs to the VP, LH and VTA.
+Distinct NAc D1-MSNs project to the VP, LH, and VTA30–32. Impor-
+tantly, D1-MSN outputs constitute largely nonoverlapping NAc MSN 
+populations with limited collateralization that exhibit differential 
+plasticity in response to behavioral experiences33,34. However, collater-
+alization of MSN outputs may be underestimated given various techni-
+cal limitations, including inefficient retrograde labeling (for example, 
+limited viral tropism) and incomplete coverage of output regions 
+with tracers. To determine the proportion of Drd3-expressing MSNs 
+projecting to each output, we performed retrograde tracing experi-
+ments in combination with in situ hybridization (Fig. 2l and Extended 
+Data Fig. 3d). We found anatomical segregation between distinct NAc 
+MSN-projecting neurons, as reported30–32. VP-projecting MSNs were 
+present in both the NAc core and mNAcSh (Fig. 2l), LH-projecting 
+MSNs were mainly in the mNAcSh (Fig. 2l) and VTA-projecting MSNs 
+were in both the NAc core and mNAcSh (Fig. 2l). The proportion 
+of Drd3-expressing MSNs projecting to the LH and VTA was higher 
+than VP projectors (Fig. 2m). Further, Drd3 mRNA expression was 
+lower in VP-projecting MSNs, consistent with reduced expression 
+in D2-MSNs (Fig. 2n). This illustration of how Drd3-expressing MSNs 
+connect within the NAc and to the VP, LH and VTA led us to determine 
+whether the role of mNAcSh D3Rs in regulating motivation varies by 
+MSN projection.
+Projection-independent mNAcSh D3R control of motivation
+mNAcSh MSN projections to VP, LH and VTA control reward-related 
+behaviors32–34. We thus hypothesized that D3R signaling in different 
+MSN projections could differentially modulate motivated behav-
+ior. We tested this hypothesis by performing an intersectional cKO 
+of mNAcSh Drd3 expression in MSNs targeting the VP, LH or VTA. 
+Drd3fl/fl mice or WT control mice were injected with CAV-Flp-GFP in 
+VP, LH or VTA to express Flp recombinase in distinct mNAcSh MSN 
+projection neurons (Fig. 3a,b). We then injected AAV-fDIO-Cre and 
+AAV-FLEX-tdTomato (injection site confirmation) in the NAc to express 
+Cre recombinase in VP-, LH- or VTA-projecting NAc neurons infected 
+with retrograde expressing Flp, consequentially knocking out D3Rs in 
+a pathway-specific manner (Extended Data Fig. 4a–c). Mice were tested 
+for motivation in running and operant tasks. Selective deletion of D3Rs 
+from MSNs projecting to the VP, LH or VTA decreased motivation to run 
+in wheel running (Fig. 3c–e) and disk choice (Fig. 3f–h) tasks. D3RcKO 
+in VP-projecting, LH-projecting or VTA-projecting MSNs diminished 
+wheel-running activity upon first exposure during the light, inactive 
+cycle (Fig. 3c–e), but not in response to diurnal shift to the dark, active 
+cycle (Extended Data Fig. 5a). The only exception were mice lacking 
+D3R expression from VTA-projecting mNAcSh MSNs, which displayed 
+decreased dark cycle-initiated running (Extended Data Fig. 5a). We 
+addressed if our CAV approach was toxic to highly vulnerable DA neu-
+rons of the VTA by injecting CAV-FlpO-GFP in the VTA of Drd3fl/fl and 
+performing tyrosine hydroxylase (TH) immunohistochemistry in both 
+injected and uninjected sides (Extended Data Fig. 4d). CAV-Flp-GFP did 
+not change the number of TH-positive cells and TH levels (Extended 
+Data Fig. 4e,f). D3R is essential for promoting motivated running behav-
+ior irrespective of projection target and/or is required in limited MSNs 
+that collateralize multiple outputs.
+We then assessed the effect of pathway-specific D3RcKO from 
+VP-projecting, LH-projecting or VTA-projecting mNAcSh MSNs in 
+operant procedures. Drd3fl/fl mice did not show changes in body 
+weights (Extended Data Fig. 5b) or acquisition of responding on an 
+FR1 schedule (Fig. 3i and Extended Data Fig. 5c,d) relative to WT con-
+trols in all pathways. Interestingly, mice with selective cKO of Drd3 
+from VTA-projecting mNAcSh neurons had increased lever press-
+ing under FR5 schedules (Extended Data Fig. 5e). This may reflect 
+(1) enhanced reward seeking, (2) decreased reward value and com-
+pensatory increases in reward seeking and/or (3) differential hun-
+ger/satiety. During choice tests between freely available chow versus 
+Fig. 3 | NAc D3R is essential for motivated behavior independent of projection 
+neuron. a, Diagram of viral injections for pathway-specific deletion of NAc  
+Drd3 from distinct MSN projections. Flp-dependent Cre and Cre-dependent 
+tdTomato were injected bilaterally in the NAc of WT or Drd3fl/fl, and CAV-Flp-GFP 
+was injected in the VP, LH or VTA to selectively knockdown Drd3 expression in  
+VP-projecting, LH-projecting or VTA-projecting NAc MSNs. b, Left: scheme 
+showing fDIO-dependent Cre expression and recombination resulting in excision 
+of exon 1 of the Drd3 gene between flanking loxP sites. Right: representative 
+images of GFP and tdTomato expression in mNAcSh MSNs. Note that AAV-fDIO-
+Cre did not cause recombination in Ai14-tdTomato reporter mice injected in the 
+mNAcSh (Extended Data Fig. 4b). Dashed and solid white lines in fluorescent 
+images depict borders between brain nuclei. c–e, Time-course of revolutions  
+of wheel-running activity during the first 12 h of running wheel exposure in  
+WT or Drd3fl/fl mice with pathway-specific deletion in the VP (c; unpaired t-test  
+(two-tailed), t(10) = 3.261; **P = 0.0086), LH (d; unpaired t-test (two-tailed), 
+t(9) = 2.388; *P = 0.0407) and VTA (e; unpaired t-test (two-tailed), t(12) = 2.819; 
+*P = 0.0155). f–h, Quantification of both time spent and wheel revolutions 
+on the freely moving and fixed disk for mice with the following injections: 
+WT-VP (n = 5 mice) and Drd3fl/fl -VP (n = 7 mice) (f; time spent two-way repeated-
+measures ANOVA: disk effect, F(1,22) = 14.35, P = 0.01; genotype effect, F(1,22) = 5.528, 
+P = 0.0281; disk × genotype, F(1,22) = 6.613, P = 0.0174; revolutions unpaired  
+t-test (two-tailed), t(11) = 4.909; ***P = 0.0005), WT-LH (n = 5 mice) and Drd3fl/fl - 
+LH (n = 6 mice) (g; time spent two-way repeated-measures ANOVA: disk 
+effect, F(1,14) = 48.84, P < 0.0001; genotype effect, F(1,14) = 11.43, P = 0.0045; 
+disk × genotype, F(1,14) = 17.13, P = 0.001; revolutions unpaired t-test (two-tailed), 
+t(9) = 6.117; ***P = 0.0002) and WT-VTA (n = 5 mice) and Drd3fl/fl -VTA (n = 9 mice) 
+(h; time spent two-way repeated-measures ANOVA: disk effect, F(1,24) = 10.93, 
+P = 0.003; genotype effect, F(1,24) = 3.092, P = 0.0914; disk × genotype, 
+F(1,24) = 7.790, P = 0.0101; revolutions unpaired t-test (two-tailed), t(12) = 3.825; 
+**P = 0.0024). ** in f represents a difference between time spent on the freely-
+moving and fixed disk in WT mice. **** in g represents a difference between 
+time spent on the freely-moving and fixed disk in WT mice. i, Number of active 
+and inactive lever presses of WT (black, n = 12 mice), Drd3fl/fl-VP (orange, 
+n = 7 mice), Drd3fl/fl-LH (pink, n = 6 mice) and Drd3fl/fl-VTA (purple, n = 7 mice) 
+animals during FR1 sessions (two-way repeated-measures ANOVA: session 
+effect, F(3.340,82.84) = 57.05, P < 0.0001; genotype effect, F(3,26) = 0.3733, P = 0.7729; 
+session × genotype, F(15,124) = 1.452, P = 0.1341). j, Amount of freely available food 
+consumed in the FR5 choice task (WT, n = 10 mice; Drd3fl/fl -VP, n = 7 mice;  
+Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 7 mice; one-way ANOVA followed by two-
+sided Dunnett’s test: F(3,28) = 5.602. Group comparisons, WT versus Drd3fl/fl-VP,  
+P = 0.0572, WT versus Drd3fl/fl-LH, *P = 0.0219, WT versus Drd3fl/fl-VTA, 
+**P = 0.0031). k, Break points for WT and Drd3fl/fl mice during PR7 sessions 
+(WT, n = 13 mice; Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 7 mice; Drd3fl/fl -VTA, 
+n = 8 mice; one-way ANOVA followed by two-sided Dunnett’s test: F(3,31) = 5.322. 
+Group comparisons, WT versus Drd3fl/fl-VP, *P = 0.0131, WT versus Drd3fl/fl-LH, 
+**P = 0.0043, WT versus Drd3fl/fl-VTA, P = 0.2061). All data are presented as 
+mean ± s.e.m. Error bars indicate the s.e.m.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Bilateral VP, LH or VTA
+CAV-FlpO-GFP
+VP
+WT or Drd3fl/fl mice 
+a
+c
+f
+LH
+VTA
+CAV-Flp-GFP
+AAV-fDIO-Cre
+1
+2
+3
+4
+5
+6
+0
+50
+100
+150
+FR1
+Lever presses
+Lever presses
+Active
+Inactive
+WT
+Drd3fl/fl
+VP
+Drd3fl/fl
+LH
+Drd3fl/fl
+VTA
+Drd3fl/flVP
+Drd3fl/flLH
+Drd3fl/flVTA
+WT
+0
+0.5
+1.0
+1.5
+Chow weight (g)
+P = 0.0572
+1
+2
+3
+4
+0
+50
+100
+150
+200
+250
+PR7
+Break point
+WT
+Drd3fl/fl-VP*
+Drd3fl/fl-LH**
+Drd3fl/fl-VTA
+Bilateral NAc
+AAV-fDIO-Cre
+AAV-FLEX-tdTomato
+b
+d
+g
+e
+h
+i
+j
+k
+GFP
+tdTomato
+GFP
+tdTomato
+0
+4
+8
+0
+50
+100
+150
+200
+Time (h)
+Revolutions
+WT-VP
+12
+Drd3fl/fl-VP
+WT
+VP
+Drd3fl/fl
+VP
+0
+5
+10
+15
+Revolutions (×1,000)
+0
+4
+8
+0
+50
+100
+150
+200
+Time (h)
+Revolutions
+12
+WT-LH
+Drd3fl/fl-LH
+0
+50
+100
+150
+200
+Time (h)
+Revolutions
+0
+4
+8
+12
+WT- VTA 
+Drd3fl/fl-VTA
+WT
+LH
+Drd3fl/fl
+LH
+WT
+VTA
+Drd3fl/fl
+VTA
+WT
+VTA
+Drd3fl/fl
+VTA
+WT
+LH
+Drd3fl/fl
+LH
+0
+5
+10
+15
+Revolutions (×1,000)
+0
+5
+10
+15
+20
+Revolutions (×1,000)
+0
+20
+40
+60
+80
+Test time (%)
+NS
+Freely moving
+Fixed
+WT
+VP
+Drd3fl/fl
+VP
+0
+2
+4
+6
+8
+10
+Revolutions (×1,000)
+0
+2
+4
+6
+8
+10
+Revolutions (×1,000)
+0
+20
+40
+60
+80
+Test time (%)
+0
+5
+10
+15
+Revolutions (×1,000)
+Freely moving
+Fixed
+M
+V
+200 µm
+0
+20
+40
+60
+80
+Test time (%)
+Freely moving
+Fixed
+NS
+NS
+mNAcSh
+mNAcSh
+mNAcSh
+**
+**
+***
+*
+****
+***
+*
+**
+*
+**
+**
+Drd3 Exon1
+loxP
+loxP
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+operant-derived chocolate, selective D3RcKO from VP-projecting, 
+LH-projecting or VTA-projecting MSNs increased freely available chow 
+intake (Fig. 3j and Extended Data Fig. 5f). This effect was also present 
+during choice testing involving operant-derived and freely available 
+chocolate (Extended Data Fig. 5g,h), indicating that Drd3 cKO from 
+either pathway biased consummatory behavior toward low-effort 
+rewards. mNAcSh D3RcKO from VP-projecting and LH-projecting 
+MSNs resulted in deficits in motivation as shown by decreased break-
+ing points in PR7 (Fig. 3k), but not PR3 (Extended Data Fig. 5i), with no 
+significant effect in mice lacking D3Rs in VTA-projecting MSNs. This 
+demonstrates that pathway-specific cKO of D3Rs in LH-projecting 
+and VP-projecting neurons suppresses running and operant-based 
+motivated behavior, but not instrumental reinforcement. In contrast, 
+D3RcKO from NAc to VTA neurons impacted running behavior and had 
+mixed effects in operant settings.
+D3R regulates local mNAcSh collaterals and VP outputs
+Gi/o-coupled GPCRs, like D3Rs, regulate circuit function by inhibit-
+ing neurotransmitter release from axon terminals35. Local collater-
+als arising from NAc MSNs constitute a large portion of inhibitory 
+synapses onto MSNs, which are regulated by Gi/o-coupled GPCRs 
+and are implicated in controlling striatal circuit recruitment during 
+reward-related behaviors36,37. We determined the functional effects 
+of D3R signaling on inhibitory synaptic transmission from MSN 
+collaterals to neighboring MSNs. Drd1-tdTomato/Drd3-Cre mice 
+were injected with a virus expressing ChR2-eYFP in Cre-expressing 
+neurons (Cre-ON; AAV-DIO-ChR2-eYFP) or Cre-negative neurons 
+(Cre-OFF; AAV-DO-ChR2-eYFP), to selectively evoke GABA release 
+from Drd3-positive MSNs or Drd3-negative mNAcSh cells, respectively 
+(Fig. 4a,b). Baseline oIPSC amplitudes evoked from Drd3-negative 
+mNAcSh cells were larger than from Drd3-positive neurons (Extended 
+Data Fig. 6a). In ChR2-negative mNAcSh MSNs recorded from mice 
+expressing ChR2-eYFP in D3R-positive MSNs (Cre-ON), D3R activa-
+tion with the D3R-selective agonist PD-128907 (1 µM) decreased oIPSC 
+amplitude (Fig. 4c). Conversely, oIPSCs evoked from D3R-negative 
+mNAcSh cells (Cre-OFF) were insensitive to PD-128907 (Fig. 4c). These 
+results suggest a presynaptic site of action for depression of D3-MSN 
+collateral transmission by D3Rs. In line with a role for presynaptic D3R 
+in the regulation of mNAcSh collaterals, the paired-pulse ratio (PPR) 
+increased (Fig. 4d), and the inverse square of the coefficient of varia-
+tion (1/CV2) decreased (Fig. 4e) with PD-128907 in the Cre-ON group 
+relative to baseline. Changes in PPR and 1/CV2 in the Cre-ON group also 
+differed from the Cre-OFF group (Fig. 4d,e). These findings validate 
+the selectivity of PD-128907 for the D3R and selective viral-mediated 
+transgene expression in Drd3-expressing mNAcSh MSNs in Drd3-Cre 
+mice. The novel, highly selective D3R agonist ML417 (ref. 38) also inhib-
+ited mNAcSh MSN collaterals (Extended Data Fig. 6b–d). The frequency 
+of spontaneous inhibitory postsynaptic currents (sIPSCs), but not 
+amplitude, was decreased with PD-128907 application (Extended Data 
+Fig. 6f,g), consistent with widespread D3R expression in D1-MSNs and 
+subsets of D2-MSNs. We next determined whether presynaptic D3R 
+signaling differentially inhibited MSN collaterals onto D1-MSNs and 
+D2-MSNs (Fig. 4b). Application of PD-128907 similarly inhibited oIPSCs 
+evoked by optogenetic stimulation of D3-MSN collaterals onto D1-MSNs 
+and D2-MSNs (Extended Data Fig. 6h,i). Moreover, we injected Drd3-Cre 
+mice in the mNAcSh with a Cre-dependent AAV expressing the cAMP 
+sensor, cADDis, to monitor cAMP activity in acute NAc slices (Extended 
+Data Fig. 6j). Using ex vivo imaging, we isolated D3R effects on cAMP 
+activity using the D1R antagonist SCH-39166 (Extended Data Fig. 6k). 
+cAMP activity was inhibited with application of DA in the presence of 
+SCH-39166 (Extended Data Fig. 6l), with the caveat that responses may 
+also be mediated by DA acting in D2Rs expressed in D3R/D2R MSNs. 
+Collectively, these results demonstrate that presynaptic D3R inhibits 
+GABAergic outputs from MSN collaterals onto D1-MSNs and D2-MSNs.
+We next identified whether presynaptic D3Rs regulate GABAer-
+gic synaptic transmission to VP, LH and VTA neurons. D3R activation 
+with PD-128907 decreased GABA release onto VP neurons that was 
+optogenetically evoked from Drd3-positive MSNs (Fig. 4f,g), in addi-
+tion to increasing the PPR and decreasing the 1/CV2 relative to baseline 
+(Fig. 4h,i). Conversely, GABA release from D3R-negative mNAcSh neu-
+rons (Cre-OFF ChR2) onto VP neurons was not inhibited by PD-128907 
+(Fig. 4g). These findings demonstrate that D3Rs inhibit GABA release 
+from MSNs onto VP neurons via a presynaptic site of action. Interest-
+ingly, D3R activation failed to decrease oIPSC amplitude in both LH 
+and VTA neurons (Fig. 4j–q), suggesting that MSN connections onto 
+LH and VTA neurons lack functional D3R. Taken together, these results 
+show that presynaptic D3R on mNAcSh MSNs selectively inhibits local 
+collaterals and GABAergic transmission to the VP, but not in the outputs 
+to the LH and VTA.
+Motivated behavior requires local mNAcSh D3R signaling
+Our electrophysiology results demonstrate that mNAcSh collaterals 
+and VP, but not LH and VTA, outputs, are inhibited by D3Rs. Despite 
+this, mNAcSh D3Rs cKO VP-projecting, LH-projecting or VTA-projecting 
+neurons each produced motivational deficits. We hypothesized that 
+D3R signaling is acting within mNAcSh circuits to influence moti-
+vated behavior. Intra-mNAcSh microinfusion of the D3R antagonist 
+SB-277011A39 (1.8 ng per infusion site) decreased preference for, 
+and running on, the disk choice task (Fig. 5a–c), consistent with 
+intra-mNAcSh D3R signaling being essential for motivated running. 
+Fig. 4 | D3Rs regulate GABAergic transmission from NAc collaterals and to 
+the VP via a presynaptic site of action. a, Diagram of virus injection of AAV-
+EF1a-DIO-ChR2-eYFP (Cre-ON) and AAV-EF1a-DO-ChR2-eYFP (Cre-OFF) in the 
+NAc of Drd1-tdTomato/Drd3-Cre mice. ChR2-eYFP-expressing cell bodies of 
+D3R-positive and D3R-negative terminals in the mNAcSh and total NAc area. 
+Note the lack of expression in the Islands of Calleja (ICj) in mice expressing 
+Cre-OFF ChR2 in the ventral striatum. b, oIPSCs originating from D3R-positive 
+and D3R-negative collaterals were recorded from mNAcSh D1-MSNs or D2-MSNs. 
+c,g,k,o, Time-course of oIPSCs in mNAcSh MSNs (c; two-way repeated-measures 
+ANOVA: time effect, F(3.099,89.38) = 39.75, P < 0.0001; treatment effect, F(1,29) = 28.21, 
+P < 0.0001; time × treatment, F(19,548) = 13.08, P < 0.0001), VP cells (g; two-way 
+repeated-measures ANOVA: time effect, F(1.912,34.41) = 11.18, P = 0.0002; treatment 
+effect, F(1,18) = 7.030, P = 0.0162; time × treatment, F(19,342) = 4.923, P < 0.0001), LH 
+cells (k, n = 9 cells/8 mice) and VTA cells (o, n = 10 cells/8 mice) before, during 
+and after bath application of the D3R-selective agonist PD-128907 (1 µM). For 
+mNAcSh MSNs and VP neurons, Cre-ON groups for mNAcSh (blue, n = 16 cells/9 
+mice) or VP neurons (orange, n = 10 cells/7 mice), while the Cre-OFF group is 
+shown in black (n = 15 cells/7 mice for NAc; n = 10 cells from 6 mice for VP). Insets 
+show representative oIPSCs traces recorded in mNAcSh MSNs before and after 
+bath application of PD-128907. d,h,l,p, PPR (% baseline) versus oIPSC (% baseline) 
+for mNAcSh MSNs (d; PPR unpaired t-test (two-tailed), t(29) = 2.732; *P = 0.0106; 
+oIPSC amplitude unpaired t-test (two-tailed), t(29) = 5.181; ****P < 0.0001), VP cells 
+(h; PPR unpaired t-test (two-tailed), t(18) = 2.457; *P = 0.0244; oIPSC amplitude 
+unpaired t-test (two-tailed), t(18) = 2.503; *P = 0.0222), LH cells (l) and VTA cells 
+(p). e,i,m, Coefficient of variation (1/CV2, % baseline) versus oIPSC (% baseline) 
+for mNAcSh MSNs (e; 1/CV2 unpaired t-test (two-tailed), t(29) = 3.632; **P = 0.0011; 
+oIPSC amplitude unpaired t-test (two-tailed), t(29) = 5.181; ****P < 0.0001), VP cells 
+(i; 1/CV2 unpaired t-test (two-tailed), t(18) = 2.457; *P = 0.0455; oIPSC amplitude 
+unpaired t-test (two-tailed), t(18) = 2.148; *P = 0.0222) and LH cells (m). f,j,n, Images 
+of ChR2-positive fibers in the VP (f), LH (j) and VTA (n). Dashed and solid white 
+lines in fluorescent images in a, f, j and n depict borders between brain nuclei.  
+q, Summary graph of the inhibition of oIPSCs by PD-128907 from mNAcSh  
+(n = 16 cells from 9 mice), VP (n = 10 cells/7 mice), LH (n = 9 cells/8 mice) or VTA 
+(n = 10 cells/8 mice) neurons in Cre-ON condition (one-way ANOVA followed 
+by two-sided Tukey’s test: F(3,41) = 6.750. Group comparisons, NAc versus VP, 
+P > 0.9999, NAc versus LH, **P = 0.0051, NAc versus VTA, *P = 0.02, VP versus LH, 
+*P = 0.013, VP versus VTA, *P = 0.0436, LH versus VTA, P = 0.9451). All data are 
+presented as the mean ± s.e.m. Error bars indicate the s.e.m. BL, baseline.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+However, mNAcSh D3R antagonism blocks D3R signaling in MSNs plus 
+putative afferent inputs expressing D3Rs at their terminals40,41. To spe-
+cifically assess whether D3R acting on MSNs locally within mNAcSh 
+microcircuitry drives motivation, we implemented new functional 
+disconnection procedures involving pharmacological D3R antagonism 
+and mNAcSh D3RcKO (Fig. 5d). Control Drd3fl/fl mice received direct 
+microinfusion of SB-277011A and ipsilateral AAV-hSyn-GFP-Cre into the 
+mNAcSh (Fig. 5d). In controls, the unmanipulated hemisphere contains 
+intact D3R signaling, supporting motivated behavior (Fig. 5e–g). Our 
+experimental group (contralateral Drd3fl/fl mice) underwent functional 
+disconnections wherein mNAcSh microinjections of SB-277011A and 
+AAV-hSyn-GFP-Cre were made in contralateral hemispheres. Here, 
+only D3R signaling in MSNs within the mNAcSh undergoes bilateral 
+disruption (Fig. 5e). If motivated running behavior does not rely on 
+local MSN D3R signaling, then independently manipulating D3R activity 
+in each hemisphere should not disrupt mNAcSh D3R-mediated moti-
+vation. Conversely, if motivation is mediated by intra-mNAcSh D3R 
+signaling in MSNs, then contralateral disconnection should disrupt 
+motivation. Indeed, contralateral Drd3fl/fl mice displayed decreased 
+running behavior and preference toward the freely moving disk rela-
+tive to ipsilateral counterparts (Fig. 5f,g). As additional controls, we 
+also quantified running disk performance in Drd3fl/fl mice unilaterally 
+AAV-DO-ChR2-eYFP
+(Cre-OFF, D3R-negative) 
+Drd1-tdTomato/Drd3-Cre
+AAV-DIO-ChR2-eYFP
+(Cre-ON, D3R-positive) 
+Cre-ON
+Cre-OFF
+Cre-ON, D3R-positive
+Cre-OFF, D3R-negative
+D1- or D2-
+mNAcSh MSN
+200 µm
+VP neuron
+Cre-ON
+Cre-OFF
+LH neuron
+Cre-ON
+VTA neuron
+Cre-ON
+NAc
+D3-MSN
+ GABA
+mNAcSh
+VP
+LH
+VTA
+D3-negative
+GABA 
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+PPR (% baseline)
+Cre-ON
+Cre-OFF
+a
+b
+c
+d
+e
+f
+j
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+PPR (% baseline)
+l
+n
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+PPR (% baseline)
+p
+Cre-ON, D3R-positive
+D3-MSN
+GABA 
+Cre-OFF, D3R-negative
+D3-negative
+GABA
+Cre-ON, D3R-positive
+D3-MSN 
+GABA
+Cre-ON, D3R-positive
+D3-MSN 
+GABA
+M
+V
+M
+V
+M
+200 µm 
+200 µm
+200 µm 
+M
+V
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+1/CV2 (% baseline)
+Cre-ON
+Cre-OFF
+VP
+ICj
+0
+5
+10
+15
+20
+60
+80
+100
+120
+Time (min)
+oIPSC amplitude (% baseline)
+Cre-ON
+PD-128907
+****
+****
+**
+*
+Cre-OFF
+V
+BL
+PD
+BL
+PD
+o
+0
+5
+1 0
+1 5
+20
+60
+80
+100
+120
+140
+160
+Time (min)
+oIPSC amplitude (% baseline)
+PD-128907
+VTA-Cre-ON
+BL
+PD
+50 ms
+50 pA
+50 ms
+50 pA
+0
+5
+10
+15
+20
+60
+80
+100
+120
+Time (min)
+oIPSC amplitude (% baseline)
+Cre-ON
+Cre-OFF
+PD-128907
+g
+BL
+PD
+BL
+PD
+50 ms
+50 pA
+0
+5
+10
+15
+20
+60
+80
+100
+120
+Time (min)
+oIPSC amplitude (% baseline)
+PD-128907
+LH-Cre-ON
+k
+BL
+PD
+50 ms
+50 pA
+M
+V
+M
+V
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+PPR (% baseline)
+Cre-ON
+Cre-OFF
+h
+*
+*
+i
+0
+50
+100
+150
+0
+50
+100
+150
+200
+oIPSC (% baseline)
+1/CV2 (% baseline)
+Cre-ON
+Cre-OFF
+*
+*
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+1/CV2 (% baseline)
+m
+q
+NAc VP
+LH VTA
+0
+50
+100
+150
+oIPSC (% baseline)
+*
+*
+*
+**
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+injected with Cre-expressing virus or WT mice that had unilateral infu-
+sions of SB-277011A, which failed to modify preference for the freely 
+moving disk (Extended Data Fig. 7a,b). Together, these results suggest 
+that D3Rs acting on MSNs locally within mNAcSh microcircuitry are 
+necessary for motivated behavior.
+Specific effects of D3R signaling, such as inhibition of local col-
+laterals and outputs to the VP, may underlie regulation of motivation. 
+We compared the effects of non-selectively activating Gi/o-coupled 
+GPCRs broadly throughout the cell using chemogenetics, which con-
+trast with Gi/o-coupled D3Rs, which likely have specialized localiza-
+tion within MSNs. In contrast to D3R control of motivated running, 
+chemogenetic inhibition with clozapine N-oxide (CNO) reduced pref-
+erence for the freely moving disk and decreased running behavior in 
+hM4Di-expressing mice relative to mCherry controls (Extended Data 
+Fig. 7c,d). Chemogenetic inhibition of D3-MSNs did not affect locomo-
+tor activity or anxiety-like behavior in the open field (Extended Data 
+Fig. 7e). These results suggest that specialized cellular consequences 
+of D3R signaling in mNAcSh MSNs rather than broad inhibition controls 
+motivation to run.
+mNAcSh D1Rs mediate action–outcome contingencies
+As Drd3 is largely coexpressed with Drd1 (Fig. 2a–d), we determined 
+whether D3R and D1R differ in controlling reward. As low-affinity 
+receptors, NAc D1Rs modulate reward-related behaviors presumably 
+by detecting phasic DA and modifying synaptic transmission onto 
+MSNs42,43. To assess this, Drd1fl/fl mice were injected with intra-mNAcSh 
+Saline or SB-277011A
+Ipsilateral
+(control group)
+Contralateral disconnection
+(experimental group)
+WT mice
+200 µm 
+200 µm
+AAV-GFP-Cre
+SB-277011A
+AAV-GFP-Cre
+SB-277011A
+Drd3fl/fl mice
+a
+Saline
+SB-277011A
+0
+20
+40
+60
+80
+Test time (%)
+Freely moving
+Fixed
+Saline
+SB-277011A
+0
+5
+10
+15
+Revolutions (×1,000)
+GFP
+Retrobeads
+Retrobeads
+GFP
+Retrobeads
+Freely moving
+Fixed
+*
+VP terminals
+c
+d
+e
+f
+M
+V
+M
+V
+M
+V
+Drd3 Exon1
+1 mm
+VP terminals
+g
+Ipsilateral
+Contralateral
+NAc aﬀerent
+SB
+Drd3 Exon1
+loxP
+loxP
+loxP
+loxP
+SB
+Exclusive D3R with 
+bilateral dysfunction
+0
+20
+40
+60
+80
+Test time (%)
+Ipsilateral
+control
+Contralateral
+disconnection
+Ipsilateral
+control
+Contralateral
+disconnection
+0
+2
+4
+6
+8
+10
+Revolutions (×1,000)
+mNAcSh
+mNAcSh
+Saline
+SB
+b
+NAc aﬀerent
+**
+**
+****
+****
+**
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+AAV-Cre (NAc-D1RcKO) and run concomitantly with NAc-D3RcKO 
+experiments from Fig. 1 (Fig. 6a). mNAcSh Drd1 cKO decreased FR1 
+acquisition (Fig. 6b), which transiently persisted under FR5 sched-
+ules (Fig. 6c). Together, these results indicate that mNAcSh D1RcKO 
+impairs action–outcome contingencies associated with reinforce-
+ment, although motivation impairments cannot be fully excluded. To 
+further dissect the impact of mNAcSh D1RcKO on motivated behavior, 
+we tested animals on the effort-based choice task. Unlike NAc-D3RcKO 
+mice, NAc-D1RcKO mice preferred to work for a higher-palatable reward 
+(Fig. 6d). Furthermore, break points during PR schedules did not differ 
+between WT and NAc-D1RcKO mice (Fig. 6e), indicating that motivation 
+to seek palatable rewards remained unaffected. Similarly, mNAcSh Drd1 
+cKO did not strongly impact motivated running in the running wheel 
+and disk choice tasks (Fig. 6f,g and Extended Data Fig. 8a). Further-
+more, mNAcSh Drd1 cKO did not alter sucrose preference (Extended 
+Data Fig. 8b), sociability (Extended Data Fig. 8c) and light–dark box 
+(Extended Data Fig. 8d) or novel object recognition (Extended Data 
+Fig. 8e) tests, indicating that mNAcSh D1R function is not essential 
+for hedonic processing, anxiety-like or novelty-seeking behaviors, 
+respectively. Together, this suggests that D1Rs, but not D3Rs, play a 
+role in instrumental reinforcement possibly delaying the development 
+of action–outcome associations.
+Fig. 6 | mNAcSh D1Rs mediate reinforcement but not motivation. a, Scheme 
+and representative image depicting the mNAcSh area targeted with AAV-GFP-Cre 
+(green) for experiments shown in b–i. Dashed and solid white lines in fluorescent 
+images depict borders between brain nuclei. b, Number of active (filled)  
+and inactive (unfilled) lever presses of WT (black, n = 15 mice), NAc-D3RcKO 
+(blue, n = 11 mice) and NAc-D1RcKO (green, n = 15 mice) animals during sessions 
+with FR1 (two-way repeated-measures ANOVA: session effect, F((5,225) = 28.09, 
+P < 0.0001; genotype effect, F(2,225) = 22.75, P < 0.0001; session × genotype, 
+F(10,225) = 2.009, P = 0.0335). c, Active and inactive lever presses during FR5 
+schedule of reinforcement (two-way repeated-measures ANOVA: session 
+effect, F(4.192,158.1) = 3.664, P = 0.0061; genotype effect, F(2,38) = 1.288, P = 0.2876; 
+session × genotype, F(14,264) = 2.455, P = 0.0029). ** in b represents a main effect 
+of genotype. d, Amount of food consumed during the effort-related choice 
+task represented as FR5 effort-based (solid) or freely available (checkered) 
+lab chow (WT, n = 15 mice; NAc-D3RcKO, n = 11 mice; NAc-D1RcKO, n = 15 
+mice; two-way repeated-measures ANOVA: type of food effect, F(1,38) = 54.48, 
+P < 0.0001; genotype effect, F(2,38) = 0.3460, P = 0.7098; type of food × genotype, 
+F(2,38) = 5.604, P = 0.0074). * represents a significant difference between mNAcSh-
+D3RcKO and mNAcSh-D1RcKO in ad libitum chow intake. e, Break points 
+for WT, NAc-D3RcKO and NAc-D1RcKO mice during PR7 sessions (WT, n = 15 
+mice; NAc-D3RcKO, n = 11 mice; NAc-D1RcKO, n = 15 mice; two-way repeated-
+measures ANOVA: session effect, F(2.083,77.06) = 1.343, P = 0.2673; genotype effect, 
+F(2,38) = 7.908, P = 0.0013; session × genotype, F(6,111) = 1.458, P = 0.1992). f, Left: 
+time-course of wheel-running activity during the initial 12-h period of wheel 
+exposure (in the animal’s inactive cycle) in WT-Cre (n = 11 mice), NAc-D3RcKO 
+(n = 12 mice) and NAc-D1RcKO (n = 8 mice) mice (two-way repeated-measures 
+ANOVA: time effect, F(7.527, 210.7) = 16.63, P < 0.0001; genotype effect, 
+F(2,28) = 10.86, P = 0.0003; time × genotype, F(286,4,004) = 2.216, P < 0.0001). Right: 
+quantification of revolutions during the 12-h period (one-way ANOVA followed by 
+two-sided Dunnett’s test: F(2,28) = 12.20. Group comparisons, NAc-D1RcKO versus 
+WT, P = 0.1044, NAc-D1RcKO versus NAc-D3RcKO, *P = 0.0324). g, Quantification 
+of time (left) and revolutions (right) for WT (n = 11 mice), NAc-D3RcKO (n = 12 
+mice) and NAc-D1RcKO (n = 8 mice) groups during the running disk choice task. 
+Percentage of test time spent on the freely moving and fixed disk (two-way 
+repeated-measures ANOVA: disk effect, F(1,28) = 98.11, P < 0.0001; genotype effect, 
+F(2,28) = 20.86, P < 0.0001; disk × genotype, F(2,28) = 33.49, P < 0.0001). Number of 
+revolutions recorded in the freely moving disk for each group (one-way ANOVA 
+followed by two-sided Dunnett’s test: F(2,28) = 56.43. Group comparisons, NAc-
+D1RcKO versus WT, P = 0.0614, NAc-D1RcKO versus NAc-D3RcKO, ****P < 0.0001). 
+h, Scheme of the platform-mediated avoidance task. Mice were placed in an 
+operant box and were presented with 20 pairings of conditioned stimulus (CS) 
+and a footshock as the unconditioned stimulus (US). Animals could step onto the 
+platform to actively avoid a footshock. ITI, intertrial interval. i, Quantification 
+of trial outcome (avoidance or shock) as a percentage of total trials for day 
+1 (left; two-way repeated-measures ANOVA: outcome effect, F(1,35) = 31.35, 
+P < 0.0001; genotype effect, F(2,35) = 1.089, P = 0.3478; outcome × genotype, 
+F(2,35) = 6.589, P = 0.0037) and percentage of time spent on the platform for day 
+1 (right; one-way ANOVA followed by two-sided Dunnett’s test: F(2,35) = 14.14. 
+Group comparisons, NAc-D1RcKO versus WT, ****P < 0.0001, NAc-D1RcKO 
+versus NAc-D3RcKO, ***P = 0.0004) in WT-Cre (n = 12 mice), NAc-D3RcKO (n = 9 
+mice) and NAc-D1RcKO mice (n = 17 mice). ** represents a significant difference 
+between WT and mNAcSh-D1RcKO mice. * represents a significant difference 
+between mNAcSh-D3RcKO and mNAcSh-D1RcKO mice. j, Pavlovian conditioning 
+procedures. Experiments involved learning to discriminate reward-predictive 
+cues (CS+) and a neutral cue (CS−), as well as subsequent extinction procedures. 
+k, Time-course of nose pokes for the last day of training on CS+ (left; two-way 
+repeated-measures ANOVA: time effect, F(3.834,115.0) = 115.6, P < 0.0001; genotype 
+effect, F(2,30) = 1.025, P = 0.371; time × genotype, F(40,620) = 1.175, P = 0.2174) and CS− 
+(right; two-way repeated-measures ANOVA: time effect, F(2.974, 92.18) = 2.280, 
+P = 0.0851; genotype effect, F(2,31) = 1.222, P = 0.3083; time × genotype, 
+F(40,620) = 0.6634, P = 0.9458) sessions for WT-Cre (n = 11 mice), NAc-D3RcKO 
+(n = 14 mice) and NAc-D1RcKO (n = 8 mice) mice. l, Quantification of the area 
+under the curve (AUC) after CS in WT (n = 11 mice), NAc-D3RcKO (n = 14 mice) and 
+NAc-D1RcKO (n = 8 mice) groups for sessions 1, 3 and 6 of reward learning for CS+ 
+(two-way repeated-measures ANOVA: session effect, F(2,56) = 28.90, P < 0.0001; 
+genotype effect, F(2,29) = 0.6674, P = 0.5208; session × genotype, F(4,56) = 0.5773, 
+P = 0.0.6803) and CS− sessions (left) and extinction sessions on days 7 and 8 
+(right). Note that operant and running data from WT and NAc-D3RcKO groups 
+were acquired concomitantly with NAc-D1RcKO mice and were replicated from 
+Fig. 1. Thus, data from WT and NAc-D3RcKO groups are displayed differently 
+(mean and error bars). All data are presented as the mean ± s.e.m. Error bars 
+indicate the s.e.m. Schematics were generated using BioRender.com.
+Fig. 5 | Motivated behavior requires local D3R signaling within the mNAcSh. 
+a, Diagram and representative image of bilateral microinjection of the D3R 
+antagonist SB-277011A (1.8 ng per hemisphere) into the mNAcSh of WT mice. Red 
+retrobeads were infused after the experiment to confirm accuracy of cannula 
+placement. b, Cannula tip placements for saline and SB-277011A groups.  
+c, Percentage of time spent on the freely moving and fixed disk for saline  
+(white, n = 7 mice) and D3R antagonist (blue, n = 8 mice) groups during 
+the running disk choice task (two-way repeated-measures ANOVA: disk 
+effect, F(1,26) = 25.56, P < 0.0001; treatment effect, F(1,26) = 6.573, P = 0.0165; 
+disk × treatment, F(1,26) = 10.83, P = 0.0029). Number of revolutions recorded in  
+the freely moving disk (unpaired t-test (two-tailed), t(13) = 3.206; **P = 0.0069).  
+**** represents a difference between time spent on the freely-moving and fixed 
+disk in saline controls. d, Diagrams and representative images of selective 
+inactivation of local mNAcSh D3R function using functional disconnection 
+experiments. Mice were injected unilaterally with AAV8-Syn-GFP-Cre into the 
+mNAcSh of Drd3fl/fl mice. Ipsilateral (control) and contralateral disconnection 
+(experimental) groups were infused with SB-277011A into the ipsilateral and 
+contralateral mNAcSh, respectively. Dashed and solid white lines in fluorescent 
+images depict borders between brain nuclei. e, Diagram describing rationale 
+for disconnection procedures. In the ipsilateral group, one hemisphere was 
+targeted with SB-277011A and AAV-GFP-Cre to suppress D3R signaling within the 
+mNAcSh and at terminals in the VP, while the other hemisphere had intact D3R 
+signaling. For the contralateral group, the only common D3R dysfunction in both 
+hemispheres was local D3R signaling within the mNAcSh (purple circles), which 
+was targeted by antagonist infusion and contralateral injection of AAV-GFP-Cre.  
+f, Percentage of time spent on the freely moving (solid) and fixed (checkered) 
+disks for ipsilateral control (white, n = 9 mice) and contralateral disconnection 
+(blue, n = 8 mice) groups (two-way repeated-measures ANOVA: disk effect,  
+F(1,30) = 18.60, P = 0.0002; treatment effect, F(1,30) = 2.149, P = 0.1531; disk × treatment,  
+F(1,30) = 10.30, P = 0.0032). **** represents a difference between time spent on the 
+freely-moving and fixed disk in ipsilateral controls. * represents a significant 
+difference between time spent on freely-moving disk between ipsilateral controls 
+and contralateral disconnection mice. g, Number of revolutions registered in the 
+freely moving disk (ipsilateral, n = 9 mice; contralateral, n = 8 mice; unpaired t-test 
+(two-tailed), t(15) = 3.072; **P = 0.0077). All data are presented as the mean ± s.e.m. 
+Error bars indicate the s.e.m. Schematics were generated using BioRender.com.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+The role of mNAcSh D1Rs may extend to reinforcement of threat 
+avoidance (negative reinforcement), given that aversive cues elicit 
+increased phasic DA transmission within the mNAcSh43. We deter-
+mined whether reinforcement of footshock avoidance requires 
+mNAcSh D1Rs using a modified platform-mediated avoidance para-
+digm44. Here, auditory cue (CS, tone) co-terminated with a footshock 
+(Fig. 6h), and mice could avoid the footshock by mounting a platform 
+located in a chamber corner. NAc-D1RcKO, but not NAc-D3RcKO, mice 
+had avoidance deficits, received more shocks, and spent less time on 
+the platform than WT mice (Fig. 6i). Deficits in avoidance behavior 
+in NAc-D1RcKO mice were also observed upon reexposure to the 
+platform-mediated avoidance task 24 h later (Extended Data Fig. 8f), 
+supporting a sustained deficit in threat avoidance. As in operant 
+training, deficits in motivation in NAc-D1RcKO mice cannot be fully 
+excluded in this setting. Thus, mNAcSh D1R, but not D3R, activity is 
+essential for negative reinforcement, suggesting that D1Rs regulate 
+action–outcome contingencies during both positive and negative 
+reinforcement.
+CS/shock (20×)
+2 min
+ITI 40–60s
+a
+Platform-mediated avoidance 
+0
+50
+100
+Time on platform (% of test time)
+WT
+ 
+NAc
+D3RcKO
+NAc
+D1RcKO
+b
+c
+d
+e
+f
+g
+i
+h
+Avoidance by jumping 
+onto platform
+1
+2 
+3
+4 
+5
+6 
+0
+50
+100
+150
+FR1
+Lever presses
+Lever presses
+Active Inactive
+WT
+NAc
+D3RcKO
+NAc
+D1RcKO
+1
+2 
+3 
+4 
+5 
+6 
+7
+8
+0
+100
+200
+300
+400
+FR5
+Lever presses
+FR5
+Ad libitum chow
+0
+20
+40
+60
+80
+Test time (%)
+Freely moving
+Fixed
+0
+2
+4
+6
+8
+Revolutions (×1,000)
+WT
+ 
+NAc
+D3RcKO
+NAc
+D1RcKO
+WT
+ 
+0
+5
+10
+15
+Revolutions (×1,000)
+NS
+NAc
+D3RcKO
+NAc
+D1RcKO
+0
+4
+8
+0
+50
+100
+150
+200
+Time (h)
+Revolutions
+WT
+12
+NAc-D3RcKO
+NAc-D1RcKO
+0
+0.5
+1.0
+1.5
+Total food consumed (g)
+WT
+NAc-D3RcKO
+NAc-D1RcKO
+1
+2
+3
+4
+0
+50
+100
+150
+200
+250
+PR7
+Break point
+WT
+NAc
+D3RcKO
+NAc
+D1RcKO
+AAV-GFP-Cre
+WT, Drd3fl/fl
+or Drd1fl/fl
+M
+V
+200 µm
+mNAcSh
+j
+1–6
+7–8
+Pavlovian 
+conditioning
+Extinction
+k
+CS+
+US
+ITI (60 s)
+CS-US 
+(10 s)
+×20
+Cue–reward learning
+ITI (60 s)
+CS-US 
+(10 s)
+CS–
+US
+×20
+Day 6
+–5
+0
+5
+10
+15
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+Time from CS onset (s)
+Nose-poke rate
+CS+
+–5
+0
+5
+10
+15
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+Time from CS onset (s)
+Nose-poke rate
+CS–
+l
+AUC (post-CS)
+Day 7
+Day 8
+0
+2
+4
+6
+8
+AUC (post-CS)
+WT
+NAc-D3RcKO
+NAc-D1RcKO
+CS–
+Day 1 Day 3 Day 6
+0
+2
+4
+6
+8
+CS+
+Learning
+Extinction
+Shock
+Avoidance
+0
+50
+100
+Trial outcome (%)
+**
+*
+**
+*
+****
+****
+**
+**
+*
+*
+****
+***
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+To gain deeper insights into mNAcSh D1R and D3R roles in stim-
+ulus–response associations, we performed Pavlovian reward con-
+ditioning. Mice were trained to associate a sucrose reward with an 
+auditory tone presentation (CS+; Fig. 6j). A neutral tone (CS−) that 
+did not precede a reward was also presented (Fig. 6j). After repeated 
+tone–sucrose pairings across days, WT, NAc-D3RcKO and NAc-D1RcKO 
+groups increased anticipatory nose pokes into the food receptacle 
+during CS+ presentation (Fig. 6k), with minimal nose pokes during the 
+intertrial interval (ITI) and CS− (Fig. 6k). Interestingly, no differences 
+in anticipatory licking were observed between WT, NAc D3R-cKO and 
+NAc D1R-cKO mice (Fig. 6l). All groups stopped nose poking during 
+extinction sessions, when the US was omitted (Fig. 6l). These results 
+demonstrate that mNAcSh D1RcKO does not impair all facets of rein-
+forcement, but rather reinforcement based on outcomes derived 
+from instrumental actions. Collectively, these results demonstrate 
+that D3Rs and D1Rs play dissociable roles in regulating motivation and 
+instrumental reinforcement, respectively.
+Separable regulation of D1-MSN physiology by D3R and D1R
+We hypothesized that the dissociable roles of D3Rs and D1Rs in moti-
+vation and reinforcement may derive from divergent physiologi-
+cal effects in mNAcSh D1-MSNs. D1R regulation of NMDA receptor 
+(NMDAR)-dependent plasticity is key to reward learning11,45. Using 
+glutamate uncaging to evoke isolated postsynaptic NMDAR currents 
+(Fig. 7a), we found that D1R activation with the D1-like receptor ago-
+nist SKF-81297 potentiated AP5-sensitive NMDAR currents in mNAcSh 
+D1-MSNs (Fig. 7b–d), an effect that was blocked with bath application 
+of the D1R-selective antagonist SCH-39166 (Fig. 7b–d). Interestingly, 
+D3R activation failed to modify NMDAR currents (Fig. 7b–d). Fur-
+thermore, SKF-81297 did not potentiate NMDAR currents in D1-MSNs 
+with Drd1 cKO, demonstrating specificity of our pharmacological and 
+genetic manipulations (Fig. 7e–h). Thus, D1Rs, but not D3Rs, poten-
+tiate mNAcSh NMDAR currents, providing a potential substrate for 
+reinforcement. In contrast, D1R activation using SKF-81297 did not 
+modify GABA release from mNAcSh collaterals by D3R MSNs (Fig. 7i–l), 
+consistent with separable control of inputs and outputs of mNAcSh 
+MSNs by D1Rs and D3Rs, respectively. Altogether, dissociable control 
+of motivated and reinforced behaviors by D1Rs and D3Rs likely stems 
+from dissociable physiological effects in D1-MSNs.
+Lastly, to determine if D1R–NMDAR interactions are necessary 
+for instrumental reinforcement, we performed disconnection experi-
+ments of mNAcSh D1R and NMDAR function during acquisition of FR1 
+lever pressing. Drd1fl/fl mice were injected with AAV-Cre-GFP and infused 
+with AP5 (700 ng) in the ipsilateral hemisphere (control group) or 
+injected with AAV-Cre and infused with AP5 in the contralateral hemi-
+sphere (experimental group; Fig. 7m). AP5 microinjection on day two 
+of FR1 acquisition session decreased FR1 lever pressing in D1R–NMDA 
+contralateral disconnection mice (Fig. 7n), consistent with deficits in 
+instrumental reinforcement. Importantly, decreased lever pressing 
+was not influenced by the number of lever presses during the day 1 
+baseline session (Extended Data Fig. 8g). Decreased FR1 lever press-
+ing was not sustained as levels of lever pressing were similar the day 
+after AP5 microinjection. Collectively, our results reveal a key role of 
+mNAcSh D1Rs in positive and negative action reinforcement poten-
+tially via potentiation of postsynaptic NMDAR-mediated plasticity in 
+mNAcSh D1-MSNs.
+Discussion
+We identified distinct roles for mNAcSh D3Rs and D1Rs in regulating 
+different features of D1-MSN physiology underlying complementary 
+aspects of reward-related behaviors. Activation of presynaptic D3Rs, 
+but not D1Rs, in mNAcSh MSNs inhibits GABAergic transmission within 
+Fig. 7 | D3R and D1Rs regulate separable synaptic features of mNAcSh  
+D1-MSNs. a, Schematic showing location of patch-clamp recordings and 
+glutamate uncaging. MNI-glutamate (50 µM) was uncaged using 365 nm of 
+ultraviolet (UV) light (150-ms pulses), and biophysically isolated NMDAR currents 
+were recorded at +40 mV from mNAcSh D1-MSNs using 6,7-dinitroquinoxaline-
+2,3-dione (DNQX; 10 µM), PTX (50 µM) and tetrodotoxin (TTX; 1 µM).  
+b, Representative traces of evoked NMDAR currents in mNAcSh D1-MSNs before 
+and after bath application of the D1R agonist SKF-81297 (green), application 
+of SKF-81297 in the presence of the D1R antagonist SCH-39166 (gray) and 
+application of the D3R agonist PD-128907 (blue). Red trace indicates that 
+evoked NMDAR currents were eliminated with AP5 (50 µM) application. Purple 
+bars indicate UV light pulses. c, Time-course of normalized NMDAR-current 
+amplitude in mNAcSh D1-MSNs before and during bath application of SKF-81297 
+(10 µM, green, n = 10 cells/6 mice), preincubation with SCH-39166 (1 µM) and 
+application of SKF-81297 (black, n = 5 cells/4 mice) or application of PD-128907 
+(1 µM, blue, n = 10 cells/6 mice; two-way repeated-measures ANOVA: time 
+effect, F(1.610,35.42) = 11.61, P = 0.0003; treatment effect, F(2,22) = 6.713, P = 0.0053; 
+time × treatment, F(28,308) = 5.628, P < 0.0001). d, Amplitude of evoked NMDAR 
+currents after treatment with SKF-81297 (n = 10 cells/6 mice), preincubation  
+with SCH-39166 (n = 5 cells/4 mice) and treatment with SKF and application  
+of PD-128907 (n = 10 cells/6 mice) (% baseline) (one-way ANOVA followed  
+by two-sided Dunnett’s test: F(2,22) = 7.070. Group comparisons, SKF-81297 versus 
+SCH-39166, **P = 0.0094, SKF-81297 versus PD-128907, **P = 0.0084).  
+e, Schematic of experimental details to demonstrate D1R–NMDAR interactions 
+and validation of Drd1 cKO in the NAc of Drd1fl/fl mice. AAV8-Syn-GFP-Cre was 
+injected bilaterally in the mNAcSh of WT or Drd1fl/fl mice to genetically ablate 
+Drd1, and the retrograde tracer Alexa Fluor 594-conjugated cholera toxin 
+subunit B (CTB-594) was injected into the LH or VTA to selectively label NAc 
+D1-MSNs. f, Representative images of CTB injection sites in LH and VTA, and 
+co-labeling of GFP and CTB in the mNAcSh. Recordings were made from co-
+labeled GFP+/CTB+ mNAcSh MSNs. Dashed and solid white lines in fluorescent 
+images depict borders between brain nuclei. g, Time-course of normalized 
+NMDAR-current amplitude in mNAcSh D1-MSNs before and during and after bath 
+application of SKF-81297 in WT (n = 8 cells/4 mice) or Drd1fl/fl (n = 8 cells/5 mice)  
+groups (two-way repeated-measures ANOVA: time effect, F(3.710,51.68) = 8.461, 
+P < 0.0001; treatment effect, F(1,14) = 37.23, P < 0.0001; time × treatment, 
+F(14,195) = 10.78, P < 0.0001). Insets show representative NMDAR traces recorded 
+in mNAcSh D1-MSNs for each genotype. h, INMDAR (% baseline) change after 
+treatment with SKF-81297 for WT (n = 8 cells from 4 mice) and Drd1 (n = 8 cells 
+from 5 mice) groups (unpaired t-test (two-tailed), t(14) = 5.383; ****P < 0.0001). 
+i, Schematics of experiment to determine regulation of mNAcSh collaterals 
+by D1Rs and D3Rs. Drd1-tdTomato/Drd3-Cre mice were injected with AAV5-
+Ef1a-DIO-ChR2-eYFP (Cre-ON) in the mNAcSh and GABA release was evoked 
+from D3R-positive terminals (1-ms pulses). Biophysically isolated oIPSCs were 
+recorded from mNAcSh D1-MSNs. j, Time-course analysis of oIPSCs in mNAcSh 
+MSNs from D3R collaterals before, during and after bath application of SKF-
+12897 (n = 12 cells from 6 mice) or PD-128907 (n = 16 cells from 9 mice; two-way 
+repeated-measures ANOVA: time effect, F(6.474,167.3) = 26.75, P < 0.0001; treatment 
+effect, F(1,26) = 16.74, P = 0.0004; time × treatment, F(19,491) = 7.256, P < 0.0001). 
+Insets show representative traces recorded in mNAcSh MSNs before and after 
+bath application of PD-128907 (blue) or SKF-81297 (green). Note that data 
+using PD-12897 were replicated from Fig. 4 and were, therefore, displayed with 
+different error bars. k, PPR (% baseline) versus oIPSC (% baseline; SKF-12897, 
+n = 12 cells from 6 mice; PD-128907, n = 16 cells from 9 mice; PPR unpaired t-test 
+(two-tailed), t(26) = 2.146; *P = 0.0414; oIPSC amplitude unpaired t-test (two-
+tailed), t(26) = 4.803; ****P < 0.0001). l, Coefficient of variation (1/CV2, % baseline) 
+versus oIPSC (% baseline; SKF-12897, n = 12 cells from 6 mice; PD-128907, n = 16 
+cells from 9 mice; 1/CV2 unpaired t-test (two-tailed), t(26) = 2.271; *P = 0.0317; oIPSC 
+amplitude unpaired t-test (two-tailed), t(26) = 4.803; ****P < 0.0001). m, Diagram 
+of disconnection procedures of D1R and NMDAR function in the mNAcSh. Mice 
+were injected unilaterally with AAV-Syn-GFP-Cre into the mNAcSh of Drd1fl/fl 
+mice. Ipsilateral control and contralateral disconnection groups were infused 
+with AP5 into the ipsilateral and contralateral mNAcSh, respectively. n, Change 
+in active lever presses under an FR1 schedule of reinforcement relative to day 1 
+in ipsilateral (black, n = 8 mice) and contralateral (blue, n = 7 mice) groups. AP5 
+was microinjected on day 2 of FR1 sessions (day 2 unpaired t-test (two-tailed), 
+t(13) = 6.001; ***P = 0.0003). All data are presented as the mean ± s.e.m. Error bars 
+indicate the s.e.m. Schematics were generated using BioRender.com.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+local microcircuits to promote effort-based motivation to run and oper-
+ant responding. Conversely, mNAcSh D1R, but not D3R, cKO impairs 
+instrumental conditioning via interactions with NMDARs. These find-
+ings indicate that the effects of DA on mNAcSh MSNs are more complex 
+than canonical models of striatal function where D1Rs and D2Rs are 
+largely segregated. We propose a model wherein DA signaling at distinct 
+receptors (D3R and D1R) within a single cell type differentially mediates 
+motivation and reinforcement.
+Integration of genetic and pharmacological manipulations 
+enabled us to isolate the roles of mNAcSh D3R signaling in reward 
+function, overcoming limitations of previous pharmacological and 
+constitutive knockout approaches. mNAcSh D3RcKO disrupts moti-
+vation as assessed by decreased break points in operant responding 
+under PR schedules and biased choice for low-effort rewards versus 
+high-effort rewards, consistent with a loss in motivation. Hunger-driven 
+food-seeking behavior was unaffected in NAc-D3RcKO mice, suggesting 
+Drd1-tdTomato
+mNAcSh
+MNI-glutamate
+356 nm LED
+ mNAcSh D1-MSN
+BL 
+SKF-81297
+AP5
+50 ms
+50 pA
+BL
+PD-128907
+WT or Drd1fl/fl 
+Bilateral NAc
+AAV-GFP-Cre 
+Bilateral LH or VTA
+CTB-594 
+mNAcSh
+GFP+/CTB+–MSN 
+Drd1-tdTomato/Drd3-Cre
+AAV-DIO-ChR2-eYFP
+mNAcSh D1-MSN
+a
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+1/CV2 (% baseline)
+D3R
+D1R
+200 µm
+0
+50
+100
+150
+0
+50
+100
+150
+oIPSC (% baseline)
+PPR (% baseline)
+D3R
+D1R
+LH
+VTA
+mNAcSh
+b
+c
+d
+**
+**
+****
+e
+f
+g
+h
+i
+j
+k
+****
+****
+l
+m
+M
+V
+M
+V
+M
+V
+BL
+SKF
+20 pA
+50 ms
+BL
+SKF
+20 pA
+50 ms
+0
+5
+10
+15
+80
+100
+120
+140
+160
+SKF-81297 
+Time (min)
+MNI-evoked INMDAR (% baseline)
+WT
+Drd1a
+fl/fl
+CTB
+DAPI
+CTB
+GFP
+D3-MSN
+GABA
+NAc
+SKF
+SCH
++ 
+SKF
+PD
+0
+50
+100
+150
+200
+MNI-evoked INMDAR (% baseline)
+WT
+Drd1afl/fl
+0
+40
+80
+120
+160
+MNI-evoked INMDAR  (% baseline)
+CTB
+DAPI
+0
+5
+10
+15
+80
+100
+120
+140
+160
+SKF or PD
+Time (min)
+MNI-evoked INMDAR (% baseline)
+SCH-39166 + SKF
+SKF-81297
+PD-128907
+SCH-39166
+50 ms
+50 pA
+SKF or PD
+BL
+PD
+0
+5
+10
+15
+20
+60
+80
+100
+120
+Time (min)
+oIPSC amplitude (% baseline)
+D3R
+D1R
+Ipsilateral
+(control group)
+Contralateral disconnection
+(experimental group)
+AAV-GFP-Cre
+AP5
+AAV-GFP-Cre
+AP5
+Drd1fl/fl mice
+n
+1
+2
+3
+4
+0
+20
+40
+60
+80
+100
+FR1
+Change in active lever presses
+Ipsilateral
+control
+Contralateral
+experimental
+AP5
+BL
+SKF
+BL
+SCH-39166 + SKF
+50 ms
+50 pA
+50 ms
+50 pA
+*
+*
+***
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+mNAcSh D3Rs regulate effort-based motivation but not homeostatic 
+drive. We also utilized running to demonstrate that mNAcSh D3Rs 
+regulate the motivational component of a non-food-based rewarding 
+stimulus. mNAcSh D3R signaling was necessary for promoting running 
+on a novel wheel during mice’s inactive cycle and in a choice task during 
+the active cycle, but not general locomotor activity or wheel running 
+under the control of diurnal cycle shifts. Accordingly, mNAcSh DA 
+signaling underlies motivation to exercise46. These results support 
+the hypothesis that D3Rs regulate the activational components of 
+motivation, including effort, persistence and/or vigor1,7,47. This is of 
+relevance because physical activity and effort, or lack thereof, are 
+linked to fluctuations in motivation in neuropsychiatric diseases48.
+Our study indicates that DA acting on presynaptic D3Rs inhibits 
+GABAergic transmission from local MSN collaterals, potentially disin-
+hibiting MSNs and activating downstream targets to enhance motiva-
+tion. This advances our understanding of the behavioral relevance 
+of mNAcSh collateral connections in regulating behavior36,49. D3R 
+expression follows a ventromedial (highest) to dorsolateral (lowest) 
+gradient across the ventral striatum50 (Extended Data Fig. 3b). However, 
+it is unclear whether this explains differences in modulation of moti-
+vation across the ventromedial to dorsolateral striatal gradient4,7,51. 
+NAc D1-MSNs collaterals also co-release dynorphin and substance P 
+neuropeptides, which display a ventromedial to dorsolateral striatal 
+gradient4. Dynorphin and substance P mediate appetitive or avoid-
+ance behaviors when acting in the dorsal or ventral mNAcSh52,53. D3R 
+constitutive knockout mice display enhanced prodynorphin gene 
+expression54. Thus, D3R signaling may regulate reward through regula-
+tion of GABA and neuropeptides, which have distinct striatal gradients 
+and spatiotemporal profiles. Additionally, D3Rs may regulate different 
+aspects of D1-MSN physiology, such as intrinsic excitability16, within 
+the mNAcSh. Whether these physiological actions of D3R signaling 
+are also important for regulating reward function is presently unclear.
+Despite classical definitions of striatal MSNs by single DA receptor 
+subtypes9, we found that most mNAcSh D1-MSNs coexpress Drd3, sug-
+gesting D3Rs complement D1R function. In contrast, only a subset of 
+D2-MSNs express Drd3 and at lower levels than D1-MSNs. Coexpression 
+of Drd3 and Drd1 in mNAcSh D1-MSNs might enable these cells to trans-
+form DA signaling into distinct cellular outcomes and behaviors. Elec-
+tron microscopy shows colocalization of D1Rs and NMDARs colocalize 
+in the somatodendritic compartment of mNAcSh MSNs55, consistent 
+with the present and previous electrophysiological findings showing 
+that D1Rs, but not D3Rs, potentiate NMDA receptor currents11,45. Fur-
+ther, presynaptic D3R, but not D1R, signaling inhibits GABA release 
+from MSN collaterals. This dissociation suggests that functional D1R 
+and D3R may be localized to distinct subcellular compartments not 
+explored in the present study. Even if D1Rs and D3Rs both regulate 
+common MSN physiological substrates, D3Rs and D1Rs are coupled to 
+inhibitory Gi and stimulatory Gs proteins, respectively15, likely exerting 
+differential effects on MSN physiology. D3Rs have 100-fold greater 
+affinity for DA than D1Rs9,15. Preferential engagement of D3R at low 
+concentrations and activation of D1Rs at higher concentrations has 
+potential implications for the role of distinct spatiotemporal profiles 
+(for example, tonic and ramping versus phasic DA release) in regulating 
+distinct cellular functions and potentially distinct features of reward. 
+Further studies could clarify how tonic and phasic DA release interact 
+with D3R and D1R signaling to regulate motivation and reinforcement.
+We found that D1Rs acting on postsynaptic NMDAR-mediated 
+currents are critical for reinforcement of reward-seeking behavior. DA 
+acting via D1Rs permit D1-MSNs to integrate representations carried by 
+coincidentally active excitatory afferent inputs via NMDA-dependent 
+plasticity and changes in excitability11, strengthening representations 
+conveyed by upstream excitatory neuronal ensembles converging 
+on individual D1-MSNs to support execution of reinforced operant 
+behavior and active avoidance. Despite dissociable effects of D1R 
+and D3R signaling on reinforcement and motivation, it is unclear if 
+D1Rs modulate other aspects of motivation. This could contribute 
+to deficits during early phases of operant training and the marginal, 
+non-significant effects seen on wheel-running and disk-running 
+tasks in mNAcSh D1RcKO mice. Furthermore, a subset of D2-MSNs 
+coexpresses D3Rs, and D3Rs may modulate synaptic transmission 
+from collaterals or terminals in VP arising from D2R/D3R-positive 
+NAc cells. D3R signaling may complement D2R action, whose sup-
+pression on D2 MSN collaterals are implicated in drug reward, loco-
+motion and obesity56,57. D3R expression in mNAcSh MSNs provides 
+additional effectors for DA transmission to influence circuit function 
+and reward-related behavior.
+In conclusion, our work refines our circuit-level understanding on 
+how DA signaling in the mNAcSh is translated into dissociable aspects 
+of motivated running, instrumental behavior and active avoidance via 
+coexpressed D3Rs and D1Rs in MSNs. This provides a new description of 
+separable control of reward and physiological features by DA within the 
+same cell type. Psychiatric and neurological disorders are characterized 
+by dysfunctional or amplified motivation and/or reinforcement. The 
+present study provides insights into how dysfunction in DA release and/
+or signaling in brain disorders may impact specific reward domains via 
+mNAcSh D1Rs and D3Rs, providing potential reward feature-specific 
+therapeutic targets.
+Online content
+Any methods, additional references, Nature Portfolio reporting sum-
+maries, source data, extended data, supplementary information, 
+acknowledgements, peer review information; details of author con-
+tributions and competing interests; and statements of data and code 
+availability are available at https://doi.org/10.1038/s41593-024-01819-9.
+References
+1.	
+Wise, R. A. Dopamine, learning and motivation. Nat. Rev. Neurosci. 
+5, 483–494 (2004).
+2.	
+Volkow, N. D., Wise, R. A. & Baler, R. The dopamine motive system: 
+implications for drug and food addiction. Nat. Rev. Neurosci. 18, 
+741–752 (2017).
+3.	
+Russo, S. J. & Nestler, E. J. The brain reward circuitry in mood 
+disorders. Nat. Rev. Neurosci. 14, 609–625 (2013).
+4.	
+Castro, D. C. & Bruchas, M. R. A motivational and 
+neuropeptidergic hub: anatomical and functional diversity 
+within the nucleus accumbens shell. Neuron 102, 529–552 
+(2019).
+5.	
+Berke, J. D. What does dopamine mean? Nat. Neurosci. 21,  
+787–793 (2018).
+6.	
+Mohebi, A., Wei, W., Pelattini, L., Kim, K. & Berke, J. D. Dopamine 
+transients follow a striatal gradient of reward time horizons.  
+Nat. Neurosci. 27, 737–746 (2024).
+7.	
+Jong, J. W. D., Fraser, K. M. & Lammel, S. Mesoaccumbal 
+dopamine heterogeneity: what do dopamine firing and release 
+have to do with it? Annu. Rev. Neurosci. 45, 109–129 (2022).
+8.	
+Liu, C., Goel, P. & Kaeser, P. S. Spatial and temporal scales  
+of dopamine transmission. Nat. Rev. Neurosci. 22, 345–358 
+(2021).
+9.	
+Gerfen, C. R. & Surmeier, D. J. Modulation of striatal projection 
+systems by dopamine. Annu. Rev. Neurosci. 34, 441–466 (2011).
+10.	 Lee, S. J. et al. Cell-type-specific asynchronous modulation of PKA 
+by dopamine in learning. Nature 590, 451–456 (2021).
+11.	
+Shen, W., Flajolet, M., Greengard, P. & Surmeier, D. J. Dichotomous 
+dopaminergic control of striatal synaptic plasticity. Science 321, 
+848–851 (2008).
+12.	 Iino, Y. et al. Dopamine D2 receptors in discrimination learning 
+and spine enlargement. Nature 579, 555–560 (2020).
+13.	 Schwartz, J. C. et al. The dopamine D3 receptor in nucleus 
+accumbens: selective cellular localisation, function and 
+regulation. Eur. Neuropsychopharmacol. 4, 190–191 (1994).
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+14.	 Sokoloff, P., Giros, B., Martres, M.-P., Bouthenet, M. -L. &  
+Schwartz, J.-C. Molecular cloning and characterization of a novel 
+dopamine receptor (D3) as a target for neuroleptics. Nature 347, 
+146–151 (1990).
+15.	 Beaulieu, J.-M. & Gainetdinov, R. R. The physiology, signaling, 
+and pharmacology of dopamine receptors. Pharmacol. Rev. 63, 
+182–217 (2011).
+16.	 Manvich, D. F. et al. Selective D2 and D3 receptor antagonists 
+oppositely modulate cocaine responses in mice via 
+distinct postsynaptic mechanisms in nucleus accumbens. 
+Neuropsychopharmacology 44, 1445–1455 (2018).
+17.	 Song, R. et al. Increased vulnerability to cocaine in mice  
+lacking dopamine D3 receptors. Proc. Natl Acad. Sci. USA 109, 
+17675–17680 (2012).
+18.	 Simpson, E. H. et al. Selective overexpression of dopamine D3 
+receptors in the striatum disrupts motivation but not cognition. 
+Biol. Psychiatry 76, 823–831 (2014).
+19.	 Shin, S. et al. Drd3 signaling in the lateral septum mediates  
+early life stress-induced social dysfunction. Neuron 97,  
+195–208 (2018).
+20.	 Pribiag, H. et al. Ventral pallidum DRD3 potentiates a 
+pallido-habenular circuit driving accumbal dopamine release and 
+cocaine seeking. Neuron 109, 2165–2182 (2021).
+21.	 Ridray, S. et al. Coexpression of dopamine D1 and D3 receptors 
+in islands of Calleja and shell of nucleus accumbens of the rat: 
+opposite and synergistic functional interactions. Eur. J. Neurosci. 
+10, 1676–1686 (1998).
+22.	 Meijer, J. H. & Robbers, Y. Wheel running in the wild. Proc. Biol. Sci. 
+281, 20140210 (2014).
+23.	 Greenwood, B. N. et al. Long-term voluntary wheel running is 
+rewarding and produces plasticity in the mesolimbic reward 
+pathway. Behav. Brain Res. 217, 354–362 (2011).
+24.	 Greenwood, B. N. & Fleshner, M. Voluntary wheel running: a 
+useful rodent model for investigating the mechanisms of stress 
+robustness and neural circuits of exercise motivation. Curr. Opin. 
+Behav. Sci. 28, 78–84 (2019).
+25.	 Garland, T. Jr et al. The biological control of voluntary exercise, 
+spontaneous physical activity and daily energy expenditure in 
+relation to obesity: human and rodent perspectives. J. Exp. Biol. 
+214, 206–229 (2011).
+26.	 Basso, J. C. & Morrell, J. I. The medial prefrontal cortex and 
+nucleus accumbens mediate the motivation for voluntary  
+wheel running in the rat. Behav. Neurosci. 129, 457–472  
+(2015).
+27.	 Salamone, J. D. et al. Haloperidol and nucleus accumbens 
+dopamine depletion suppress lever pressing for food but increase 
+free food consumption in a novel food choice procedure. 
+Psychopharmacology 104, 515–521 (1991).
+28.	 Baldo, B. A. & Kelley, A. E. Discrete neurochemical coding of 
+distinguishable motivational processes: insights from nucleus 
+accumbens control of feeding. Psychopharmacology 191, 
+439–459 (2007).
+29.	 Kupchik, Y. M. et al. Coding the direct/indirect pathways by D1 
+and D2 receptors is not valid for accumbens projections. Nat. 
+Neurosci. 18, 1230–1232 (2015).
+30.	 Tejeda, H. A. et al. Pathway- and cell-specific kappa-opioid 
+receptor modulation of excitation-inhibition balance differentially 
+gates D1 and D2 accumbens neuron activity. Neuron 93, 147–163 
+(2017).
+31.	 Baimel, C., McGarry, L. M. & Carter, A. G. The projection targets of 
+medium spiny neurons govern cocaine-evoked synaptic plasticity 
+in the nucleus accumbens. Cell Rep. 28, 2256–2263 (2019).
+32.	 Creed, M., Ntamati, N. R., Chandra, R., Lobo, M. K. & Lüscher, C. 
+Convergence of reinforcing and anhedonic cocaine effects in the 
+ventral pallidum. Neuron 92, 214–226 (2016).
+33.	 Gibson, G. D. et al. Distinct accumbens shell output pathways 
+promote versus prevent relapse to alcohol seeking. Neuron 98, 
+512–520 (2018).
+34.	 Larson, E. B., Wissman, A. M., Loriaux, A. L., Kourrich, S. &  
+Self, D. W. Optogenetic stimulation of accumbens shell or shell 
+projections to lateral hypothalamus produce differential effects 
+on the motivation for cocaine. J. Neurosci. 35, 3537–3543 (2015).
+35.	 Lovinger, D. M. et al. Local modulation by presynaptic receptors 
+controls neuronal communication and behaviour. Nat. Rev. 
+Neurosci. 23, 191–203 (2022).
+36.	 Burke, D. A., Rotstein, H. G. & Alvarez, V. A. Striatal local  
+circuitry: a new framework for lateral inhibition. Neuron 96, 
+267–284 (2017).
+37.	 Dobbs, L. K. et al. Dopamine regulation of lateral inhibition 
+between striatal neurons gates the stimulant actions of cocaine. 
+Neuron 90, 1100–1113 (2016).
+38.	 Moritz, A. E. et al. Discovery, optimization, and characterization 
+of ML417: a novel and highly selective D3 dopamine receptor 
+agonist. J. Med. Chem. 63, 5526–5567 (2020).
+39.	 Khaled, M. A. T. M., Pushparaj, A., Di Ciano, P., Diaz, J. & Le Foll, 
+B. Dopamine D3 receptors in the basolateral amygdala and the 
+lateral habenula modulate cue-induced reinstatement of nicotine 
+seeking. Neuropsychopharmacology 39, 3049–3058 (2014).
+40.	 Gao, C. et al. Molecular and spatial profiling of the paraventricular 
+nucleus of the thalamus. eLife 12, e81818 (2023).
+41.	 Clarkson, R. L., Liptak, A. T., Gee, S. M., Sohal, V. S. & Bender, K. J. 
+D3 Receptors regulate excitability in a unique class of prefrontal 
+pyramidal cells. J. Neurosci. 37, 5846–5860 (2017).
+42.	 Calipari, E. S. et al. In vivo imaging identifies temporal signature 
+of D1 and D2 medium spiny neurons in cocaine reward. Proc. Natl 
+Acad. Sci. USA 113, 2726–2731 (2016).
+43.	 Badrinarayan, A. et al. Aversive stimuli differentially modulate 
+real-time dopamine transmission dynamics within the nucleus 
+accumbens core and shell. J. Neurosci. 32, 15779–15790 (2012).
+44.	 Bravo-Rivera, C., Roman-Ortiz, C., Brignoni-Perez, E., 
+Sotres-Bayon, F. & Quirk, G. J. Neural structures mediating 
+expression and extinction of platform-mediated avoidance.  
+J. Neurosci. 34, 9736–9742 (2014).
+45.	 Cahill, E. et al. D1R/GluN1 complexes in the striatum integrate 
+dopamine and glutamate signalling to control synaptic plasticity 
+and cocaine-induced responses. Mol. Psychiatry 19, 1295–1304 
+(2014).
+46.	 Dohnalová, L. et al. A microbiome-dependent gut–brain pathway 
+regulates motivation for exercise. Nature 612, 739–747 (2022).
+47.	 Salamone, J. D., Yohn, S. E., López-Cruz, L., San Miguel, N. & 
+Correa, M. Activational and effort-related aspects of motivation: 
+neural mechanisms and implications for psychopathology. Brain 
+139, 1325–1347 (2016).
+48.	 Ashdown-Franks, G. et al. Exercise as medicine for mental and 
+substance use disorders: a meta-review of the benefits for 
+neuropsychiatric and cognitive outcomes. Sports Med. 50, 
+151–170 (2020).
+49.	 Wilson, C. J. GABAergic inhibition in the neostriatum. Prog. Brain 
+Res. 160, 91–110 (2007).
+50.	 Lammers, C. H., Diaz, J., Schwartz, J. C. & Sokoloff, P. Dopamine 
+D3 receptor gene expression in the shell of nucleus accumbens is 
+increased by chronic antidepressant treatment. Mol. Psychiatry 5, 
+229 (2000).
+51.	 Saunders, B. T., Richard, J. M., Margolis, E. B. & Janak, P. H. 
+Dopamine neurons create Pavlovian conditioned stimuli with 
+circuit-defined motivational properties. Nat. Neurosci. 21, 
+1072–1083 (2018).
+52.	 Al-Hasani, R. et al. Distinct subpopulations of nucleus accumbens 
+dynorphin neurons drive aversion and reward. Neuron 87, 
+1063–1077 (2015).
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+53.	 Belilos, A. et al. Nucleus accumbens local circuit for 
+cue-dependent aversive learning. Cell Rep. 42, 113488  
+(2023).
+54.	 Zhang, L. et al. Cocaine-induced intracellular signaling  
+and gene expression are oppositely regulated by the  
+dopamine D1 and D3 receptors. J. Neurosci. 24, 3344–3354 
+(2004).
+55.	 Hara, Y. & Pickel, V. M. Overlapping intracellular and differential 
+synaptic 1445 distributions of dopamine D1 and glutamate 
+N-methyl-d-aspartate receptors in rat 1446 nucleus accumbens.  
+J. Comp. Neurol. 492, 442–455 (2005).
+56.	 Lemos, J. C. et al. Enhanced GABA transmission drives 
+bradykinesia following loss of dopamine D2 receptor signaling. 
+Neuron 90, 824–838 (2016).
+57.	 Friend, D. M. et al. Basal ganglia dysfunction contributes to 
+physical inactivity in obesity. Cell Metab. 25, 312–321 (2017).
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+This is a U.S. Government work and not under copyright protection in 
+the US; foreign copyright protection may apply 2024
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Methods
+Subjects
+All procedures were approved by the National Institute of Mental 
+Health (NIMH) Animal Care and Use Committee. For every experi-
+ment, adult female and male mice (aged 8–20 weeks at the start of 
+experiments) were used throughout the study. No significant differ-
+ences were found between both sexes, therefore, data were pooled 
+to complete final group sizes. DA D3 receptor-IRES-Cre (Drd3-Cre) 
+(Tg(Drd3-cre)KI196Gsat/Mmucd, GENSAT, KI196, a gift from C. Gerfen) 
+and Drd3-Cre crossed with Ai14-tdTomato reporter mice (Drd3-Cre/
+Ai14; JAX, 007914) were made congenic with a C57BL/6J background 
+and were used for anatomical characterization and electrophysiologi-
+cal experiments. Drd3fl/fl mice (kindly provided by Z. Freyberg) were 
+also bred on a C57/BL6J background and were used for behavioral 
+experiments. Drd1fl/fl mice were acquired from The Jackson Labora-
+tory (JAX, 025700). Drd1-tdTomato mice were acquired from Jackson 
+Laboratories (JAX, 016204) and Drd1-tdTomato/Drd3-Cre mice were 
+bred in NIMH facilities. C57/BL6J mice (JAX, 000664) is the strain used 
+when referring to WT controls. Drd3-Cre mice were heterozygous for 
+Cre recombinase.
+For the generation of Drd3fl/fl mice, loxP elements were inserted 
+flanking the transcriptional start site in exon 1 of Drd3 (Extended 
+Data Fig. 1a). Specifically, a targeting vector was designed via recom-
+bineering as described previously58,59. We first retrieved approxi-
+mately 12.2 kb of Drd3 genomic sequence encompassing 8.3 kb of 
+the 5′-upstream region preceding exon 1 through 3.5 kb of the intron 
+1 sequence from the BAC, RP24-135K7. This genomic sequence was 
+inserted into a pDTA vector containing the PGK-DTA negative selecta-
+ble marker by gap repair. We then inserted the 5′ loxP site approxi-
+mately 4 kb upstream of the Drd3 transcriptional start site in exon 1 
+followed by insertion of Frt-PGFneo-Frt-LoxP approximately 500 bp 3′ 
+downstream of exon 1. The final vector contains 5′ and 3′ arms of 4.2 kb 
+and 3.2 kb, respectively. The vector was then linearized by NotI diges-
+tion, purified and electroporated into mouse embryonic stem (ES) 
+cells derived from an F1 (129Sv/C57BL/6J) blastocyst. Electroporated 
+cells were cultured in the presence of G418 48 h after electroporation 
+to select for cells with successful genomic integration of our construct. 
+G418-resistant colonies were subsequently picked and screened by 
+long-range PCR using primers corresponding to sequences outside 
+the arms and specific to the 5′ and 3′ loxP sites to identify targeted ES 
+clones. Targeted ES clones were then expanded and further analyzed 
+by long-range PCR for confirmation before using them for ES–morula 
+aggregation to generate chimeric animals. The resulting chimeric 
+mice were then bred with ROSA26-FlpoER mice to remove the PGKneo 
+cassette to generate the final Drd3fl/fl mice. These Drd3fl/fl mice were 
+then made congenic with the C57BL/6J genetic background via back-
+crossing for ten generations (N10). For PCR genotyping, the following 
+primers were used: Drd3 Lox gtF 5′-TGAGACTAAGCAGCGTCCAC-3′, 
+Drd3 Lox gtR 5′-CTCTGAGTTAGATCTCCCCAGC-3′ for WT 372 bp/
+floxed 468 bp and Drd3 Frt gtF 5′-GCTGGCTCTCCATAGATTCTGC-3′, 
+Drd3 Frt gtR 5′-CTTGAACAGATGTAGGCACCCTG-3′ for WT 254 bp/
+floxed 347 bp.
+Mice were group housed (2–5 mice per cage) in temperature- 
+controlled (21–24 °C) and humidity-controlled (40–65%) facilities 
+and maintained on a reverse 12-h light/12-h dark cycle with lights off at 
+08:00. All mice were maintained in filter-topped cages and provided 
+food and water ad libitum, except for animals undergoing testing in 
+operant procedures. Single housing was necessary for experiments 
+requiring food restriction (operant conditioning) or acclimation to 
+behavioral tasks (wheel-running experiments) and is explicitly denoted 
+in those cases. All purchased mice were kept in the local animal facility 
+for at least 1 week following delivery before initiating experimental 
+procedures. Mice were monitored for health status daily and before 
+experimentation for the entirety of the study. All efforts were made to 
+minimize pain and distress and the number of mice used.
+Viral constructs
+Recombinant AAVs and type 2 canine adenoviruses (CAV2) were imple-
+mented to allow expression of transgenes of interest. AAVs were pur-
+chased from Addgene, the NIDA Genetic Engineering and Viral Vector 
+Core, Boston Children’s Viral Vector Core and UNC Viral Vector Core. 
+CAV2 was acquired from the Institut de Génétique Moléculaire de 
+Montpellier. All constructs were aliquoted and stored at −80 °C. Titers 
+ranged from 1012 to 1013 genomic copies per ml. Specific details on each 
+viral construct can be found in Supplementary Table 2.
+Stereotaxic surgeries and optical fiber/guide cannula 
+implantation
+All surgeries were conducted under aseptic conditions, and body 
+temperature was maintained at approximately 36 °C with a heating 
+pad. Mice, at 8–16 weeks of age, were anesthetized with a mixture 
+of ketamine (100 mg per kg body weight; intraperitoneal injection) 
+and xylazine (10 mg per kg body weight; intraperitoneal injection) as 
+confirmed by complete absence of flinching response to pinch. The 
+animal’s head was shaved, and ophthalmic ointment (GenTeal) was 
+applied to the eyes to prevent drying. Mice were subsequently placed 
+in a stereotaxic apparatus (David Kopf Instruments Model 1900) 
+and the surgical site was exposed using a sterile scalpel after clean-
+ing with povidone–iodine and 70% ethanol. The mouse’s head was 
+leveled by ensuring the difference in dorsoventral distance between 
+bregma and lambda was within 50 µm. A small craniotomy window 
+was then made above the injection site with a stereotax-mounted 
+drill. The following injection coordinates were used: [anteropos-
+terior (AP) and mediolateral (ML) relative to bregma; dorsoven-
+tral (DV) relative to dura mater at target coordinate]: mNAcSh (AP: 
++1.40 mm; ML: ±1.65 mm; DV −4.50 mm, 12° angle toward midline), 
+VP (AP: +0.40 mm; ML: ±1.35 mm; DV −5.35 mm), LH (AP: −1.35 mm; 
+ML: ±1.10 mm; DV −5.25 mm), VTA (AP: −3.30 mm; ML: ±1.85 mm; 
+DV −4.60 mm, 14° angle). Infusions (300 nl) were made at a rate of 
+100 nl min−1 utilizing 29-gauge microinjection needles connected to 
+FEP tubing secured to a 2 µl Hamilton syringe and a microinjection 
+pump (UMP3, World Precision Instruments). The infusion system 
+was filled with distilled water and separated from the infused virus or 
+drug by a small air bubble. The injector tip was first lowered 100 µm 
+deeper than the target DV coordinate and then raised to the planned 
+coordinate before infusion to facilitate viral diffusion at the site of 
+injection, instead of along the needle track. After infusion, the injec-
+tor was kept for 8 min at the injection site to allow for diffusion and 
+was then slowly withdrawn.
+For cKO of Drd1 or Drd3 in the mNAcSh, homozygous Drd1fl/fl 
+or Drd3fl/fl mice received bilateral injections of AAV8-hSyn-GFP-Cre 
+(4.50 × 1012 genome copies (GCs) per ml) or AAV1-EF1α-eGFP; WT mice 
+were used as controls.
+For anatomical tracing experiments, Drd3-Cre mice were injected 
+with AAV2/9-phSyn1(S)-FLEX-tdTomato-T2A-synaptophysin-EGFP or 
+AAV1-Syn-FLEX-Chrimson-tdTomato (4.10 × 1012 GCs per ml) into the 
+mNAcSh to characterize downstream projections and terminals of 
+mNAcSh D3R-containing neurons.
+For pathway-specific deletion of mNAcSh Drd3, CAV-Flp-GFP 
+(1.05 × 1013 GCs per ml) was delivered to the VP, LH or VTA and a mix-
+ture of AAV5-EF1α-fDIO-Cre (5.00 × 1012 GCs per ml) and AAV1-CAG- 
+FLEX-tdTomato (5.90 × 1012 GCs per ml) was delivered to the mNAcSh 
+at a ratio of 9 to 1, respectively.
+For validation of lack of toxicity induced by CAV infection, 
+CAV-Flp-GFP (1.05 × 1013 GCs per ml) was injected into the VTA.
+For electrophysiological studies examining Drd3-expressing 
+MSN connectivity and D3R modulation of synaptic transmis-
+sion, Drd1-tdTomato/Drd3-Cre mice received bilateral injections 
+of AAV5-EF1α-DIO-ChR2(H134R)-eYFP (4 × 1012 GCs per ml) or AAV1- 
+EF1α-DO-hChR2(H134R)-eYFP (5.88 × 1012 GCs per ml) targeting 
+the mNAcSh.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+For drug microinjection experiments, mice were bilaterally 
+implanted with stainless-steel guide cannulas (26-gauge, 3.5 mm in 
+length, P1 Technologies) 1 mm above the mNAcSh (AP: +1.40 mm; ML: 
+±1.65 mm; DV −3.50 mm from dura, 12° angle toward midline). Guide 
+cannulas were then secured to the skull using MetaBond cement, and 
+dummy cannulas were used to maintain cannula patency and removed 
+only during the injection period.
+For disconnection procedures, Drd3fl/fl or Drd1fl/fl mice were 
+injected with AAV8-Syn-GFP-Cre and implanted with a guide can-
+nula above the mNAcSh in the same hemisphere (ipsilateral group) 
+or injected with virus and implanted with the guide cannula in the 
+contralateral hemisphere (contralateral group).
+For validation of the Drd1fl/fl line, Drd1fl/fl mice received bilateral 
+injections of CTB-594 in PBS (1.0 mg ml–1, Thermo Fisher) in either LH 
+or VTA brain regions.
+For chemogenetic inhibition experiments, Drd3-Cre mice 
+received bilateral injections of AAV1-EF1α-DIO-hM4D(Gi)-mCherry 
+in the mNAcSh to inhibit Drd3-expressing mNAcSh MSNs. 
+AAV5-hSyn-DIO-mCherry (1.2 × 1013 GCs per ml) was used for control 
+groups.
+For slice experiments using the cADDis sensor to record the cAMP 
+responses in NAc MSNs, Drd3-Cre mice were bilaterally injected with 
+300 nl of AAV1-hSyn-DIO-cADDis (diluted 2× in PBS) in the mNAcSh 
+using glass pipettes (30–50 µm diameter at the tip).
+Following all surgical procedures, incisions were closed using 
+VetBond (3M) or surgical staples. Mice were allowed to recover from 
+anesthesia in heating pads until they showed regular breathing and 
+locomotion, at which point they were transferred back to the vivarium. 
+Animals received subcutaneous injections of ketoprofen (5 mg per kg 
+body weight) for three consecutive days for postoperative analgesia 
+and anti-inflammatory purposes. Experiments involving the use of 
+AAVs were initiated 3–4 weeks after injection, 3 weeks for CAV2-Flp-GFP 
+and 7 days for retrobead and CTB injection procedures.
+Anatomical characterization of Drd3-expressing MSNs
+RNAscope fluorescence in situ hybridization. Multiplex fluorescence 
+in situ hybridization (RNAscope, Advanced Cell Diagnostics) was used 
+to detect the expression of Drd1, Drd2, Drd3 and Cre mRNAs in the NAc 
+of adult WT and Drd3fl/fl mice. For all RNAscope procedures, tools, slides 
+and equipment were cleaned with 70% ethanol and RNase inhibitors 
+(RNAZap, Invitrogen) before use. Mice were euthanized by cervical 
+dislocation, brains were rapidly dissected and flash frozen for 20 s in 
+50 ml of 2-methylbutane chilled on dry ice. Subsequently, brains were 
+stored at −80 °C until sectioning. Next, 16-µm slices containing the 
+NAc were obtained using a cryostat (CM3050 S; Leica Biosystems) at 
+−20 °C and thaw-mounted onto Superfrost microscope slides (Fischer 
+Scientific) in a series of four slides. Slides containing sections were 
+stored at −80 °C until in situ hybridization processing. Drd1, Drd2, Drd3 
+or Cre mRNA signal was detected using the RNAscope fluorescent kit 
+following the ACDBio manual60. Briefly, slides containing the NAc were 
+removed from −80 °C, fixed with prechilled 4% paraformaldehyde (PFA) 
+for 20 min at 4 °C, and subsequently washed twice for 1 min with PBS, 
+before gradual dehydration with 50% ethanol (1 × 5 min), 70% ethanol 
+(1 × 5 min) and 100% ethanol (2 × 5 min). Next, slides were air-dried at 
+room temperature for 10 min and a hydrophobic barrier was drawn 
+around the slides using a hydrophobic pen (Vector Laboratories). Sec-
+tions were then incubated with Protease Pretreat-IV solution for 20 min 
+at room temperature. Slides were washed with double-distilled water 
+(2 × 1 min), before being incubated with the appropriate probes for 2 h 
+at 40 °C in the HybEZ oven (Advanced Cell Diagnostics) and undergoing 
+hybridization. Probes used were purchased from Advanced Cell Diag-
+nostics as follows: Mm-Drd1-C1 (nucleotide target region 444–1358; 
+accession no. NM_010076.3), Mm-Drd2-C2 (nucleotide target region 
+69–1175; accession no. NM_010077.2), Mm-Drd3-C3 (nucleotide tar-
+get region 23–1253; accession no. NM_007877.1), Cre recombinase 
+(nucleotide target region 2–972; accession no. not applicable). Probes 
+were warmed up to 40 °C in a water bath until use.
+Slides were washed in wash buffer twice for 2 min, before being 
+incubated with three drops of amplification 1 buffer, amplification 
+2 buffer, amplification 3 buffer and amplification 4-Alt A/C buffer at 
+40 °C in the HybEZ oven for 30, 15, 30 and 15 min, respectively. Slides 
+were washed in wash buffer twice for 2 min. DAPI solution was applied 
+to sections at room temperature for 20 s to label nuclei. Finally, slides 
+were coverslipped using Vectashield Hard Set mounting medium (Vec-
+tor Laboratories). Slides were stored at 4 °C until imaging. z-stacked 
+images including the NAc core and mNAcSh were acquired using an 
+A1R confocal microscope (Nikon) with a ×20 objective. This produced 
+a tiled image containing the entirety of the NAc that was used for quan-
+tification. The following combinations of laser excitation and emission 
+filters were used for various fluorophores: DAPI (405 nm excitation; 
+450/30 nm emission), eGFP (491 nm laser excitation; 528/38 nm emis-
+sion), tdTomato (561 nm laser excitation; 586/15 nm emission) and Cy5 
+(647 nm laser excitation; 665/35 nm emission). All samples were imaged 
+with the same settings to allow comparison between samples. Back-
+ground subtraction and thresholds were set uniformly for all images.
+In situ quantification. Image analysis and cell quantification were 
+performed using ImageJ software (Fiji, version 2017) and CellProfiler 
+software (version 3.1.9.; Broad Institute)61,62. To analyze the images, each 
+image was opened in ImageJ and converted to a maximum intensity 
+projection. Images were overlapped onto the Allen Mouse Brain atlas 
+to set boundaries for the NAc core or mNAcSh area to be analyzed. 
+Two to three serial sections (between approximately AP +1.42 and 
++1.21) were analyzed for each mouse. For quantification, images were 
+imported to an automated CellProfiler pipeline that was kept identi-
+cal across samples from the same experiment. Here, only cells with a 
+clear DAPI-positive nucleus were counted, which were then registered 
+and used as markers for individual cells. Regions of interest (ROIs) for 
+analysis were defined as the 3 µm area surrounding the DAPI signal. A 
+blinded experimenter set thresholds for each channel, which deter-
+mines the minimum intensity of fluorescence for a probe to be counted. 
+These thresholds were validated by visual spot-check throughout the 
+image to ensure cells and probes were being appropriately counted. 
+CellProfiler software provided CSV files with the total counts of cells 
+and levels of overlap, which are reported in the data. For quantification 
+of Drd3 mRNA reduction in NAc-D3RcKO, the integrated pixel intensity 
+of the Drd3 signal in each GFP-positive neuron was calculated around 
+the NAc region infected and compared against WT controls. For coex-
+pression of Drd1, Drd2 and Drd3, cells considered as positive consisted 
+of an area within the radius of a DAPI nuclear staining that measured 
+at least ten positive pixels for receptor probes. For the percentage of 
+retrobead-positive cells expressing Drd3 mRNA, retrobead-positive 
+cells contained at least six for retrobead labeling.
+Anterograde tracing of Drd3-expressing mNAcSh MSNs. To examine 
+the projection pattern of Drd3-expressing mNAcSh neurons, 300 nl 
+of AAV1-hSyn1-FLEX-Chrimson-tdTomato or AAV2/9-phSyn1(S)- 
+FLEX-tdTomato-T2A-synaptophysin-EGFP were bilaterally injected into 
+the mNAcSh of Drd3-Cre mice as described above. Mice were perfused 
+3 weeks following viral injection and 50-μm-thick coronal brain slices 
+were prepared. Images were taken at approximately 300-μm intervals 
+from brain regions expressing tdTomato and/or GFP using a Nikon A1R 
+confocal microscope with a ×20 objective. ROIs were labeled relative 
+to bregma based on Paxinos and Franklin’s the Mouse Brain in Stere-
+otaxic Coordinates63. Total integrated fluorescence intensity tdTomato 
+and GFP from each downstream target were quantified using ImageJ 
+with identical pinhole, gain and laser settings. For each brain region, 
+four images were acquired at the same focal point from each animal. 
+No additional post-processing was performed for any of the images 
+analyzed here.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Retrobead retrograde tracing of Drd3-expressing NAc MSNs. 
+C57BL/6J WT mice were injected bilaterally with 200 nl of Red and Green 
+Retrobeads IX (Lumafluor) into the VP, LH or VTA/SNc as described 
+above. Per the manufacturer’s protocol, red retrobeads were injected 
+at a 1:4 dilution and green retrobeads were left undiluted. Seven days 
+after injection, brains were collected and processed for RNAscope 
+procedures as described above.
+Quantitative real-time PCR
+WT and Drd3fl/fl mice expressing Cre recombinase in the mNAcSh were 
+euthanized by cervical dislocation. Brains were rapidly dissected, 
+and 1-mm coronal brain slices containing the ventral striatum were 
+obtained by slicing the brain placed in an iron matrix (Kent Scientific). 
+The NAc was microdissected bilaterally and immediately transferred 
+to microcentrifuge tubes on dry ice; samples were stored at −80 °C for 
+RNA isolation and processing. Total RNA was extracted from dissected 
+NAc samples using the NZY RNA Total Isolation kit (ref. MB13402, 
+Nzytech), and purified mRNA samples were reverse transcribed using 
+the SuperScript IV First-strand cDNA synthesis kit (Thermo Fisher 
+Scientific). Target sequences were amplified from the cDNA using the 
+TaqMan Gene Expression Assay Kit (Thermo Fisher Scientific) and the 
+SYBER Green system (Power SYBR Green PCR Master Mix, Applied Bio-
+systems). All TaqMan probes were purchased from Applied Biosystems 
+and were as follows: Drd1 (Mm02620146_s1), Drd2 (Mm00438545_m1), 
+Drd3 (Mm00432887_m1) and GAPDH (Mm99999915_g1). qPCR was 
+performed using TaqMan Fast Polymerase (Applied Biosystems) in an 
+ABI PRISM 7900HT SDS Real-Time PCR system (Applied Biosystems). 
+Cycling conditions were as follows: initial hold at 95 °C for 20 s; 40 
+cycles of step 1 (95 °C for 1 s); and step 2 (60 °C for 20 s). Samples were 
+run in triplicates, and negative controls were run in parallel. The relative 
+mRNA expression level for each sample was calculated using the ΔΔCt 
+method, where Ct was the cycle threshold for each reaction and GAPDH 
+was used as internal control (DCt = Ct (gene of interest) − Ct (GAPDH)64. 
+Gene expression fold change was calculated by normalizing the value 
+of each sample to the mean of the control samples.
+Histology
+Upon completion of all experiments, mice were deeply anesthetized 
+with euthanasia solution (VedCo), and then transcardially perfused 
+with 40 ml of cold PBS (1×, pH 7.4), followed by 40 ml of cold 4% wt/vol 
+PFA in PBS. Brains were extracted and post-fixed in 4% PFA at 4 °C over-
+night and then cryoprotected in 20% sucrose-PBS for 24 h, followed by 
+30% sucrose-PBS for 24 h, at which point they were stored in PBS or pre-
+pared for sectioning on a cryostat. To this end, brains were embedded 
+on the mounting disk with Tissue-Tek Optimum Cutting Temperature 
+Compound (Sakura Finetek) for freezing over dry ice. Brains were sub-
+sequently placed in the cryostat at −20 °C, and consequently sectioned 
+into 50-μm or 100-μm slices. Slices were mounted on slide glasses with 
+DAPI Fluoromount-G mounting medium (0100-20, Southern Biotech) 
+for visualization on a Nikon A1R confocal microscope (×10 objective, 
+NA 0.45, lasers: 405 nm, 488 nm and 561 nm). Injection sites and optical 
+fiber placements were routinely confirmed in all animals by preparing 
+coronal sections containing the ROI. After histological verification, 
+animals with insufficient transgene expression, off-target transgene 
+expression outside the region of interest by visual inspection and/
+or inaccurate implant placement were excluded from data analyses. 
+A representative scheme of the viral spread for NAc-D3RcKO mice 
+included in this study is included in Extended Data Fig. 1k.
+Immunostaining
+To address the potential toxicity of CAV injection and its impact on 
+VTA DA cell degeneration, we performed immunostaining of TH after 
+unilateral injection of CAV-FlpO-GFP in the VTA (300 nl) of Drd3fl/fl mice. 
+Three weeks after injection, animals were perfused, brains were sliced 
+in a vibratome (Leica VT1200) and sections containing the VTA (50 μm) 
+were collected. Sections were then processed immunohistochemically 
+for visualization of GFP and TH expression. Briefly, sections were rinsed 
+with PBS and incubated for 1 h in PBS supplemented with 4% bovine 
+serum albumin and 0.3% Triton X-100. This was followed by a 48-h incu-
+bation at 4 °C with rabbit anti-TH monoclonal antibody (1:1,000 dilu-
+tion; PelFreez Biologicals, P40101-150) and chicken anti-GFP antibody 
+(1:1,000 dilution; Abcam, ab13970). After being rinsed three times for 
+10 min each in PBS, sections were processed with secondary antibody 
+Donkey anti-rabbit Alexa Fluor 594 (1:500 dilution; Jackson Immu-
+noResearch, 711-585-152) and goat-anti-chicken Alexa Fluor 488 (1:500 
+dilution; Abcam, ab150173) for 2 h at room temperature. Free-floating 
+sections were mounted on coated slides. Slides were exposed in the 
+dark at 4 °C for 1 week before development. TH+ and TH+/GFP+ cells were 
+detected and segmented from images using the Cellpose3 pretrained 
+super-generalist ‘cyto3’ segmentation model (https://www.cellpose.
+org/) followed by manual removal of failed detections as necessary. 
+Integrated density of TH signal was measured using ImageJ with cell 
+outlines exported from Cellpose. The control group comprises VTA 
+sections from mice that had no GFP expression and contralateral VTA 
+sections that had minimal GFP expression.
+Ex vivo electrophysiology
+Slice electrophysiology recordings were performed as previously 
+described30. Briefly, 3 to 8 weeks after surgery, mice were deeply anes-
+thetized with euthanasia (200 mg per kg body weight intraperitoneally; 
+VedCo) and subsequently decapitated after confirmation of absent toe 
+and tail pain reflexes. Brains were rapidly removed and chilled for 2 min 
+in ice-cold NMDG-based slicing solution containing 92 mM NMDG, 
+20 mM HEPES, 25 mM glucose, 30 mM NaHCO3, 2.5 mM KCl, 1.2 mM 
+NaH2PO4, 5 mM sodium ascorbate, 3 mM sodium pyruvate, 2 mM thio-
+urea, 10 mM MgSO4 and 0.5 mM CaCl2 (pH 7.35, 303–306 mOsm) and 
+saturated with 95% O2/5% CO2. Brains were rapidly blocked, dried on 
+filter paper and glued to a platform containing ice-cold NMDG slic-
+ing solution within a vibratome (VT1200, Leica). Coronal sections 
+(300 µm) containing the mNAcSh, VP, LH and VTA were cut at a speed 
+of 0.07 mm s−1 while the brain was submerged in ice-cold NMDG-based 
+slicing solution. Following slicing, sections were kept in a custom-built 
+chamber containing NMDG slicing solution for 7 min at 34 °C. Slices 
+were subsequently transferred to a chamber filled with modified 
+holding artificial cerebrospinal fluid (aCSF) saturated with 95% O2/5% 
+CO2 containing 92 mM NaCl, 20 mM HEPES, 25 mM glucose, 30 mM 
+NaHCO3, 2.5 mM KCl, 1.2 mM NaPO4, 5 mM sodium ascorbate, 3 mM 
+sodium pyruvate, 2 mM thiourea, 10 mM MgSO4 and 0.5 mM CaCl2 
+(pH 7.35, 303–306 mOsm) at room temperature for at least 1 h. Slices 
+remained in this solution for recovery until transferred to the record-
+ing chamber. For recordings, the recording chamber was kept at 31 °C 
+and perfused with a pump (World Precision Instruments) at a flow rate 
+of 1.5–2.0 ml per minute with aCSF containing 126 mM NaCl, 2.5 mM 
+KCl, 1.4 mM NaH2PO4, 1.2 mM MgCl2, 2.4 mM CaCl2, 25 mM NaHCO3 
+and 11 mM glucose (303–305 mOsm) at 31 °C. Cells were visualized 
+with a ×40 water-immersion objective on an Olympus BX5iWI inverted 
+microscope equipped with infrared-differential interference contrast 
+(IR-DIC) optics and epifluorescence (Olympus Corp). Patch pipettes 
+(2–4 MΩ) were pulled from borosilicate glass (G150TF-4, Warner 
+Instruments) and filled with a freshly filtered (0.22-µm syringe filter) 
+cesium-based internal solution containing 117 mM cesium methanesul-
+fonate, 20 mM HEPES, 0.4 mM EGTA, 2.8 mM NaCl, 5 mM TEA-Cl, 4 mM 
+Mg-ATP, 0.4 mM Na-GTP and 5 mM QX-314 (pH 7.35; 280–285 mOsm). 
+Whole-cell access was obtained from individual neurons after acquisi-
+tion of a giga-ohm seal recording. All recordings were made utilizing a 
+Multiclamp 7400B amplifier (Molecular Devices) and data were digi-
+tized at 10 kHz and filtered at 1–2 kHz using a 1440A Digidata Digitizer 
+and Clampex software (Molecular Devices). Series and input resist-
+ances (10–20 MΩ) were monitored online using a −5 mV, 70-ms volt-
+age pulse through the recording electrode. Cells with >20% change in 
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+access resistance were discarded from further analysis. Liquid junction 
+potentials were ≈ −7 mV and were left uncorrected. Data were analyzed 
+offline using Clampfit 10.6 (Molecular Devices).
+To isolate GABAA responses evoked by optogenetic stimulation of 
+Drd3-expressing MSNs, the AMPA receptor antagonist DNQX (10 µM) 
+and NMDAR antagonist D-AP5 (50 µM) were included in the aCSF, and 
+neurons were voltage-clamped at 0 mV. oIPSCs were elicited every 
+10 s by photostimulating ChR2 using two 1-ms pulses of 473-nm LED 
+light (pE-300ultra, CoolLED) separated by a 50-ms interstimulus inter-
+val. ChR2-negative cells were identified by the lack of ChR2 currents 
+evoked by blue-light stimulation. ChR2 currents were characterized by 
+sustained, steady-state currents in response to 1-s blue-light stimula-
+tion with an onset immediately at the start of the laser pulse. Synaptic 
+GABAergic currents in ChR2-negative cells were outward currents 
+that were not sustained for the duration of a 100–1,000-ms blue-light 
+pulse and had a delayed onset beyond the 1 ms optical pulse. Cells 
+that did not show a peak that exceeded baseline noise in this window 
+were counted as nonresponders. Connectivity was calculated as the 
+percentage of cells receiving oIPSCs from mNAcSh Drd3-expressing 
+MSNs. IPSCs were recorded until their amplitudes were stable for at 
+least 5 min, at which point PD-128907 (1 µM), ML417 (1 µM) or SKF-
+81297 (10 µM) were added to the bath for 10 min. After bath applica-
+tion, drugs were washed out for 5 additional minutes. Time-course 
+graphs of the effects of drug application were generated by averaging 
+raw oIPSC measurements in 1-min bins and expressing each point 
+as a percentage of the average of the 5-min baseline. The averaged 
+baseline and 5 min after drug application were used for quantifica-
+tion of modulation of synaptic transmission. PPRs were calculated 
+as the amplitude of the second peak divided by the amplitude of the 
+first peak. It should be noted that ChR2 expression has been docu-
+mented to alter presynaptic release probability65 and, as such, absolute 
+PPR and 1/CV2 values likely do not reflect that absolute physiological 
+state of presynaptic release and may even influence presynaptic D3R 
+modulation. To differentiate between D1-MSNs and D2-MSNs, slices 
+were obtained from Drd1-tdTomato mice and recordings were made 
+from tdTomato-positive (D1-MSNs) or tdTomato-negative (putative 
+D2-MSNs) cells. Because the electrophysiological results from the two 
+MSN populations were similar, data were grouped. Recordings in the 
+VP, LH and VTA were made irrespective of the identity of the cell. sIPSCs 
+were collected in the presence of DNQX (10 µM) and D-AP5 (50 µM) 
+and the last 5 min of baseline and the last 5 min of drug application 
+were used for quantification. Events were filtered online at 1 kHz and 
+counted manually utilizing MiniAnalysis 6.0.3. software (Synaptosoft). 
+At least 100 events per cell were acquired in 6-s blocks and detected 
+using a threshold of 7 pA.
+For the modulation of NMDAR currents, recordings were made at 
+a +40 mV holding potential with DNQX (10 µM), the GABAA receptor 
+antagonist PTX (50 µM) and TTX (1 µM) in the bath to isolate gluta-
+mate uncaging-evoked NMDAR currents and eliminate circuit effects 
+evoked by glutamate uncaging. Glutamate uncaging was achieved by 
+applying a single 150-ms pulse of UV light (356 nm) through the micro-
+scope objective every 20 s to a bath containing MNI-glutamate (50 µM, 
+Tocris, Bioscience). NMDA components were measured as currents 
+20 ms after the peak. LED intensity was chosen to evoke responses at 
+approximately half of maximal amplitude. Evoked NMDAR currents 
+were recorded until their amplitudes were stable for at least 5 min, 
+at which point PD-128907 (1 µM) or SKF-81297 (10 µM) was added to 
+the bath for 10 min. SCH-39166 (1 µM) was already present in the bath 
+to pharmacologically antagonize D1R signaling. Time-course graphs 
+were generated by averaging raw NMDAR measurements in 1-min bins 
+and expressing each point as a percentage of the average of the 5-min 
+baseline. The averaged baseline and last 5 min of drug application 
+were used for quantification. Bath application of AP5 at the end of the 
+experiment abolished glutamate uncaging-evoked currents, confirm-
+ing that evoked currents were mediated by NMDARs. For validation of 
+Drd1 KO, AAV8-Syn-GFP-Cre was injected into the mNAcSh of Drd1fl/fl 
+mice to genetically ablate Drd1, and CTB-594 was delivered in the LH 
+or VTA to visualize putative NAc D1R-expressing MSNs. Whole-cell 
+recordings of NMDAR currents were performed on GFP-positive and 
+CTB-594-positive neurons as detailed above.
+After recordings, images of the recording pipette were acquired 
+for post hoc estimation of recording location using the same camera as 
+above and using a ×4 Nikon objective. For all pharmacological experi-
+ments, one neuron per slice was recorded. In some cases, the slice was 
+transferred to 4% PFA overnight for post hoc imaging on a confocal 
+microscope. The Clampfit suite v10.6 (Molecular Devices) was used 
+for data display, acquisition and storage.
+Two-photon slice imaging
+We sought to address the relationship between D3R function with 
+intracellular cAMP signaling by performing acute brain slice imaging of 
+a cAMP sensor (cADDis) in mNAcSh. Following 3 weeks of viral expres-
+sion, acute slices were prepared as described above, and two-photon 
+fluorescence imaging was performed on an upright multiphoton micro-
+scope (FVMPE-RS, Olympus) using an ×20 1.0-NA objective (Olympus) 
+and GaAsP photomultiplier tube detectors. Fluorescence excitation for 
+imaging was achieved using an infrared femtosecond pulse laser tuned 
+to 920 nm (Spectra Physics X3). Image acquisition was performed 
+using Olympus Fluoview software. The image acquisition frame rate 
+was ~1 Hz for cADDis fluorescence imaging using galvo-galvo scan-
+ning mirrors. Volumetric imaging was used (20 planes, 5 µm between 
+planes) to sample more cells and correct for any z-drift during imag-
+ing. During imaging, slices were continuously superfused (flow rate, 
+2–5 ml min−1) with oxygenated (95% O2 and 5% CO2) aCSF at room tem-
+perature. Application of DA was performed in the presence of 1 µM of 
+D1R antagonist (SCH-39166) to test for specific effects of D3R function 
+on downstream cAMP signaling. To prevent oxidation of DA, 50 μM 
+sodium metabisulfite was included in all aCSF solutions during DA 
+application experiments.
+Analysis of two-photon slice imaging
+Acquired movies were first corrected for minor XYZ drift using Fast-
+4Dreg (ImageJ v1.54f) and excluded if drift remained following this 
+registration. For selection of ROIs corresponding to putative presyn-
+aptic terminals, ROIs were manually circled based on visualization 
+(ImageJ). ROIs were further selected based on the criteria of having 
+a normalized change in fluorescence greater than 5% at the maximal 
+concentration of DA used, and these ROIs were used for plotting time 
+courses and analysis of response magnitude to various DA concentra-
+tions. The normalized change in fluorescence was calculated by sub-
+tracting a baseline fluorescence (F0(t)) from F(t), then dividing by F0(t): 
+ΔF/F(t) = (F(t) − F0(t))/F0(t), where F0(t) was the mean of the final 2 min of 
+the 5-min baseline period and F(t) is the entire fluorescence recording.
+Behavior
+Behavioral experiments were conducted during the dark cycle 
+(between 10:00 and 18:00) unless otherwise specified. Mice were 
+allowed to recover from surgery for at least 3 weeks before behavioral 
+testing was conducted. Animals were matched according to age, sex 
+and date of birth and single housed at least 1 day before the start of 
+testing. To minimize the effect of stress on behavioral outcome, mice 
+were acclimated to the soundproofed testing room under red light for 
+at least 30 min before the start of each assay.
+Animals undergoing running behavioral testing were subjected 
+to the following assays in this order: wheel running, running disks 
+choice test, open-field test, sucrose preference test, social interac-
+tion, light–dark box and novel object recognition test (Extended Data 
+Fig. 1b). Separate cohorts of mice were used for operant conditioning 
+experiments. For pathway-specific D3RcKO, mice underwent testing in 
+running wheel, running disk choice-behavior and operant procedures.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Wheel running. Voluntary running was performed in mice with free 
+access to a running wheel in their cage. At least 24 h before the start of 
+the experiment, mice were singly housed in clean, standard cages to 
+habituate them with social isolation in activity recording chambers. At 
+the start of the light cycle (that is, 20:00), mice were transferred into 
+cages that contained a running wheel connected to an infrared sensor 
+that recorded beam breaks on the wheel to calculate distance traveled 
+(ACT-551-FIL-MS-SS, Coulbourn Instruments). Animals were provided 
+with ad libitum access to food and water, and running activity was 
+monitored for 60 consecutive hours. Data were collected every 5 min 
+from each mouse using ClockLab (Actimetrics).
+Running disks test. We designed an effort-related choice-behavior 
+task to disentangle motivational running behavior. Mice had to 
+choose between two disks, one that was fixed, where animals could 
+not run, and another one that was freely moving, where animals 
+experienced reward by running. Disks were angled at approximately 
+30° relative to the floor. Each session consisted of baseline and 
+test phases. During baseline, the animal was placed in the empty 
+open-field arena and allowed to explore the environment for 10 min. 
+After baseline, the fixed and freely moving disks were inserted into 
+the arena, and disk-running activity and general locomotion were 
+recorded for 3 h. There was no interruption between baseline and 
+test phases. Visual (circles or stripes) and odor (double-distilled 
+water or 5% acetic acid) cues were attached adjacent to each disk to 
+further facilitate the recognition of each area of the arena. Tracking 
+data were analyzed offline using TopScan software (CleverSys). The 
+position of the mouse was defined as the zone in which both front 
+paws and center were located.
+Open-field test. Mice were placed singly in an open-field arena 
+(43.8 cm × 43.8 cm × 39.4 cm) to assess general locomotor activity 
+and anxiety-like behavior. For the former, the total distance traveled 
+was measured for 30 min. For the latter, the arena was divided into 
+‘center’ (23 × 23 cm) and ‘edges’ zones and the percentage of time spent 
+in the center of the arena was measured. For both analyses, TopScan 
+(CleversSys) video tracking software was used to score the movement 
+and location of the animals.
+Sucrose preference test. Hedonic reward seeking was measured using 
+the sucrose preference test. Single-housed mice were first habituated 
+by being placed in a standard cage (45 × 27 × 15 cm) that contained 
+two bottles of tap water. Water intake was measured by weighing the 
+bottles 4 h after the start of the habituation period. The following day, 
+one of the bottles was replaced with a 1% sucrose solution (wt/vol), and 
+animals were again given a free choice between the two bottles. The 
+total amount of tap water and sucrose consumed was recorded by again 
+weighing the bottles after 4 h. Sucrose preference was calculated as 
+the amount of sucrose solution consumed relative to the total amount 
+of liquid consumed and multiplied by 100 [(sucrose solution intake/
+total intake) × 100]. To control for side preferences, the location of 
+the sucrose and water bottles was counterbalanced between cages. 
+Sucrose preference testing occurred approximately 2 h after the start 
+of the animal’s active cycle.
+Light–dark box. The light–dark box test was performed to assess 
+anxiety-like behavior. Mice were placed in an open-field arena 
+(43.8 cm × 43.8 cm × 39.4 cm) divided into two compartments con-
+nected by a small circular aperture (4 cm wide × 5cm high). One side 
+was exposed to light in the room and the other was enclosed and dark. 
+During testing, mice were placed in the lit side of the box, facing the 
+wall farthest from the entrance to the dark side. Animals were allowed 
+to explore the two compartments for 5 min. Videos were recorded with 
+a camera positioned above the chamber. The latency to enter the dark 
+compartment and the time spent in each side were quantified offline 
+with TopScan. Room lighting was measured with the aid of a lux meter 
+during testing (~100 Lux).
+Novel object recognition test. The novel object recognition task 
+assessed novelty-seeking behavior, capitalizing on rodents’ natural 
+inclination to spend more time with a novel object than a familiar one66. 
+Object recognition testing was carried out in a Plexiglas open-field box 
+(43.8 cm × 43.8 cm × 39.4 cm) and consisted of two sessions—habitu-
+ation and recognition. During the habituation session, animals were 
+allowed to freely explore the environment, which contained two identi-
+cal Lego constructs in opposite corners of the box, for 10 min. Items 
+were placed on a metal base to ensure they could not be moved or 
+knocked over by the animals. Subsequently, mice were taken back to 
+their home cages for an ITI of 1 h and were reintroduced in the appara-
+tus for the recognition test lasting 10 min. In this 10-min session, one 
+of the two objects used in the habituation phase was replaced with 
+a novel object that was differently colored and shaped compared to 
+the original, familiar object. The identity and position of the novel 
+and familiar objects were counterbalanced across groups. Objects 
+were thoroughly cleaned with water between phases to remove odor 
+traces. Total time spent exploring each of the objects during both 
+phases was quantified offline using TopScan. The discrimination ratio 
+was calculated as the time spent interacting with the novel object area 
+divided by the time spent in a novel object area plus the time spent in 
+the familiar object area.
+Social interaction assay. For social interaction experiments, mice 
+were temporarily moved to a target-free holding arena (56 × 24 × 24 cm) 
+that contained two empty mesh pencil cups (5 × 6.5 × 8 cm) in opposite 
+corners of the arena. Animals were first allowed to freely explore the 
+chamber for 2.5 min before a novel juvenile mouse (3–6 weeks) of 
+the same sex and strain (to avoid mutual aggression) was placed into 
+one of the holders. The test mouse was allowed to freely interact for 
+7.5 min, and video was recorded with a camera suspended above the 
+arena. The ‘interaction zone’ encompassed a circular area project-
+ing 6.5 cm around the pencil cup. The ‘corner zones’ encompassed 
+a 9 cm × 9 cm area projecting from both corner joints opposing the 
+wire-mesh enclosure. Social interaction was automatically scored with 
+AnyMaze software (Stoelting) and defined as the ratio of time spent in 
+the interaction zone with a juvenile mouse (that is, in active contact with 
+the intruder’s snout, flank or anogenital area, grooming, 6.5 cm from 
+the enclosure of the pencil cup) over time spent with the target absent.
+Operant conditioning. Before initiating operant procedures, 
+mice were weighed to the nearest 0.1 g to determine a baseline for 
+free-feeding body weight. Mice were singly housed and maintained 
+under food restriction to achieve 85–90% of their free-feeding body 
+weights for 3 days before and throughout the experiments, which 
+motivated them to perform the operant tasks. Mice were weighed daily 
+and fed 1 h after their daily behavioral sessions with 2 g of standard 
+laboratory chow. Animals had free access to water throughout. Oper-
+ant procedures were conducted 7 days per week over a 4-week period.
+Chocolate pellet self-administration was used to examine 
+reward-related behaviors and took place in sound-attenuated mouse 
+operant chambers (ENV307A-CT, Med Associates; PC 5 software). 
+Chambers were equipped with two retractable levers and a reward pel-
+let dispenser. One lever was designated as ‘active’ and was paired with 
+the delivery of chocolate pellets (20 mg, Bio-Serv), while the other lever 
+was designated ‘inactive’ where lever pressing had no consequence 
+on reward delivery. The assignment of active and inactive levers was 
+counterbalanced across animals and chambers were kept dark (house 
+light off) during all sessions. There was a 5-s time-out after every pel-
+let delivery during which lever pressing did not trigger any delivery. 
+A house light was positioned above the levers and a fan was present 
+to maintain ventilation throughout testing. Before the start of the 
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+conditioning experiments, animals first underwent two pretraining 
+sessions in which chocolate pellets were delivered at a random interval 
+schedule (mean of 45 s, range 4–132 s), where pressing in either lever 
+had no consequence on reward delivery. Days 1–6 of operant training 
+were conducted on an FR1 schedule, and days 7–12 were conducted on 
+an FR5 schedule, where mice had to press the active lever one and five 
+times, respectively, to earn a reward. Mice underwent testing in one 
+session each day. All FR sessions lasted 45 min.
+Operant choice task. Our operant choice task was modified from 
+previous reports47. After 6 days of testing on an FR5 schedule, mice 
+underwent testing on the operant choice task. First, mice experienced 
+a session where they were presented with a food receptacle contain-
+ing freely available regular laboratory chow or chocolate pellets in 
+the corner of the operant chamber opposite of the wall containing 
+the active lever and operant reward receptacle. This was done to 
+pre-expose the animals to freely available food in the operant cham-
+bers. During this session, active and inactive levers were retracted. 
+Mice were subsequently tested in a choice task, where they could 
+either press the lever on an FR5 schedule to obtain a highly palatable 
+food (20 mg chocolate food pellets) or consume the freely available 
+food located on the opposite side of the operant chamber in a food 
+receptacle. Choice sessions with regular laboratory chow or choco-
+late pellets were conducted on different days. After a choice session, 
+a retrain session where only chocolate pellets delivered on the FR5 
+schedule were available was presented to the mice. The number of 
+lever presses, quantity of freely available food (standard chow or 
+chocolate pellet) consumed, total amount of food consumed (pellets 
+plus chow) and the amount of chocolate pellets obtained by lever 
+pressing were recorded.
+PR operant tasks. After FR schedule sessions, a PR schedule of reinforce-
+ment was used to assess the motivation to work for chocolate pellets. 
+To familiarize animals with a schedule requiring more effort, a PR3 
+schedule was used for 3 days. Under this schedule, response increments 
+linearly increase by three lever presses (3, 6, 9, 12, 15) for delivery of each 
+subsequent food pellet. Animals subsequently underwent 4 days of 
+training on a PR7 schedule to assess motivation under a schedule with 
+higher demands. In each PR session, the break point (the final number 
+of responses an animal completes where a reward is delivered) and ses-
+sion length were recorded. All PR sessions ended after 3 h or until 5 min 
+elapsed without the animal responding in the active lever.
+Platform-mediated avoidance task. This modified tone-shock con-
+ditioning experiment tested for reinforcement of avoidance behavior. 
+Experiments were conducted in sound-attenuated fear conditioning 
+chambers (30 cm length × 25 cm width × 25 cm height, Med Associ-
+ates) that were illuminated with red light. The floor of the chamber 
+was composed of a metal grid that delivered an electric foot shock. All 
+tests began with a 2-min baseline habituation. Following the baseline 
+period, 20 pairings of a conditioned stimulus (CS, 30 s, 80 dB, 4 kHz 
+noise) co-terminating with an unconditioned footshock stimulus (US, 
+0.4 mA, 2 s) were presented. The ITI was 40–60 s. Animals could avoid 
+the shock by jumping onto a square Plexiglas platform (8 × 8 × 0.33 cm) 
+located on a corner of the chamber that was fixed to the shock floors. 
+Each experiment lasted for 2 days with one 30-min session conducted 
+each day. Day 2 consisted of identical stimuli presentations as day one. 
+Between experiments, shock grids and floor trays were cleaned with 
+soap and water, and chamber walls were cleaned with wet paper towels. 
+Data were acquired and analyzed using AnyMaze software. This task 
+was modified from previous reports44 to adapt it to mice.
+Pavlovian cue–reward learning task. WT, Drd3fl/fl and Drd1fl/fl were 
+bilaterally injected with AAV8-hSyn-GFP-Cre in the mNAcSh using glass 
+pipettes (diameter 30–50 µm). Three weeks after injection, animals 
+were food restricted to 85–90% of their free-feeding body weight for 
+3 days before testing. Mice were then trained in sound-attenuated 
+boxes (ENV-307W, Med Associates) equipped with a tone generator, 
+cue lights and a receptacle for 10% sucrose delivery that could detect 
+head entries and individual licks. A 70-dB 4-kHz tone was given as a 
+CS+ for 10 s, and US (that is, 20 µl of 10% sucrose water) was available 
+8 s after each CS+ onset. A 3.5-kHz tone was given as a CS−. Each session 
+consisted of 40 trials wherein 20 trials corresponded to CS+ US pair-
+ings and 20 trials to CS− presentation. A 60 s ITI was followed by a 10 s 
+tone/light cue presentation that terminated with delivery of 20 μl of a 
+10% sucrose solution. Licks that were made after cue onset but before 
+reward delivery were counted as ‘anticipatory’ licks, while licks made 
+after reward delivery were counted as ‘consummatory’ licks. Learning 
+was assessed by comparing nose-poke rate during CS+ presentation 
+with rate during ITI or CS−. Mice received six sessions of 60 min each, 
+separated by 24 h. The next day after the last cue–reward learning ses-
+sion, mice began cue–reward extinction. Identical CS+ were given ten 
+times per session, now without US delivery. Mice underwent a total of 
+two extinction sessions. Chambers and lick ports were sanitized with 
+Accel and 70% ethanol between animals to remove any odor. Cue onset, 
+reward delivery, lick and port-entry timestamps were recorded with 
+MED-PC (Med Associates) software and analyzed using Python and 
+Excel (version 16.16.26, Microsoft).
+D3R pharmacological inactivation
+Microinjection of the D3R antagonist SB-277011A (Tocris) was used to 
+pharmacologically inhibit D3R signaling in the mNAcSh. Animals were 
+allowed to recover for 4 weeks after surgery before habituation to the 
+microinjection procedure. For 2 days before the start of the experi-
+ments, mice were habituated to handling and cannula manipulation. 
+On the experimental day, 350 nl of 10 µM SB-277011A (1.79 ng, dissolved 
+in 1% dimethyl sulfoxide (DMSO) or vehicle (1% DMSO)) was bilaterally 
+infused into the mNAcSh. This was accomplished using 33-gauge injec-
+tor cannulas connected to a syringe pump (UMP3, World Precision 
+Instruments) with PE20 tubing that protruded 1 mm beyond the tip of 
+the 26-gauge guide cannula. All microinjections were delivered over 
+the course of 1 min. After infusion, injectors were left in place for 2 min 
+to allow for complete drug diffusion. For D3R functional disconnection 
+procedures, mice were habituated 2 days before the experiment by 
+receiving an infusion of vehicle (1% DMSO). Five minutes after the end 
+of the intra-mNAcSh injection, animals were placed in the open-field 
+arenas and running disk choice testing was conducted. Cannula place-
+ments were verified by histology after injection of 300 nl (per hemi-
+sphere) of red fluorescent retrobeads (Lumafluor).
+D1R–NMDAR functional disconnection
+For 2 days before the start of D1R–NMDAR operant procedures, mice 
+were habituated to handling and cannula manipulation. On the experi-
+ment day, 350 nl per hemisphere of the competitive NMDAR antagonist 
+AP5 (700 ng per infusion, dissolved in 0.9% saline) was infused accord-
+ing to the same procedure as D3R pharmacological inactivation. Can-
+nula placements and spread of infused AP5 were verified by histology 
+after injection of 300 nl per hemisphere of red fluorescent retrobeads 
+(Lumafluor).
+Chemogenetic inhibition of Drd3-expressing mNAcSh MSNs
+Drd3-Cre mice undergoing inhibitory DREADD testing were allowed to 
+recover for 4 weeks following viral injection before the start of experi-
+ments. On the day before testing, mice received an intraperitoneal 
+injection of saline to habituate them with the injection procedure. 
+On the day of the experiment, the DREADD agonist CNO (Enzo Life 
+Sciences) was administered intraperitoneally 30 min before the run-
+ning disks test. CNO solutions were intraperitoneally injected at 0.1 ml 
+solution per 10 g of mouse for a final concentration of 1 mg per kg body 
+weight (in sterile saline).
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Drugs
+(+)-PD-128907 hydrochloride (PD-128907, Tocris), ML417 (Sibley 
+Lab, NINDS) and SKF-81297 (Tocris) were dissolved in distilled water. 
+SCH-39166 (Tocris) was dissolved in DMSO. For electrophysiology 
+experiments, 1 mM PD-128907 and 1 mM SCH-39166 were diluted to a 
+final concentration of 1 µM in aCSF and 10 mM SKF-81297 was diluted 
+to a final concentration of 10 µM in aCSF. AP5 (Abcam) was diluted 
+in sterile 0.9% saline. SB-277011A (Tocris Biosciences) was dissolved 
+in 1% DMSO and administered at 10 µM. AP5 (Abcam) was diluted in 
+sterile 0.9% saline.
+Quantification and statistical analysis
+Data analysis was performed using GraphPad Prism 9.3.0. (Graph-
+Pad Software). Data distribution was assumed to be normal, but this 
+was not formally tested. Paired t-tests were used for within-group 
+comparison of two treatments and an unpaired test was used for 
+comparison between two groups. Differences across more than two 
+groups were analyzed with a one-way ANOVA with Tukey’s or Dun-
+net’s multiple-comparison post hoc test, a two-way ANOVA for data 
+with Tukey’s or Sidak’s multiple-comparison post hoc test for two 
+independent variables or a two-way repeated-measures ANOVA for 
+data with two independent variables and multiple measurements 
+from the same subject. ANOVAs were followed by post hoc tests with 
+multiple-comparisons correction. In the case of datasets with miss-
+ing values, we analyzed the data instead by fitting a (one-way) mixed 
+model as implemented in GraphPad Prism 9.3.0. The Kolmogorov–
+Smirnov test was used for cumulative probability plots. P values for 
+linear regressions were calculated by using Pearson’s correlation. 
+For each experiment, the values and definitions of sample size (n) are 
+explicitly explained in the corresponding figure legend, as well as in 
+Supplementary Table 1. Statistical significance was defined as *P < 0.05, 
+**P < 0.01, ***P < 0.001, ****P < 0.0001. R2 represents a Pearson’s correla-
+tion coefficient. Results are shown as the mean ± s.e.m. unless stated 
+otherwise. Error bars represent the s.e.m. See Supplementary Table 1 
+for detailed statistics. No statistical method was used to predetermine 
+sample size. Sample sizes were based on pilot experiments, previous 
+experience with similar types of experiments and/or sample sizes 
+typical of the technique used in literature from the field. Data were 
+only excluded from the analyses for technical reasons, including mis-
+placed viral injection, guide cannula, insufficient expression and a 
+change in access resistance or cell health during electrophysiological 
+recordings. Allocation to groups or treatment was randomized, where 
+possible. Experimenters were not blinded in some cases during data 
+acquisition as some information was not blinded (for example, type 
+of virus injected). However, analyses were performed blinded to the 
+scorer and/or did not require manual scoring.
+Reporting summary
+Further information on research design is available in the Nature 
+Portfolio Reporting Summary linked to this article.
+Data availability
+All data generated in the current study are available from the corre-
+sponding author upon reasonable request. Outlines for brain regions 
+were acquired from Paxinos and Franklin’s the Mouse Brain in Stere-
+otaxic Coordinates63. All mouse and neuron illustrations included in the 
+main and extended data figures were created with BioRender.com dur-
+ing the subscription period. Source data are provided with this paper.
+Code availability
+No custom code was generated for this study.
+References
+58.	 Fenno, L. E. et al. Targeting cells with single vectors using 
+multiple-feature Boolean logic. Nat. Methods 11, 763–772 (2014).
+59.	 Liu, P., Jenkins, N. A. & Copeland, N. G. A highly efficient 
+recombineering-based method for generating conditional 
+knockout mutations. Genome Res. 13, 476–484 (2003).
+60.	 Wang, F. et al. RNAscope: a novel in situ RNA analysis platform 
+for formalin-fixed, paraffin-embedded tissues. J. Mol. Diagn. 14, 
+22–29 (2012).
+61.	 McQuin, C. et al. CellProfiler 3.0: next-generation image 
+processing for biology. PLoS Biol. 16, e2005970 (2018).
+62.	 Erben, L. & Buonanno, A. Detection and quantification of 
+multiple RNA sequences using emerging ultrasensitive 
+fluorescent in situ hybridization techniques. Curr. Protoc. 
+Neurosci. 87, e63 (2019).
+63.	 Franklin, K. B. J. & Paxinos, G. Paxinos and Franklin’s the Mouse 
+Brain in Stereotaxic Coordinates (Academic, 2013).
+64.	 Schmittgen, T. D. & Livak, K. J. Analyzing real-time PCR  
+data by the comparative CT method. Nat. Protoc. 3, 1101–1108 
+(2008).
+65.	 Jackman, S. L., Beneduce, B. M., Drew, I. R. & Regehr, W. 
+G. Achieving high-frequency optical control of synaptic 
+transmission. J. Neurosci. 34, 7704–7714 (2014).
+66.	 Bevins, R. A. & Besheer, J. Object recognition in rats  
+and mice: a one-trial non-matching-to-sample learning  
+task to study ‘recognition memory’. Nat. Protoc. 1, 1306–1311 
+(2006).
+Acknowledgements
+This work was supported by the NIMH Intramural Research 
+Program (ZIA MH002970-04; to H.A.T.), a Brain and Behavior 
+Research Foundation NARSAD Young Investigator Award (to H.A.T.), 
+National Institutes of Health (NIH) Center for Compulsive Behavior 
+Fellowships (to R.F.G. and H.E.Y.-C.), Department of Defense PRMRP 
+Investigator-Initiated Award (PR141292; to Z.F.), Department of 
+Defense PRMRP Expansion Award (PR210207; to Z.F.), John F. and 
+Nancy A. Emmerling Fund of The Pittsburgh Foundation (to Z.F.), 
+R01DA061243 (to Z.F.), R01ES034037 (to Z.F.), R01DK124219 (to Z.F.) 
+and an NIH Post-Doctoral Research Associate Training Fellowship 
+(to R.F.G). The funders had no role in study design, data collection 
+and analysis, decision to publish or preparation of the manuscript. 
+We thank S. Williams and J. Kuo of the NIMH Systems Neuroscience 
+Imaging Resource and S. Hattar for their microscopy support. We 
+also acknowledge Y. Chudasama, A. Graham and members of the 
+NIMH Rodent Behavior Core for behavioral equipment support and  
+S. Hattar for sharing running wheels. We also thank C. Schmauss,  
+J. Javitch and M. Rubinstein for the design of the Drd3fl/fl mouse  
+strain as well as S.-P. Yee and the Center for Mouse Genome 
+Modification at UConn Health for the construction of the Drd3fl/fl  
+mice. We additionally acknowledge V. Alvarez and members of 
+the Alvarez laboratory including L. Dobbs and M. Bocarsly for all 
+their invaluable help in making the Drd3fl/fl mice congenic with the 
+C57BL/6J genetic background. Finally, we thank members of the  
+Unit on Neuromodulation and Synaptic Integration and M. Penzo,  
+M. Pignatelli, F. Lucantonio, E. Lewis, D. Vullhorst and A. Buonanno 
+for discussions and critical reading of the manuscript.
+Author contributions
+Conceptualization: J.E.-T. and H.A.T. Software: J.E.-T., R.J.F. and  
+S.R. Behavioral studies and analyses: J.E.-T., H.A.T., T.W., C.T.L., M.A., 
+V.S.T. and R.J.F. Anatomy: J.E.-T., C.N., T.B.U., H.W. and S.R. Surgeries: 
+J.E.-T., H.E.Y.-C., H.W., M.A. and C.N. Slice electrophysiology: J.E.-T., 
+H.E.Y.-C. and H.A.T. Slice imaging: D.K. and A.L. Generation of Drd3 
+loxP mice: Z.F. PCR: J.E.-T. and R.M. Novel selective D3R agonist: 
+A.F.M and D.R.S. Data curation: J.E.-T. Writing: J.E.-T. and H.A.T. 
+Editing: J.E.-T., Z.F. and H.A.T. Visualization: J.E.-T. Supervision: 
+R.M. and H.A.T. Project administration: J.E.-T. and H.A.T. Funding 
+acquisition: H.A.T.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Competing interests
+The authors declare no competing interests.
+Additional information
+Extended data is available for this paper at  
+https://doi.org/10.1038/s41593-024-01819-9.
+Supplementary information The online version contains supplementary 
+material available at https://doi.org/10.1038/s41593-024-01819-9.
+Correspondence and requests for materials should be addressed to 
+Zachary Freyberg or Hugo A. Tejeda.
+Peer review information Nature Neuroscience thanks Nicolas Tritsch 
+and the other, anonymous, reviewer(s) for their contribution to the 
+peer review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+WT
+Cre
+fl/fl
+NAc
+D3RcKO
+: loxP
+3´ homologous arm 
+          3.2kb
+: homologous
+  recombination
++ Cre recombinase
+AAV8-Syn-GFP-Cre or
+AAV1-EF1α-eGFP
+bilateral NAc
+Day 0
+WRA
+RD
+OFT
+SP
+SI
+NOR
+LD
+21
+22
+23
+24
+25
+26
+27
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+2
+4
+6
+8
+Revolutions (X10000)
+NAc
+D3RcKO
+0
+50
+100
+150
+200
+Time (h)
+Revolutions
+NAc-D3RcKO
+WT-Cre
+Drd3
+fl/fl
+-GFP
+0
+12
+24
+36
+48
+60
+WT
+Cre
+0
+5
+10
+15
+20
+Time in Center (%)
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+20
+40
+60
+80
+100
+Sucrose Preference (%)
+p = 0.0518
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+1
+2
+3
+4
+5
+Total Consumption (g)
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+10
+20
+30
+40
+50
+Social preference (% of test time)
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+20
+40
+60
+80
+Novel object preference (% test time)
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+50
+100
+150
+Latency to enter dark box (s)
+NAc
+D3RcKO
+WT
+Cre
+Drd3fl/fl
+GFP
+0
+20
+40
+60
+80
+100
+Time exploring light side (%)
+NAc
+D3RcKO
+a
+b
+c
+f
+g
+h
+i
+j
+WRA = Wheel Running Activity
+RD = Running Disks 
+OFT = Open Field Test
+SP = Sucrose Preference 
+SI = Social Interaction
+LD = Light Dark box
+NOR = Novel Object Recognition
+0
+10
+20
+30
+40
+Trial time (%)
+Object 1
+Object 2
+Sucrose preference
+Light-dark box
+Novel object recognition
+Social interaction
+Open field test
+Wheel running activity
+Periphery Center
+Total
+0
+50
+100
+150
+200
+Distance (m)
+d
+5´ homologous arm
+4.2kb
+E1
+E1
+E2
+E3
+Drd3 wild-type allele
+Drd3 cKO
+Targeting vector
+Drd3 conditional allele
+E1
+E2
+E3
+E2
+E3
+Drd3 cKO allele
+0
+10
+20
+30
+Fixed
+Bout Length (s)
+WT
+Cre
+NAc
+D3RcKO
+0
+50
+100
+Fixed
+Bouts per bin
+0
+5000
+10000
+0
+50
+100
+Time (s)
+Freely-moving
+Bouts per bin
+e
+Running disks
+0
+5000
+10000
+0
+50
+100
+150
+Time (s)
+Running
+ Bout Length (s)
++/+ fl/+
+fl/+ fl/+
+fl/+
++/+ +/+
++/+
+k
+-1
+-2
+-3
+-4
+-5
+-6
+0
+-1
+-2
+-3
++1.34
+Viral targeting
+Drd3 LxpF
+5’- TGAGACTAAGCAGCGTCCAC
+Drd3 LxpR
+5’- CTCTGAGTTAGATCTCCCCAGC
+Wt
+372 bp
+Floxed
+468 bp
+*
+*
+Extended Data Fig. 1 | See next page for caption.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 1 | Genetic ablation of mNAcSh D3Rs does not affect 
+locomotion, anhedonia, social reward, anxiety or novel object-recognition.  
+a. (Left) Schematic depicting the strategy used to generate the Drd3fl/fl 
+conditional-knockout (cKO) mouse strain. loxP cassettes flanking the exon 1  
+were inserted in the coding region of the Drd3 gene that encodes the D3R  
+protein using homologous recombination approaches. (Right) Confirmation  
+of the inserted loxP sites within the chimeric animals by using PCR strategies  
+(see primers in purple). The successful insertion of the loxP elements was 
+confirmed by the presence of two PCR bands (fl/+ lanes) versus a single band 
+in the wildtype littermates (+/+ lanes). b. Experimental timeline of behavioral 
+experiments. c. (Left) Timecourse of wheel-running activity for the entire 
+duration of the experiment (60 hrs) in WT-Cre (black, n = 11), Drd3fl/fl-GFP  
+(red, n = 7) and NAc-D3RcKO (blue, n = 12) mice (two-way repeated measures 
+ANOVA: Time effect, F (12.86, 347.3) = 18.12, P < 0.0001; treatment effect, F (2, 27) = 1.552, 
+P = 0.2301; time × treatment, F (1438, 19413) = 1.633, P < 0.0001). L = Light; D= Dark. 
+(Right) Quantification of total revolutions per group during the entire 60 hr 
+period (one-way ANOVA followed by two-sided Dunnett’s test: F (2, 27) = 1.578. 
+Group comparisons, NAc-D3RcKO versus, WT-Cre, P = 0.285, NAc-D3RcKO 
+versus Drd3fl/fl-GFP, P = 0.0.2282). d. Length of visit (bout) to the fixed disk (top) 
+or freely-moving disk (bottom, putative running bout) across the running disks 
+session in WT-Cre (black, n = 11) and NAc-D3RcKO (blue, n = 12) mice (fixed disk: 
+two-way repeated measures ANOVA: Time effect, F(1.649, 26.68) = 1.906, P = 0.1736; 
+genotype effect, F (1, 20) = 0.00014, P = 0.9907; time × genotype, F(17, 275) = 1.138, 
+P = 0.3172; moving disk: two-way repeated measures ANOVA: Time effect, F(2.803, 
+49.63) = 1.391, P = 0.2574; genotype effect, F(1, 20) = 7.456, P = 0.9907; time × genotype 
+F(17, 301) = 1.199, P = 0.2636). e. Number of entries into the fixed (top) or freely-
+moving disk (bottom) across the running disks session in WT-Cre (black, n = 11) 
+and NAc-D3RcKO (blue, n = 12) mice (fixed disk: two-way repeated measures 
+ANOVA: Time effect, F(3.329, 66.59) = 23.39, P < 0.0001; F(1, 20) = 7.270, P = 0.0139; 
+time × genotype, F(18, 360) = 0.9697, P = 0.4944; moving disk: two-way repeated 
+measures ANOVA: Time effect, F(1.933, 38.67) = 9.639, P = 0.0005; genotype effect, 
+F(1, 20) = 2.356, P = 0.0404; time × genotype F(18, 360) = 0.9787, P = 0.4838). f. (Left) 
+Representative cumulative locomotion traces of open field activity in WT-Cre 
+(n = 10 mice) and NAc-D3RcKO (n = 12 mice) groups. (Middle) Quantification 
+of cumulative distance traveled (two-way repeated measures ANOVA: Zone 
+effect, F(1.033, 17.57) = 209.1, P < 0.0001; genotype effect, F(1, 17) = 0.4217, P = 0.5247; 
+zone × genotype, F(2, 34) = 0.1721, P = 0.8426). (Right) Percentage of time spent in 
+the center during the open field test (unpaired t-test (two-tailed), t(17) = 0.9305; 
+P = 0.3651). g. (Left) Percentage of sucrose preference in WT-Cre (black, n = 12), 
+Drd3fl/fl-GFP (red, n = 7) and NAc-D3RcKO (blue, n = 13) mice (one-way ANOVA 
+followed by two-sided Dunnett’s test: F(2, 29) = 2.713. Group comparisons, NAc-
+D3RcKO versus, WT-Cre, P = 0.0518, NAc-D3RcKO versus, Drd3fl/fl-GFP, P = 0.428 
+(Right) Overall intake in the sucrose preference test (one-way ANOVA followed  
+by two-sided Dunnett’s test: F(2, 29) = 2.904. Group comparisons, NAc-D3RcKO 
+versus, WT-Cre, P = 0.0635, NAc-D3RcKO versus, Drd3fl/fl-GFP, P = 0.1606).  
+h. Social preference as reflected by the % time (test-habituation) spent 
+interacting with a novel, juvenile mouse in WT-Cre (black, n = 12), Drd3fl/fl-GFP 
+(red, n = 4) and NAc-D3RcKO (blue, n = 8) groups (one-way ANOVA followed 
+by two-sided Dunnett’s test: F(2, 21) = 0.2411. Group comparisons, NAc-D3RcKO 
+versus, WT-Cre, P = 0.8698, NAc-D3RcKO versus, Drd3fl/fl-GFP, P = 0.7329).  
+i. Anxiety-like behavior as represented by the latency to enter dark chamber in 
+the light–dark box (left; one-way ANOVA followed by two-sided Dunnett’s test: 
+F (2, 23) = 0.1608. Group comparisons, NAc-D3RcKO versus, WT-Cre, P = 0.9391, 
+NAc-D3RcKO versus, Drd3fl/fl-GFP, P = 0.9449) or time spent in the light side of 
+the light-dark box (right; one-way ANOVA followed by two-sided Dunnett’s test: 
+F(2, 23) = 0.04904. Group comparisons, NAc-D3RcKO versus, WT-Cre, P = 0.9791, 
+NAc-D3RcKO versus, Drd3fl/fl-GFP, P = 0.9852) in WT-Cre (black, n = 9), Drd3fl/fl-GFP 
+(red, n = 8) and NAc-D3RcKO (blue, n = 9) mice. j. (Left) Time spent interacting 
+with each of the objects during the baseline period in WT-Cre (black, n = 12), 
+Drd3fl/fl-GFP (red, n = 7) and NAc-D3RcKO (blue, n = 9) mice (two-way repeated 
+measures ANOVA: Object effect, F(1, 25) = 1.418, P = 0.245; treatment effect, F(2, 
+25) = 2.734, P = 0.0844; object × treatment, F(2, 25) = 0.1025, P = 0.903). (Right) 
+Preference for the novel object over a familiar one during the discrimination test 
+(one-way ANOVA followed by two-sided Dunnett’s test: F(2, 25)= 0.8822. Group 
+comparisons, NAc-D3RcKO versus, WT-Cre, P = 0.8593, NAc-D3RcKO versus, 
+Drd3fl/fl-GFP, P = 0.3346). k. Schematic of combined viral spread map of local Drd3 
+cKO. Dark green indicates animals with most restricted expression and lighter 
+green indicates animals with broader pattern of viral spread. All data in this figure 
+are presented as mean ± SEM Error bars indicate SEM.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 2 | mNAcSh D3R cKO decreases motivation towards 
+working for rewards, but does not affect weight, or FR acquisition schedules 
+of reinforcement. a Body weight changes at baseline before food deprivation 
+and across the overall duration of operant conditioning procedures in Fig. 1 
+and Extended Data Fig. 1 in WT-Cre (black, n = 15) and NAc-D3RcKO (blue, n = 11) 
+mice (two-way repeated measures ANOVA: Session effect, F(8.178, 204.4)= 11.95, 
+P < 0.0001; genotype effect, F(1, 25)= 0.4982, P = 0.4868; object × treatment, F(26, 
+650)= 1.950, P = 0.0034). b FR1 acquisition, as measured by the percentage of 
+animals reaching the criteria of 70 active lever responses per session. (Inset) 
+Days required to acquire FR1 (criteria for acquisition was 70 responses in a 45 min 
+session) (unpaired t-test (two-tailed), t(24)= 0.7272; P = 0.4741). c Percentage of 
+active lever responses during FR1 schedules in WT-Cre (black, n = 15) and NAc-
+D3RcKO (blue, n = 11) mice (two-way repeated measures ANOVA: Session effect, 
+F(2.060, 51.62)= 11.19, P < 0.0001; genotype effect, F(1, 24)= 0.1973, P = 0.6609; session 
+x genotype, F(5, 117)= 0.3905, P = 0.8545). d Total food consumed in choice chow 
+session in WT-Cre (black, n = 15) and NAc-D3RcKO (blue, n = 11) mice (unpaired 
+t-test (two-tailed), t(24)= 0.9353; P = 0.3589). e (Left) Diagram of the FR5 choice  
+pellet session. (Right) Amount of food consumed, which is represented as  
+FR5 effort-based or freely-available chocolate pellets in WT-Cre (black, n = 15)  
+and NAc-D3RcKO (blue, n = 11) mice (two-way repeated measures ANOVA:  
+Type of food effect, F(1, 23)= 0.07947, P = 0.7805; genotype effect, F(1, 23)= 4.808, 
+P = 0.0387; type of food x genotype, F(1, 23)= 6.314, P = 0.0194). f Total food 
+consumed in FR5 choice pellet session in WT-Cre (black, n = 15) and NAc-D3RcKO 
+(blue, n = 11) mice (unpaired t-test (two-tailed), t(24)= 1.382; P = 0.0.1802).  
+g PR3 session length in WT-Cre (black, n = 15) and NAc-D3RcKO (blue, n = 11) 
+mice (two-way repeated measures ANOVA: Session effect, F(1.709, 38.46)= 1.264, 
+P = 0.2899; genotype effect, F(1, 24)= 2.267, P = 0.1452; session x genotype, 
+F(2, 45)= 0.2682, P = 0.766). h PR7 session length in WT-Cre (black, n = 15) and 
+NAc-D3RcKO (blue, n = 11) mice (two-way repeated measures ANOVA: Session 
+effect, F(2.013, 48.31)= 0.3719, P = 0.6927; genotype effect, F(1, 24)= 9.612, P = 0.0049; 
+session x genotype, F(3, 72)= 0.5050, P = 0.68). All data in this figure are presented 
+as mean ± SEM Error bars indicate SEM. Schematics were generated using 
+BioRender.com.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 3 | Drd3-Cre lines provide genetic access to Drd3 
+expression in the mNAcSh and outputs of D3-MSNs. a RNA in-situ hybridization 
+results for NAc core (top) or overall NAc (bottom) cells of WT (n = 3) mice. b Drd3 
+expression in the mNAcSh of Drd3-Cre/Ai14 mice. Coronal diagrams depicting 
+the region analyzed (top) and confocal images showing the Drd3 expression 
+pattern in the mNAcSh along the dorsal-ventral and rostral-caudal axis (bottom). 
+DS = dorsal striatum; ICj = islands of Calleja; ICjM = major island of Calleja; 
+latNAcSh = lateral NAc shell. c (Left) A virus encoding the anterograde tracer 
+(AAV1-Syn-FLEX-Chrimsom-tdTomato) was targeted to the mNAcSh in Drd3-Cre 
+mice that express tdTomato in a Cre-dependent manner. (Right) Representative 
+images and quantification of tdTomato+ fibers in mNAcSh (n = 4 mice), VP  
+(n = 4 mice), LH (n = 4 mice) and VTA (n = 3 mice) regions (one-way ANOVA 
+followed by two-sided Tukey’s test: F(3, 10)= 14.66. Group comparisons, NAc versus, 
+VP, **P = 0.0039, NAc versus LH, ***P = 0.0009, NAc versus VTA, ***P = 0.0004, 
+VP versus LH, P = 0.2659, VP versus VTA, P = 0.0651, LH versus VTA, P = 0.8112). 
+d Representative images (top) and reconstructions (bottom) of VP, LH, and VTA 
+retrobead injection sites for experiments shown in Fig. 2l. All data in this figure 
+are presented as mean ± SEM Error bars indicate SEM.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 4 | See next page for caption.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 4 | Histological validation of our intersectional approach 
+for pathway-specific NAc Drd3 cKO. a. Viral injection placements for pathway-
+specific deletion of NAc D3Rs experiment. For each manipulation representative 
+images of injection sites of CAV-Flp-GFP (left) and serial reconstructions of 
+tdTomato expression in the NAc (right) are shown. Each circle depicts the 
+position of the strongest tdTomato expression for each subject. b Scheme of the 
+experimental design to validate the lack of Cre leakage in our pathway-specific 
+strategy for the cKO of NAc Drd3. AAV8-Syn-GFP-Cre and AAV9-EF1a-fDIO-Cre 
+were injected in contralateral hemispheres of Ai14-tdTomato reporter mouse. 
+c Representative images showing colabeling of GFP and tdTomato in the 
+hemisphere injected with AAV-GFP-Cre (top) and lack of tdTomato expression 
+in the hemisphere injected with AAV-fDIO-Cre (bottom). d Scheme of the 
+experimental design to address the potential toxicity of CAV injection in DA 
+cell degeneration of the VTA. CAV-FlpO-GFP was injected in the VTA and slices 
+containing the VTA were immunostained for TH and GFP. e Representative 
+images of TH expression and GFP labeling in the VTA. Filled arrows indicate 
+double positive GFP and TH neurons; empty arrows indicate single-positive TH 
+neurons (that is GFP-negative). f (Left) Quantification of number of TH-positive 
+cells in control (n = 4) and injected (n = 4) mice (unpaired t-test (two-tailed), 
+t(6)= 0.4512; P = 0.6677). (Right) TH integrated density in GFP-negative or  
+GFP-positive cells (unpaired t-test (two-tailed), t(6)= 1.698; P = 0.1404). All data in 
+this figure are presented as mean ± SEM Error bars indicate SEM.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 5 | See next page for caption.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 5 | NAc D3R function supports running and working for 
+reward, but does not regulate acquisition of reinforcement. a. Wheel running 
+activity for pathway-specific deletion of NAc D3Rs (WT, n = 15 mice; Drd3fl/fl -VP, 
+n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 9 mice). (Left) Timecourse 
+of running activity during the complete 60-hr experiment (two-way repeated 
+measures ANOVA: Time effect, F(2.013, 48.31)= 0.3719, P < 0.0001; treatment effect, 
+F(3, 34)= 2.361, P = 0.0887; time x treatment, F(2157, 24446)= 1.538, P < 0.0001). (Right) 
+Quantification of total revolutions during the 60-hr period (one-way ANOVA 
+followed by two-sided Dunnett’s test: F(3, 33)= 3.556. Group comparisons, WT 
+versus Drd3fl/fl-VP, P = 0.4806, WT versus Drd3fl/fl-LH, P = 0.1265, WT versus  
+Drd3fl/fl-VTA, P = 0.0903). b Body weight changes at baseline before food 
+deprivation and across the overall duration of operant conditioning procedures 
+in Fig. 3 (WT, n = 11 mice; Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl - 
+VTA, n = 7 mice) (two-way repeated measures ANOVA: Session effect, F(5.885, 185.7) 
+= 8.340, P < 0.0001; treatment effect, F(3, 852)= 0.7685, P = 0.5118; session x 
+treatment, F(81, 852)= 0.8500, P = 0.8212). c FR1 acquisition, as measured by the 
+percentage of animals reaching the criteria of 70 active lever responses per 
+session. d Percentage of active lever responses during FR1 schedules (WT, n = 11 
+mice; Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 7 mice) 
+(two-way repeated measures ANOVA: Session effect, F(3.485, 85.73)= 16.46, P < 0.0001; 
+treatment effect, F(3, 26)= 2.953, P = 0.0511; session x treatment, F(15, 123)= 1.975, 
+P = 0.0221). e Lever presses during FR5 acquisition sessions (WT, n = 11 mice; 
+Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 7 mice)  
+(two-way repeated measures ANOVA: Session effect, F(4.782, 120)= 10.98, P < 0.0001; 
+treatment effect, F(3, 28)= 2.718, P = 0.0635; session x treatment, F(30, 251)= 2.247, 
+P = 0.0004). f Total food consumed in choice chow session (WT, n = 11 mice; 
+Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 7 mice)  
+(one-way ANOVA followed by two-sided Dunnett’s test: F (3, 28) = 2.347. Group 
+comparisons, WT versus Drd3fl/fl-VP, P = 0.8858, WT versus Drd3fl/fl-LH, P = 0.9406, 
+WT versus Drd3fl/fl-VTA, P = 0.1408). g (Top) Diagram of the FR5 choice pellet 
+session. (Bottom) Amount of food consumed which is represented as either  
+FR5 effort-based (solid) or freely-available chocolate pellets (checkered)  
+(WT, n = 11 mice; Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA,  
+n = 7 mice) (two-way repeated measures ANOVA: Type of food effect,  
+F(1, 27)= 0.6669, P = 0.4213; treatment effect, F(3, 27)= 2.258, P = 0.1044; type of food 
+x treatment, F(3, 27)= 3.256, P = 0.037). h Effects of region-specific D3R cKO on total 
+consumption of chocolate pellets in a FR5 choice pellet session (WT, n = 11 mice; 
+Drd3fl/fl -VP, n = 7 mice; Drd3fl/fl -LH, n = 6 mice; Drd3fl/fl -VTA, n = 7 mice; one-way 
+ANOVA: followed by two-sided Dunnett’s test F(3, 27)= 2.258, Group comparisons, 
+WT versus Drd3fl/fl-VP, P = 0.4806, WT versus Drd3fl/fl-LH, P = 0.1265, WT versus 
+Drd3fl/fl-VTA, P = 0.0903). i Break points during the PR3 reinforcement schedule 
+for VP-, LH-, and VTA-specific D3R cKO versus WT controls (two-way repeated 
+measures ANOVA: Session effect, F(1.491, 41.00)= 3.086, P = 0.0702; treatment effect, 
+F(3, 31)= 0.6072, P = 0.6153; session x treatment, F(6, 55)= 0.8598, P = 0.5302). All data 
+in this figure are presented as mean ± SEM Error bars indicate SEM. Schematics 
+were generated using BioRender.com.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 6 | Activation of mNAcSh D3R decreases GABA release 
+probability presynaptically onto both D1- and D2-MSNs. a Mean baseline 
+oIPSC amplitude (pA) for Cre-OFF (white bar, n = 15 cells from 7 mice) and Cre-ON 
+(blue bar, n = 16 cells from 9 mice) evoked in mNAcSh MSNs (unpaired t-test 
+(two-tailed), t(29)= 3.420; **P = 0.0019). b Timecourse of oIPSCs in mNAcSh MSNs 
+before, during and after bath application of the D3R-selective agonist ML417 
+(1 µM) in Drd3-Cre mice expressing Cre-dependent ChR2 (blue, n = 11 cells from 
+8 mice). (Inset) Representative oIPSC traces recorded in mNAcSh MSNs before 
+and after bath application of ML417. c Paired-pulse ratio (PPR, % baseline) versus 
+oIPSC (% baseline) after ML417 application (n = 11 cells from 8 mice). d Coefficient 
+of variation (1/CV2, % baseline) versus oIPSC (% baseline) after ML417 application 
+(n = 11 cells from 8 mice). e Representative traces of sIPSCs during baseline  
+(BL, black) and after bath-application of the D3R-selective agonist PD-128907 
+(PD, blue). f Cumulative probability of sIPSC inter-event interval (left; 
+Kolmogorov-Smirnov test, ks = 36.740988, P < 0.0001) and amplitude  
+(right; Kolmogorov-Smirnov test, ks = 2.401130, P < 0.0001) recorded from 
+mNAcSh MSNs (n = 12 cells from 7 mice). (Inset) Quantification of frequency 
+(paired t-test (two-tailed), t(11)= 3.131; **P = 0.0096) and amplitude (paired t-test 
+(two-tailed), t(11)= 1.851; P = 0.0912) of sIPSCs events during baseline and after  
+PD-128907 application. g Rise (left; paired t-test (two-tailed), t(11)= 0.3225; 
+P = 0.7531) and decay time (right, paired t-test (two-tailed), t(11)= 1.029; P = 0.3256) 
+of sIPSC events during baseline and after PD-128907 application (n = 12 cells 
+from 7 mice). h Time-course of oIPSCs before, during and after bath application 
+of PD-128907 in mNAcSh D1R-positive (red, n = 12 cells from 5 mice) and D1R-
+negative neurons (putative D2-MSNs) (blue, n = 11 cells from 5 mice) in the Cre-ON 
+condition (two-way repeated measures ANOVA: Time effect, F(3.888, 81.65)= 42.52, 
+P < 0.0001; cell identity effect, F(1, 21)= 0.7339, P = 0.4013; time x cell identity, 
+F(19, 399)= 0.9070, P = 0.5744). (Inset) Representative oIPSCs traces recorded in 
+mNAcSh D1- and D2-MSNs before and after bath application of PD-128907.  
+i Bar-graph quantification of oIPSC inhibition after PD-128907 application in 
+D1R-positive (n = 12 cells from 5 mice) and D1R-negative (n = 11 cells from 5 mice) 
+mNAcSh MSNs (unpaired t-test (two-tailed), t(21)= 0.9825; P = 0.337). j Schematics 
+of experiment to determine regulation of ex-vivo cAMP signaling by D3Rs. (Left) 
+Drd3-Cre mice (n = 5) we injected with AAV1-hSyn-DIO-cADDs in the mNAcSh 
+and slices containing the mNAcSh were imaged on a two-photon microscope. 
+(Right) Representative images of cADDis expression in the mNAcSh (left) and 
+40X magnification (right). k Diagram showing the experiment setup. Bath-
+application of DA in the presence of SCH-39166, a D1R antagonist, inhibited cAMP 
+levels through D3R signaling. l Timecourse of cADDis fluorescence changes 
+before and after DA application. Forskolin was added after the experiment to 
+confirm the specificity of changes in fluorescence. All data in this figure are 
+presented as mean ± SEM Error bars indicate SEM.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 7 | Unilateral suppression of D3R signaling does not disrupt 
+motivated running behavior. a Quantification of time spent in the freely-
+moving and fixed disk and revolutions for Drd3fl/fl mice expressing unilateral Cre 
+recombinase (n = 7 mice) (paired t-test (two-tailed), t(6)= 5.129; **P = 0.0022).  
+b Same as in (a) but for WT control mice unilaterally infused with SB-277011A  
+into the mNAcSh (n = 4 mice) (paired t-test (two-tailed), t(3)= 3.570; *P = 0.0376).  
+c Schematic (top) and representative image (bottom) of viral expression of  
+AAV5-hSyn-DIO-mCherry in the mNAcSh of Drd3-Cre mice. d (Left) Percentage 
+of time spent on fixed or freely-moving disk during the running disk task 
+for mCherry (n = 7 mice) and hM4Di (n = 7 mice) groups. (two-way repeated 
+measures ANOVA: Disk effect, F(1, 24)= 36.29, P < 0.0001; treatment effect,  
+F(1, 24)= 8.250, P = 0.0084; disk x treatment, F(1, 24)= 6.752, P = 0.0158). (Right) 
+Running behavior as represented by the number of revolutions registered in the 
+freely moving disk (unpaired t-test (two-tailed), t(12)= 2.581; *P = 0.024) (mCherry 
+Control, n = 7 mice; hM4Di, n = 7 mice). e (Left) Quantification of cumulative 
+distance traveled in each zone during the open-field test (two-way repeated 
+measures ANOVA: Zone effect, F(1.230, 14.75)= 131.1, P < 0.0001; treatment effect, 
+F(1, 12)= 2.206, P = 0.1632; zone x treatment, F(2, 24)= 2.177, P = 0.1353) (mCherry 
+Control, n = 7 mice; hM4Di, n = 7 mice). (Right) Percentage of time spent in center 
+(unpaired t-test (two-tailed), t(12)= 1.428; P = 0.1788) (mCherry Control, n = 7 mice; 
+hM4Di, n = 7 mice). All data in this figure are presented as mean ± SEM Error bars 
+indicate SEM.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 8 | See next page for caption.
+Nature Neuroscience
+Article
+https://doi.org/10.1038/s41593-024-01819-9
+Extended Data Fig. 8 | cKO of mNAcSh D1Rs do not disrupt motivated, 
+anxiety-like or social reward or sucrose preference. a (Left) Time course of 
+wheel-running activity across the entire duration of the experiment (60-hrs) for 
+WT (n = 11 mice), NAc-D3RcKO (n = 12 mice) and NAc-D1RcKO (n = 8 mice) groups 
+in 5 min bins (two-way repeated measures ANOVA: Time effect, F(15.51, 434.3) = 20.27, 
+P < 0.0001; genotype effect, F(2, 28) = 1.738, P = 0.1943; time x genotype, F(1438, 
+20132) = 1.513, P < 0.0001). (Right) Quantification of total revolutions across  
+the 60 hr period (one-way ANOVA: followed by two-sided Dunnett’s test,  
+F(2, 28) = 1.197, Group comparisons, NAc-D1RcKO vs WT, P = 0.6507, NAc-D1RcKO  
+vs NAc-D3RcKO, P = 0.7421). b (Left) Percentage of sucrose preference for WT 
+(n = 12 mice), NAc-D3RcKO (n = 13 mice) and NAc-D1RcKO (n = 7 mice) groups 
+(one-way ANOVA: followed by two-sided Dunnett’s test, F(2, 29) = 2.937, Group 
+comparisons, NAc-D1RcKO vs WT, P = 0.752, NAc-D1RcKO vs NAc-D3RcKO, 
+P = 0.2671). (Right) Overall water and sucrose intake (one-way ANOVA: followed 
+by two-sided Dunnett’s test, F(2, 29) = 2.941, Group comparisons, NAc-D1RcKO vs 
+WT, P = 0.1447, NAc-D1RcKO vs NAc-D3RcKO, P = 0.9841). c Social preference as 
+reflected by the % time (test-habituation) spent interacting with a novel, juvenile 
+mouse (WT, n = 12 mice; NAc-D3RcKO, n = 8 mice and NAc-D1RcKO, n = 8 mice)  
+(one-way ANOVA: followed by two-sided Dunnett’s test, F(2, 25) = 0.1187, Group 
+comparisons, NAc-D1RcKO vs WT, P = 0.9026, NAc-D1RcKO vs NAc-D3RcKO, 
+P = 0.9971). d Anxiety-like behavior as represented by the time spent in the light 
+side of the box (WT, n = 9 mice; NAc-D3RcKO, n = 9 mice and NAc-D1RcKO, n = 6 
+mice) (one-way ANOVA: followed by two-sided Dunnett’s test, F(2, 21) = 0.1626, 
+Group comparisons, NAc-D1RcKO vs WT, P = 0.7825, NAc-D1RcKO vs NAc-D3RcKO,  
+P = 0.902). e (Left) Time spent interacting with each of the objects during the 
+baseline period of the novel object recognition test (two-way repeated measures 
+ANOVA: Object effect, F(1, 26) = 1.381, P = 0.2506; genotype effect, F(2, 26) = 1.187, 
+P = 0.3212; object x genotype, F(2, 26)= 0.06934, P = 0.9332). (Right) Preference 
+for the novel object over a familiar one during the discrimination session 
+(one-way ANOVA: followed by two-sided Dunnett’s test, F(2, 26)= 0.4785, Group 
+comparisons, NAc-D1RcKO vs WT, P = 0.8305, NAc-D1RcKO vs NAc-D3RcKO, 
+P = 0.5168) (WT, n = 12 mice; NAc-D3RcKO, n = 9 mice and NAc-D1RcKO, n = 8 
+mice). f (Left) Quantification of trial outcome (avoidance or shock responses) 
+upon re-exposure to the platform-mediated avoidance task on day 2 (two-way 
+repeated measures ANOVA: Outcome effect, F(1, 35)= 77.30, P < 0.0001; genotype 
+effect, F(2, 35)= 0.000, P > 0.9999; outcome x genotype, F(2, 35)= 7.892, P = 0.0015) 
+(WT, n = 12 mice; NAc-D3RcKO, n = 9 mice and NAc-D1RcKO, n = 17 mice). (Right) 
+Overall time spent on platform (Day 2) as percentage of test time (one-way 
+ANOVA: followed by two-sided Dunnett’s test, F(2, 35)= 7.912, Group comparisons, 
+NAc-D1RcKO vs WT, **P = 0.0014, NAc-D1RcKO vs NAc-D3RcKO, *P = 0.0201).  
+g (Left) Absolute number of active lever responses in FR1 sessions for D1R-
+NMDAR disconnection experiments. AP5 infusion was performed on Day 2 of FR1 
+(unpaired t-test (two-tailed), t(13)= 4.933; ***P = 0.0003) (Ipsilateral, n = 8 mice; 
+contralateral, n = 7 mice). (Right) Correlation between number of AL presses on 
+Day 1 and change in active lever presses on Day 2 (AP5 challenge) (simple linear 
+regression, F(1, 11)= 0.05037, P = 0.8265). All data in this figure are presented as 
+mean ± SEM Error bars indicate SEM.
+1
+nature portfolio  |  reporting summary
+April 2023
+Corresponding author(s):
+Hugo A. Tejeda 
+Zachary Freyberg
+Last updated by author(s): Sep 16, 2024
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency 
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+The statistical test(s) used AND whether they are one- or two-sided 
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+A description of all covariates tested
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) 
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted 
+Give P values as exact values whenever suitable.
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+Our web collection on statistics for biologists contains articles on many of the points above.
+Software and code
+Policy information about availability of computer code
+Data collection
+Wheel running data were obtained using Clocklab version 1 (Actimetrics, IL). Running disks data were collected through Anymaze version 
+6.36 (Stoelting, Ireland) and TopScan Suite (CleverSys, VA). Social interaction data were collected with Anymaze software 6.36 (Stoelting, 
+Ireland). Operant conditioning and Pavlovian reward discrimination data were collected with MED-PC V software (MedAssociates, VT). 
+Platform-mediated avoidance behavior was controlled and acquired using Anymaze version 6.36 (Stoelting, Ireland). Patch-clamp 
+electrophysiology data were collected using Clampex 10.3 (Molecular Devices, CA). Further details can be found in the Methods section.
+Data analysis
+All data were analyzed using GraphPad Prism version 9.3.0 (GraphPad Software). TopScan software (CleverSys) was used for video 
+tracking of running disks, open field, and novel object tests. Immunohistochemistry and RNAscope images were analyzed with ImageJ (Fiji, 
+version 2017 May 30) and CellProfiler version 3.1.9. (Broad Institute Inc). Electrophysiology data was analyzed using Clampfit 10.6 
+(Molecular Devices), MiniAnalysis 6.0.3 (Synaptosoft, Inc) and Excel 16.16.26 (Microsoft). Specific pipelines for each of these programs are 
+available from the corresponding author upon reasonable request.
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and 
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+2
+nature portfolio  |  reporting summary
+April 2023
+Data
+Policy information about availability of data
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable: 
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A description of any restrictions on data availability 
+- For clinical datasets or third party data, please ensure that the statement adheres to our policy 
+ 
+All data supporting the findings presented in this study are available from the corresponding author (Hugo A Tejeda) upon reasonable request. Source data are 
+provided with this paper. Outlines for brain regions were acquired from the Paxinos and Franklin’s Mouse Brain in Stereotaxic Coordinates (Fifth Edition). A 
+complete data availability statement is also provided in the manuscript.
+Research involving human participants, their data, or biological material
+Policy information about studies with human participants or human data. See also policy information about sex, gender (identity/presentation), 
+and sexual orientation and race, ethnicity and racism.
+Reporting on sex and gender
+N/A
+Reporting on race, ethnicity, or 
+other socially relevant 
+groupings
+N/A
+Population characteristics
+N/A
+Recruitment
+N/A
+Ethics oversight
+N/A
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+Field-specific reporting
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+Life sciences
+Behavioural & social sciences
+ Ecological, evolutionary & environmental sciences
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+Life sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+Sample size
+Sample sizes were based on pilot and previously (similar types of) experiments and were not statistically predetermined. Experiments were 
+powered to match sample sizes typical of the technique reported in the field (ref 11,12 and 30), though no formal power analysis was 
+performed a priori.
+Data exclusions
+Mice without correct targeting of viral expression, cannula placements and/or tracers were excluded from this study. For ex-vivo 
+electrophysiology  experiments, recordings were rejected when the access resistance increased by >20% during the experiment.
+Replication
+To ensure replication, multiple cohorts of mice were used. All animal, sample and biological replicate numbers in this study are in line with 
+well accepted standards from the literature for each method. All experiments were successfully replicated at least once.
+Randomization
+Mice were randomly allocated to the different experimental conditions (genotype, pharmacological treatments or viral injections) reported in 
+this study. Counterbalancing of sex and testing was employed.
+Blinding
+Experimenters were not blinded during data acquisition since they are aware of the mouse genotype from the information on the cage; 
+analyses were performed blinded to the scorer or did not require manual scoring.
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, 
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. 
+3
+nature portfolio  |  reporting summary
+April 2023
+Materials & experimental systems
+n/a Involved in the study
+Antibodies
+Eukaryotic cell lines
+Palaeontology and archaeology
+Animals and other organisms
+Clinical data
+Dual use research of concern
+Plants
+Methods
+n/a Involved in the study
+ChIP-seq
+Flow cytometry
+MRI-based neuroimaging
+Antibodies
+Antibodies used
+Primary antibodies used in this study include rabbit anti-TH monoclonal (1:1000; PelFreez Biologicals; P40101-150) and chicken anti- 
+GFP antibody (1:1000; Abcam, ab13970). Fluorophore-conjugated secondary antibodies and include Goat-anti-chicken Alexa Fluor 
+488 (1:500, Abcam, ab150173) and donkey anti-rabbit Alexa Fluor 594 (1:500, Jackson Immuno, 711-585-152)
+Validation
+All primary antibodies were suitable for IHC according to the vendor. Anti-TH antibody selectively stained VTA and SNc along the 
+midbrain in our hands. Anti-GFP antibody stained selectively in virus infected area in our hands, and was validated according to the 
+manufacturer's website by obtaining positive staining in GFP transfected in HEK-293E cells while no signal in non-transfected cells
+Animals and other research organisms
+Policy information about studies involving animals; ARRIVE guidelines recommended for reporting animal research, and Sex and Gender in 
+Research
+Laboratory animals
+Drd3fl/fl mice were kindly provided by Z. Freyberg and and maintained in the C57BL/6J genetic background at NIMH facilities. 
+Drd1afl/fl mice were acquired from The Jackson Laboratory (JAX, 025700). Drd1a-tdTomato were acquired from Jackson 
+Laboratories (JAX, 016204) and Drd1a-tdTomato/Drd3-Cre mice were bred in NIMH facilities. Drd3-Cre mice were obtained from 
+GENSAT (founder line KI196). In addition, we used Ai14 (JAX, 007914), ROSA26-FlpER (JAX, 018906) and wild-type (WT; C57BL/6J, 
+JAX, 000664) mice. Mice used in this study were group housed under a reverse 12-h light-dark cycle (8 p.m. to 8 a.m. light), at 
+temperature of 70–74°F and 40–65% humidity, with food and water ad libitum. Wheel running experiments required single housing 
+prior the start of experiments and operant conditioning experiments required single housing and food restriction. For all strains,  
+mice (females and males) were aged  8-20 weeks at the start of the experiments.
+Wild animals
+No wild animals were used in this study.
+Reporting on sex
+Both female and male mice were used for all experiments.
+Field-collected samples
+No field-collected samples were used in this study.
+Ethics oversight
+All procedures were performed in accordance with the Guide for the Care and Use of Laboratory Animals and were approved by the 
+National Institute of Mental Health (NIMH) Animal Care and Use Committee
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+Novel plant genotypes
+Describe the methods by which all novel plant genotypes were produced. This includes those generated by transgenic approaches, 
+gene editing, chemical/radiation-based mutagenesis and hybridization. For transgenic lines, describe the transformation method, the 
+number of independent lines analyzed and the generation upon which experiments were performed. For gene-edited lines, describe 
+the editor used, the endogenous sequence targeted for editing, the targeting guide RNA sequence (if applicable) and how the editor 
+was applied.
+Seed stocks
+Report on the source of all seed stocks or other plant material used. If applicable, state the seed stock centre and catalogue number. If 
+plant specimens were collected from the field, describe the collection location, date and sampling procedures.
+Authentication
+Describe any authentication procedures for each seed stock used or novel genotype generated. Describe any experiments used to 
+assess the effect of a mutation and, where applicable, how potential secondary effects (e.g. second site T-DNA insertions, mosiacism, 
+off-target gene editing) were examined.
+Plants
+

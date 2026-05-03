@@ -1,0 +1,1046 @@
+---
+# Acute Effects of Aerobic Exercise on Executive Function and Attention in Adult Patients With ADHD
+**Autores**: Aylin Mehren
+**Año**: 2019
+**Journal**: Aerobic exercise can improve cognitive functions in healthy individuals and in various clinical groups, which might be particularly relevant for patients with ADHD.
+**DOI/Link**: acute aerobic exercise, adult ADHD, brain activation, cardiorespiratory fitness, cognition, executive function, fMRI, physical activity
+
+## Abstract
+Not found
+
+## Key Findings
+DISCUSSION
+The current study aimed to investigate the eﬀects of acute
+aerobic exercise on executive function in adult patients with
+ADHD and healthy controls, using a ﬂanker task. Our main
+ﬁnding was that the exercise compared to the control condition
+signiﬁcantly improved reaction times in patients with ADHD but
+not in healthy controls. Contrary to our expectations, changes
+in brain activation due to exercise were not obtained for the
+total sample of participants. However, analyzing subgroups of
+patients and healthy controls with a higher degree of ﬁtness,
+we found changes in brain activation in the exercise compared
+to the control condition only for ADHD patients. For this
+subgroup, decreased activation was found in frontal brain
+regions, both for congruent and incongruent trials of the ﬂanker
+task. Moreover, these patients revealed the same behavioral
+Frontiers in Psychiatry | www.frontiersin.org
+8
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+TABLE 4 |... (Extracted from Discussion)
+
+## Methodology
+MATERIALS AND METHODS
+Participants
+Data acquisition was conducted in the context of a larger
+project on acute exercise eﬀects on performance in diﬀerent
+cognitive tasks in patients with ADHD and healthy controls.
+For
+the
+purpose
+of
+the
+current
+study,
+we
+recruited
+a
+total of 46 adult participants (23 patients with ADHD
+and 23 healthy controls). ADHD patients were recruited
+through the outpatient clinic of the Department of Psychiatry
+and Psychotherapy at the University of Oldenburg. Healthy
+control participants were recruited from announcements in
+the internet. All patients had received the diagnosis of
+ADHD according to international guidelines (NICE guidelines;
+nice.org.uk/guidance/cg72), based on the diagnostic criteria of
+the Diagnostic and Statistical Manual of Mental Disorders
+(4th ed.; DSM-IV; (52)). Patients were diagnosed by a trained
+psychiatrist following a detailed psychiatric interview that
+integrates somatic diﬀerential diagnosis and the patients’ medical
+history. Following tests were used to conﬁrm the diagnosis: the
+German versions of the ADHD Self Rating Scale (ADHS-SB)
+(53), Wender Utah Rating Scale (WURS-k) (54), Conners’ Adult
+ADHD Rating Scale–Self-Report: Long Form (CAARS-S:L) (55),
+and Symptom-Checklist-90 (SCL-90-R) (56). Healthy controls
+were age- and gender-matched to the patients. ADHD symptoms
+were assessed by the ADHS-SB and the WURS-k.
+Exclusion criteria for all participants were (i) neurological
+or severe psychiatric disorders, as assessed with the German
+versions of the Structured Clinical Interview for DSM-IV (SCID-
+I) (57), the SCID-II screening questionnaire for personality
+disorders (58), and the Beck Depression Inventory (BDI-II)
+(59), (ii) autism spectrum disorders, and (iii) psychotropic drugs
+(for patients: psychotropic drugs diﬀerent from medication for
+ADHD). Further exclusion criteria were MRI contraindications
+and health conditions that interfere with exercise safety.
+To evaluate health conditions, an electrocardiogram and
+a health questionnaire (German version of the Physical
+Activity Readiness Questionnaire) (60) were completed before
+participating. One subject had to be excluded from the analysis
+due to misconceptions concerning task performance, albeit
+he had shown seemingly correct performance during the
+training task. Two further patients had to be excluded due to
+excessive head motion during the MRI (i.e., scan-to-scan or
+total displacement higher than 3 mm), so that 40 participants
+(20 patients and 20 matched controls) were included in the
+analyses. The demographic and clinical characteristics of these 40
+participants are summarized in Table 1.
+The study was conducted in accordance with the Declaration
+of Helsinki (61) and all procedures were approved by the ethics
+TABLE 1 | Demographic and clinical characteristics among patients with ADHD
+and healthy controls.
+Variable
+ADHD
+(n = 20)
+mean ± SD
+Controls
+(n = 20)
+mean ± SD
+Statistic
+P-value
+Age (years)
+29.9 ± 9.5
+29.0 ± 7.4
+t = 0.32
+0.75
+Gender (f/m)
+4/16
+5/15
+X² = 0.14
+0.71
+BMI (kg/m²)
+25.0 ± 3.8
+24.3 ± 2.7
+t = 0.64
+0.53
+HRmax (beats/min)
+179.9 ± 9.6
+187.2 ± 10.1
+t = −2.33
+0.025*
+VO2peak (mL/min/kg)
+37.1 ± 7.2
+41.5 ± 7.3
+t = −1.94
+0.060
+VO2peak (% ranking)
+40.3 ± 22.8
+51.0 ± 21.7
+t = −1.53
+0.14
+BDI
+9.3 ± 5.4
+2.3 ± 2.8
+t = 4.82
+<0.001*
+ADHS-SB
+31.4 ± 8.2
+5.0 ± 4.4
+t = 12.71
+<0.001*
+WURS-k
+40.4 ± 15.1
+8.4 ± 6.8
+t = 8.65
+<0.001*
+PA total score
+8,775 ± 8,922
+4,044 ± 3,478
+t = 2.21
+0.037*
+PA work
+4,941 ± 8,349
+235 ± 662
+t = 2.45
+0.025*
+PA transportation
+1,582 ± 2,489
+973 ± 863
+t = 1.03
+0.31
+PA domestic
+856 ± 1,035
+1,005 ± 2,425
+t = −0.25
+0.80
+PA leisure
+1,643 ± 1,776
+1,831 ± 1,840
+t = −0.33
+0.75
+PA walking
+1981 ± 2247
+608 ± 743
+t = 2.59
+0.016*
+PA moderate
+3,390 ± 3,378
+2,118 ± 2,508
+t = 1.35
+0.18
+PA vigorous
+3,404 ± 5,989
+1,318 ± 1,832
+t = 1.49
+0.15
+Stimulant medicationa
+n = 4
+—
+—
+—
+*p < 0.05. acurrent medication, discontinued 48 h prior to each visit. BMI, body mass
+index; HRmax, maximal heart rate as assessed by maximal exercise test; VO2peak,
+peak oxygen consumption as tested by maximal exercise test; VO2peak (% ranking),
+peak oxygen uptake transformed into age- and gender-adapted percentiles; BDI, Beck
+Depression Inventory; ADHS-SB, ADHD Self Rating Scale; WURS-k, Wender Utah Rating
+Scale, retrospective assessment of childhood ADHD; PA, Physical activity as assessed
+by the International Physical Activity Questionnaire, expressed in MET-minutes/week.
+committee of the University of Oldenburg. All participants gave
+their written informed consent prior to study participation.
+Experimental Tasks
+The stimulus presentation was programmed with Cogent 2000
+v125 (http://www.vislab.ucl.ac.uk/cogent.php) and run in Matlab
+R2015b (The MathWorks, Inc.). The paradigms were projected
+onto a screen and presented to the participants in the scanner
+through a mirror on the head coil. All stimuli were white and
+were displayed on a black background. Participants responded
+with their right hand via an MR-compatible keypad (NAtA
+Technologies, Coquitlam, Canada).
+Flanker Task
+An arrow version of the Eriksen ﬂanker task (62) was used
+to measure selective attention and interference control. Each
+stimulus consisted of 5 arrows in a row (one target at the center
+and two ﬂankers on either side). The target pointed to the left or
+to the right with equal probability. We included three diﬀerent
+trial types. In congruent trials the ﬂankers were pointing into
+the same direction as the target, in incongruent trials they were
+pointing into the opposite direction, and in neutral trials lines
+without arrowheads served as ﬂankers. To introduce a stronger
+interference eﬀect, the ﬂankers were larger than the target
+stimulus. Stimuli were presented in an event-related design. Each
+Frontiers in Psychiatry | www.frontiersin.org
+3
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+trial lasted 2 s, starting with a 1.5 s presentation of a ﬁxation
+cross which was followed by a stimulus for 0.5 s (Figure 1). The
+participants’ task was to focus on the ﬁxation cross, and, when
+the stimulus appeared, to indicate the direction of the target by
+pressing one of two keys (index ﬁnger for left, middle ﬁnger for
+right). They were instructed to respond as fast and accurate as
+possible. The complete task consisted of 300 trials (100 per trial
+type) and lasted 10 min. The sequence of the trial types as well as
+the direction of the target was randomized.
+Visual Task
+To test in an explorative analysis whether changes in brain
+activation are speciﬁc to executive task demands or based on
+rather unspeciﬁc and general changes in CBF, we presented a
+checkerboard task prior to the ﬂanker task (T1). An additional
+presentation of the checkerboard task at the end of the MRI
+session (T2) allowed for a further test regarding the duration
+of exercise eﬀects. Reversing checkerboard images adopted from
+Sandmann et al. (63) were presented to the participants. The
+image was a radial black and white checkerboard consisting
+of 20 rings which were divided into 18 sectors, each with
+neighboring sectors of opposite color. The proportion of white
+pixels (luminance ratio) within the pattern was 0.375. The second
+image was identical but rotated by 180◦. The stimuli were
+presented in a block-design, starting with a 30 s block of pattern-
+reversing checkerboards which changed at a reversal rate of
+3.3 Hz, followed by a 20 s block of focusing a gray ﬁxation cross.
+This sequence was presented three times so that the complete
+paradigm lasted 2.5 min.
+Questionnaires
+The subjective amount of physical activity during the last 7 days
+was assessed using the German long form of the International
+Physical Activity Questionnaire (IPAQ-LF; www.ipaq.ki.se). This
+self-report questionnaire contains 27 items asking for the time
+(number of days and minutes/day) spent on walking, moderate,
+and vigorous physical activity in four domains of daily life: work,
+transportation, domestic chores and gardening, and leisure-
+time. Scoring was conducted using the guidelines provided on
+the IPAQ website. MET-minutes (minutes weighted by energy
+requirements of speciﬁc activity) per week were calculated for
+each domain and each intensity level of physical activity, as well
+as an overall physical activity score was computed.
+Experimental Procedure
+To minimize the possibility of practice or habituation eﬀects
+on the experimental tasks (36), we decided for a repeated
+measures design with a control condition on a diﬀerent day
+without pre-intervention measures. Each subject participated
+in three sessions, which were separated by at least 2 days
+to avoid aftereﬀects of exercising on subsequent sessions.
+During the ﬁrst visit participants completed a maximal exercise
+test, during the following two visits they participated in two
+experimental sessions (exercise and control condition), which
+were counterbalanced in their sequence. Participants were
+instructed to refrain from any physical exercise on the test days.
+Patients were asked to withdraw from stimulant medication at
+least 48 h prior to each visit.
+Maximal Exercise Test
+To assess participants’ cardiorespiratory ﬁtness and their
+individual maximal heart rate (HRmax), they completed a
+maximal exercise test on a bicycle ergometer. The test started
+with cycling at 90 W. Each 3 min, the resistance was increased by
+40 W until the participant was unable to continue pedaling. The
+heart rate and oxygen consumption were recorded continuously
+via a chest strap heart rate monitor (Polar RCX5, Polar Electro
+Oy, Finland) and a spirometer (Oxycon Mobile, CareFusion,
+Heidelberg, Germany), respectively. At the end of this test, the
+participant’s maximal heart rate and peak oxygen consumption
+(VO2peak in mL/min/kg) were documented. To determine
+cardiorespiratory ﬁtness, VO2peak was transformed into age-
+and gender-adapted percentiles (VO2peak % ranking), based
+on normative data given by the American College of Sports
+Medicine (ACSM) (64).
+Experimental Sessions
+At the beginning of the ﬁrst experimental session, participants
+performed a practice trial of the ﬂanker task inside the scanner to
+FIGURE 1 | Stimuli and time course of the ﬂanker task.
+Frontiers in Psychiatry | www.frontiersin.org
+4
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+familiarize with the experimental task and to ensure correct task
+performance. Afterwards they performed either in the exercise
+condition or in the control condition. The exercise condition
+involved 30 min of continuous cycling on an ergometer with
+moderate intensity. In accordance with the guidelines of the
+ACSM (64), moderate intensity was reﬂected by 50–70% of the
+individual HRmax. The heart rate was continuously monitored
+by way of a chest strap heart rate monitor (Polar RCX5; Polar
+Electro Oy, Finland) and controlled by the experimenter. In
+the control condition, participants watched the Movie for the
+Assessment of Social Cognition (MASC-MCk) (65). In contrast
+to passive watching of a movie or seated reading, which have been
+used in previous studies as control conditions, this condition has
+the advantage of being engaged in a task that is entertaining
+but not cognitively demanding. The movie involves watching
+short sequences about young people meeting for a dinner
+and answering questions related to the actors’ mental states.
+It is similar to a soap opera and is very easy to complete.
+The participants are told that answers are subjective and that
+there are no incorrect answers. Performance in the movie took
+approximately 30 min. Note that behavioral performance in the
+movie did not diﬀer between patients and healthy controls. After
+each condition, participants followed the same procedures in
+the MR scanner. They ﬁrst performed in the visual paradigm
+(T1) which was followed by the presentation of the ﬂanker task
+and subsequently a Go/No-go task (for which results are not
+reported here). At the end of the session, the visual paradigm
+was presented again (T2) and a structural scan was acquired.
+fMRI Data Acquisition
+Imaging was performed on a 3-Tesla MRI Scanner (Siemens
+MAGNETOM Verio, Siemens AG, Erlangen, Germany) with
+a twelve-channel head array and a 3-Tesla MRI Scanner
+(Siemens Magnetom Prisma) with a 64-channel head array.
+Each patient and his/her respective matched healthy control
+were tested on the same scanner. Foam pads were used to
+minimize head movements. Functional images with BOLD-
+contrast were acquired using multislice T2∗-weighted gradient
+echo planar imaging (EPI) (time of repetition (TR) = 1,750 ms,
+time of echo (TE) = 30 ms, ﬂip angle (FA) = 80◦, Field
+of View (FoV) = 200 × 200 mm², voxel size = 3.0 mm3,
+matrix size: 64 × 64). Each experimental task was measured
+during a separate run. For the ﬂanker task 350 EPI volumes
+and for each visual task 95 EPI volumes were measured,
+consisting of 31 3 mm-thick axial slices each. Slices were
+acquired sequentially with a 1 mm gap. Each volume covered
+the whole brain with the exception of the lowermost part of
+the cerebellum. After functional scanning a high-resolution T1-
+weighted structural image using magnetization prepared rapid
+gradient-echo (MPRAGE) sequence (1 mm3 isotropic voxels, 176
+slices, FoV = 250 × 250 mm, TR = 1900 ms, TE = 2.52 ms,
+FA = 90◦) was obtained.
+Data Analysis
+Behavioral Analysis
+Behavioral data were analyzed with SPSS Statistics 22 (IBM,
+Armonk, NY, USA). Flanker task trials were divided into the
+three trial types: congruent, incongruent, and neutral. For each
+trial type mean reaction times and reaction time variabilities
+were calculated including only correct trials. Additionally,
+the proportion of errors and proportion of omissions were
+calculated, reﬂecting response accuracy. Interference scores
+were calculated by subtracting mean reaction times between
+incongruent and congruent trials (RTincongruent - RTcongruent).
+Eﬀects of group and condition were analyzed using a 2 (group:
+ADHD vs. healthy controls) X 2 (condition: Exercise vs. Movie)
+mixed factorial repeated measures ANOVA. Condition-speciﬁc
+and group diﬀerences were tested using paired t-tests and two-
+sample t-tests, respectively. To test for associations between
+behavioral outcomes and participants’ ﬁtness level, we calculated
+Pearson correlations between behavioral outcomes shown to
+be signiﬁcantly diﬀerent between conditions and VO2peak %
+ranking values. To test for eﬀects of exercise on interference
+control, we deﬁned the interference score as a primary outcome
+measure. As the interference score is a summary measure and
+exercise might aﬀect several components of executive functioning
+(e.g., attention and inhibition processes) as well as general
+processing speed, we also deﬁned reaction times in congruent and
+incongruent trials separately as primary outcome measures. For
+those three measures, Bonferroni correction was used to account
+for multiple comparisons (signiﬁcance level of p ≤0.017, two-
+sided). All other analyses were exploratory, not conﬁrmatory, and
+were interpreted accordingly. Therefore, the signiﬁcance level
+was set to p ≤0.05 (two-sided) and no adjustment for multiple
+testing was applied.
+fMRI Analysis
+The data were preprocessed and statistically analyzed using
+SPM12 (Wellcome Trust Centre for Neuroimaging, London, UK)
+and Matlab R2016a. Preprocessing involved (i) realignment of the
+functional images to the mean image volume, (ii) coregistration
+of the functional and structural images, iii) segmentation of
+the structural image, (iv) spatial normalization to the standard
+MNI template brain (Montreal Neurological Institute, Quebec,
+Canada), and (v) spatial smoothing with an 8 mm three-
+dimensional, full-width-at-half-maximum (FWHM) Gaussian
+kernel. For each participant, motion parameters were visually
+inspected and maxima of scan-to-scan and of total displacement
+were calculated. More than 3 mm of either scan-to-scan or total
+displacement were determined beforehand as excessive motion.
+Two patients were excluded from analysis due to this criterion.
+At the single-subject level, we performed standard analyses
+using the general linear model (GLM) in SPM12. For the ﬂanker
+task, event-related analyses were conducted. To model task-
+related signal increases, stick functions that were time-locked to
+the event onsets were used. The ﬁrst-level GLM design matrix
+included ﬁve regressors of interest: correct congruent, correct
+incongruent, correct neutral, errors, omissions; and six motion
+regressors as nuisance regressors. We were primarily interested
+in the diﬀerential contrast incongruent—congruent as well as
+congruent and incongruent trials separately, representing brain
+activity related to interference suppression and attention. For
+the visual task, hemodynamic responses to watching pattern-
+reversing checkerboards were modeled as box-car functions with
+Frontiers in Psychiatry | www.frontiersin.org
+5
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+a block length of 30 s convoluted with the HRF, time locked
+to visual stimulation onsets. The ﬁrst regressor of the GLM
+design matrix modeled epochs of visual stimulation against an
+implicit baseline, the six motion parameters were entered as
+nuisance regressors. To remove non-physiological low-frequency
+noise, the data were high-pass ﬁltered at 1/128 Hz. Temporal
+autocorrelation of the fMRI time series was corrected using an
+AR(2) model. GLM parameters were estimated using the classical
+SPM approach (Restricted Maximum Likelihood).
+On the group level, two-sample t-tests with the diﬀerential
+contrasts of Exercise—Movie and Movie—Exercise were used
+to test for interaction eﬀects between group and condition.
+To examine between-group diﬀerences for each condition
+separately, we conducted two-sample t-tests for Movie and
+Exercise. Within-group comparisons between the two sessions
+were tested using paired t-tests. As we expected cardiorespiratory
+ﬁtness to be a moderator of the expected eﬀects, we divided
+the sample according to their ﬁtness in a post hoc analysis
+and performed the same analyses as mentioned above for the
+higher ﬁt group. The initial voxel threshold was set to 0.001
+uncorrected. Multiple testing was then accounted for on cluster
+level, based on a corrected pFWE of 0.05. As the eﬀects of
+acute exercise on brain activation have been rarely examined
+in fMRI studies and results were variable, we conducted
+whole-brain analyses for both tasks. Stereotaxic coordinates
+are reported in MNI space and ﬁgures are reported using
+neurological convention.
+RESULTS
+Demographic and Clinical Data
+Participant characteristics are depicted in Table 1. As expected,
+patients and healthy controls did not diﬀer with respect to
+age, gender, and BMI, but patients scored higher than controls
+in ADHD symptoms as well as in depression scores. In
+subjective assessments of physical activity, patients indicated
+to walk more and to be more active at work than controls,
+resulting in a higher total score in the International Physical
+Activity Questionnaire.
+Timing of Task Administration
+The average time interval between the end of exercising and
+the beginning of the experimental tasks was as follows: 5.9 min
+(SD = 1.2, range 4–10) for the visual task at T1, 9.8 min for the
+ﬂanker task (SD = 1.8, range 7–16), and 33.2 min (SD = 2.1,
+range 30–39) for the visual task at T2.
+Effects of Exercise on Brain Activation and
+Behavior in the Flanker Task
+Behavioral Results
+Group means for all behavioral measures are depicted in Table 2.
+Main behavioral results are displayed in Figure 2.
+Primary outcome measures: reaction times
+Interactions between the factors group and condition were found
+for reaction times in congruent [F(1, 38) = 9.28, p =
+0.004,
+η2 = 0.20] but not in incongruent trials [F(1, 38) = 2.63, p = 0.11,
+η2 = 0.06]. For congruent trials, the main eﬀect of condition
+was near signiﬁcance [F(1, 38) = 4.04, p = 0.052, η2 = 0.10],
+but there was no main eﬀect of group [F(1, 38) = 2.83, p = 0.10,
+η2 = 0.07]. For incongruent trials, there was a signiﬁcant main
+eﬀect of condition [F(1, 38) = 6.30, p = 0.016, η2 = 0.14] and a
+near-signiﬁcant main eﬀect of group [F(1, 38) = 3.99, p = 0.053,
+η2 = 0.10].
+T-tests showed signiﬁcant between-group diﬀerences for both
+trial types in the control condition (Movie), with slower reaction
+times for patients compared to healthy controls [congruent:
+t(38) = 2.59, p = 0.014, d = 0.82; incongruent: t(38) = 2.50,
+p = 0.017, d = 0.79]. Contrary, in the exercise condition,
+between-group diﬀerences in reaction times were no longer
+signiﬁcant (p > 0.05). These results were due to patients’
+signiﬁcantly enhanced reaction time performance in the exercise
+compared to the control condition [congruent: t(19) = 3.64,
+p = 0.002, d = 0.81; incongruent: t(19) = 2.89, p = 0.009,
+d = 0.65], and a similar reaction time performance of healthy
+controls in both conditions (p > 0.05).
+Interactions between the factors group and condition were
+also found for the interference score [incongruent–congruent;
+F(1, 38) = 8.54, p = 0.006, η2 = 0.18], but there was no
+main eﬀect of group or condition (p > 0.05). Healthy controls
+showed a decreased interference score after exercise [t(19) = 2.73,
+p = 0.013, d = 0.61], due to a slightly higher reaction time
+for congruent trials [t(19) = −0.72, p = 0.48, d = 0.16] and a
+slightly lower reaction time for incongruent trials [t(19) = 0.64,
+p = 0.53, d = 0.14].
+Reaction time variability
+Interactions between the factors group and condition were
+signiﬁcant for reaction time variability in congruent trials
+[F(1, 38) = 8.29, p = 0.007, η2 = 0.18]. T-tests revealed that
+patients’ reaction time variability in congruent trials decreased
+in the exercise compared to the control condition [t(19) = 3.47,
+p = 0.003, d = 0.78]. For incongruent trials there was a near-
+signiﬁcant main eﬀect of condition [F(1, 38) = 3.56, p = 0.067,
+η2 = 0.09] due to numerically decreased reaction time variability
+after exercise in patients.
+Accuracy
+To explore whether potential changes in reaction times were
+related to a change in speed-accuracy trade-oﬀ, we tested in
+explorative analyses whether accuracy was aﬀected by exercise.
+No signiﬁcant eﬀects were obtained for the error rate or
+omission rate.
+Correlation with ﬁtness
+We found a signiﬁcant positive correlation of VO2peak with
+behavioral outcomes (reaction time diﬀerences between Exercise
+and Movie) in incongruent trials (r2 = 0.233, p = 0.031) in
+patients, but not in healthy controls.
+Note that results for neutral trials are similar to those for
+congruent trials (see Table 2 for descriptive data).
+fMRI Results
+We were primarily interested in the diﬀerence in brain
+activation
+between
+the
+exercise
+and
+control
+condition.
+Frontiers in Psychiatry | www.frontiersin.org
+6
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+TABLE 2 | Behavioral performance during the ﬂanker task for each group and condition.
+Variable
+ADHD (n = 20)
+Controls (n = 20)
+Movie mean (SE)
+Exercise mean (SE)
+Movie mean (SE)
+Exercise mean (SE)
+RT congruent (ms)
+488 (11)
+462 (9)
+451 (9)
+456 (10)
+RT incongruent (ms)
+565 (10)
+545 (9)
+533 (8)
+529 (10)
+RT neutral (ms)
+507 (11)
+480 (10)
+468 (9)
+467 (9)
+Interference Score (ms)
+77 (5)
+83 (3)
+82 (4)
+72 (4)
+RTV congruent (ms)
+77 (5)
+64 (4)
+65 (7)
+75 (6)
+RTV incongruent (ms)
+80 (7)
+66 (3)
+72 (6)
+69 (5)
+RTV neutral (ms)
+74 (6)
+59 (3)
+65 (6)
+69 (5)
+Error rate
+0.034 (0.009)
+0.032 (0.009)
+0.032 (0.005)
+0.030 (0.005)
+Omission rate
+0.008 (0.003)
+0.002 (0.001)
+0.005 (0.002)
+0.007 (0.002)
+RT, reaction time; RTV, reaction time variability; SE, standard error of the mean.
+FIGURE 2 | Effects of group and condition on primary outcome measures: reaction times (RT) in (A) congruent and (B) incongruent trials, and (C) interference score.
+Error bars represent standard errors of the mean. *p < 0.05 (refers to pairwise comparisons, i.e., paired-t tests and two-sample t-tests).
+However, to test whether performance in the ﬂanker task
+revealed brain activation patterns similar to those reported in
+previous literature, we ﬁrst plotted brain activation speciﬁc
+to
+interference
+control
+(contrast
+incongruent–congruent)
+separate for the exercise and control condition. Main activations
+were found in frontal and sensorimotor areas, replicating the
+ﬁndings of previous studies (see Supplementary Material).
+Analyzing the eﬀects of exercise on brain activation in
+the ﬂanker task, we observed neither interaction eﬀects
+between group and condition nor within-group eﬀects of
+condition for any contrast of interest (incongruent–congruent,
+congruent, incongruent).
+Subgroup Analysis of Participants With
+Higher Fitness
+Based on eﬀects of ﬁtness reported in the previous literature
+(15, 43, 48) and on the positive association between ﬁtness and
+behavioral outcomes in our study, we performed a subgroup
+analysis with patients and controls with a high degree of ﬁtness.
+Demographic and clinical characteristics of this subgroup are
+depicted in Table 3. Originally, we intended to perform a median
+split, but three patients were in the median range of VO2peak
+values. In order to achieve a higher statistical power, we decided
+to assign them to the higher ﬁt subgroup. Consequently, we used
+the upper 60% (n = 12 per group) of the original sample which
+Frontiers in Psychiatry | www.frontiersin.org
+7
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+corresponds to a VO2peak % ranking equal or higher than 35 for
+the patients and equal or higher than 50 for controls. However,
+we performed the same analyses excluding those three patients
+(n = 9 per group) and obtained similar results.
+Behavioral Results
+Behavioral results for the higher ﬁt sample were similar to the
+results presented for the complete sample. We found interaction
+eﬀects between group and condition for reaction times in
+congruent and incongruent trials [congruent: F(1, 22) = 14.78,
+p = 0.001, η2 = 0.40; incongruent: F(1, 22) = 7.47, p = 0.012,
+η2 = 0.25], which were due to enhanced performance in
+patients in the exercise compared to the control condition. The
+interaction for the interference score was no longer signiﬁcant
+after Bonferroni correction [F(1, 22) = 4.74, p = 0.040, η2 = 0.18].
+In explorative analyses, we found interaction eﬀects between
+group and condition for reaction time variability [congruent:
+F(1, 22) = 17.46, p < 0.001, η2 = 0.44; incongruent: F(1, 22) = 4.67,
+p = 0.042, η2 = 0.18] and omissions [F(1, 22) = 7.78, p = 0.011,
+η2 = 0.27], which were again caused by enhanced performance
+in patients in the exercise compared to the control condition.
+fMRI Results
+For the ﬂanker task, results including only participants with
+a high ﬁtness level diﬀered from results for the complete
+TABLE 3 | Demographic and clinical characteristics among subgroups with higher
+degrees of cardiorespiratory ﬁtness.
+Variable
+ADHD
+(n = 12)
+mean ± SD
+Controls
+(n = 12)
+mean ± SD
+Statistic
+P-value
+Age (years)
+31.8 ± 9.2
+29.0 ± 7.7
+t = 0.80
+0.44
+Gender (f/m)
+3/9
+2/10
+X² = 0.25
+0.61
+BMI (kg/m²)
+23.5 ± 2.8
+23.5 ± 2.2
+t = 0.016
+0.99
+HRmax (beats/min)
+177.9 ± 11.0
+186.9 ± 11.7
+t = −1.94
+0.065
+VO2peak (mL/min/kg)
+41.0 ± 6.1
+46.3 ± 4.4
+t = −2.46
+0.022*
+VO2peak (% ranking)
+55.0 ± 16.0
+65.4 ± 11.8
+t = −1.82
+0.082
+BDI
+9.0 ± 6.6
+1.6 ± 1.9
+t = 3.73
+0.001*
+ADHS-SB
+28.4 ± 8.8
+5.3 ± 5.0
+t = 7.92
+<0.001*
+WURS-k
+34.8 ± 16.0
+9.2 ± 6.8
+t = 5.11
+<0.001*
+PA total score
+7,825 ± 7,375
+5,385 ± 3,906
+t = 1.01
+0.33
+PA work
+3,400 ± 6,204
+311 ± 817
+t = 1.71
+0.11
+PA transportation
+1,956 ± 3,083
+1226 ± 968
+t = 0.78
+0.44
+PA domestic
+691 ± 706
+1525 ± 3059
+t = –0.92
+0.37
+PA leisure
+1,778 ± 1,923
+2,323 ± 2,189
+t = –0.65
+0.52
+PA walking
+1,684 ± 1,944
+718 ± 907
+t = 1.56
+0.13
+PA moderate
+3,360 ± 3,621
+3,010 ± 2,927
+t = 0.26
+0.80
+PA vigorous
+2,780 ± 5,341
+1,657 ± 2,258
+t = 0.67
+0.51
+Stimulant medicationa
+n = 1
+—
+—
+—
+*p < 0.05. aCurrent medication, discontinued 48 h prior to each visit. BMI, body mass
+index; HRmax, maximal heart rate as assessed by maximal exercise test; VO2peak, peak
+oxygen consumption as tested by maximal exercise test; VO2peak (% ranking), peak
+oxygen uptake transformed into age- and gender-adapted percentiles; BDI =
+Beck
+Depression Inventory; ADHS-SB, ADHD Self Rating Scale; WURS-k, Wender Utah Rating
+Scale, retrospective assessment of childhood ADHD; PA, Physical activity as assessed
+by the International Physical Activity Questionnaire, expressed in MET-minutes/week.
+sample. For the contrast incongruent–congruent, there were no
+interaction eﬀects between group and condition or within-group
+eﬀects of condition. However, for the single contrasts congruent
+and incongruent, the subgroup analyses revealed signiﬁcant
+within-group eﬀects for the factor condition for ADHD patients
+but not for controls (Table 4).
+During congruent trials, ADHD patients showed decreased
+activation in the exercise compared to the control condition
+in two clusters: one cluster was located in the right precentral
+gyrus extending to the right superior frontal gyrus and the
+right middle frontal gyrus (lateral part of premotor cortex); the
+other cluster comprised regions of the right middle temporal
+gyrus, right middle occipital gyrus, and right inferior occipital
+gyrus (Figure 3A).
+During
+incongruent
+trials,
+patients
+showed
+decreased
+activation in the exercise compared to the control condition
+in three clusters: the ﬁrst cluster extended from the medial
+to the left lateral part of the superior frontal gyrus, the right
+midcingulate cortex, and right dorsolateral prefrontal areas; the
+second cluster extended from the right middle frontal gyrus
+to right precentral and superior frontal regions (lateral part of
+premotor cortex); the third cluster was located in the paracentral
+lobule including the supplementary motor area (medial part of
+premotor cortex) (Figure 3B).
+Visual Task
+For the visual task presented directly after each condition (T1),
+there were no interaction eﬀects between group and condition.
+However, patients showed decreased activation in the exercise
+compared to the control condition in two clusters in the right
+hemisphere: one cluster had peak activation in the superior
+frontal gyrus and comprised the supplementary motor area
+and frontal eye ﬁelds; the second cluster was located in the
+anterior/frontopolar part of the prefrontal cortex and comprised
+parts of the middle and superior frontal gyri (Figure 4 and
+Table 5). There was no change in activation for healthy controls
+associated with exercise. We found no eﬀect of condition
+for the visual task at T2 as well as no interaction eﬀects
+between condition (Movie and Exercise) and time of visual task
+(T1 and T2).
+
+## Results
+results indicate exercise-induced
+improvements in attention and processing speed in patients with ADHD, demonstrating
+that adult patients with ADHD may beneﬁt from an acute bout of exercise. These ﬁndings
+could be of high relevance for developing alternative treatment approaches for ADHD.
+In addition, results of the current study contribute to elucidate the neurophysiological
+mechanisms underlying the beneﬁcial effects of exercise on cognition and to better
+understand the role of cardiorespiratory ﬁtness on these effects.
+Keywords: acute aerobic exercise, adult ADHD, brain activation, cardiorespiratory ﬁtness, cognition, executive
+function, fMRI, physical activity
+Mehren et al.
+Exercise Effects in ADHD
+INTRODUCTION
+Attention deﬁcit hyperactivity disorder (ADHD) is well-known
+as a disorder aﬀecting children, even though symptoms often
+persist until adulthood (1). Impairments in executive function,
+e.g., diﬃculties to sustain attention, increased distractibility, or
+reduced control of response interference are common among
+patients with ADHD (2), aﬀecting various areas of daily life.
+Adult patients often report diﬃculties at work or in social
+communication, situations in which attentional and interference
+control are crucial (3). Experimental paradigms that have been
+developed to measure interference control include the Stroop
+task, Eriksen ﬂanker task, and the Simon task. There are
+numerous studies demonstrating that patients with ADHD
+show impaired performance in these tasks compared to healthy
+participants (4–7). Neuroimaging studies have further reported
+abnormal brain activation in patients during executive function
+tasks, mainly aﬀecting fronto-striatal and parietal regions, but
+also temporal and subcortical structures (8–12). However, there
+is no consensus on the direction of activation diﬀerences (11–14).
+Aerobic exercise might be eﬀective in improving executive
+function in ADHD. Studies in healthy participants as well
+as patients with several pathological conditions including
+ADHD have shown that both chronic and acute exercise can
+improve executive functioning, attention, as well as symptoms
+of hyperactivity and impulsivity (15–19). The majority of studies
+concentrating on children with ADHD have found positive
+eﬀects of acute exercise on diﬀerent aspects of executive function
+[e.g., (20–23); see (24) for review], whereas there are only two
+studies on adult patients revealing mixed results. Gapin et al. (25)
+tested college students with and without ADHD before and after
+an acute bout of exercise and found improved inhibitory control
+during the Stroop task after exercise in both groups. This study,
+however, suﬀers from methodological caveats, including only 10
+participants per group. Furthermore, testing before and after an
+exercise session might lead to behavioral improvements reﬂecting
+habituation or practice eﬀects. In contrast, Fritz and O’Connor
+(26) included a resting control condition and reported exercise-
+induced improvements in mood and motivation in 32 adult male
+patients, but no changes in attention and hyperactivity.
+Proposed neurophysiological mechanisms underlying the
+cognitive beneﬁts of acute exercise include increases in arousal
+and catecholamine levels (27–29). These mechanisms are mainly
+associated with prefrontal cortex functioning which might
+explain why executive functions seem to beneﬁt more from
+exercise than other cognitive functions (16, 30–33). Furthermore,
+increases in cerebral blood ﬂow (CBF) due to exercise have been
+observed (34, 35), while it is not clear yet if these changes are
+speciﬁc to prefrontal brain regions or rather global. Some authors
+speculate that exercise could elevate the proportion of CBF in
+prefrontal brain regions in comparison to other areas (36). Note
+that CBF changes have mainly been assessed during exercise [e.g.,
+(34)] and results from studies measuring CBF following an acute
+bout of exercise are scarce and inconsistent (35–38).
+Very few studies investigated brain activation during cognitive
+tasks following acute exercise in healthy individuals using fMRI.
+Recently, two fMRI studies reported exercise-induced increases
+in activation of parietal and hippocampal regions (39) and
+increases as well as decreases in activation in frontal regions
+(40) during working memory performance as assessed by an
+N-back task. MacIntosh et al. (37) found decreased activation
+in the left parietal operculum during a Go/No-go task post
+exercise compared to pre exercise. In psychiatric patients, only
+one neuroimaging study investigated the acute eﬀects of exercise
+on cognition, revealing exercise-induced deactivation in frontal
+and subcortical brain regions during a sustained attention task
+in patients with bipolar disorder, which was stronger than in
+healthy controls. However, no behavioral eﬀects were found (41).
+To our knowledge, no fMRI studies of acute exercise eﬀects in
+patients with ADHD have been conducted. However, Choi et al.
+(42) included fMRI to test the eﬀects of a 6 week exercise program
+in addition to methylphenidate treatment on Wisconsin Card
+Sorting test performance in adolescents with ADHD and found
+that exercise in addition to medication increased frontal lobe
+activity to a greater extent than medication only.
+Previous studies showed that exercise inﬂuences diﬀerent
+areas of cognitive processing in a diﬀerential manner, with
+several moderating factors playing a signiﬁcant role. Examples
+for such factors are the timing of cognitive task administration,
+which might interfere with the duration of exercise eﬀects,
+and the ﬁtness level of the participants, which might interact
+with neurophysiological responses and contribute to behavioral
+eﬀects (15, 16, 36, 43). Higher levels of ﬁtness have been
+associated with enhancements in brain structure, function, and
+cognitive performance [for reviews, see (44–47)]. In addition,
+a few studies investigated the association between ﬁtness and
+acute exercise eﬀects on cognition. Hogan et al. (48) reported
+cognitive beneﬁts of acute exercise for healthy adolescents
+with higher ﬁtness levels as compared to those with lower
+ﬁtness levels. Tsai et al. (49) included neuroelectric measures
+to test the eﬀects of acute exercise on the performance in
+a visuospatial attention task in healthy young adults. While
+exercise improved behavioral performance and increased central
+Contingent Negative Variation (CNV) area irrespective of
+ﬁtness level, only the higher ﬁt group showed increases in
+P3 amplitude and frontal CNV area, which are indicators of
+allocation of attention and cognitive preparation, respectively.
+These ﬁndings were supported by another study by Tsai
+et al. (50), demonstrating that only higher ﬁt participants
+showed exercise-related increases in P3 amplitude during a task-
+switching paradigm. Nevertheless, previous studies investigating
+acute exercise eﬀects on patients with ADHD or on brain
+activation as measured by fMRI have not considered ﬁtness as
+a moderating factor.
+The aim of the current fMRI study was to investigate acute
+eﬀects of aerobic exercise on executive functioning and associated
+brain activation in adult patients with ADHD. Therefore, patients
+and healthy controls performed in a ﬂanker task in the MRI
+scanner in two conditions: Following an exercise condition
+requiring 30 min of continuous cycling at moderate intensity,
+and following a control condition requiring to watch a movie.
+We hypothesized that exercise improves executive function as
+reﬂected in better task performance and altered brain activation
+in the exercise compared to the control condition in patients
+Frontiers in Psychiatry | www.frontiersin.org
+2
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+and in healthy controls. Based on previous studies showing
+that individuals with lower cognitive performance levels are
+more susceptible to beneﬁts from exercise (15, 30, 51), we
+expected that patients would beneﬁt to a greater extent. On
+an exploratory basis, we further assumed that individual ﬁtness
+levels of participants are associated with the amount of cognitive
+facilitation induced by the exercise intervention.
+
+## Clinical Significance
+CONCLUSIONS
+Our study adds evidence that adults with ADHD can beneﬁt
+from acute exercise. In an experimental context, acute aerobic
+exercise is of particular relevance because it might cause
+direct improvements in behavior as well as immediate changes
+in neurophysiology. As short term eﬀects of acute exercise
+are likely to accumulate to long term beneﬁts of chronic
+exercise interventions, our ﬁndings are highly relevant for
+developing further treatment approaches for patients with
+ADHD. Exercise could help as an adjunctive therapy to
+existing therapy approaches or in some cases even as a
+stand-alone therapy. Advantages of exercise include low costs,
+easy implementation, non-invasiveness, as well as additional
+psychological and physiological beneﬁts. In addition, the study
+contributes to clarifying the underlying neurophysiological
+mechanisms
+of
+exercise
+beneﬁts
+on
+cognition.
+However,
+determining modifying factors (e.g., time point of testing or
+exercise duration and intensity) that create optimal conditions
+to observe improvements due to exercise, will be a challenge of
+future investigations.
+DATA AVAILABILITY
+The raw data supporting the conclusions of this manuscript will
+be made available by the authors, without undue reservation, to
+any qualiﬁed researcher.
+ETHICS STATEMENT
+The study was conducted in accordance with the 1964 Helsinki
+declaration and its later amendments or comparable ethical
+standards and all procedures were approved by the ethics
+committee of the University of Oldenburg. Informed consent:
+Informed consent was obtained from all individual participants
+included in the study.
+AUTHOR CONTRIBUTIONS
+AM designed the study, carried out and supervised data
+collection, carried out ﬁnal data analysis, drafted the initial
+manuscript, and approved the ﬁnal manuscript as submitted.
+JÖ designed the study, participated in ﬁnal data analysis,
+critically reviewed and revised the initial manuscript, and
+approved the ﬁnal manuscript as submitted. AL coordinated
+and supervised patient recruitment, carried out clinical data
+collection, and approved the ﬁnal manuscript as submitted.
+MB
+conceptualized
+and
+designed
+the
+study,
+participated
+in data collection, and approved the ﬁnal manuscript as
+submitted. HM gave advice during patient recruitment, data
+collection and analysis, and approved the ﬁnal manuscript
+as submitted. CT designed the study, critically reviewed and
+revised the initial manuscript, and approved the ﬁnal manuscript
+as submitted. AP conceptualized and designed the study,
+wrote the proposal for intramural funding, supervised clinical
+data collection and analysis, critically reviewed and revised
+the initial manuscript, and approved the ﬁnal manuscript
+as submitted.
+FUNDING
+This work was supported by the Research Pool of the European
+Medical School of the Carl von Ossietzky Universität Oldenburg
+and the Neuroimaging Unit of the Carl von Ossietzky Universität
+Oldenburg funded by grants from the German Research
+Foundation (3T MRI INST 184/152-1 FUGG).
+ACKNOWLEDGMENTS
+The authors would like to acknowledge Dr. Frank Piper
+for recording electrocardiograms of all study participants,
+Dr. Gerd Schmitz and Prof. Dr. Dirk Büsch for oﬀering
+Frontiers in Psychiatry | www.frontiersin.org
+12
+March 2019 | Volume 10 | Article 132
+Mehren et al.
+Exercise Effects in ADHD
+the opportunity to use their spirometry laboratory, and
+Gülsen Yanc, Katharina Grote, Simon Steinkamp, Imke Gillich,
+Hannah Klein, Rebecca Burke, Ylva Philline Luther, Cecilia
+Diaz Luque, and Ricarda Pritschmann for their help in
+data collection.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online
+at:
+https://www.frontiersin.org/articles/10.3389/fpsyt.
+2019.00132/full#supplementary-material
+
+## References
+REFERENCES
+1. American Psychiatric Association. Diagnostic and Statistical Manual of Mental
+Disorders. 5th ed. Arlington, VA: American Psychiatric Publishing Inc. (2013).
+2. Barkley RA. Behavioral inhibition, sustained attention, and executive
+functions: constructing a unifying theory of ADHD. Psychol Bull. (1997)
+121:65–94. doi: 10.1037/0033-2909.121.1.65
+3. Sarkis E. Addressing attention-deﬁcit/hyperactivity disorder in the workplace.
+Postgrad Med. (2014) 126:25–30. doi: 10.3810/pgm.2014.09.27...
+---

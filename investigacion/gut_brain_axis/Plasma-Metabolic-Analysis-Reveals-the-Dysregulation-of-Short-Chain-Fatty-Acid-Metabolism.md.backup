@@ -1,0 +1,1005 @@
+# Vol.:(0123456789)
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2035
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Plasma-Metabolic-Analysis-Reveals-the-Dysregulation-of-Short-Chain-Fatty-Acid-Metabolism.pdf
+
+## Abstract / Summary
+Vol.:(0123456789)
+1 3
+https://doi.org/10.1007/s12035-022-03157-y
+Plasma Metabolic Analysis Reveals the Dysregulation of Short‑Chain 
+Fatty Acid Metabolism in Parkinson’s Disease
+Ao Qi1 · Lulu Liu2 · Junjie Zhang1,3 · Simei Chen4 · Simin Xu4 · Yusen Chen4 · Lijiang Zhang1,3 · Chun Cai1,3 
+Received: 6 May 2022 / Accepted: 1 December 2022 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+Abstract
+Parkinson’s disease (PD) is a progressive... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Vol.:(0123456789). 2035.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Vol.:(0123456789)
+1 3
+https://doi.org/10.1007/s12035-022-03157-y
+Plasma Metabolic Analysis Reveals the Dysregulation of Short‑Chain 
+Fatty Acid Metabolism in Parkinson’s Disease
+Ao Qi1 · Lulu Liu2 · Junjie Zhang1,3 · Simei Chen4 · Simin Xu4 · Yusen Chen4 · Lijiang Zhang1,3 · Chun Cai1,3 
+Received: 6 May 2022 / Accepted: 1 December 2022 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+Abstract
+Parkinson’s disease (PD) is a progressive neurodegenerative disorder, characterized by high morbidity, high disability rate, and 
+slow course of disease. The clinical diagnostic method of PD is complex and time-consuming, and there is no clear biomarker 
+for clinical use. We aimed to investigate the plasma metabolites in PD and find out potential biomarkers with diagnostic ability. 
+In the analysis of more than 40 metabolites including short-chain fatty acids, long-chain fatty acids, amino acids, and carbo-
+hydrates, the difference of short-chain fatty acids was observed. Acetic acid concentration was higher in PD than in healthy 
+controls, and propanoic acid and 2,3,4-trihydroxybutyric acid were lower in PD. Compared with the early stage of PD, acetic 
+acid increased significantly in the advanced stage of PD. Propanoic acid increased significantly in medicated PD compared 
+with drug naïve PD. ROC analysis revealed acetic acid discriminated PD from healthy controls with 100% sensitivity, 88.9% 
+specificity, and an area under the curve (AUC) of 0.981, and propanoic acid discriminated PD from healthy controls with an 
+AUC of 0.981, 100% sensitivity, and 94.4% specificity. Acetic acid and propanoic acid may be a potential biomarker for differ-
+entiating PD from health, and the propanoic acid was evaluated as the most potential diagnostic marker because of its extremely 
+high sensitivity and specificity.
+Keywords  Parkinson’s disease · Metabolomics · Short-chain fatty acid · Biomarker
+Introduction
+Parkinson’s disease (PD) is a common neurodegenerative 
+disease among elderly people. With the accelerated aging 
+process, the incidence of this disease is increasing yearly. 
+It is estimated that from 1990 to 2015, PD has more than 
+doubled globally, and the disease was the fastest growing in 
+prevalence, disability, and deaths [1, 2]. The pathophysiol-
+ogy of PD appears to result from the complex interplay of 
+aberrant α-synuclein (Lewy bodies), dysfunction of mito-
+chondria, and neuroinflammation; these disease mecha-
+nisms collectively result in accelerated neuronal death and 
+the absence of dopaminergic neurons in substantia nigra 
+compacta, which leads to the decrease of dopamine level in 
+striatum and subsequent loss of motor function [3]. Lewy 
+bodies also exist in the autonomic nervous system and the 
+intestine [4–6]. The following studies indicated that abnor-
+mal aggregation of α-synuclein fibrils starts in the intestinal 
+nerve plexus and gradually moves up to the substantia nigra 
+[7, 8]. The current standard defines PD as bradykinesia with 
+Ao Qi and Lulu Liu contributed equally to this work and should be 
+considered co-first authors.
+ *	 Yusen Chen 
+	
+chenyusen925@163.com
+ *	 Lijiang Zhang 
+	
+gdmczlj@sina.com
+ *	 Chun Cai 
+	
+caichun2006@tom.com
+1	
+Southern Marine Science and Engineering Guangdong 
+Laboratory, Zhanjiang 524023, Guangdong, China
+2	
+The First DongGuan Affiliated Hospital of Guangdong 
+Medical University, Dongguan 523475, Guangdong, China
+3	
+School of Pharmacy, Guangdong Medical University, 
+Zhanjiang 524023, Guangdong, China
+4	
+Neurology Department of Affiliated Hospital of Guangdong 
+Medical University, Guangdong Medical University, 
+Zhanjiang 524023, Guangdong, China
+/ Published online: 24 January 2023
+Molecular Neurobiology (2023) 60:2619–2631
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+either static tremor, rigidity, or both. However, the clini-
+cal manifestations are various, including many non-motor 
+symptoms [9]. Even with the use of strict clinical diagnostic 
+criteria, the diagnostic error rate of PD ranges from 15 to 
+24% in routine clinical practice [10, 11]. Future diagnostic 
+algorithms of PD will need to incorporate additional tests 
+and biomarkers to further enhance diagnostic accuracy and 
+sensitivity for early disease stages.
+Numerous researches have been invested in finding pro-
+gression markers of PD. Biomarkers in cerebrospinal fluid 
+(α-synuclein, tryptic peptide) of patients with PD had good 
+diagnostic accuracy [12, 13]. However, this invasive detection 
+method is not easily accepted by patients. Screening of PD mark-
+ers in peripheral venous blood and sebum is a research hotspot 
+in recent years. Plenty of published papers have focused on the 
+change of metabolites in patients with PD plasma before. Poten-
+tial markers involved in these studies include proteins, lipids, 
+organic acids, and carbohydrate. Leng B et al. found that plasma 
+levels of neuron-derived exosomal EAAT-2 and VGLUT-1 were 
+significantly lower in PD patients than in healthy controls [14]. 
+Alterations in the levels of serum sphingolipids and phospholip-
+ids have been reported in PD [15–17]. There was an increase in 
+the levels of phosphatidylcholine, with a simultaneous decrease 
+in lyso-phosphatidylcholine, in the PD patients vs controls, sug-
+gesting a potential role of these lipids as biomarkers [16]. Sper-
+mine synthesis and N1,N8-diacetylspermidine may respectively 
+be useful diagnostic and severity-associated biomarkers for PD 
+[18]; Chang, K. H et al. found that the level of plasma ornithine 
+could act as a biomarker of PD [19]. It has also been found 
+that the fasting plasma insulin level in PD patients decreased 
+significantly, and the fasting plasma islet amyloid polypeptide 
+increased in older patients, and the stronger the insulin resist-
+ance, the more obvious the non-motor disorder [20]. From 
+the existing research, researchers have their own emphasis on 
+analysis, and few studies have paid attention to the changes of 
+screened analytes in the early and late stages of PD or in medi-
+cated PD and drug naïve PD. Therefore, systematic analysis of 
+plasma metabolites in patients with Parkinson’s disease is still 
+scarce. Our previous research used ultra-high-pressure liquid 
+chromatography tandem mass spectrometry (UPLC-MS) to 
+profile 158 fatty acids and their metabolites in PD plasma. The 
+results discovered that the fatty acid metabolites were helpful 
+to diagnose PD [21]. In order to obtain more comprehensive 
+plasma metabolic profiling of PD, a non-targeted way to analyze 
+the plasma of PD was used by GC–MS.
+Materials and Methods
+Study Population
+All the subjects were recruited from the Affiliated Hospital 
+of Guangdong Medical University. This study was approved 
+by the Institutional Review Committee of the Affiliated Hos-
+pital of Guangdong Medical University. The inclusion cri-
+teria of PD included (1) voluntarily agreed to participate in 
+this study; (2) Parkinson's disease was diagnosed according 
+to the UK PD Society Brain Bank clinical diagnostic cri-
+teria; (3) no use of antibiotics for 3 months; (4) no use of 
+immune-related drugs such as steroids for 3 months; (5) no 
+use of lipid-lowering drugs for 1 month. Exclusion criteria 
+of PD included (1) secondary Parkinson’s disease, atypical 
+Parkinson’s disease, Alzheimer’s disease, or other central 
+nervous system diseases; (2) abdominal cavity diseases; 
+(3) a history of cancer surgery or medical treatment in the 
+last 3 years; (4) pregnancy; (5) illiteracy; (6) the researcher 
+judges that the candidate is not suitable to participate in 
+this study. Neurologists will rule out some other diseases 
+similar to Parkinson’s symptoms such as multiple system 
+atrophy or essential tremor by their own clinical experience 
+and Hoehn-Yahr stage was recorded for each PD patient. 
+Sixty healthy individuals as the control group were recruited 
+from the physical examination center of Guangdong Medical 
+University Affiliated Hospital. The inclusion criteria are as 
+follows: (1) voluntarily agreed to participate in this study; 
+(2) be in good health and have no major diseases or organ 
+diseases; (3) no pregnancy.
+Demographic data and clinical biochemical indexes of the 
+collected samples are shown in Table 1. Compared with the 
+health, PD patients are older and have lower levels of total 
+cholesterol and high density lipoprotein. Taking propionic 
+acid as an example, we have constructed a linear regres-
+sion model between age and propionic acid, in which R2 
+is 0.222, and the correlation is weak (the closer r square is 
+to 1, the higher the correlation is). Similarly, we also made 
+linear regression analysis of HDL and propionic acid, and 
+the results showed that R2 was 0.071, and the correlation 
+is weak. We believe that the differences of these clinical 
+indexes will not affect our analysis results. Of the 62 PD 
+patients, 65% were medicated PD and 35% were drug naïve 
+PD. Fifty-one cases were in the early stage of PD (ESPD) 
+and 11 cases were in the advanced stage of PD (APSD).
+Standard Solution and Quality Control Sample 
+Preparation
+In this study, heptadecanoic acid diluted with ethyl acetate 
+to a final concentration of 100 μg/mL was used as the inter-
+nal standard solution. Acetic acid and propanoic acid were 
+diluted with pyridine to a final concentration of 100 μg/mL 
+as external standard control.
+The quality control sample (QC) was obtained by mixing 
+the plasma of PD and health in equal proportion, which was 
+used to check the analytical reproducibility and stability of 
+instrument. QC was injected at the beginning of each analyt-
+ical batch (n = 10), every 10th is injected, followed by a QC.
+2620
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Biospecimen Collection and Processing
+Fasting venous blood samples were collected into BD Vacu-
+tainer ™ K2-EDTA tubes. Subsequently, plasma samples 
+were transferred into sterile tubes after centrifugation at 
+3000 rpm for 10 min and stored at − 80 °C.
+Firstly, took 20 μL plasma and 15 μL internal standard 
+solution in 1 mL methanol, and the mixture was vortexed at 
+4℃ for 10 min, then centrifuged at 15,000 rpm for 5 min, and 
+the supernatant was extracted into a glass bottle. Dried the 
+supernatant with nitrogen. Dissolved the residue in the bottle 
+with 50μL of 2% methoxyamine hydrochloride and react at 
+37℃ for 90 min, then add 50μL of N, O-bis (trimethylsilyl) 
+trifluoroacetamide (1% trimethylchlorosilane) into the bottle 
+and react at 70℃ for 60 min. Samples were stored at − 80℃ 
+before analysis to prevent metabolite degradation.
+GC–MS Analysis
+The plasma metabolites were analyzed by GCMS-QP2010 
+(Shimadzu, Japan), and compounds in samples were sepa-
+rated using a fused silica, nonpolar, capillary column DB-5 
+30 m × 0.25 mm × 0.25 μm (Agilent, USA). The mass spec-
+trometer was operated in the electron impact mode at 70 eV. 
+The injection volume was 1 μL per sample and the split 
+mode was set to splitless. The temperature program was as 
+follows: the inlet temperature was set at 230 °C. The initial 
+temperature was held at 85 °C for 2 min, elevated to 150 °C 
+at a rate of 5 °C/min, increased to 240 °C at a rate of 15 °C/
+min, raised to 280 °C by 40 °C/min, and then kept at 280 °C 
+for 5 min. The temperature of transfer line and ion source 
+was 250 °C and 200 °C respectively. Helium (99.999%) was 
+used as the carrier gas, the flow control mode was constant 
+pressure, and the set pressure was 100 kPa. The analyses 
+were performed in the full scan mode, monitoring the mass 
+range of the detector was set to m/z 50–650.
+Qualitative Identification of Metabolites
+Preliminary identification of compounds was performed 
+firstly on NIST 11 library; the qualitative standard of the 
+database was that the similarity was greater than 80%. Then, 
+the compounds were further qualitatively identified by ana-
+lytical standards.
+Raw Data Preprocessing
+Divided the peak area of the compound by the peak area 
+of heptadecanoic acid for standardization correction, then 
+amplified the value by one hundred times, and performed 
+logarithmic conversion to achieve normal distribution. After 
+that, the corrected peak areas of all identified metabolites 
+were used for further analysis.
+Statistical Analysis
+Data were presented as mean ± standard deviation (SD). 
+SIMCA-P software (Version 14.0, Umetrices, Umea, 
+Table 1   Demographic data of the enrolled population of the study by group
+Gender (male [M])/female [F]), six clinical biochemical indicators (TC: total cholesterol; TG: triglyceride; HDL: high-density lipoprotein; LDL: 
+low-density lipoprotein; BG: blood glucose; UA: uric acid.), and H&Y, Hoehn &Yahr; ESPD, early stage of Parkinson’s disease; ASPD, advance 
+stage of Parkinson’s disease
+Training set
+Validation set
+Health (n = 42)
+PD (n = 44)
+p value
+Health (n = 18)
+PD (n = 18)
+p value
+Age (years)
+49.55 ± 7.10
+67.07 ± 7.93
+ < 0.001
+51.39 ± 6.68
+62.83 ± 9.55
+ < 0.001
+Gender(M/F)
+15/27
+25/19
+-
+4/14
+11/7
+-
+TC(mmol/L)
+5.12 ± 0.59
+4.46 ± 0.69
+ < 0.001
+5.18 ± 0.52
+4.71 ± 0.77
+0.046
+TG (mmol/L)
+0.85 ± 0.31
+1.16 ± 0.75
+0.017
+0.76 ± 0.20
+1.13 ± 0.71
+0.059
+HDL(mmol/L)
+1.79 ± 0.39
+1.38 ± 0.31
+ < 0.001
+1.87 ± 0.27
+1.30 ± 0.38
+ < 0.001
+LDL(mmol/L)
+2.97 ± 0.57
+2.53 ± 0.74
+0.004
+2.97 ± 0.42
+2.89 ± 0.75
+0.701
+BG(mmol/l)
+4.96 ± 0.38
+4.74 ± 0.62
+0.054
+5.00 ± 0.43
+4.52 ± 0.76
+0.027
+UA(mmol/L)
+295.59 ± 69.33
+311.08 ± 84.59
+0.357
+297.7 ± 53.70
+332.06 ± 94.77
+0.213
+H&Y stage (n)
+Stages 1–2 (ESPD)
+-
+34
+-
+17
+ ≥ Stage 3 (ASPD)
+-
+10
+-
+1
+Medication history
+Dopaminergic agents (n)
+-
+32
+-
+8
+Disease duration
+ ≤ 2 years
+-
+14
+-
+9
+2621
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+2622
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Sweden) was used to perform multivariate analysis including 
+principal component analysis (PCA) and orthogonal partial 
+least square discriminant analysis (OPLS-DA). Permuta-
+tion test was conducted to check whether the model was at 
+the risk of over-fitting. We used Student’s t-test (SPSS 19.0 
+software) to calculate the statistical significance. p value 
+after the Benjamini–Hochberg false discovery rate (FDR) 
+adjustment was less than 0.05 that was considered significant 
+difference. Cluster analysis was performed using the online 
+software MetaboAnalyst (http://​www.​metab​oanal​yst.​ca/). 
+The diagnostic performance was assessed by area under the 
+receiver-operating characteristic curve (ROC), which was 
+usually used to evaluate overall discriminate ability.
+Results
+Experimental Design and Demographic Data
+In order to use the data efficiently, we use random sampling 
+method to divide the samples into train set and validation 
+set. Firstly, the differential metabolites are obtained by mod-
+eling analyzing the data in the train set, and then the diag-
+nostic effect of the differential metabolites is evaluated in the 
+validation set. The discovery and evaluation of differential 
+metabolites are carried out in two relatively independent 
+data sets, which can explain the accuracy and repeatability 
+of the results to a certain extent.
+GC–MS Analysis of Plasma Samples
+In this study, GC–MS QP2010 (Shimadzu, Japan) and DB-5 
+chromatographic column were used to separate and detect 
+the pretreated plasma samples. The plasma of 62 patients 
+with PD and 60 healthy controls were analyzed, and the 
+metabolic components of plasma samples were well sepa-
+rated (Fig. 1). In this study, 47 components were preliminar-
+ily identified (Table 2), including amino acids, fatty acids, 
+and carbohydrates.
+Stability Evaluation
+In order to evaluate the stability of the analytical method 
+and the instrument, the mixture of plasma from health and 
+PD was used as the quality control. Quality control runs 
+through the whole injection process, about 9 samples per 
+Fig. 1   Total ion chromatographic chromatogram of plasma by gas chro-
+matography coupled mass spectrometry. A Health; B Parkinson’s dis-
+ease (PD)
+◂
+Table 2   Plasma analytes were identified by NIST database
+Analyte
+RT (min)
+Similarity
+Analyte
+RT (min)
+Similarity
+Ethane
+3.218
+89%
+L-phenylalanine
+17.967
+92%
+Benzene
+3.579
+95%
+Asparagine
+18.521
+90%
+borate
+3.615
+92%
+Ribitol
+19.044
+80%
+Propanoic acid
+4.97
+93%
+Phosphoric acid
+19.496
+85%
+Acetic acid
+5.319
+91%
+alpha.-DL-Arabinopyranose
+20.336
+80%
+l-Valine
+5.628
+94%
+D-Glucose
+20.704
+89%
+l-Alanine
+5.899
+96%
+Glucose oxime hexakis
+20.867
+86%
+1,2-Butanediol
+6.426
+90%
+L-Tyrosine
+21.1
+89%
+Ethanedioic acid
+6.601
+91%
+Furan
+21.231
+86%
+Butanoic acid
+7.26
+90%
+D-Fructose
+21.317
+82%
+3,8-Dioxa-2,9-disiladecane
+7.347
+89%
+Cholesterol trimethylsilyl ether
+21.463
+82%
+valine
+8.641
+89%
+Palmitelaidic acid
+21.719
+86%
+Urea
+9.466
+93%
+Hexadecanoic acid
+21.838
+90%
+L-Isoleucine
+10.687
+93%
+Inositol
+22.038
+84%
+Glycine
+11.002
+91%
+Uric acid
+22.088
+82%
+L-Serine
+12.502
+85%
+Cholest-5-en-3-ol (3.beta.)
+22.264
+82%
+L-threonine
+13.157
+84%
+Heptadecanoic acid
+22.393
+86%
+Cadaverine
+13.771
+85%
+Oleic acid
+22.806
+84%
+Malic acid
+15.781
+90%
+Octadecanoic acid
+22.943
+84%
+Butane
+16.142
+89%
+Carbamic acid
+23.205
+87%
+L-Proline
+16.346
+93%
+Arachidonic acid
+23.695
+84%
+Creatinine enol
+16.883
+86%
+Cholesteryl benzoate
+25.402
+83%
+2,3,4-Trihydroxybutyric acid
+17.043
+85%
+2-Monostearin trimethylsilyl ether
+26.587
+88%
+Glutamine
+17.918
+93%
+2623
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+injection, followed by one injection of quality control. We 
+integrated the data of 13 quality controls, 62 patients with 
+PD and 60 healthy people, then imported them into SIMCA-
+P software for modeling, and chose the principal compo-
+nent analysis model (PCA). PCA is an unsupervised model, 
+which belongs to exploratory analysis, and can generally 
+reflect the total metabolic differences between samples in 
+each group and the variance between samples in each group. 
+As shown in Fig. 2, QC samples are clustered closely, which 
+indicates that the difference between samples in the group is 
+small, indicating that the analysis method is stable. Moreo-
+ver, there are obvious cluster differences between PD and 
+health, indicating that there are differences in metabolic pat-
+terns between the two groups.
+Data‑Driven Prediction of PD
+Due to the complexity of metabolomics data, unsupervised 
+analysis model PCA could not distinguish samples well with 
+insufficient differences between groups. In order to make PD 
+and health show a better separation trend, orthogonal partial 
+least squares discriminant analysis model (OPLS-DA) was 
+used to carry out multivariate statistical analysis on health 
+and PD in the train set. OPLS-DA can filter out noises 
+unrelated to classification information and improve the 
+analytical ability and effectiveness of the model. As shown 
+in Fig. 3A, OPLS-DA score plot can distinguish health 
+from PD well. However, there may be a risk of over-fitting 
+in this model. In this study, 20 permutations were used 
+to verify the model internally. If the intercept of R2 in Y 
+axis is less than 0.4 and the intercept of Q2 in Y axis is less 
+than 0.05, it can be considered that the model has not been 
+over-fitted. As shown in Fig. 3B, the model was successfully 
+modeled and there was no over-fitting. Then, the Variable 
+Importance in Projection (VIP) value was used to screen 
+meaningful differential metabolites. VIP value is an index 
+to summarize the importance of each variable in driving 
+the observed population separation. VIP > 1 means that the 
+contribution of this variable to the model is greater than the 
+average value. At the same time, the screened differential 
+metabolites should be tested by independent sample t test 
+and the results should have statistical differences, that is, 
+p < 0.05. The global expression of the screened differential 
+metabolites in individuals in the group can be visually 
+presented by heat map, and the redder the color, the higher 
+the relative content. Heat map is a visualization display 
+of difference data and can cluster samples. As shown in 
+Fig. 3D, between health and PD, the expression of acetic 
+acid in the PD increased, while the expression of propanoic 
+acid and 2,3,4-trihydroxybutyric acid in the PD group 
+decreased, and the expression distribution of differential 
+metabolites showed obvious clustering.
+Selection of Significant Features Which Diagnose PD
+In order to confirm the accuracy of the differential metabo-
+lites screened in the train set, we analyzed the expression of 
+these three metabolites between health and PD in the valida-
+tion set (Fig. 4), and the results showed that the change trend 
+of differential metabolites was consistent with that of the 
+training set. Meanwhile, the receiver operator characteristic 
+curve (ROC) was used to evaluate the diagnostic potential of 
+the differential metabolites (Fig. 5). Using “Youden index” 
+to determine the best cut-off value, and get the specificity 
+and sensitivity of the metabolites in the diagnosis of disease 
+the results showed that the area under the curve of acetic 
+acid and propanoic acid is as high as 0.981, while the diag-
+nostic specificity of propanoic acid is 94.4%, and the sensi-
+tivity is 100% (Table 3), which indicates that propanoic acid 
+is the most potential diagnostic marker.
+We also analyzed the expression differences of acetic 
+acid, propanoic acid, and 2,3,4-trihydroxybutyric acid in 
+the early and late stages of PD, medicated PD, and drug 
+naïve PD. Compared with ESPD, acetic acid increased sig-
+nificantly in ASPD, while propanoic acid and 2,3,4-trihy-
+droxybutyric acid tended to be lower in ASPD (Fig. 6A), 
+but the difference was not statistically significant. Between 
+medicated PD and drug naive PD, we found that propanoic 
+acid increased significantly in medicated PD, and there was 
+no obvious change in acetic acid and 2,3,4-trihydroxybutyric 
+acid (Fig. 6B). All these findings indicated that acetic acid 
+and propanoic acid may play key roles in the occurrence and 
+development of PD.
+Fig. 2   Score plot of PCA analysis derived from the GC–MS spectra 
+of the plasma samples obtained from healthy controls (green), PD 
+(yellow), and the quality control (QC) (red)
+2624
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Qualitative Identification of Potential Biomarkers
+After multivariate statistical analysis and ROC analysis, 
+we obtained three candidate compounds with the ability to 
+diagnose PD. In order to verify the three potential markers 
+obtained above, chemical standards were used for qualitative 
+confirmation. The results showed that the qualitative data 
+of acetic acid and propanoic acid in the sample were highly 
+consistent with those of the standard. As the standard of 
+2,3,4-trihydroxybutyric acid cannot be purchased, qualita-
+tive identification of 2,3,4-trihydroxybutyric acid was not 
+confirmed (Fig. 7).
+Pathway Analysis of Potential Biomarkers
+Pathway enrichment analysis was performed to explore 
+changes in metabolic pathways with respect to Parkinson’s 
+disease onset and progression. Based on the differential 
+metabolites, 3 metabolic pathways were enriched (Fig. 8A). 
+Pyruvate metabolism was the most significantly enriched 
+pathway, followed by propanoate metabolism and glycolysis/
+gluconeogenesis. Pyruvate is an intermediate product which 
+plays a key role in glycometabolism. Pyruvate can realize 
+the mutual transformation of glucose and fatty acids in vivo 
+through acetyl CoA and tricarboxylic acid circulation. 
+Fig. 3   Screen in candidate marker between healthy volunteers (health) 
+and patients with Parkinson’s disease (PD) in train set. A The two 
+groups that based on orthogonal partial least squares discriminant analy-
+sis (OPLS-DA, R2Y = 0.923, Q.2(cum) = 0.855) of all detected metabo-
+lites show samples separation. B Permutation plot. C Variable impor-
+tance projection value of primary candidate marker for distinguishing 
+PD and health. D Change in primary candidate marker for distinguish-
+ing health and PD in Train set (green: downregulate; red: upregulate)
+2625
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Intestinal microbiota can metabolize pyruvic acid to pro-
+duce acetic acid through acetyl-CoA or Wood-Ljungdahl 
+pathway, and convert succinic acid to methyl malonyl-CoA 
+to produce propanoic acid through succinic acid pathway 
+(Fig. 8B).The abnormal contents of acetic acid and propi-
+onic acid in Parkinson’s patients were observed in this study, 
+which may be related to the intestinal microbiome disorder 
+in Parkinson’s patients. Short-chain fatty acids are important 
+metabolites of intestinal microorganisms, and participate in 
+different biological processes of hosts as signal molecules 
+[22, 23]. Abnormal metabolism of short-chain fatty acids 
+may indicate that the homeostasis is destroyed.
+Discussion
+This study presented a comprehensive metabolic evalu-
+ation for PD by GC–MS. The preliminary qualitative 
+metabolites included short-chain fatty acids (i.e., propa-
+noic acid, butanoic acid, and pentanoic acid), long-chain 
+fatty acids (i.e., tetradecanoic acid, palmitelaidic acid, 
+and oleic acid), amino acids (i.e., leucine, isoleucine, and 
+tryptophan), and carbohydrates (i.e., ribitol, galactose, and 
+fructose). Among them, we found that the concentration 
+of propanoic acid and 2,3,4-trihydroxybutyric acid were 
+Fig. 4   Comparison of the 
+plasma concentrations of 
+SCFAs in PD patients and 
+healthy controls. **p < 0.01
+Fig. 5   Receiver-operating characteristic (ROC) curve of 3 candidate marker associated with PD in validation set. AUC, area under curve; 
+95%CI, 95% confidence intervals. AUC is used to assess predictive ability
+Table 3   Sensitivity and specificity of the analytes in validation set
+Analytes
+AUC (95% CI)
+p value
+Sensitivity Specificity
+Acetic acid
+0.981 (0.948–
+1.000)
+ < 0.001 1
+0.889
+Propanoic acid 0.981 (0.942–
+1.000)
+ < 0.001 1
+0.944
+2,3,4-Trihy-
+droxybutyric 
+acid
+0.769 (0.612–
+0.952)
+0.001
+0.667
+0.778
+2626
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+lower in PD than in healthy controls, and acetic acid con-
+centration was significantly higher in PD. There is con-
+siderable controversy about the content change of acetic 
+acid and propanoic acid in PD. Shin C et al. reported that 
+increased acetic acid was related to PD, but no difference 
+in propanoic acid was observed [24], and only after the 
+covariates were corrected can the statistical significance 
+of acetic acid content change between PD and health be 
+observed. However, another research did not observe the 
+difference of acetic acid between PD and health but found 
+that propanoic acid increased in PD [25]. One recent study 
+found that compared with healthy controls, the plasma 
+acetic acid level of PD patients was lower and propanoic 
+acid level was higher [26]. Currently, the diagnosis of PD 
+is made through clinical diagnosis, without exact clinical 
+markers and imaging data. The research results of plasma 
+metabolomics of the disease are likely to be affected by 
+the lax inclusion standard. Also, the difference of research 
+results may also be related to analysis methods, instru-
+ment status, sample storage and treatment, and analysts. 
+For ensuring the accuracy of biological sample analysis 
+to the greatest extent, researchers should do a good job 
+in methodology investigation, make the instrument in the 
+best working condition, and ensure that analysts are rela-
+tively stable in an analysis project.
+In our research, we found higher level of acetic acid and 
+lower level of propanoic acid and 2,3,4-trihydroxybutyric 
+acid in PD than in health. Besides, we also observed that 
+acetic acid increased in ASPD than ESPD, and propanoic 
+acid was significantly higher in medicated PD than in drug 
+naïve PD. Our results were not completely consistent with 
+the studies mentioned above; this may be related to different 
+inclusion criteria for patients. When the difference of acetic 
+acid and propanoic acid was observed in PD and health, 
+ROC was further used to evaluate their diagnostic ability for 
+PD. The results showed that acetic acid and propanoic acid 
+were able to obtain correct diagnostic value of PD with high 
+sensitivity and specificity, and the area under curve of them 
+were both reached 0.981, suggesting that they were available 
+in diagnosis of PD.
+Mounting evidence shows that PD is not only a brain 
+disease but also a digestive disorder [27, 28]. Gastrointes-
+tinal symptoms occur in almost every patient with PD at 
+some point, which is a frequent and early event in the course 
+of PD, and gastrointestinal involvement may be critically 
+involved in the early development of the disease [29]. Gut 
+Fig. 6   Comparison of the 
+plasma concentrations of 
+SCFAs. A ESPD and ASPD; B 
+medicated PD and drug naïve 
+PD.*p < 0.05
+2627
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Fig. 7   Chromatogram and mass spectrogram of propanoic acid, acetic acid, 
+and 2,3,4-trihydroxybutyric acid. A, B, C Chromatogram of propanoic 
+acid, acetic acid, and 2,3,4-trihydroxybutyric acid in plasma sample; D, E 
+chromatogram of propanoic acid and acetic acid analytical standard; a, b, c 
+mass spectrogram of propanoic acid, acetic acid, and 2,3,4-trihydroxybu-
+tyric acid in plasma sample; d, e mass spectrogram of propanoic acid and 
+acetic acid analytical standard; f, g, h mass spectrogram of propanoic acid, 
+acetic acid, and 2,3,4-trihydroxybutyric acid in NIST database
+2628
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+microbiota could be an environmental modulator of the 
+pathogenesis of PD and intestinal inflammation has been 
+suggested to play a role in development of PD [30, 31]. A 
+study assumed that short-chain fatty acids (SCFAs) concen-
+tration in the peripheral venous blood was related to gut 
+dysbiosis, compromised intestinal barrier induced by inflam-
+mation may contribute to the “leak” and persistence of gut-
+produced SCFAs into the systemic circulation in infectious 
+and autoinflammatory diseases [32]. SCFAs are primarily 
+produced in the large intestine by gut microbiota fermenta-
+tion of plant-derived carbohydrates, and as signal molecules, 
+they affect a series of activities of the host [33]. Acetic acid 
+and propanoic acid are the most abundant SCFAs in gastro-
+intestinal tract. A research found that acetic acid is produced 
+by most of the enteric bacteria such as Lactobacillus and 
+Bifidobacterium, and propanoic acid is produced by Phasco-
+larctobacterium succinatutens [34]. Some studies indicated 
+that acetic acid–producing microbiota were increased in PD 
+that could result in increased levels of plasma acetic acid 
+[35, 36]. SCFAs not only act on intestine, but also can act 
+on distal parts such as the brain, and regulate autonomic 
+nerve function independently of central nervous system [37, 
+38]. The concentration of SCFAs varies along the length 
+of the gut, with highest levels in the cecum and proximal 
+colon, while it declines toward the distal colon, SCFAs 
+can be transported to the peripheral circulation through the 
+portal vein and act on the liver and peripheral tissues [39]. 
+Propionic acid is metabolized in the liver, and its concen-
+tration in the peripheral blood is low. Acetate is the most 
+abundant SCFAs in the peripheral circulation [39]. SCFAs 
+can directly stimulate the motility and secretion of intesti-
+nal tract, activate the immunosuppressive mechanism, and 
+keep intestinal homeostasis [40, 41]. Our research found the 
+dysregulation of short-chain fatty acid metabolism in PD, 
+and these abnormalities also appeared in the early and late 
+stages of PD, suggesting that the gut dysbiosis was related 
+to the progress of PD.
+Some limitations existed in this study. First, we lacked 
+a standard control of 2,3,4-trihydroxybutyric acid, and this 
+part of data needs further confirmation. Second, as poten-
+tial candidate markers, there is a lack of evidence that these 
+markers are unique to PD patients rather than other cen-
+tral nervous system diseases. In the following research, 
+we should observe the dynamic changes of these potential 
+markers in the progress of PD through the follow-up sur-
+vey, and collect samples of other central nervous system 
+diseases to comprehensively evaluate the analysis results. 
+These deficiencies suggested that further research needs to 
+be improved.
+Conclusion
+In conclusion, an untargeted GC–MS analysis of plasma 
+from PD reveals abnormal metabolism in SCFAs compared 
+to health. Acetic acid and propanoic acid may be a potential 
+biomarker for differentiating PD from health. Our results can 
+help to establish a panel of biomarkers associated with PD, 
+promote the early detection of PD, and further understand 
+the development process of the disease.
+Acknowledgements  We would like to thank Shimadzu company rep-
+resentatives for technical support. We want to thank the participants 
+for taking part in the study.
+Fig. 8   A Bubble chart displaying the common significant pathways between health and PD; the bubble size refers to the enrichment factor of the 
+pathway and the color represents the natural log of the pathway p-value; B metabolic pathways of acetic acid and propanoic acid in vivo
+2629
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+Author Contribution  Ao Qi and Lulu Liu conducted the experiments; 
+Junjie Zhang and Simin Xu analyzed the data; Ao Qi and Lulu Liu 
+wrote the manuscript; Chun Cai, Lijiang Zhang, and Yusen Chen con-
+ceived of the concept of the research and contributed to the writing of 
+the manuscript.
+Funding  This work was financially supported by the National Natural 
+Science Foundation of China (C. Cai, Grant No. 21375209).
+Data Availability  Data set generated and/or analyzed during the current 
+research period can be provided upon reasonable request.
+Declarations 
+Ethics Approval  All procedures involving human participants were 
+approved by the Ethics Committee of Guangdong Medical University 
+Affiliated Hospital. The consent of all subjects was obtained in accord-
+ance with the Declaration of Helsinki.
+Consent to Participate  A written informed consent was obtained by all 
+participants involved in the study.
+Consent for Publication  Verbal informed consent was obtained prior 
+to the interview.
+Conflict of Interest  The authors declare no competing interests.
+References
+	 1.	 Group GBDNDC (2017) Global, regional, and national burden of neu-
+rological disorders during 1990–2015: a systematic analysis for the 
+Global Burden of Disease Study 2015. Lancet Neurol 16:877–897
+	 2.	 Collaborators GBDPsD (2018) Global, regional, and national burden of 
+Parkinson’s disease, 1990-2016: a systematic analysis for the Global 
+Burden of Disease Study 2016. Lancet Neurol 17:939–953
+	 3.	 Bloem BR, Okun MS, Klein C (2021) Parkinson’s disease. Lancet 
+397:2284–2303
+	 4.	 Bloch A, Probst A, Bissig H et al (2006) Alpha-synuclein pathol-
+ogy of the spinal and peripheral autonomic nervous system in 
+neurologically unimpaired elderly subjects. Neuropathol Appl 
+Neurobiol 32(3):284–295
+	 5.	 Shannon KM, Keshavarzian A, Dodiya HB et al (2012) Is alpha-
+synuclein in the colon a biomarker for premotor Parkinson’s dis-
+ease? Evidence from 3 cases. Mov Disord 27(6):716–719
+	 6.	 Cersosimo MG (2015) Gastrointestinal biopsies for the diagnosis 
+of alpha-synuclein pathology in Parkinson’s disease. Gastroenterol 
+Res Pract 2015:476041
+	 7.	 Hawkes CH, Del Tredici K, Braak H (2009) Parkinson’s disease: 
+the dual hit theory revisited. Ann N Y Acad Sci 1170:615–622
+	 8.	 Chiang HL, Lin CH (2019) Altered gut microbiome and intestinal 
+pathology in Parkinson’s disease. J Mov Disord 12(2):67–83
+	 9.	 Tolosa E, Garrido A, Scholz SW et al (2021) Challenges in the 
+diagnosis of Parkinson’s disease. Lancet Neurol 20:385–397
+	10.	 Rajput AH, Rajput A (2014) Accuracy of Parkinson disease diag-
+nosis unchanged in 2 decades. Neurology 83:386–387
+	11.	 Rizzo G, Copetti M, Arcuti S et al (2016) Accuracy of clinical 
+diagnosis of Parkinson disease: a systematic review and meta-
+analysis. Neurology 86:566–576
+	12.	 Iranzo A, Fairfoul G, Ayudhaya ACN et al (2021) Detection of 
+alpha-synuclein in CSF by RT-QuIC in patients with isolated 
+rapid-eye-movement sleep behaviour disorder: a longitudinal 
+observational study. Lancet Neurol 20:203–212
+	13.	 Marques TM, van Rumund A, Kersten I et al (2021) Identifica-
+tion of cerebrospinal fluid biomarkers for parkinsonism using a 
+proteomics approach. NPJ Parkinsons Dis 7:107
+	14.	 Leng B, Sun H, Li M et al (2022) Blood neuroexosomal excitatory 
+amino acid transporter-2 is associated with cognitive decline in 
+Parkinson’s disease with RBD. Front Aging Neurosci 14:952368
+	15.	 Belarbi K, Cuvelier E, Bonte MA et al (2020) Glycosphingolipids and 
+neuroinflammation in Parkinson’s disease. Mol Neurodegener 15(1):59
+	16.	 Lopez de Frutos L, Almeida F, Murillo-Saich J et al (2022) Serum 
+phospholipid profile changes in Gaucher disease and Parkinson’s 
+disease. Int J Mol Sci 23(18):10387
+	17.	 Lin G, Wang L, Marcogliese PC, Bellen HJ (2019) Sphingolip-
+ids in the pathogenesis of Parkinson’s disease and parkinsonism. 
+Trends Endocrinol Metab 30(2):106–117
+	18.	 Saiki S, Sasazawa Y, Fujimaki M et al (2019) A metabolic profile 
+of polyamines in Parkinson disease: a promising biomarker. Ann 
+Neurol 86(2):251–263
+	19.	 Chang KH, Cheng ML, Tang HY et al (2022) Alterations of 
+sphingolipid and phospholipid pathways and ornithine level in 
+the plasma as biomarkers of Parkinson’s disease. Cells 11(3):395
+	20.	 Sanchez-Gomez A, Alcarraz-Vizan G, Fernandez M et al (2020) 
+Peripheral insulin and amylin levels in Parkinson’s disease. Par-
+kinsonism Relat Disord 79:91–96
+	21.	 Zhang J, Liu L, Zhang L et al (2021) Targeted fatty acid metabo-
+lomics to discover Parkinson’s disease associated metabolic altera-
+tion. J Mass Spectrom 56:e4781
+	22.	 Koh A, De Vadder F, Kovatcheva-Datchary P et al (2016) From 
+dietary fiber to host physiology: short-chain fatty acids as key 
+bacterial metabolites. Cell 165(6):1332–1345
+	23.	 Makki K, Deehan EC, Walter J et al (2018) The impact of die-
+tary fiber on gut microbiota in host health and disease. Cell Host 
+Microbe 23(6):705–715
+	24.	 Shin C, Lim Y, Lim H et al (2020) Plasma short-chain fatty acids 
+in patients with Parkinson’s disease. Mov Disord 35:1021–1027
+	25.	 He X, Qian Y, Xu S et al (2021) Plasma short-chain fatty acids 
+differences in multiple system atrophy from Parkinson’s disease. 
+J Parkinsons Dis 11:1167–1176
+	26.	 Chen SJ, Chen CC, Liao HY et al (2022) Association of fecal and 
+plasma levels of short-chain fatty acids with gut microbiota and 
+clinical severity in patients with Parkinson disease. Neurology 
+98:e848–e858
+	27.	 Shprecher DR, Derkinderen P (2012) Parkinson disease: the 
+enteric nervous system spills its guts. Neurology 78(9):683–683
+	28.	 Clairembault T, Leclair-Visonneau L, Coron E et al (2015) Struc-
+tural alterations of the intestinal epithelial barrier in Parkinson’s 
+disease. Acta Neuropathol Commun 3:12
+	29.	 Cloud LJ, Greene JG (2011) Gastrointestinal features of Parkin-
+son’s disease. Curr Neurol Neurosci Rep 11:379–384
+	30.	 Barichella M, Severgnini M, Cilia R et al (2019) Unraveling gut 
+microbiota in Parkinson’s disease and atypical parkinsonism. Mov 
+Disord 34:396–405
+	31.	 Villumsen M, Aznar S, Pakkenberg B et al (2019) Inflammatory 
+bowel disease increases the risk of Parkinson’s disease: a Danish 
+nationwide cohort study 1977–2014. Gut 68:18–24
+	32.	 Ktsoyan ZA, Mkrtchyan MS, Zakharyan MK et al (2016) Sys-
+temic concentrations of short chain fatty acids are elevated in 
+salmonellosis and exacerbation of familial Mediterranean fever. 
+Front Microbiol 7:776
+	33.	 van der Hee B, Wells JM (2021) Microbial regulation of host phys-
+iology by short-chain fatty acids. Trends Microbiol 29:700–712
+	34.	 Feng W, Ao H, Peng C (2018) Gut microbiota, short-chain fatty 
+acids, and herbal medicines. Front Pharmacol 9:1354
+	35.	 Hill-Burns EM, Debelius JW, Morton JT et al (2017) Parkinson’s 
+disease and Parkinson’s disease medications have distinct signa-
+tures of the gut microbiome. Mov Disord 32:739–749
+2630
+Molecular Neurobiology (2023) 60:2619–2631
+1 3
+	36.	 Unger MM, Spiegel J, Dillmann KU et al (2016) Short chain fatty 
+acids and gut microbiota differ between patients with Parkinson’s dis-
+ease and age-matched controls. Parkinsonism Relat Disord 32:66–72
+	37.	 Silva YP, Bernardi A, Frozza RL (2020) The role of short-chain 
+fatty acids from gut microbiota in gut-brain communication. Front 
+Endocrinol (Lausanne) 11:25
+	38.	 Hou YF, Shan C, Zhuang SY et al (2021) Gut microbiota-derived 
+propionate mediates the neuroprotective effect of osteocalcin in a 
+mouse model of Parkinson’s disease. Microbiome 9:34
+	39.	 Cummings JH, Pomare EW, Branch WJ et al (1987) Short chain 
+fatty acids in human large intestine, portal, hepatic and venous 
+blood. Gut 28(10):1221–1227
+	40.	 Arpaia N, Campbell C, Fan X et al (2013) Metabolites produced 
+by commensal bacteria promote peripheral regulatory T-cell gen-
+eration. Nature 504(7480):451–455
+	41.	 Singh N, Gurav A, Sivaprakasam S et al (2014) Activation of 
+Gpr109a, receptor for niacin and the commensal metabolite 
+butyrate, suppresses colonic inflammation and carcinogenesis. 
+Immunity 40(1):128–139
+Publisher's Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.
+2631
+

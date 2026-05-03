@@ -1,0 +1,2596 @@
+# Article
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2022
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: Molecular-and-functional-architecture-of-striatal-dopamine-release-sites.pdf
+
+## Abstract / Summary
+Article
+Molecular and functional architecture of striatal
+dopamine release sites
+Graphical abstract
+Highlights
+d Evoked striatal dopamine release necessitates the active
+zone proteins Munc13 and RIM
+d Ablating Munc13 from dopamine neurons leads to defects in
+their axon structure
+d Dopamine release depends on Liprin-a2 and Liprin-a3, but
+not on RIM-BP1 and RIM-BP2
+d RIM domains that bind to Munc13 and Liprin-a restore some
+release after RIM ablation
+Authors
+Aditi Banerjee, Cordelia Imig,
+Karthik ... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Article. 2022.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Article
+Molecular and functional architecture of striatal
+dopamine release sites
+Graphical abstract
+Highlights
+d Evoked striatal dopamine release necessitates the active
+zone proteins Munc13 and RIM
+d Ablating Munc13 from dopamine neurons leads to defects in
+their axon structure
+d Dopamine release depends on Liprin-a2 and Liprin-a3, but
+not on RIM-BP1 and RIM-BP2
+d RIM domains that bind to Munc13 and Liprin-a restore some
+release after RIM ablation
+Authors
+Aditi Banerjee, Cordelia Imig,
+Karthik Balakrishnan, ...,
+Sonja M. Wojcik, Nils Brose,
+Pascal S. Kaeser
+Correspondence
+kaeser@hms.harvard.edu
+In brief
+Dopamine is a key neuromodulator for the
+control of striatal circuit function.
+Banerjee et al. show that evoked
+dopamine secretion occurs at release
+hotspots that contain active zone
+proteins. Munc13, Liprin-a, and RIM
+cooperate to mediate vesicle priming and
+release, while other known active zone
+proteins are dispensable.
+dopamine neuron 
+knockout
+Munc13-1
+Munc13-2
+Munc13-3
+priming (with RIM)
+axon structure
+striatal dopamine 
+release
+dopamine neuron 
+function
+RIM-BP1
+RIM-BP2
+none detected
+release triggering
+release site 
+organization? 
+Liprin-α2
+Liprin-α3
+control
+cKODA
+control
+cKODA
+control
+cKODA
+priming (with Munc13)
+release triggering
+release site
+organization
+RIM1
+RIM2
+control
+cKODA
+Banerjee et al., 2022, Neuron 110, 248–265
+January 19, 2022 ª 2021 Elsevier Inc.
+https://doi.org/10.1016/j.neuron.2021.10.028
+ll
+Article
+Molecular and functional architecture
+of striatal dopamine release sites
+Aditi Banerjee,1,3 Cordelia Imig,2,3,4 Karthik Balakrishnan,1 Lauren Kershberg,1 Noa Lipstein,2,5 Riikka-Liisa Uronen,2
+Jiexin Wang,1,6 Xintong Cai,1 Fritz Benseler,2 Jeong Seop Rhee,2 Benjamin H. Cooper,2 Changliang Liu,1
+Sonja M. Wojcik,2 Nils Brose,2 and Pascal S. Kaeser1,7,*
+1Department of Neurobiology, Harvard Medical School, Boston, MA 02115, USA
+2Department of Molecular Neurobiology, Max Planck Institute of Experimental Medicine, 37075 Go¨ ttingen, Germany
+3These authors contributed equally
+4Present address: Department of Neuroscience, University of Copenhagen, 2200 Copenhagen, Denmark
+5Present address: Leibniz-Forschungsinstitut f€ur Molekulare Pharmakologie (FMP), 13125 Berlin, Germany
+6Present address: Department of Neuroscience and Behavior, University of Massachusetts Amherst, Amherst, MA 01003, USA
+7Lead contact
+*Correspondence: kaeser@hms.harvard.edu
+https://doi.org/10.1016/j.neuron.2021.10.028
+SUMMARY
+Despite the importance of dopamine for striatal circuit function, mechanistic understanding of dopamine
+transmission remains incomplete. We recently showed that dopamine secretion relies on the presynaptic
+scaffolding protein RIM, indicating that it occurs at active zone-like sites similar to classical synaptic vesicle
+exocytosis. Here, we establish using a systematic gene knockout approach that Munc13 and Liprin-a, active
+zone proteins for vesicle priming and release site organization, are important for dopamine secretion.
+Furthermore, RIM zinc ﬁnger and C2B domains, which bind to Munc13 and Liprin-a, respectively, are needed
+to restore dopamine release after RIM ablation. In contrast, and different from typical synapses, the active
+zone scaffolds RIM-BP and ELKS, and RIM domains that bind to them, are expendable. Hence, dopamine
+release necessitates priming and release site scaffolding by RIM, Munc13, and Liprin-a, but other active
+zone proteins are dispensable. Our work establishes that efﬁcient release site architecture mediates fast
+dopamine exocytosis.
+INTRODUCTION
+Dopamine is a crucial neuromodulator for the control of locomo-
+tion, motivation, and reward. Although there is rich literature on
+dopamine action, dopamine signaling mechanisms remain incom-
+pletely understood. An important dopamine pathway in the verte-
+brate brain arises from cell bodies in the ventral midbrain, whose
+axons prominently project to the striatum. In the striatum, dopa-
+mine axons are extensively branched. A single axon covers a large
+area, and ascending action potentials as well as local regulatory
+mechanisms are important for dopamine release (Liu and Kaeser,
+2019; Matsuda et al., 2009; Sulzer et al., 2016).
+Dopamine is often considered a volume transmitter with slow
+and imprecise signaling: the majority of striatal dopamine vari-
+cosities lack synaptic specializations, dopamine receptors on
+target cells appear to be localized away from release sites, and
+timescales of G protein-coupled receptor (GPCR) signaling are
+orders of magnitude slower than those of ionotropic receptors
+(Agnati et al., 1995; Descarries et al., 1996; Missale et al., 1998;
+Uchigashima et al., 2016). Recent studies, however, showed
+that dopamine inﬂuences synapses and behavior with sub-sec-
+ond precision (Howe and Dombeck, 2016; Menegas et al.,
+2018; Yagishita et al., 2014), and dopamine receptor activation
+can occur rapidly and requires a high dopamine concentration
+(Beckstead et al., 2004; Courtney and Ford, 2014; Gantz et al.,
+2018; Marcott et al., 2018), challenging the model of volume
+transmission. How signaling structures between dopamine-
+releasing and dopamine-receiving cells are organized to support
+such precise functions remains largely unknown (Liu et al., 2021).
+We recently showed that action potential-triggered dopamine
+release is executed with millisecond precision and requires the
+presynaptic scaffolding protein RIM (Banerjee et al., 2020; Liu
+et al., 2018; Robinson et al., 2019). This led to the working model
+that dopamine release is mediated at specialized secretory sites,
+but organizers of release site structure beyond RIM are not
+known. As an alternative to a scaffolded release site, it is possible
+that tethering functions of RIM are not important in dopamine var-
+icosities. RIM could instead mediate dopamine secretion as a
+soluble protein or through association with vesicles.
+At conventional synapses, exocytosis is ultrafast, triggered by
+Ca2+, and occurs only within the active zone (Kaeser and Regehr,
+2014; S€udhof, 2012). In addition to RIM, the active zone contains
+248
+Neuron 110, 248–265, January 19, 2022 ª 2021 Elsevier Inc.
+ll
+members of ﬁve protein families: Munc13, ELKS, Liprin-a, RIM-
+BP, and Bassoon/Piccolo (Betz et al., 1998; Emperador-Melero
+and Kaeser, 2020; Wang et al., 2016; Wong et al., 2018).
+Together, these proteins form a molecular machine for the
+spatiotemporal control of secretion via three main mechanisms.
+First, docking and priming, mediated by RIM and Munc13,
+render vesicles ready for fast release (Augustin et al., 1999;
+Betz et al., 2001; Deng et al., 2011; Koushika et al., 2001; Rich-
+mond et al., 1999; Siksou et al., 2009; Varoqueaux et al., 2002).
+Second, the coupling of Ca2+ entry to these release-ready vesi-
+cles through close-by positioning of Ca2+ channels is orches-
+trated by a complex between RIM-BP, RIM, and channels of
+the CaV2 family (Han et al., 2011; Held et al., 2020; Hibino
+et al., 2002; Kaeser et al., 2011; Liu et al., 2011; M€uller et al.,
+2012). Third, the active zone coordinates the organization and
+function of essential release machinery components, including
+SNARE proteins and lipids, for example phosphatidylinositol
+4,5-bisphosphate (PIP2) (van den Bogaart et al., 2011; Honig-
+mann et al., 2013; de Jong et al., 2018; Ma et al., 2011; Milosevic
+et al., 2005; Di Paolo and De Camilli, 2006).
+Striatal dopamine release is fast and has a high release prob-
+ability (Banerjee et al., 2020; Liu et al., 2018), indicating
+the presence of active zone scaffolds to organize release.
+Indeed, dopamine axons contain at least some active zone pro-
+teins (e.g., RIM, ELKS, Munc13, Bassoon) (Daniel et al., 2009; Liu
+et al., 2018; Silm et al., 2019; Uchigashima et al., 2016).
+Moreover, removal of RIM speciﬁcally from dopamine neurons
+abolishes evoked dopamine release, while action potential-inde-
+pendent release persists (Liu et al., 2018; Robinson et al., 2019).
+In contrast, ELKS is dispensable, and roles of other active zone
+proteins are unknown (Liu and Kaeser, 2019; Liu et al., 2018).
+Altogether, it has remained uncertain whether dopamine axons
+use priming and scaffolding mechanisms similar to conventional
+synapses. Instead, dopamine release may not require the typical
+complement of active zone proteins, as has been proposed for
+the release of peptides, catecholamines, and other non-synaptic
+transmitters (Berwin et al., 1998; van de Bospoort et al., 2012;
+Farina et al., 2015; Held and Kaeser, 2018; van Keimpema
+et al., 2017; Liu et al., 2010; Renden et al., 2001). Likewise, dopa-
+mine release only partially depends on Ca2+ entry through CaV2
+channels (Brimblecombe et al., 2015), indicating that mecha-
+nisms other than those mediating the speciﬁc tethering of
+CaV2s are important.
+Here, we determined functions of key active zone proteins in
+dopamine secretion and complemented this analysis with as-
+sessing roles of RIM domains that interact with these proteins.
+We show that Munc13 is essential for dopamine release and
+establish that interplay between RIM and Munc13 is important
+for priming of dopamine-laden vesicles. We ﬁnd that scaffolding
+requirements of dopamine release sites are different from those
+at classical active zones: ELKS and RIM-BP are dispensable,
+and the RIM domains that bind to them do not contribute to
+release. Liprin-a2/3 knockout leads to a 50% impairment in
+dopamine release, and dopamine release is restored in RIM
+knockouts by re-expressing a fusion construct of the RIM zinc
+ﬁnger (which binds to Munc13) with the RIM C2B domain (which
+binds to Liprin-a). We conclude that dopamine release sites
+contain
+molecular
+scaffolds
+of
+relatively
+low
+complexity
+compared with classical active zones. They use Munc13-medi-
+ated vesicle priming for fast release and rely on RIM, Munc13,
+and Liprin-a for release site scaffolding.
+RESULTS
+RIM domains cooperate in dopamine release
+Molecular mechanisms of RIM function in dopamine release are
+unknown. At conventional synapses, RIM initiates vesicle prim-
+ing via recruiting and activating Munc13, to which it binds with
+its N-terminal zinc ﬁnger domain (Figure 1A) (Andrews-Zwilling
+et al., 2006; Betz et al., 2001; Deng et al., 2011; Kaeser and Re-
+gehr, 2017). The RIM PDZ domain directly binds to CaV2 chan-
+nels and tethers them in concert with RIM-BP, which binds to
+a short proline-rich region of RIM between the C-terminal C2 do-
+mains (Hibino et al., 2002; Kaeser et al., 2011). The RIM C2A and
+C2B domains bind to PIP2, and C2B also interacts with Liprin-a
+and is essential for RIM function (de Jong et al., 2018; Koushika
+et al., 2001; Schoch et al., 2002).
+We started assessing dopamine release mechanisms by
+rescue of RIM knockout phenotypes in striatal slices using
+amperometric
+recordings.
+We
+conﬁrmed
+that
+conditional
+knockout of RIM in dopamine neurons (RIM cKODA), generated
+by crossing ﬂoxed alleles for both RIM genes to DATIRES-cre
+mice (B€ackman et al., 2006; Kaeser et al., 2008, 2011; Liu
+et al., 2018), abolishes dopamine release evoked by electrical
+stimulation and KCl puffs (Figures 1B–1F). Electrical stimulation
+induces release through both the activation of dopamine axons
+and of cholinergic interneurons (Figure S1A), which trigger dopa-
+mine release via nicotinic acetylcholine receptors (nAChRs) on
+dopamine axons (Cachope et al., 2012; Giorguieff et al., 1976;
+Liu et al., 2018; Threlfell et al., 2012; Zhou et al., 2001). Adeno-
+associated viruses (AAVs) do not allow expression of full-length
+RIM from a single virus for rescue as the RIM coding sequence
+exceeds the packaging limit. We instead re-expressed either
+the RIM zinc ﬁnger domain (RIM1-Zn) or the C-terminal scaf-
+folding sequences (RIM1-DZn), which together account for the
+known RIM domains (Figure 1G). Expression was restricted to
+midbrain dopamine neurons through the use of cre-dependent
+AAVs delivered by stereotaxic injection at postnatal day 33
+(P33) to P54 and was conﬁrmed via western blotting of striatal
+brain homogenates 7–10 weeks after injection (Figure S1B).
+We measured dopamine release in RIM cKODA mice injected
+either with a control virus or after re-expression of RIM1-Zn,
+RIM1-DZn, or both. Each experiment was performed on two
+RIM cKODA mice (one with and one without rescue) on the
+same day (Figures 1H–1S), and an unrelated control mouse
+was recorded ﬁrst on each day to establish stable dopamine
+detection (Figures S1C–S1H; all three mice were analyzed using
+the same carbon ﬁber electrode).
+Expression of RIM1-Zn or RIM1-DZn alone showed no rescue
+of dopamine release evoked by electrical stimulation when
+compared to RIM cKODA (Figures 1H–1K). This is surprising
+because similar constructs partially restore exocytosis of synap-
+tic or peptidergic vesicles (Kaeser et al., 2011; Persoon et al.,
+2019). When RIM1-Zn and RIM1-DZn were co-expressed, we
+observed some but incomplete rescue of dopamine release (Fig-
+ures 1L and 1M). We next assessed dopamine release in
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+249
+RIM1D
+SNc
+A
+Munc13
+ELKS
+RIM-BP
+Cav2
+Liprin-D
+PIP2
+PIP2
+Rab3
+B
+wild type
+floxed
+RIM2 (Rims2)
+RIM1 (Rims1)
+exon 26
+exon 6
+DATIRES-cre
+DATIRES-cre
+wild type
+cKODA
+floxed
+X
+Zn
+PDZ
+C2A
+PxxP
+C2B
+N
+10 s
+1 PM
+KCl
+KCl
+KCl
+KCl
+KCl
+KCl
+RIM cKODA
+RIM cKODA
+10 s
+1 PM
+P
+R
+RIM cKODA
+0
+4
+8
+O
+S
+peak
+dopamine (PM)
+Q
+0
+4
+8
+peak
+dopamine (PM)
+0
+4
+8
+peak
+dopamine (PM)
+10 s
+1 PM
+peak
+dopamine (PM)
+***
+100 ms
+0.25 PM
+0.0
+0.2
+0.4
+0.6
+0.0
+0.2
+0.4
+0.6
+peak
+dopamine (PM)
+K
+peak
+dopamine (PM)
+M
+0.0
+0.2
+0.4
+0.6
+RIM cKODA
+RIM cKODA
++ RIM1-Zn
+H
+I
+J
+RIM cKODA
+RIM cKODA
++ RIM1-'Zn
+RIM cKODA
+RIM cKODA
++ RIM1-Zn 
++ RIM1-'Zn
+RIM cKODA
++ RIM1-Zn
+RIM cKODA
++ RIM1-'Zn
+RIM cKODA
++ RIM1-Zn 
++ RIM1-'Zn
+100 ms
+0.25 PM
+100 ms
+0.25 PM
+L
+C
+D
+F
+E
+RIM
+  cKODA
+RIM
+  control
+RIM
+  cKODA
+RIM
+  control
+RIM1-'Zn
+RIM control
+KCl
+RIM cKODA
+KCl
+RIM control
+RIM1-Zn
+Syn
+CFE
+90 PA stimulation 
+or 100 mM KCl puff
+G
+dorsal
+striatum
+SNc
+Zn
+DA
+DA
+Zn
+'Zn
+DA
+DA
+'Zn
+RIM cKODA
+RIM cKODA
+Zn
+RIM cKODA
+RIM cKODA
+  + RIM1-Zn
+    + RIM1-'Zn
+RIM cKODA
+RIM cKODA
+  + RIM1-'Zn
+RIM cKODA
+RIM cKODA
+  + RIM1-Zn
+***
+***
+Syn
+PDZ
+C2A
+PxxP
+C2B
+100 ms
+1 PM
+2 kb
+loxP
+cKODA
+10 s
+2 PM
+RIM cKODA
+0.0
+1.0
+2.0
+peak
+dopamine (PM)
+0
+4
+8
+12
+peak
+dopamine (PM)
+***
+***
+HA
+HA
+Figure 1. RIM N- and C-terminal domains are necessary for
+evoked dopamine release
+(A) Schematic of RIM1a domain structure and select interactions.
+(B) Strategy for ablation of RIM1ab and RIM2abg in dopamine neurons
+(RIM cKODA) and schematic of slice recordings, SNc: substantia nigra
+pars compacta.
+(C and D) Sample traces (C, single sweeps) and quantiﬁcation (D) of
+dopamine release in the dorsolateral striatum evoked by a 90 mA
+electrical stimulus and measured using carbon ﬁber amperometry in
+acute brain slices, 17 slices/3 mice each.
+(E and F) Sample traces (E) and quantiﬁcation (F) of dopamine release
+evoked by a 100 mM KCl puff, 20/3 each.
+(G) Schematic of AAV5 rescue viruses injected either alone or together
+into the midbrain. For all AAVs, a double-ﬂoxed inverted strategy re-
+stricts expression to cre-expressing neurons.
+(H–M) Sample traces (H, J, and L, single sweeps) and quantiﬁcation (I,
+K, and M) of dopamine release as in (C) and (D); (I) 12/4 each; (K) RIM
+cKODA 9/3, RIM cKODA + RIM1-DZn 10/3; (M) 15/4 each.
+(N–S) Same as (H)–(L), but for a local 100 mM KCl puff; (O) 11/4 each;
+(Q) 10/3 each; (S) RIM cKODA 16/4, RIM cKODA + RIM1-Zn + RIM1-DZn
+17/4.
+Data are mean ± SEM. ***p < 0.001 as assessed using Mann-Whitney
+tests. For means and errors, p values and the number of observations
+used for statistics for this and all following ﬁgures, see corresponding
+Tables S1–S8. For rescue expression and additional recordings, see
+Figure S1.
+ll
+Article
+250
+Neuron 110, 248–265, January 19, 2022
+response to depolarization triggered by local puff application of
+KCl. KCl-induced dopamine release depends on extracellular
+Ca2+ (Figures S1I and S1J) but not on nAChR or sodium channel
+activation (Figures S1K and S1L) and is absent in RIM cKODA
+mice (Figures 1E and 1F) (Liu et al., 2018). RIM1-Zn mediated a
+small amount of KCl-triggered release, RIM1-DZn was inactive,
+and combined expression led to more robust rescue (Figures
+1N–1S). These data establish that the RIM cKODA phenotype is
+partially reversible and that co-expression of RIM zinc ﬁnger
+and scaffolding domains is needed for action potential-triggered
+release.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+Figure 2. Munc13-1 is present in sparse
+clusters in dopamine axons
+(A) Schematic of the Munc13-1-EYFP knockin
+mice.
+(B) Sample 3D-SIM images of dorsolateral stria-
+tum stained with GFP antibodies (to detect
+Munc13-1) and TH antibodies (to visualize dopa-
+mine axons). Volume rendered images (10 3 10 3
+2 mm3) showing Munc13-1 and TH (left), surface-
+rendered images of the same volumes (middle),
+and magniﬁed view (right, 5 3 3 x 2 mm3 from
+dotted rectangle in middle, frontal, and 90 rotated
+views of only Munc13-1 clusters with >40% vol-
+ume overlap with TH).
+(C–I) Quantiﬁcation of (B). For (H) and (I), each
+Munc13-1 object was locally (within 1 3 1 3 1 mm3)
+and randomly shufﬂed 1,000 times, and the actual
+Munc13-1 densities and volumes were compared
+with the averaged result after shufﬂing; Munc13-1-
+EYFP 88 images/3 mice; wild-type 86/3.
+Data are mean ± SEM. ***p < 0.001 as assessed
+using unpaired (C–G) and paired (H and I) t tests.
+Munc13-1 forms small clusters in
+striatal dopamine axons
+We next aimed to systematically assess
+loss-of-function phenotypes of RIM-in-
+teracting active zone proteins. The RIM
+zinc
+ﬁnger
+may
+enhance
+dopamine
+release
+through
+vesicle
+priming.
+At
+neuronal synapses, vesicle priming is
+executed by Munc13, which is recruited
+and activated by RIM zinc ﬁnger domains
+(Andrews-Zwilling et al., 2006; Augustin
+et al., 1999; Betz et al., 1998; Deng
+et al., 2011). Given the prominent role of
+RIM in dopamine release, we hypothe-
+sized that dopamine vesicles are primed
+by Munc13.
+Of the three major brain Munc13 iso-
+forms
+(Munc13-1,
+Munc13-2,
+and
+Munc13-3), Munc13-1 is strongly ex-
+pressed in midbrain dopamine neurons,
+while the other Munc13s may be present
+at low levels (Lein et al., 2007; Saunders
+et al., 2018). Previous experiments in
+striatal synaptosomes suggested that
+Munc13-1 is present in dopamine vari-
+cosities and colocalizes with the release site marker Bassoon
+(Liu et al., 2018). However, a lack of suitable antibodies pre-
+vented the assessment of Munc13 distribution in intact striatum
+using superresolution microscopy. To circumvent this caveat,
+we used mice in which endogenous Munc13-1 is tagged with
+EYFP (Figure 2A) (Kalla et al., 2006). We stained striatal brain
+sections with anti-GFP antibodies and assessed signal distribu-
+tion in tyrosine hydroxylase (TH)-labeled dopamine axons with
+three-dimensional structured illumination microscopy (3D-SIM)
+(Gustafsson et al., 2008; Liu et al., 2018) followed by an analysis
+pipeline detailed in the STAR Methods. As expected for a
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+251
+prominent synaptic protein, Munc13-1 is abundant in the stria-
+tum and present in small clusters (Figures 2B–2D). TH labeling
+was similar between Munc13-1-EYFP and controls (Figures 2E
+and 2F), and we used a 40% volume overlap criterion as estab-
+lished before (Liu et al., 2018) to identify Munc13-1 clusters local-
+ized in TH axons. On average, there was one Munc13-1 cluster
+per 2.5 mm of TH axon, and the average cluster volume was
+0.01 mm3 (Figures 2G–2I). We used local shufﬂing of Munc13
+clusters to further assess the signal. Munc13-1 cluster density
+within dopamine axons dropped after shufﬂing, establishing
+that Munc13-1 clusters were more frequently present within TH
+axons than in their immediate environment. Furthermore,
+Munc13-1 clusters within TH axons were larger than the clusters
+detected after shufﬂing (which likely represent Munc13-1 clus-
+ters of close-by conventional synapses). These ﬁndings estab-
+lish that Munc13-1 is present in clusters within dopamine axons
+and thus agree with our earlier ﬁndings made in synaptosomes
+(Liu et al., 2018).
+Munc13 is essential for evoked striatal dopamine
+release
+To assess roles of Munc13 in dopamine release, we developed
+mouse mutants for deletion of Munc13-1, Munc13-2, and
+Munc13-3. We circumvented lethality of constitutive Munc13-1
+deletion
+through the generation
+of Munc13-1 conditional
+knockout mice in which exon 21 was ﬂanked with loxp sites by
+homologous recombination in embryonic stem cells (Figures
+S2A and S2B). The Munc13-1 ﬂoxed mice had normal Munc13-
+1 levels (Figures S2C and S2D) and germline cre-recombination
+removed full-length Munc13-1 (Figures S2E and S2F). A very
+small amount of Munc13-1 (<5%) at a slightly lower molecular
+weight persisted, likely representing a protein that lacks exons
+21 and 22 (Figure S2E). In cultured autaptic neurons of these
+mice, excitatory synaptic transmission was strongly impaired
+but not abolished (Figure S3), with a dramatic reduction in the
+readily releasable pool (Figures S3F and S3G), but a larger
+evoked excitatory postsynaptic current (EPSC) (Figures S3D
+and S3E) than expected from previous constitutive Munc13-1
+knockout mice (Augustin et al., 1999). This difference may be
+due to the persistence of a small amount of the shorter and
+possibly partially active Munc13-1 variant in the new mutant (Fig-
+ures S2E and S2F).
+To test whether Munc13 is needed for dopamine release, we
+crossed the Munc13-1 conditional (ﬂoxed) allele to constitutive
+Munc13-2 and Munc13-3 knockout mice (Augustin et al., 2001;
+Varoqueaux et al., 2002) and to DATIRES-cre mice (B€ackman
+et al., 2006; Figure 3A). Munc13 cKODA mice (Munc13-1f/f 3
+Munc13-2/ 3 Munc13-3/ 3 DATIRES-cre +/cre) and Munc13
+control mice (Munc13-1+/f 3 Munc13-2+/ 3 Munc13-3/ 3
+DATIRES-cre +/cre) were generated from the same crossings. To
+selectively activate dopamine axons, we expressed a fast
+version of channelrhodopsin (oChIEF; Lin et al., 2009) specif-
+ically in dopamine neurons using cre-dependent AAVs delivered
+by stereotaxic injections (Figure 3B) at P29–P36 (Banerjee et al.,
+2020; Liu et al., 2018). Three or more weeks after injection, we
+prepared acute brain slices and measured dopamine release
+triggered by optogenetic activation. In Munc13 control mice,
+dopamine release appeared normal and very similar in extent
+to other control mice (Liu et al., 2018; Figures 6 and 7). Peak am-
+plitudes strongly depressed during brief stimulus trains, indica-
+tive of a high initial release probability as described (Liu et al.,
+2018). Release was abolished by the sodium channel blocker
+tetrodotoxin (TTX; Figures 3C and 3D), establishing that optoge-
+netic stimulation triggers release through inducing action poten-
+tials. Strikingly, dopamine release was almost completely absent
+in Munc13 cKODA mice, and there was no buildup of release dur-
+ing short stimulus trains (Figures 3C–3E). Action potentials were
+readily elicited by light stimulation in Munc13 cKODA mice (Fig-
+ure S4). In Munc13 control mice, KCl puffs triggered dopamine
+release with a 3.5-fold larger amplitude than release evoked
+by optogenetic stimulation (Figures 3F–3H). In Munc13 cKODA
+mice, KCl application did not induce detectable release. Finally,
+electrical stimulation also failed to induce robust release in these
+mutants (Figures 4A–4D). We conclude that Munc13 is essential
+for depolarization-induced dopamine secretion and even strong
+stimuli fail to elicit signiﬁcant release after removing Munc13.
+To determine whether Munc13 is important for dopamine
+release in vivo, we performed microdialysis in anesthetized
+mice (Figure 4E). In control mice, extracellular dopamine was
+reduced to 25% of its initial levels by reverse dialysis of TTX
+(to block ﬁring). In Munc13 cKODA mice, dopamine levels were
+strongly decreased at baseline. Reverse dialysis of TTX only
+mildly reduced extracellular dopamine, and after TTX the dopa-
+mine levels between Munc13 control and cKODA mice were
+indistinguishable. We conclude that Munc13 is essential for ac-
+tion potential-triggered dopamine release in vivo. Notably,
+some extracellular dopamine persists after Munc13 knockout,
+and this could be due to release that is independent of
+Munc13 and action potentials similar to RIM-independent
+release (Liu et al., 2018; Robinson et al., 2019), release mediated
+by residual Munc13-1 (Figure S2), or—trivially—tissue damage
+during microdialysis.
+Roles for Munc13 in dopamine axon structure
+Although Munc13 is essential for synaptic vesicle release,
+removal of Munc13 and the resulting block of glutamate release
+in cultured hippocampal neurons or slices did not detectably
+impair neuronal or synapse structure (Sigler et al., 2017; Varo-
+queaux et al., 2002). To assess whether Munc13 is important
+for axonal and release site structure in dopamine neurons, we
+ﬁrst prepared synaptosomes from striatal homogenates of
+Munc13 control and Munc13 cKODA mice (Figures 5A–5E) as
+described (Liu et al., 2018). This circumvents limitations of quan-
+tifying ﬂuorescent signals in tissue densely packed with synap-
+ses. We stained synaptosomes with antibodies against the
+active zone marker Bassoon, the synaptic vesicle protein synap-
+tophysin, and the dopamine neuron marker TH. We generated
+regions of interest (ROIs) containing TH (TH+) and synaptophysin
+(syp+) and quantiﬁed intensities within these ROIs as described
+in the STAR Methods. In Munc13 cKODA TH+ ROIs, TH intensities
+were moderately increased (Figure 5B) and those of synaptophy-
+sin were somewhat decreased (Figure 5C), suggesting structural
+alterations. Bassoon intensities, used as a proxy for release site
+structure, were increased in dopaminergic synaptosomes (TH+/
+syp+ ROIs) after Munc13 ablation (Figures 5D and 5E). The same
+was true for TH+ only ROIs for Bassoon (Figures S5A–S5C) and
+ll
+Article
+252
+Neuron 110, 248–265, January 19, 2022
+100 ms
+0.3 PM
+Munc13 cKODA
+baseline
+1 PM TTX
+Munc13 control
+C
+A
+floxed
+knockout
+DATIRES-cre
+exon 21
+loxP
+cKODA
+wild type
+wild type
+oChIEF-citrine
+Syn
+B
+wild type
+knockout
+0.5 kb
+1 kb
+D
+E
+stimulus number
+normalized dopamine
+Munc13 cKODA
+Munc13 control
+ 1st stimulus peak dopamine (PM)
+TTX -
+-
++
++
+Munc13
+control
+Munc13
+cKODA
+0.0
+0.2
+0.4
+0.6
+******
+***
+0
+2
+4
+6
+8
+10
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Munc13-2 (Unc13b)
+Munc13-3 (Unc13c)
+X
+X
+Munc13-1 (Unc13a)
+1 kb
+2 PM
+10 s
+KCl
+Munc13 control
+KCl
+Munc13 cKODA
+***
+ peak dopamine (PM)
+Munc13
+control
+Munc13
+cKODA
+Munc13
+control
+Munc13
+cKODA
+F
+G
+0
+2
+4
+6
+total dopamine 
+(x 100 PM x s)
+***
+H
+neo
+neo
+SNc
+CFE
+dorsal
+striatum
+AAV5 injection in SNc (C-E)
+or
+100 mM
+KCl puff
+(F-H)
+0
+1
+2
+470 nm (C-E)
+**
+Figure 3. Munc13 is essential for evoked
+dopamine release
+(A) Targeting strategy for deletion of Munc13-1,
+Munc13-2, and Munc13-3 (Munc13 cKODA).
+(B) Schematics of cre-dependent expression of
+oChIEF and of slice recordings.
+(C–E) Sample traces (C, average of four sweeps)
+of dopamine release evoked by ten 1 ms light
+pulses at 10 Hz before and after TTX, quantiﬁca-
+tion of the ﬁrst stimulus amplitudes (D) and peak
+amplitudes normalized to the average ﬁrst peak of
+Munc13 control (E); (D) 5 slices/3 mice each; (E) 6/
+3 each.
+(F–H) Sample traces (F) and quantiﬁcation of KCl-
+triggered peak dopamine release (G) and area
+under the curve (H, start of puff to 50 s), 7/3 each.
+Data are mean ± SEM. **p < 0.01 and ***p < 0.001
+as assessed using repeated-measures one-way
+ANOVA followed by Sidak’s multiple-compari-
+sons tests in (D); two-way ANOVA (***p < 0.001 for
+genotype, stimulus number, and interaction) fol-
+lowed by Sidak’s multiple-comparisons tests in E
+(***p < 0.001 for stimuli 1–4, **p < 0.01 for stimulus
+5), and Mann-Whitney tests in (G) and (H). For
+generation and analyses of Munc13-1 cKO mice,
+see Figures S2 and S3; for extracellular re-
+cordings, see Figure S4.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+253
+RIM (Figures S5D–S5F). Munc13 cKODA did not affect Bassoon
+intensities in non-dopamine synaptosomes (TH/syp+ ROIs;
+Figure 5D).
+To assess whether similar changes were present in intact stria-
+tum, we used 3D-SIM (Figures 5F–5L). In slices of the dorsolateral
+striatum, TH axons appeared less dense and irregular in shape in
+Munc13 cKODA compared with control, the volume occupied by
+THwas somewhat reduced, and the length of the skeletonized TH
+axon network was decreased (Figures 5F–5H). When we plotted
+binned histograms of the radii of TH axons, a right shift was de-
+tected, indicating that there were more axonal segments with
+larger radii (Figures 5I and 5J). This likely explains the increased
+TH intensities in synaptosomes (Figure 5B). We further found
+that the density and volume of Bassoon clusters were higher after
+Munc13 ablation (Figures 5K and 5L), again matching with the
+synaptosome data (Figures 5D and 5E). Similar results were ob-
+tained for ELKS2 (Figures S5G–S5K), another active zone scaf-
+fold in dopamine axons. We conclude that Munc13 is necessary
+for normal dopamine axon structure. This role is likely indepen-
+dent of dopamine release impairments because ablation of RIM
+or synaptotagmin-1 induce similarly strong dopamine secretory
+defects, but TH axons appear less prominently affected in these
+mutants (Banerjee et al., 2020; Liu et al., 2018).
+RIM-BP1 and RIM-BP2 are dispensable for dopamine
+release
+RIM and Munc13 control dopamine release likely via vesicle
+priming. Restoring their interaction by expressing the RIM zinc
+ﬁnger in RIM cKODA mice, however, is not sufﬁcient to rescue
+dopamine release; C-terminal sequences are also needed (Fig-
+ure 1). At conventional synapses, the C-terminal RIM domains
+mediate scaffolding, including the tethering of Ca2+ channels
+(Han et al., 2011; Kaeser et al., 2011). RIM contributes to this
+function in a tripartite complex with CaV2s and RIM-BP (Acuna
+et al., 2016; Hibino et al., 2002; Kaeser et al., 2011; Liu et al.,
+2011). It is noteworthy that striatal dopamine release is partially
+resistant to blockade of CaV2.1 (P/Q-type) and 2.2 (N-type) chan-
+nels (Brimblecombe et al., 2015), establishing the contribution of
+other Ca2+ sources. RIM-BP expression is detected in dopamine
+neurons (Lein et al., 2007; Saunders et al., 2018), and RIM-BPs
+would be suited to couple to both CaV2s and other CaVs, for
+example CaV1s, because RIM-BP SH3 domains bind to pro-
+line-rich regions of CaV1 and CaV2 C termini (Hibino et al., 2002).
+We ablated RIM-BP1 and RIM-BP2 from dopamine neurons
+(RIM-BP cKODA; Figure 6A) by crossing ‘‘ﬂoxed’’ alleles for these
+genes (Acuna et al., 2015) to DATIRES-cre mice (B€ackman et al.,
+2006). Surprisingly, dopamine release evoked by optogenetic
+activation (Figures 6B–6D), electrical stimulation (Figure S6), or
+KCl depolarization (Figures 6E–6G) was not affected by RIM-
+BP ablation. Although it is possible that RIM-BP1/2 cKODA has
+subtle effects on dopamine secretion that cannot be detected
+with the approaches used here, our results establish that RIM-
+BPs are mostly dispensable for striatal dopamine release,
+different from mouse hippocampal mossy ﬁber synapses, the
+mouse calyx of Held, and the ﬂy neuromuscular junction, where
+RIM-BP has robust roles (Acuna et al., 2015; Brockmann et al.,
+2019; Liu et al., 2011).
+Roles for Liprin-a2 and Liprin-a3 in dopamine release
+Given that RIM-BP (Figure 6) and ELKS (Liu et al., 2018) are
+dispensable for dopamine release, other C-terminal interactions
+A
+B
+C
+D
+E
+Figure 4. Roles for Munc13 in other modes of dopamine release
+(A and B) Sample traces (A, single sweeps) and quantiﬁcation of peak ampli-
+tudes (B) of dopamine release evoked by electrical stimulation (10–90 mA
+single electrical pulses), 10 slices/5 mice each.
+(C and D) Sample traces (C, average of four sweeps) and quantiﬁcation of peak
+dopamine amplitudes normalized to the ﬁrst peak amplitude of Munc13 con-
+trol (D) in response to ten electrical pulses at 10 Hz; inset in (D) shows peak
+amplitude for the ﬁrst stimulus, 8/4 each.
+(E) Quantiﬁcation of extracellular dopamine levels within dorsal striatum
+measured using in vivo microdialysis. Values were normalized to average
+dopamine values of the 76th to 120th min of Munc13 control. TTX (10 mM) was
+reverse dialyzed starting at 121 min, 7 mice each.
+Data are mean ± SEM. **p < 0.01 and ***p < 0.001 as assessed using two-way
+ANOVA (p < 0.001 for genotype, stimulus intensity/stimulus number/time, and
+interaction) in (B), (D), and (E) followed by Sidak’s multiple-comparisons tests
+(B, **p < 0.01 for 20 mA and ***p < 0.001 for 30–90 mA; D, ***p < 0.001 for ﬁrst
+stimulus; E, ***p < 0.001 for 90th to 150th min and **p < 0.01 for 165th to 195th
+min), and Mann-Whitney test for inset in (D).
+ll
+Article
+254
+Neuron 110, 248–265, January 19, 2022
+B
+C
+A
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Figure 5. Munc13 cKODA affects dopamine axon structure and Bassoon clustering
+(A) Sample confocal images of striatal synaptosomes stained with the active zone marker Bassoon, the vesicle marker synaptophysin, and TH; synaptosomes co-
+expressing all three proteins (solid arrowheads) or non-dopaminergic synaptosomes (hollow arrowheads, no TH signal) are highlighted.
+(B–E) Quantiﬁcation of (A). (E) shows the frequency histogram for Bassoon intensity in syp+TH+ ROIs; (B) and (C) 30 images/3 mice each; (D) syp+TH 30/3 each,
+syp+TH+ 29/3 each; (E) Munc13 control 221 ROIs/29 images/3 mice, Munc13 cKODA 168/29/3.
+(F) Sample 3D-SIM images (dimensions and overlap criteria as in Figure 2B) of dorsolateral striatum stained for Bassoon and TH.
+(G–L) Quantiﬁcation of (F) as in Figure 2. In (I) and (J), TH axon shape was assessed by determining the proportion of the axon surface at a speciﬁc distance from
+the medial axis of the TH-labeled axon, Munc13 control 163 images/4 mice; Munc13 cKODA 165/4 (G, H, K, and L), 160/4 each (J).
+Data are mean ± SEM except for (J, mean ± SD). *p < 0.05, **p < 0.01, and ***p < 0.001 as assessed using unpaired t tests in (B), (C), (G), (H), (K), and (L); one-way
+ANOVA followed by Sidak’s multiple-comparisons tests in (D); Kolmogorov-Smirnov test in (E) and two-way ANOVA (***p < 0.001 for genotype, distance, and
+interaction) in (J). For additional morphological analyses, see Figure S5.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+255
+of RIM are likely important. RIM binds to Liprin-a with its C2B
+domain (Schoch et al., 2002). Liprin-a proteins are organizers
+of invertebrate active zones (Bo¨ hme et al., 2016; Patel and
+Shen, 2009; Zhen and Jin, 1999). Vertebrates express four Li-
+prin-a genes (Ppﬁa1–4) to produce Liprin-a1 through Liprin-a4.
+Liprin-a2 and Liprin-a3 are strongly expressed in brain and local-
+ized to synapses, and brain Liprin-a1 and Liprin-a4 expression is
+generally low (Emperador-Melero et al., 2021a; Wong et al.,
+2018; Z€urner et al., 2011).
+We generated dopamine-neuron double-knockout mice for Li-
+prin-a2 and Liprin-a3 (Liprin-a cKODA; Figure 7A) by crossing
+ﬂoxed Liprin-a2 mice to constitutive Liprin-a3 knockouts and
+DATIRES-cre mice (B€ackman et al., 2006; Emperador-Melero
+et al., 2021a; Wong et al., 2018). We ﬁrst probed for changes
+in dopamine axon structure. Apart from slightly increased
+Bassoon cluster densities, no morphological defects were de-
+tected (Figures 7B–7G).
+Dopamine release induced by optogenetic activation was
+reduced by 50% in Liprin-a cKODA mice (Figures 7H–7J), while
+dopamine axon action potential ﬁring was not detectably
+affected (Figures S7E–S7G). Release triggered by KCl was
+reduced as well (Figures 7K–7M). In contrast, release triggered
+by electrical stimulation, which strongly depends on nAChR re-
+ceptor activation (Liu et al., 2018; Threlfell et al., 2012), appeared
+A
+B
+C
+D
+E
+F
+G
+Figure 6. RIM-BP is dispensable for dopamine release
+(A) Strategy for ablation of RIM-BP1 and RIM-BP2 in dopamine neurons (RIM-BP cKODA).
+(B–D) Sample traces of dopamine release (B, average of four sweeps) evoked by ten 1 ms light pulses at 10 Hz, quantiﬁcation of amplitudes (C) normalized to the
+average of the ﬁrst peak amplitude of RIM-BP control, peak amplitude evoked by the ﬁrst stimulus and paired pulse ratios (PPR) of the second to the ﬁrst stimulus
+(C, inset), and 20%–80% rise times (D), 8 slices/5 mice each.
+(E–G) Sample traces (E), quantiﬁcation of peak amplitudes (F), and area under the curve (G) in response to a KCl puff, 8/3 each.
+Data are mean ± SEM. ***p < 0.001 as assessed using two-way ANOVA (*** for stimulus number, not signiﬁcant [n.s.], for genotype, interaction) followed by
+Sidak’s multiple-comparisons tests in (C), and Mann-Whitney tests in (C, insets), (F), and (G). For electrical stimulation experiments, see Figure S6.
+ll
+Article
+256
+Neuron 110, 248–265, January 19, 2022
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+(legend on next page)
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+257
+unimpaired (Figures S7A–S7D). This could be because cholin-
+ergic interneuron function may be affected by constitutive Li-
+prin-a3 knockout, for example by enhancement of release prob-
+ability as we recently described for excitatory hippocampal
+synapses after Liprin-a2/3 ablation (Emperador-Melero et al.,
+2021a) or due to technical differences in the stimulation para-
+digm. Altogether, our data indicate important, albeit not essen-
+tial, roles for Liprin-a in striatal dopamine release.
+Attaching the RIM C2B domain to the RIM zinc ﬁnger
+restores dopamine release
+Our analyses suggest that RIM zinc ﬁnger domains prime dopa-
+mine vesicles through Munc13 (Figures 1, 2, 3, 4, and 5). C-termi-
+nal RIM C2B domain interactions with Liprin-a may mediate scaf-
+folding (Figure 7). Interaction partners of the central RIM domains
+(e.g. ELKS and RIM-BP) appear less important (Figure 6; Liu et al.,
+2018). If true, dopamine release should be restored by the pres-
+ence of the zinc ﬁnger domain to boost vesicle priming via
+Munc13 and the RIM C2B domain, which may support scaffolding
+via Liprin-a and PIP2 (de Jong et al., 2018; Schoch et al., 2002). To
+test this, we compared three RIM rescue constructs (Figure 8A):
+(1) a RIM1-ZnC2B protein in which the zinc ﬁnger and C2B
+domains are connected with endogenous linker se-
+quences that follow the RIM zinc ﬁnger;
+(2) a RIM1-ZnC2BKE protein, which is identical to RIM1-
+ZnC2B
+except
+for
+two
+point
+mutations
+(K1513E,
+K1515E) that disrupt the activity of C2B in release (de
+Jong et al., 2018); and
+(3) a RIM1-ZnPCP protein in which all RIM sequences (PDZ-
+C2A-PxxP) that are not present in RIM1-ZnC2B are fused
+to the zinc ﬁnger.
+These rescue constructs were expressed in RIM cKODA mice
+using cre-dependent AAVs, and expression was assessed using
+western blotting (Figure S8A). For each construct, we performed
+a comparison of its rescue activity to RIM cKODA (RIM1-ZnC2B:
+Figures 8B, 8C, 8H, and 8I; RIM1-ZnC2BKE: Figures S8J–S8M;
+RIM1-ZnPCP: Figures 8F, 8G, 8L, and 8M), and we also directly
+compared RIM1-ZnC2B and RIM1-ZnC2BKE to one another (Fig-
+ures 8D, 8E, 8J, and 8K).
+Strikingly, RIM1-ZnC2B enhanced dopamine release evoked
+by electrical stimuli and KCl puffs over RIM cKODA (Figures 8B,
+8C, 8H, and 8I) as effectively as co-expression of RIM1-Zn and
+RIM1-DZn (Figures 1L, 1M, 1R, 1S, S8N, and S8O). Inactivation
+of the C2B domain in this construct (RIM1-ZnC2BKE) or fusion of
+the other RIM domains to RIM1-Zn (RIM1-ZnPCP) disrupted the
+ability to restore release evoked by electrical stimulation (Figures
+8D–8G, S8J, and S8K). All three constructs partially restored
+KCl-triggered release (Figures 8H–8M, S8L, and S8M), similar
+to co-expression of RIM1-Zn and RIM1-DZn (Figures 1L, 1M,
+1R, and 1S). We compared rescue activity of all experiments
+through normalization against the average of all control record-
+ings (Figures S8N and S8O). This comparison revealed that
+RIM1-ZnC2B or RIM1-Zn + RIM1-DZn both restore action poten-
+tial evoked release, while fusion of any other tested domain to
+RIM1-Zn supports KCl-triggered release. It is noteworthy that
+altogether, rescue is incomplete, with a maximum rescue of
+30%–40% compared with unrelated control mice (Figures
+S8N and S8O). This could be due to a combination of factors,
+including that rescue constructs may not be expressed in all
+dopamine neurons, that full-length RIM may be required, or
+that the RIM cKODA phenotype may not be fully reversible.
+Currently, AAV capacity limits prevent efﬁcient expression of
+full-length RIM and co-expression of optogenetic actuators in
+the same neurons. Hence, our conclusions should rely on
+comparing the various rescue conditions with one another in
+their activity over RIM cKODA.
+We propose that RIM-C2B domains enable scaffolding of the
+RIM zinc ﬁnger to release sites to restore action potential-trig-
+gered dopamine release (Figure 8N). The zinc ﬁnger and C2B do-
+mains appear sufﬁcient to mediate the minimally needed release
+site functions, suggesting strikingly limited molecular require-
+ments for dopamine release. Release triggered by KCl may
+represent a measure of vesicle fusogenicity. The strong stimulus
+may partially override the need for vesicle tethering close to Ca2+
+entry and does not require the C2B domain.
+DISCUSSION
+Despite central roles for striatal dopamine in circuit regulation
+and behavior, there remain major gaps in the understanding of
+the molecular and functional organization of its release. Dopa-
+mine release requires the active zone protein RIM (Liu et al.,
+2018; Robinson et al., 2019), but components or mechanisms
+of active zone-like release sites beyond this requirement were
+essentially unknown. Here, we found that Munc13 is essential
+for dopamine release. and we propose that RIM and Munc13
+cooperate to promote dopamine vesicle priming (Figures 1, 2,
+3, 4, and 5). The scaffolding mechanisms that organize dopa-
+mine release sites appear quite simple compared with classical
+synapses (Figures 1, 6, 7, and 8). The active zone scaffolds
+RIM-BP (Figure 6) and ELKS (Liu et al., 2018) are dispensable
+Figure 7. Liprin-a is important for dopamine release
+(A) Strategy for ablation of Liprin-a2 and Liprin-a3 (Liprin-a cKODA).
+(B) Sample 3D-SIM images (dimensions and overlap criteria as in Figure 2B) of dorsolateral striatum stained for Bassoon and TH.
+(C–G) Quantiﬁcation of (B) as in Figures 5G–5L; Liprin-a control 84 images/4 mice; Liprin-a cKODA 85/4.
+(H–J) Sample traces of dopamine release (H, average of four sweeps) evoked by ten 1 ms light pulses at 10 Hz and quantiﬁcation of amplitudes (I) normalized to
+the average of the ﬁrst peak amplitude of RIM-BP control, ﬁrst stimulus peak amplitude and PPR (I, insets), and 20%–80% rise times (J), 11 slices/4 mice each.
+(K–M) Sample traces (K), quantiﬁcation of peak amplitudes (L), and area under the curve (M) in response to a KCl puff, 12/8 each.
+Data are mean ± SEM, except for (E, mean ± SD). **p < 0.01 and ***p < 0.001 as assessed using unpaired t tests in (C), (D), (F), and (G); two-way ANOVA (***p <
+0.001 for distance and interaction, n.s. for genotype) in (E); two-way ANOVA (***p < 0.001 for genotype, stimulus number, and interaction) followed by Sidak’s
+multiple-comparisons tests in (I, ***p < 0.001 for ﬁrst and second stimuli), Mann-Whitney tests in (I, insets), (J), (L), and (M). For additional Liprin-a cKODA analyses,
+see Figure S7.
+ll
+Article
+258
+Neuron 110, 248–265, January 19, 2022
+A
+RIM1-ZnC2B
+RIM1-ZnC2BKE
+RIM cKODA
+10 s
+2 M
+KCl
+KCl
+RIM cKODA+ RIM1-ZnC2BKE
+RIM cKODA + RIM1-ZnC2BKE
+KCl
+KCl
+I
+*
+RIM cKODA + 
+   RIM1-ZnPCP
+RIM cKODA
+***
+J
+RIM1-ZnPCP
+peak
+dopamine ( M)
+peak
+dopamine ( M)
+RIM cKODA+ RIM1-ZnPCP
+C
+peak
+dopamine ( M)
+RIM cKODA + 
+   RIM1-ZnC2BKE
+RIM cKODA + 
+   RIM1-ZnC2B
+***
+peak
+dopamine ( M)
+D
+RIM cKODA
+RIM cKODA + 
+   RIM1-ZnC2B
+RIM cKODA + 
+   RIM1-ZnPCP
+RIM cKODA
+RIM cKODA + 
+   RIM1-ZnC2BKE
+RIM cKODA + 
+   RIM1-ZnC2B
+RIM cKODA
+RIM cKODA + 
+   RIM1-ZnC2B
+***
+B
+peak
+dopamine ( M)
+RIM cKODA + RIM1-ZnC2B
+H
+RIM cKODA+ RIM1-ZnC2B
+KCl
+KCl
+***
+E
+C2B
+Syn
+C2B
+Zn
+Syn
+C2B
+C2B
+C2A PxxP
+Zn
+Zn
+Zn
+PDZ
+Syn
+Zn
+G
+K
+L
+M
+RIM cKODA
+RIM cKODA
+RIM cKODA + RIM1-ZnC2B
+RIM cKODA
+RIM cKODA + RIM1-ZnC2B
+F
+100 ms
+ 0.5 M
+RIM cKODA + RIM1-ZnPCP
+100 ms
+ 0.5 M
+100 ms
+ 0.5 M
+0.0
+0.2
+0.4
+0.6
+0.0
+0.2
+0.4
+0.6
+0.8
+0.0
+0.2
+0.4
+0.6
+N
+10 s
+2 M
+10 s
+2 M
+0
+2
+4
+6
+0
+2
+4
+6
+0
+2
+4
+6
+peak
+dopamine ( M)
+RIM
+Munc13
+Liprin-
+active zone area
+protein scaffolds
+dopamine vesicle 
+functionally important 
+proteins: 
+dopamine release
+site organization: 
+RIM Zn finger
+Munc13
+dopamine vesicle priming
+RIM C2B
+Liprin-
+release site scaffolding
+Munc13
+HA
+HA
+HA
+Figure 8. RIM C2B domains are important
+for evoked dopamine release
+(A) Schematic of AAV5 viruses injected into the
+midbrain for cre-dependent expression of rescue
+proteins.
+(B–G) Sample traces (B, D, and F, single sweeps)
+and quantiﬁcation (C, E, and G) of dopamine
+release evoked by a 90 mA electrical stimulus; (C)
+16 slices/4 mice each; (E) RIM cKODA + RIM1-
+ZnC2B 22/5, RIM cKODA + RIM1-ZnC2BKE 20/5;
+(G) 19/4 each.
+(H–M) Same as (B)–(G), but for a local 100 mM puff
+of KCl; (I) 18/4 each; (K) RIM cKODA + RIM1-
+ZnC2B 23/5, RIM cKODA + RIM1-ZnC2BKE 21/5;
+(M) 18/4 each.
+(N) Model of an active zone-like site in the dorsal
+striatum. RIM, Munc13, and Liprin-a form release
+sites in dopamine varicosities, with Munc13 and
+RIM mediating dopamine vesicle priming and all
+three proteins contributing to scaffolding.
+Data are mean ± SEM. *p < 0.05 and ***p < 0.001
+as assessed using Mann-Whitney tests in (C), (E),
+(G), (I), (K), and (M). For control recordings, addi-
+tional rescue, and comparisons of all rescue ex-
+periments, see Figure S8.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+259
+for dopamine release, while Liprin-a2 and Liprin-a3 knockout
+has more pronounced effects on dopamine release (Figure 7)
+than at hippocampal synapses (Emperador-Melero et al.,
+2021a). The C-terminal RIM C2B domain is important for dopa-
+mine release and may contribute through binding of Liprin-a
+and/or PIP2 (Figures 1, 7, and 8). Our data lead to a model (Fig-
+ure 8N) in which RIM and Munc13 mediate vesicle priming and
+operate together with Liprin-a for rapid and precise release.
+Does Munc13 prime dopamine vesicles for fast release?
+Fast neurotransmitter release relies on vesicle priming, which
+prepares vesicles and plasma membranes for exocytosis and in-
+volves vesicle attachment to the target membrane (Imig et al.,
+2014; Kaeser and Regehr, 2017). At fast synapses, RIM recruits
+Munc13 to active zones and activates it, and Munc13 controls
+the assembly of SNARE complexes (Andrews-Zwilling et al.,
+2006; Betz et al., 2001; Camacho et al., 2017; Deng et al.,
+2011; Imig et al., 2014; Ma et al., 2013; Varoqueaux et al.,
+2002). For the release of modulatory transmitters, the priming
+mechanisms are less well understood. In some cases, they rely
+less on Munc13 and instead may use alternative or additional
+priming pathways (Berwin et al., 1998; van de Bospoort et al.,
+2012; van Keimpema et al., 2017; Man et al., 2015; Renden
+et al., 2001). The observations that action potential-triggered
+dopamine release requires RIM and Munc13 and is mediated
+by RIM zinc ﬁnger domains indicate that striatal dopamine axons
+employ priming mechanisms similar to conventional synapses.
+These ﬁndings support the overall model of fast and efﬁcient
+dopamine secretion (Liu et al., 2018, 2021).
+Munc13 cKODA mice have altered dopamine axon and release
+site structure. This is unanticipated because previous studies
+found normal synapse assembly in the absence of Munc13 (Au-
+gustinet al., 1999; Sigler et al., 2017; Varoqueauxet al., 2002),syn-
+aptic vesicle exocytosis (Verhage et al., 2000), or presynaptic Ca2+
+entry (Held et al., 2020). Furthermore, strong impairments in action
+potential-triggered dopamine secretion by ablation of synaptotag-
+min-1 (Banerjee et al., 2020) or RIM (Liu et al., 2018) do not lead to
+similarly prominent phenotypes. Hence, dopamine axon alter-
+ations are unlikely caused by loss of dopamine secretion, but
+Munc13 may have independent roles in dopamine axon structure.
+These effects may be similar to a previously described role of
+Munc13 in the delay of growth rates of neurites in dissociated
+and organotypic slice cultures (Broeke et al., 2010). In our experi-
+ments, these roles could arise from cell-autonomous Munc13
+functions or could be mediated by knockout of Munc13-2 and
+Munc13-3 in surrounding cells, for example through loss of secre-
+tion of modulatory substances important for growth. Roles in
+release site assembly, observed here as altered Bassoon clus-
+tering, have also been described in the ﬂy neuromuscular junction
+and in cultured hippocampal neurons, where Munc13 controls the
+clustering of Brp or syntaxin, respectively (Bo¨ hme et al., 2016; Sa-
+kamoto et al., 2018). Hence, release site scaffolding may be a
+Munc13 function that is shared across several secretory systems.
+Functional organization of active zone-like dopamine
+release sites
+Initial observations suggested that RIM organizes active zone-
+like release sites (Liu et al., 2018). However, it remained unclear
+whether RIM operates as a release site scaffold or as a soluble or
+vesicle-associated release factor. We found that RIM C2B do-
+mains are important, supporting the model of a scaffolded site.
+At classical synapses, active zone scaffolding mechanisms sup-
+port three fundamental requirements: (1) they tether Ca2+ chan-
+nels to release sites, (2) they dock vesicles to exocytotic sites,
+and (3) they mediate the attachment and positioning of release
+machinery at the correct place in the target membrane. How
+are these functions executed to support striatal dopamine
+release?
+For synaptic secretion, Ca2+ channel tethering (1) is mediated
+by RIMs and RIM-BPs (Hibino et al., 2002; Kaeser et al., 2011;
+Wu et al., 2019). Several observations suggest that Ca2+ secre-
+tion coupling in the dopamine system does not strongly rely on
+this synaptic protein complex. First, dopamine release is depen-
+dent on multiple CaVs, including CaV1, CaV2, and CaV3 (Brimble-
+combe et al., 2015; Liu and Kaeser, 2019), and mechanisms that
+rely on RIM-CaV interactions unlikely explain the localization of
+channels other than CaV2s (Kaeser et al., 2011). Second,
+although RIM-BP may organize channels other than CaV2s (Hi-
+bino et al., 2002), RIM-BP1 and RIM-BP2 are dispensable for
+dopamine release. Third, at synapses where RIM organizes
+CaV2s, the presence of high extracellular Ca2+ overrides the
+need for RIM (Kaeser et al., 2011, 2012), but this is not the
+case for striatal dopamine release (Liu et al., 2018). Finally,
+RIM-containing dopamine release sites are sparse, but Ca2+ en-
+try appears to be present in all varicosities (Liu et al., 2018; Per-
+eira et al., 2016). Together, these observations suggest that the
+RIM/RIM-BP complex is not the major or only organizer of
+Ca2+ channel complexes in dopamine axons. What other mech-
+anisms could contribute? One possibility is that CaVs are orga-
+nized through transmembrane proteins rather than active zone
+complexes, for example by neurexins, which organize CaVs
+and may drive synapse formation in cultured dopamine neurons
+(Ducrot et al., 2021; Luo et al., 2020). Another possibility is that
+a2d proteins or b subunits drive positioning of various CaVs in
+dopamine neurons, which could explain why subtype-speciﬁc
+positioning mechanism are dispensable (Held et al., 2020;
+Hoppa et al., 2012). While our data indicate that dopamine
+release does not build upon the classical Ca2+ secretion coupling
+mechanisms, future studies should address how Ca2+ entry and
+its coupling to release-ready vesicles are organized in the dopa-
+mine system.
+Tethering and docking of vesicles (2) is likely important given
+the rapidity of dopamine release. At classical synapses, RIM
+and Munc13 mediate vesicle docking (Han et al., 2011; Imig
+et al., 2014; Kaeser et al., 2011; Wang et al., 2016; Wong et al.,
+2018). Technical limitations have prevented tests of vesicle
+docking in the dopamine system. Assessment of docking re-
+quires high pressure freezing rather than chemical ﬁxation,
+which is difﬁcult to adapt and optimize for acute brain slices
+from different brain regions, and, more important, dopamine-
+releasing varicosities are very sparse and difﬁcult to identify.
+However, fast kinetics, high release probability, and Munc13
+and RIM dependence support that dopamine vesicle docking
+is mediated by classical, synaptic mechanisms. Alternative or
+complementary attachment could be mediated by phospholipid
+interactions, for example between PIP2 and synaptotagmin-1
+ll
+Article
+260
+Neuron 110, 248–265, January 19, 2022
+(Chang et al., 2018; Jahn and Fasshauer, 2012). One interesting
+possibility is that both Ca2+ entry and vesicle-target membrane
+tethering, for example via synaptotagmin-1, are present in all
+dopamine varicosities (Banerjee et al., 2020; Pereira et al.,
+2016), but that priming for release only occurs in active zone-
+containing varicosities (Liu et al., 2018; Pereira et al., 2016).
+This may explain why some varicosities remain silent upon stim-
+ulation despite the presence of vesicles.
+Target membrane attachment and positioning of release ma-
+chinery (3) is poorly understood (Emperador-Melero and Kaeser,
+2020). Proposed mechanisms at synapses include interactions
+with transmembrane proteins or target membrane phospho-
+lipids. However, strong active zone assembly phenotypes have
+not been reported upon disruption of any speciﬁc mechanism,
+for example, abolishing binding to PIP2, or knocking out of
+CaV2s, LAR-PTPs or neurexins (Chen et al., 2017; Emperador-
+Melero et al., 2021b; Held et al., 2020; de Jong et al., 2018; Sclip
+and S€udhof, 2020). Given the dopamine secretory deﬁcits in Li-
+prin-a cKODA mice (Figure 6), Liprin-a binding to LAR-PTPs
+(Serra-Page` s et al., 1995, 1998) and the dependence of dopa-
+mine release on RIM C2B domains (which bind to Liprin-a and
+PIP2), the most parsimonious working model is that RIM C2B do-
+mains provide a key tethering mechanism at dopamine release
+sites. For glutamatergic transmission, secretory hotspots are
+strategically assembled opposed to postsynaptic receptor
+nanodomains (Biederer et al., 2017; Tang et al., 2016). This
+model is interesting to assess for the dopamine system, in which
+most varicosities are not associated with target cells through a
+synaptic organization (Descarries et al., 1996). One possibility
+is that release site localization is independent of dopamine re-
+ceptor domains. An alternative model is that the small fraction
+of dopamine varicosities that is associated with postsynaptic
+cells (Descarries et al., 1996; Uchigashima et al., 2016) relies
+on transsynaptic organization, and only varicosities with this syn-
+aptic organization contain active zones for dopamine release.
+Recent work favors the former model, because both synaptic
+and non-synaptic varicosities have release capacity (Ducrot
+et al., 2021; Liu et al., 2021). Future work should address the rela-
+tionship between dopamine receptors and the active zone-like
+release sites that we describe here.
+Overall, our ﬁndings establish that dopamine release sites
+have evolved to be fast and efﬁcient. Scaffolding appears
+less complex than at classical synapses, on the basis of three
+lines of evidence. First, functional effects of RIM deletion are
+stronger than at regular synapses (de Jong et al., 2018; Kaeser
+et al., 2011; Liu et al., 2018). Second, the scaffolds ELKS (Liu
+et al., 2018) and RIM-BP (Figure 6) are dispensable for dopa-
+mine release. Third, the RIM C-terminal domains are impor-
+tantscaffolds of dopamine release machinery (Figures 1 and
+8), and Munc13 has scaffolding roles as well (Figure 5), but at
+conventional
+synapses,
+these
+structural
+roles
+are
+largely
+dispensable (Augustin et al., 1999; Deng et al., 2011; Han
+et al., 2011; Kaeser et al., 2011; Sigler et al., 2017; Varoqueaux
+et al., 2002), indicating more redundancy. Hence, dopamine
+release site architecture appears different from prototypical
+synapses and relies on simple, streamlined scaffolding mecha-
+nisms. Finally, our work supports a growing body of literature
+on release site diversity across transmitter systems and neuron
+subtypes (Brockmann et al., 2019; Emperador-Melero et al.,
+2021a; Held et al., 2016). Our ﬁndings on RIM, Munc13, and Li-
+prin-a may be relevant for understanding the organization of
+release machinery at speciﬁc classical synapses or in other
+neuromodulatory systems as well.
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d RESOURCE AVAILABILITY
+B Lead contact
+B Materials availability
+B Data and code availability
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+d METHOD DETAILS
+B Rescue constructs and production of AAV viruses
+B Stereotaxic surgery
+B Electrophysiology in brain slices
+B Immunostaining of brain sections
+B 3D-SIM image acquisition and analysis
+B Generation of conditional Munc13-1 knockout mice
+B Immunoblotting
+B Generation of autaptic mouse hippocampal neuron
+cultures
+B Electrophysiology on neurons in autaptic hippocampal
+cultures
+B Microdialysis
+B Striatal synaptosome preparation and immunostaining
+B Confocal microscopy and image analysis of striatal
+synaptosomes
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+SUPPLEMENTAL INFORMATION
+Supplemental information can be found online at https://doi.org/10.1016/j.
+neuron.2021.10.028.
+ACKNOWLEDGMENTS
+This work was supported by the National Institutes of Health (R01NS103484
+and R01MH113349 to P.S.K.; F31NS105159 to L.K.), the Dean’s Initiative
+Award for Innovation (P.S.K.), a Harvard-MIT Joint Research Grant (P.S.K.),
+a William Randolph Hearst fellowship (A.B.), an Alice Joseph Brooks fellowship
+(A.B.), a Mahoney fellowship (A.B.), a Gordon family fellowship (C.L.), the Eu-
+ropean Commission (European Research Council [ERC] Advanced Grant Syn-
+Prime to N.B.), and Germany’s Excellence Strategy (EXC 2067/1-390729940
+to N.B.). X.C. is a visiting graduate student and was in part supported by a
+PhD Mobility National Grants fellowship from the China Scholarship Council/
+Xi’an Jiaotong University. We thank C. Qiao, M. Han, A. Zeuch, A. G€unther,
+and S. Beuermann for technical assistance and T.C. S€udhof for the ﬂoxed
+RIM-BP mice. We acknowledge the HMS Neurobiology Imaging Facility (sup-
+ported by P30NS072030) and the HMS Cell Biology Microscopy Facility for
+availability of microscopes and advice, T. Lambert for help with 3D-SIM, M.
+Cicconet and the HMS Image and Data Analysis Core for help with developing
+TH axon analyses, the MPI-EM DNA Core Facility for mouse genotyping, the
+MPI-EM and HMS animal facilities for mouse husbandry, and U. F€unfschilling
+and M. Schindler for blastocyst injections.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+261
+AUTHOR CONTRIBUTIONS
+Conceptualization, A.B. and P.S.K.; Methodology, A.B., C.I., K.B., L.K., N.L.,
+R.-L.U., J.W., X.C., F.B., J.S.R., B.H.C., C.L., and S.M.W.; Formal Analysis,
+A.B., C.I., K.B., L.K., N.L., J.S.R., B.H.C., C.L., S.M.W., N.B., and P.S.K.; Inves-
+tigation, A.B., C.I., K.B., L.K., N.L., R.-L.U., J.S.R., B.H.C., and C.L.; Re-
+sources, A.B., C.I., K.B., J.W., X.C., F.B., S.M.W., N.B., and P.S.K.; Writing –
+Original Draft, A.B., C.I., and P.S.K.; Writing – Review & Editing, A.B., C.I.,
+K.B., L.K., N.L., C.L., N.B., and P.S.K.; Supervision, J.S.R., C.L., S.M.W.,
+N.B., and P.S.K.; Funding Acquisition, N.B. and P.S.K.
+DECLARATION OF INTERESTS
+The authors declare no competing interests. L.K. is currently an employee of Pre-
+scient Healthcare Group (Jersey City, NJ). R.-L.U. is currently an employee of
+Medaffcon Oy (Espoo, Finland). X.C. is a visiting graduate student from Xi’an
+Jiaotong University (China). N.B. is a member of the Neuron Advisory Board.
+Received: December 19, 2020
+Revised: September 22, 2021
+Accepted: October 19, 2021
+Published: November 11, 2021
+REFERENCES
+Acuna, C., Liu, X., Gonzalez, A., and S€udhof, T.C. (2015). RIM-BPs mediate
+tight coupling of action potentials to Ca(2+)-triggered neurotransmitter
+release. Neuron 87, 1234–1247.
+Acuna, C., Liu, X., and S€udhof, T.C. (2016). How to make an active zone: un-
+expected universal functional redundancy between RIMs and RIM-BPs.
+Neuron 91, 792–807.
+Adams, D.J., Quail, M.A., Cox, T., van der Weyden, L., Gorick, B.D., Su, Q.,
+Chan, W.I., Davies, R., Bonﬁeld, J.K., Law, F., et al. (2005). A genome-wide,
+end-sequenced 129Sv BAC library resource for targeting vector construction.
+Genomics 86, 753–758.
+Agnati, L.F., Zoli, M., Stro¨ mberg, I., and Fuxe, K. (1995). Intercellular communica-
+tion in the brain: wiring versus volume transmission. Neuroscience 69, 711–726.
+Andrews-Zwilling, Y.S., Kawabe, H., Reim, K., Varoqueaux, F., and Brose, N.
+(2006). Binding to Rab3A-interacting molecule RIM regulates the presynaptic
+recruitment of Munc13-1 and ubMunc13-2. J. Biol. Chem. 281, 19720–19731.
+Augustin, I., Rosenmund, C., S€udhof, T.C., and Brose, N. (1999). Munc13-1 is
+essential for fusion competence of glutamatergic synaptic vesicles. Nature
+400, 457–461.
+Augustin, I., Korte, S., Rickmann, M., Kretzschmar, H.A., S€udhof, T.C., Herms,
+J.W., and Brose, N. (2001). The cerebellum-speciﬁc Munc13 isoform Munc13-
+3 regulates cerebellar synaptic transmission and motor learning in mice.
+J. Neurosci. 21, 10–17.
+B€ackman, C.M., Malik, N., Zhang, Y., Shan, L., Grinberg, A., Hoffer, B.J.,
+Westphal, H., and Tomac, A.C. (2006). Characterization of a mouse strain ex-
+pressing Cre recombinase from the 30 untranslated region of the dopamine
+transporter locus. Genesis 44, 383–390.
+Banerjee, A., Lee, J., Nemcova, P., Liu, C., and Kaeser, P.S. (2020).
+Synaptotagmin-1 is the Ca2+ sensor for fast striatal dopamine release. eLife
+9, e58359.
+Beckstead, M.J., Grandy, D.K., Wickman, K., and Williams, J.T. (2004).
+Vesicular dopamine release elicits an inhibitory postsynaptic current in
+midbrain dopamine neurons. Neuron 42, 939–946.
+Berwin, B., Floor, E., and Martin, T.F. (1998). CAPS (mammalian UNC-31) pro-
+tein localizes to membranes involved in dense-core vesicle exocytosis.
+Neuron 21, 137–145.
+Betz, A., Okamoto, M., Benseler, F., and Brose, N. (1997). Direct interaction of
+the rat unc-13 homologue Munc13-1 with the N terminus of syntaxin. J. Biol.
+Chem. 272, 2520–2526.
+Betz, A., Ashery, U., Rickmann, M., Augustin, I., Neher, E., S€udhof, T.C., Rettig,
+J., and Brose, N. (1998). Munc13-1 is a presynaptic phorbol ester receptor that
+enhances neurotransmitter release. Neuron 21, 123–136.
+Betz, A., Thakur, P., Junge, H.J., Ashery, U., Rhee, J.S., Scheuss, V.,
+Rosenmund, C., Rettig, J., and Brose, N. (2001). Functional interaction of
+the active zone proteins Munc13-1 and RIM1 in synaptic vesicle priming.
+Neuron 30, 183–196.
+Biederer, T., Kaeser, P.S., and Blanpied, T.A. (2017). Transcellular nanoalign-
+ment of synaptic function. Neuron 96, 680–696.
+Bo¨ hme, M.A., Beis, C., Reddy-Alla, S., Reynolds, E., Mampell, M.M.,
+Grasskamp, A.T., L€utzkendorf, J., Bergeron, D.D., Driller, J.H., Babikir, H.,
+et al. (2016). Active zone scaffolds differentially accumulate Unc13 isoforms
+to tune Ca(2+) channel-vesicle coupling. Nat. Neurosci. 19, 1311–1320.
+Brimblecombe, K.R., Gracie, C.J., Platt, N.J., and Cragg, S.J. (2015). Gating of
+dopamine transmission by calcium and axonal N-, Q-, T- and L-type voltage-
+gated calcium channels differs between striatal domains. J. Physiol. 593,
+929–946.
+Brockmann, M.M., Maglione, M., Willmes, C.G., Stumpf, A., Bouazza, B.A.,
+Velasquez, L.M., Grauel, M.K., Beed, P., Lehmann, M., Gimber, N., et al.
+(2019). RIM-BP2 primes synaptic vesicles via recruitment of Munc13-1 at hip-
+pocampal mossy ﬁber synapses. eLife 8, e43243.
+Broeke, J.H.P., Roelandse, M., Luteijn, M.J., Boiko, T., Matus, A., Toonen,
+R.F., and Verhage, M. (2010). Munc18 and Munc13 regulate early neurite
+outgrowth. Biol. Cell 102, 479–488.
+Burgalossi, A., Jung, S., Man, K.N., Nair, R., Jockusch, W.J., Wojcik, S.M.,
+Brose, N., and Rhee, J.-S. (2012). Analysis of neurotransmitter release mech-
+anisms by photolysis of caged Ca2+ in an autaptic neuron culture system. Nat.
+Protoc. 7, 1351–1365.
+Cachope, R., Mateo, Y., Mathur, B.N., Irving, J., Wang, H.-L., Morales, M.,
+Lovinger, D.M., and Cheer, J.F. (2012). Selective activation of cholinergic inter-
+neurons enhances accumbal phasic dopamine release: setting the tone for
+reward processing. Cell Rep. 2, 33–41.
+Camacho, M., Basu, J., Trimbuch, T., Chang, S., Pulido-Lozano, C., Chang,
+S.-S., Duluvova, I., Abo-Rady, M., Rizo, J., and Rosenmund, C. (2017).
+Heterodimerization of Munc13 C2A domain with RIM regulates synaptic
+vesicle docking and priming. Nat. Commun. 8, 15293.
+Chang, S., Trimbuch, T., and Rosenmund, C. (2018). Synaptotagmin-1 drives
+synchronous Ca2+-triggered fusion by C2B-domain-mediated synaptic-
+vesicle-membrane attachment. Nat. Neurosci. 21, 33–40.
+Chen, L.Y., Jiang, M., Zhang, B., Gokce, O., and S€udhof, T.C. (2017).
+Conditional deletion of all neurexins deﬁnes diversity of essential synaptic
+organizer functions for neurexins. Neuron 94, 611–625.e4.
+Cooper, B., Hemmerlein, M., Ammerm€uller, J., Imig, C., Reim, K., Lipstein, N.,
+Kalla, S., Kawabe, H., Brose, N., Brandst€atter, J.H., and Varoqueaux, F. (2012).
+Munc13-independent vesicle priming at mouse photoreceptor ribbon synap-
+ses. J. Neurosci. 32, 8040–8052.
+Courtney, N.A., and Ford, C.P. (2014). The timing of dopamine- and noradren-
+aline-mediated transmission reﬂects underlying differences in the extent of
+spillover and pooling. J. Neurosci. 34, 7645–7656.
+Daniel, J.A., Galbraith, S., Iacovitti, L., Abdipranoto, A., and Vissel, B. (2009).
+Functional heterogeneity at dopamine release sites. J. Neurosci. 29,
+14670–14680.
+de Jong, A.P.H., Roggero, C.M., Ho, M.-R., Wong, M.Y., Brautigam, C.A.,
+Rizo, J., and Kaeser, P.S. (2018). RIM C2B domains target presynaptic active
+zone functions to PIP2-containing membranes. Neuron 98, 335–349.e7.
+Deng, L., Kaeser, P.S., Xu, W., and S€udhof, T.C. (2011). RIM proteins activate
+vesicle priming by reversing autoinhibitory homodimerization of Munc13.
+Neuron 69, 317–331.
+Descarries, L., Watkins, K.C., Garcia, S., Bosler, O., and Doucet, G. (1996).
+Dual character, asynaptic and synaptic, of the dopamine innervation in adult
+rat neostriatum: a quantitative autoradiographic and immunocytochemical
+analysis. J. Comp. Neurol. 375, 167–186.
+ll
+Article
+262
+Neuron 110, 248–265, January 19, 2022
+Di Paolo, G., and De Camilli, P. (2006). Phosphoinositides in cell regulation and
+membrane dynamics. Nature 443, 651–657.
+Ducrot, C., Bourque, M.-J., Delmas, C.V.L., Racine, A.-S., Guadarrama Bello,
+D., Delignat-Lavaud, B., Domenic Lycas, M., Fallon, A., Michaud-Tardif, C.,
+Burke Nanni, S., et al. (2021). Dopaminergic neurons establish a distinctive
+axonal arbor with a majority of non-synaptic terminals. FASEB J. 35, e21791.
+Emperador-Melero, J., and Kaeser, P.S. (2020). Assembly of the presynaptic
+active zone. Curr. Opin. Neurobiol. 63, 95–103.
+Emperador-Melero, J., Wong, M.Y., Wang, S.S.H., de Nola, G., Nyitrai, H.,
+Kirchhausen, T., and Kaeser, P.S. (2021a). PKC-phosphorylation of Liprin-a3
+triggers phase separation and controls presynaptic active zone structure.
+Nat. Commun. 12, 3057.
+Emperador-Melero, J., de Nola, G., and Kaeser, P.S. (2021b). Intact synapse
+structure and function after combined knockout of PTPd, PTPs and LAR.
+eLife 10, e66638.
+Farina, M., van de Bospoort, R., He, E., Persoon, C.M., van Weering, J.R.T.,
+Broeke, J.H., Verhage, M., and Toonen, R.F. (2015). CAPS-1 promotes fusion
+competence of stationary dense-core vesicles in presynaptic terminals of
+mammalian neurons. eLife 4, e05438.
+Farley, F.W., Soriano, P., Steffen, L.S., and Dymecki, S.M. (2000). Widespread
+recombinase expression using FLPeR (ﬂipper) mice. Genesis 28, 106–110.
+Gantz, S.C., Ford, C.P., Morikawa, H., and Williams, J.T. (2018). The evolving
+understanding of dopamine neurons in the substantia nigra and ventral
+tegmental area. Annu. Rev. Physiol. 80, 219–241.
+Giorguieff, M.F., Le Floc’h, M.L., Westfall, T.C., Glowinski, J., and Besson, M.J.
+(1976). Nicotinic effect of acetylcholine on the release of newly synthesized (3H)
+dopamine in rat striatal slices and cat caudate nucleus. Brain Res. 106, 117–131.
+Gustafsson, M.G.L., Shao, L., Carlton, P.M., Wang, C.J.R., Golubovskaya,
+I.N., Cande, W.Z., Agard, D.A., and Sedat, J.W. (2008). Three-dimensional res-
+olution doubling in wide-ﬁeld ﬂuorescence microscopy by structured illumina-
+tion. Biophys. J. 94, 4957–4970.
+Han, Y., Kaeser, P.S., S€udhof, T.C., and Schneggenburger, R. (2011). RIM de-
+termines Ca2+ channel density and vesicle docking at the presynaptic active
+zone. Neuron 69, 304–316.
+Held, R.G., and Kaeser, P.S. (2018). ELKS active zone proteins as multitasking
+scaffolds for secretion. Open Biol. 8, 170258.
+Held, R.G., Liu, C., and Kaeser, P.S. (2016). ELKS controls the pool of readily
+releasable vesicles at excitatory synapses through its N-terminal coiled-coil
+domains. eLife 5, e14862.
+Held, R.G., Liu, C., Ma, K., Ramsey, A.M., Tarr, T.B., De Nola, G., Wang,
+S.S.H., Wang, J., van den Maagdenberg, A.M.J.M., Schneider, T., et al.
+(2020). Synapse and active zone assembly in the absence of presynaptic
+Ca2+ channels and Ca2+ entry. Neuron 107, 667–683.e9.
+Hibino, H., Pironkova, R., Onwumere, O., Vologodskaia, M., Hudspeth, A.J.,
+and Lesage, F. (2002). RIM binding proteins (RBPs) couple Rab3-interacting
+molecules (RIMs) to voltage-gated Ca(2+) channels. Neuron 34, 411–423.
+Honigmann,
+A.,
+van
+den
+Bogaart,
+G.,
+Iraheta,
+E.,
+Risselada,
+H.J.,
+Milovanovic, D., Mueller, V., M€ullar, S., Diederichsen, U., Fasshauer, D.,
+Grubm€uller, H., et al. (2013). Phosphatidylinositol 4,5-bisphosphate clusters
+act as molecular beacons for vesicle recruitment. Nat. Struct. Mol. Biol.
+20, 679–686.
+Hooper, M., Hardy, K., Handyside, A., Hunter, S., and Monk, M. (1987). HPRT-
+deﬁcient (Lesch-Nyhan) mouse embryos derived from germline colonization
+by cultured cells. Nature 326, 292–295.
+Hoppa, M.B., Lana, B., Margas, W., Dolphin, A.C., and Ryan, T.A. (2012). a2d
+expression sets presynaptic calcium channel abundance and release proba-
+bility. Nature 486, 122–125.
+Howe, M.W., and Dombeck, D.A. (2016). Rapid signalling in distinct dopami-
+nergic axons during locomotion and reward. Nature 535, 505–510.
+Imig,C.,Min,S.W.,Krinner,S.,Arancillo,M.,Rosenmund,C.,S€udhof,T.C.,Rhee,
+J., Brose, N., and Cooper, B.H. (2014). The morphological and molecular nature
+of synaptic vesicle priming at presynaptic active zones. Neuron 84, 416–431.
+Jahn, R., and Fasshauer, D. (2012). Molecular machines governing exocytosis
+of synaptic vesicles. Nature 490, 201–207.
+Kaeser, P.S., and Regehr, W.G. (2014). Molecular mechanisms for synchro-
+nous, asynchronous, and spontaneous neurotransmitter release. Annu. Rev.
+Physiol. 76, 333–363.
+Kaeser, P.S., and Regehr, W.G. (2017). The readily releasable pool of synaptic
+vesicles. Curr. Opin. Neurobiol. 43, 63–70.
+Kaeser, P.S., Kwon, H.B., Chiu, C.Q., Deng, L., Castillo, P.E., and S€udhof, T.C.
+(2008). RIM1alpha and RIM1beta are synthesized from distinct promoters of
+the RIM1 gene to mediate differential but overlapping synaptic functions.
+J. Neurosci. 28, 13435–13447.
+Kaeser, P.S., Deng, L., Wang, Y., Dulubova, I., Liu, X., Rizo, J., and S€udhof,
+T.C. (2011). RIM proteins tether Ca2+ channels to presynaptic active zones
+via a direct PDZ-domain interaction. Cell 144, 282–295.
+Kaeser, P.S., Deng, L., Fan, M., and S€udhof, T.C. (2012). RIM genes differen-
+tially contribute to organizing presynaptic release sites. Proc. Natl. Acad. Sci.
+U S A 109, 11830–11835.
+Kalla, S., Stern, M., Basu, J., Varoqueaux, F., Reim, K., Rosenmund, C., Ziv,
+N.E., and Brose, N. (2006). Molecular dynamics of a presynaptic active zone
+protein studied in Munc13-1-enhanced yellow ﬂuorescent protein knock-in
+mutant mice. J. Neurosci. 26, 13054–13066.
+Koushika, S.P., Richmond, J.E., Hadwiger, G., Weimer, R.M., Jorgensen,
+E.M., and Nonet, M.L. (2001). A post-docking role for active zone protein
+Rim. Nat. Neurosci. 4, 997–1005.
+Lakso, M., Pichel, J.G., Gorman, J.R., Sauer, B., Okamoto, Y., Lee, E., Alt,
+F.W., and Westphal, H. (1996). Efﬁcient in vivo manipulation of mouse genomic
+sequences at the zygote stage. Proc. Natl. Acad. Sci. U S A 93, 5860–5865.
+Lein, E.S., Hawrylycz, M.J., Ao, N., Ayres, M., Bensinger, A., Bernard, A.,
+Boe, A.F., Boguski, M.S., Brockway, K.S., Byrnes, E.J., et al. (2007).
+Genome-wide atlas of gene expression in the adult mouse brain. Nature
+445, 168–176.
+Lin, J.Y., Lin, M.Z., Steinbach, P., and Tsien, R.Y. (2009). Characterization of
+engineered channelrhodopsin variants with improved properties and kinetics.
+Biophys. J. 96, 1803–1814.
+Liu, C., and Kaeser, P.S. (2019). Mechanisms and regulation of dopamine
+release. Curr. Opin. Neurobiol. 57, 46–53.
+Liu, Y., Schirra, C., Edelmann, L., Matti, U., Rhee, J., Hof, D., Bruns, D.,
+Brose, N., Rieger, H., Stevens, D.R., and Rettig, J. (2010). Two distinct secre-
+tory vesicle-priming steps in adrenal chromafﬁn cells. J. Cell Biol. 190,
+1067–1077.
+Liu, K.S.Y., Siebert, M., Mertel, S., Knoche, E., Wegener, S., Wichmann, C.,
+Matkovic, T., Muhammad, K., Depner, H., Mettke, C., et al. (2011). RIM-bind-
+ing protein, a central part of the active zone, is essential for neurotransmitter
+release. Science 334, 1565–1569.
+Liu, C., Kershberg, L., Wang, J., Schneeberger, S., and Kaeser, P.S. (2018).
+Dopamine secretion is mediated by sparse active zone-like release sites.
+Cell 172, 706–718.e15.
+Liu, C., Goel, P., and Kaeser, P.S. (2021). Spatial and temporal scales of dopa-
+mine transmission. Nat. Rev. Neurosci. 22, 345–358.
+Luo, F., Sclip, A., Jiang, M., and S€udhof, T.C. (2020). Neurexins cluster Ca2+
+channels within the presynaptic active zone. EMBO J. 39, e103208.
+Ma, C., Li, W., Xu, Y., and Rizo, J. (2011). Munc13 mediates the transition from
+the closed syntaxin-Munc18 complex to the SNARE complex. Nat. Struct.
+Mol. Biol. 18, 542–549.
+Ma, C., Su, L., Seven, A.B., Xu, Y., and Rizo, J. (2013). Reconstitution of the
+vital functions of Munc18 and Munc13 in neurotransmitter release. Science
+339, 421–425.
+Man, K.N.M., Imig, C., Walter, A.M., Pinheiro, P.S., Stevens, D.R., Rettig, J.,
+Sørensen,
+J.B.,
+Cooper,
+B.H.,
+Brose,
+N.,
+and
+Wojcik,
+S.M.
+(2015).
+Identiﬁcation of a Munc13-sensitive step in chromafﬁn cell large dense-core
+vesicle exocytosis. eLife 4, e10635.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+263
+Marcott, P.F., Gong, S., Donthamsetti, P., Grinnell, S.G., Nelson, M.N.,
+Newman, A.H., Birnbaumer, L., Martemyanov, K.A., Javitch, J.A., and Ford,
+C.P. (2018). Regional heterogeneity of D2-receptor signaling in the dorsal stria-
+tum and nucleus accumbens. Neuron 98, 575–587.e4.
+Matsuda, W., Furuta, T., Nakamura, K.C., Hioki, H., Fujiyama, F., Arai, R., and
+Kaneko, T. (2009). Single nigrostriatal dopaminergic neurons form widely
+spread
+and
+highly
+dense
+axonal
+arborizations
+in
+the
+neostriatum.
+J. Neurosci. 29, 444–453.
+Menegas, W., Akiti, K., Amo, R., Uchida, N., and Watabe-Uchida, M. (2018).
+Dopamine neurons projecting to the posterior striatum reinforce avoidance
+of threatening stimuli. Nat. Neurosci. 21, 1421–1430.
+Milosevic, I., Sørensen, J.B., Lang, T., Krauss, M., Nagy, G., Haucke, V., Jahn,
+R., and Neher, E. (2005). Plasmalemmal phosphatidylinositol-4,5-bisphos-
+phate level regulates the releasable vesicle pool size in chromafﬁn cells.
+J. Neurosci. 25, 2557–2565.
+Missale, C., Nash, S.R.S., Robinson, S.W., Jaber, M., and Caron, M.G. (1998).
+Dopamine receptors: from structure to function. Physiol. Rev. 78, 189–225.
+M€uller, M., Liu, K.S.Y., Sigrist, S.J., and Davis, G.W. (2012). RIM controls ho-
+meostatic plasticity through modulation of the readily-releasable vesicle
+pool. J. Neurosci. 32, 16574–16585.
+Patel, M.R., and Shen, K. (2009). RSY-1 is a local inhibitor of presynaptic as-
+sembly in C. elegans. Science 323, 1500–1503.
+Pereira, D.B., Schmitz, Y., Me´ sza´ ros, J., Merchant, P., Hu, G., Li, S., Henke, A.,
+Lizardi-Ortiz, J.E., Karpowicz, R.J., Jr., Morgenstern, T.J., et al. (2016).
+Fluorescent false neurotransmitter reveals functionally silent dopamine vesicle
+clusters in the striatum. Nat. Neurosci. 19, 578–586.
+Persoon, C.M., Hoogstraaten, R.I., Nassal, J.P., van Weering, J.R.T.,
+Kaeser, P.S., Toonen, R.F., and Verhage, M. (2019). The RAB3-RIM
+pathway is essential for the release of neuromodulators. Neuron 104,
+1065–1080.e12.
+Renden, R., Berwin, B., Davis, W., Ann, K., Chin, C.-T., Kreber, R., Ganetzky,
+B., Martin, T.F.J., and Broadie, K. (2001). Drosophila CAPS is an essential gene
+that regulates dense-core vesicle release and synaptic vesicle fusion. Neuron
+31, 421–437.
+Rhee, J.S., Betz, A., Pyott, S., Reim, K., Varoqueaux, F., Augustin, I., Hesse,
+D., S€udhof, T.C., Takahashi, M., Rosenmund, C., and Brose, N. (2002). Beta
+phorbol ester- and diacylglycerol-induced augmentation of transmitter release
+is mediated by Munc13s and not by PKCs. Cell 108, 121–133.
+Richmond, J.E., Davis, W.S., and Jorgensen, E.M. (1999). UNC-13 is required
+for synaptic vesicle fusion in C. elegans. Nat. Neurosci. 2, 959–964.
+Robinson, B.G., Cai, X., Wang, J., Bunzow, J.R., Williams, J.T., and Kaeser,
+P.S. (2019). RIM is essential for stimulated but not spontaneous somatoden-
+dritic dopamine release in the midbrain. eLife 8, e47972.
+Sakamoto, H., Ariyoshi, T., Kimpara, N., Sugao, K., Taiko, I., Takikawa, K.,
+Asanuma, D., Namiki, S., and Hirose, K. (2018). Synaptic weight set by
+Munc13-1 supramolecular assemblies. Nat. Neurosci. 21, 41–49.
+Saunders, A., Macosko, E.Z., Wysoker, A., Goldman, M., Krienen, F.M., de
+Rivera, H., Bien, E., Baum, M., Bortolin, L., Wang, S., et al. (2018). Molecular
+diversity and specializations among the cells of the adult mouse brain. Cell
+174, 1015–1030.e16.
+Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M.,
+Pietzsch, T., Preibisch, S., Rueden, C., Saalfeld, S., Schmid, B., et al.
+(2012). Fiji: an open-source platform for biological-image analysis. Nat.
+Methods 9, 676–682.
+Schoch, S., Castillo, P.E., Jo, T., Mukherjee, K., Geppert, M., Wang, Y.,
+Schmitz, F., Malenka, R.C., and S€udhof, T.C. (2002). RIM1alpha forms a pro-
+tein scaffold for regulating neurotransmitter release at the active zone. Nature
+415, 321–326.
+Sclip, A., and S€udhof, T.C. (2020). LAR receptor phospho-tyrosine phospha-
+tases regulate NMDA-receptor responses. eLife 9, e53406.
+Serra-Page` s, C., Kedersha, N.L., Fazikas, L., Medley, Q., Debant, A., and
+Streuli, M. (1995). The LAR transmembrane protein tyrosine phosphatase
+and a coiled-coil LAR-interacting protein co-localize at focal adhesions.
+EMBO J. 14, 2827–2838.
+Serra-Page` s, C., Medley, Q.G., Tang, M., Hart, A., and Streuli, M. (1998).
+Liprins, a family of LAR transmembrane protein-tyrosine phosphatase-inter-
+acting proteins. J. Biol. Chem. 273, 15611–15620.
+Sigler, A., Oh, W.C., Imig, C., Altas, B., Kawabe, H., Cooper, B.H., Kwon, H.-B.,
+Rhee, J.-S., and Brose, N. (2017). Formation and maintenance of functional
+spines in the absence of presynaptic glutamate release. Neuron 94,
+304–311.e4.
+Siksou, L., Varoqueaux, F., Pascual, O., Triller, A., Brose, N., and Marty, S.
+(2009). A common molecular basis for membrane docking and functional prim-
+ing of synaptic vesicles. Eur. J. Neurosci. 30, 49–56.
+Silm, K., Yang, J., Marcott, P.F., Asensio, C.S., Eriksen, J., Guthrie, D.A.,
+Newman, A.H., Ford, C.P., and Edwards, R.H. (2019). Synaptic vesicle recy-
+cling pathway determines neurotransmitter content and release properties.
+Neuron 102, 786–800.e5.
+S€udhof, T.C. (2012). The presynaptic active zone. Neuron 75, 11–25.
+Sulzer, D., Cragg, S.J., and Rice, M.E. (2016). Striatal dopamine neurotrans-
+mission: regulation of release and uptake. Basal Ganglia 6, 123–148.
+Tang, A.-H., Chen, H., Li, T.P., Metzbower, S.R., MacGillavry, H.D., and
+Blanpied, T.A. (2016). A trans-synaptic nanocolumn aligns neurotransmitter
+release to receptors. Nature 536, 210–214.
+Threlfell, S., Lalic, T., Platt, N.J., Jennings, K.A., Deisseroth, K., and Cragg, S.J.
+(2012). Striatal dopamine release is triggered by synchronized activity in
+cholinergic interneurons. Neuron 75, 58–64.
+Uchigashima, M., Ohtsuka, T., Kobayashi, K., and Watanabe, M. (2016).
+Dopamine synapse is a neuroligin-2-mediated contact between dopaminergic
+presynaptic and GABAergic postsynaptic structures. Proc. Natl. Acad. Sci. U
+S A 113, 4206–4211.
+van de Bospoort, R., Farina, M., Schmitz, S.K., de Jong, A., de Wit, H.,
+Verhage, M., and Toonen, R.F. (2012). Munc13 controls the location and ef-
+ﬁciency of dense-core vesicle release in neurons. J. Cell Biol. 199,
+883–891.
+van den Bogaart, G., Meyenberg, K., Risselada, H.J., Amin, H., Willig, K.I.,
+Hubrich, B.E., Dier, M., Hell, S.W., Grubm€uller, H., Diederichsen, U., and
+Jahn, R. (2011). Membrane protein sequestering by ionic protein-lipid interac-
+tions. Nature 479, 552–555.
+van Keimpema, L., Kooistra, R., Toonen, R.F., and Verhage, M. (2017). CAPS-1
+requires its C2, PH, MHD1 and DCV domains for dense core vesicle exocytosis
+in mammalian CNS neurons. Sci. Rep. 7, 10817.
+Varoqueaux, F., Sigler, A., Rhee, J.S., Brose, N., Enk, C., Reim, K., and
+Rosenmund, C. (2002). Total arrest of spontaneous and evoked synaptic
+transmission but normal synaptogenesis in the absence of Munc13-mediated
+vesicle priming. Proc. Natl. Acad. Sci. U S A 99, 9037–9042.
+Varoqueaux, F., Sons, M.S., Plomp, J.J., and Brose, N. (2005). Aberrant
+morphology and residual transmitter release at the Munc13-deﬁcient mouse
+neuromuscular synapse. Mol. Cell. Biol. 25, 5973–5984.
+Verhage, M., Maia, A.S., Plomp, J.J., Brussaard, A.B., Heeroma, J.H.,
+Vermeer, H., Toonen, R.F., Hammer, R.E., van den Berg, T.K., Missler, M.,
+et al. (2000). Synaptic assembly of the brain in the absence of neurotransmitter
+secretion. Science 287, 864–869.
+Wang, S.S.H., Held, R.G., Wong, M.Y., Liu, C., Karakhanyan, A., and Kaeser,
+P.S. (2016). Fusion competent synaptic vesicles persist upon active zone
+disruption and loss of vesicle docking. Neuron 91, 777–791.
+Wong, M.Y., Liu, C., Wang, S.S.H., Roquas, A.C.F., Fowler, S.C., and
+Kaeser, P.S. (2018). Liprin-a3 controls vesicle docking and exocytosis at
+the active zone of hippocampal synapses. Proc. Natl. Acad. Sci. U S A
+115, 2234–2239.
+Wu, X., Cai, Q., Shen, Z., Chen, X., Zeng, M., Du, S., and Zhang, M. (2019). RIM
+and RIM-BP form presynaptic active-zone-like condensates via phase separa-
+tion. Mol. Cell 73, 971–984.e5.
+ll
+Article
+264
+Neuron 110, 248–265, January 19, 2022
+Yagishita, S., Hayashi-Takagi, A., Ellis-Davies, G.C.R., Urakubo, H., Ishii, S.,
+and Kasai, H. (2014). A critical time window for dopamine actions on the struc-
+tural plasticity of dendritic spines. Science 345, 1616–1620.
+Zhen, M., and Jin, Y. (1999). The Liprin protein SYD-2 regulates the differenti-
+ation of presynaptic termini in C. elegans. Nature 401, 371–375.
+Zhou, F.-M., Liang, Y., and Dani, J.A. (2001). Endogenous nicotinic cholinergic
+activity regulates dopamine release in the striatum. Nat. Neurosci. 4,
+1224–1229.
+Z€urner, M., Mittelstaedt, T., tom Dieck, S., Becker, A., and Schoch, S. (2011).
+Analyses of the spatiotemporal expression and subcellular localization of li-
+prin-a proteins. J. Comp. Neurol. 519, 3019–3039.
+ll
+Article
+Neuron 110, 248–265, January 19, 2022
+265
+STAR+METHODS
+KEY RESOURCES TABLE
+REAGENT or RESOURCE
+SOURCE
+IDENTIFIER
+Antibodies
+Mouse monoclonal anti-b-Tubulin
+Sigma-Aldrich
+Cat#T4026; RRID:AB_477577
+Rabbit polyclonal anti-Munc13-1
+Synaptic Systems
+Cat# 126 103; RRID:AB_887733
+Rabbit polyclonal anti-Munc13-1 (C-terminal #N395)
+(Betz et al., 1997)
+N/A
+Rabbit polyclonal anti-Munc13-1 (N-terminal #40)
+(Cooper et al., 2012;
+Varoqueaux et al., 2005)
+N/A
+Mouse monoclonal IgG1 anti-synaptophysin-1 (A100)
+Synaptic Systems
+Cat# 101 011; RRID:AB_887824
+Guinea pig polyclonal anti-Tyrosine hydroxylase (A111)
+Synaptic Systems
+Cat# 213 104, RRID:AB_2619897
+Rabbit polyclonal anti-Tyrosine hydroxylase (A66)
+Millipore
+Cat# AB152; RRID:AB_390204
+Rabbit monoclonal anti-GFP (A195)
+Thermo Fisher Scientiﬁc
+Cat# G10362; RRID:AB_2536526
+Mouse monoclonal IgG2a anti-Bassoon SAP7F407 (A85)
+Enzo Life Sciences
+Cat# ADI-VAM-PS003-F; RRID:AB_11181058
+Rabbit polyclonal antibody anti-RIM1 (A58)
+Synaptic Systems
+Cat# 140 003; RRID:AB_887774
+Rabbit polyclonal anti-ELKS2a (1029, A136)
+(Held et al., 2016)
+E3-1029
+Mouse monoclonal anti-HA-tag 6E2 (A250)
+Cell Signaling Technology
+Cat# 2367; RRID:AB_10691311
+Chemicals, peptides, and recombinant proteins
+Tetrodotoxin
+Tocris
+Cat. No. 1078
+Dihydro-b-erythroidine hydrobromide
+Tocris
+Cat. No. 2349
+Mammalian Protease Inhibitor Cocktail
+Sigma
+Cat# P8340
+Image-iT FX Signal Enhancer
+Thermo Fisher Scientiﬁc
+Cat# I36933
+Experimental models: Cell lines
+Derivate of 129/Ola mouse embryonic stem cell line E14
+(Hooper et al., 1987)
+RRID:CVCL_9108
+Mouse embryonic ﬁbroblasts (MEF feeder cells)
+Xenogen, Alameda,
+CA, USA
+N/A
+HEK293T
+ATCC
+Cat#: CRL-3216; RRID:CVCL_0063
+Experimental models: Organisms/strains
+Mouse: Munc13-1ﬂ/ﬂ
+This study
+N/A
+Mouse: Munc13-1 cKOgl
+This study
+N/A
+Mouse: Munc13-1/; Unc13atm1Bros
+(Augustin et al., 1999)
+MGI:2449468
+Mouse: Munc13-1mNeo/mNeo
+(Rhee et al., 2002)
+N/A; mutated Unc13a gene containing a
+neomycin cassette
+Mouse: Munc13-2/; Unc13btm1Rmnd
+(Varoqueaux et al., 2002)
+MGI:2449706
+Mouse: Munc13-3/ ; Unc13ctm1Bros
+(Augustin et al., 2001)
+MGI:2449467
+Mouse: FLP deleter; Gt(ROSA)26Sortm1(FLP1)Dym
+(Farley et al., 2000)
+MGI:2429412
+Mouse: Ella-Cre; Tg(EIIa-cre)C5379Lmgd
+(Lakso et al., 1996)
+MGI:2137691
+Mouse: DATIRES-cre; B6.SJL-Slc6a3tm1.1(cre)Bkmm/J
+(B€ackman et al., 2006)
+JAX 006660
+Mouse: Munc13-1-EYFP; Unc13atm3Bros
+(Kalla et al., 2006)
+MGI:3695486
+Mouse: Liprin-a3/
+(Wong et al., 2018)
+N/A
+Mouse: Liprin-a2ﬂ/ﬂ
+(Emperador-Melero
+et al., 2021a)
+MGI:2443834
+Mouse: RIM-BP1ﬂ/ﬂ; Tspoap1tm1Sud/J
+(Acuna et al., 2015)
+JAX: 023643
+Mouse: RIM-BP2ﬂ/ﬂ; Rimbp2tm1Sud/J
+(Acuna et al., 2015)
+JAX: 023644
+Mouse: RIM1ﬂ/ﬂ; Rims1tm3Sud/J
+(Kaeser et al., 2008)
+JAX:015832
+Mouse: RIM2ﬂ/ﬂ; Rims2tm1.1Sud/J
+(Kaeser et al., 2011)
+JAX:015833
+(Continued on next page)
+ll
+Article
+e1
+Neuron 110, 248–265.e1–e9, January 19, 2022
+RESOURCE AVAILABILITY
+Lead contact
+Further information and requests for resources and reagents should be directed to and will be fulﬁlled by the Lead Contact, Pascal S.
+Kaeser (kaeser@hms.harvard.edu).
+Materials availability
+Plasmids generated for this study will be shared without restrictions. Antibodies and recombinant viruses generated for this study are
+exhaustible and will be shared as long as they are available. Mouse lines will be shared upon request within the limits of the respective
+material transfer agreements.
+Continued
+REAGENT or RESOURCE
+SOURCE
+IDENTIFIER
+Recombinant DNA
+BAC: BMQ-441L13 (pBACe3.6 backbone)
+(Adams et al., 2005)
+N/A
+Targeting vector: PL253-M13-1loxP-e21-FRT-Neo-FRT-loxP-HSV-TK
+This study
+N/A
+pAAV-hSyn-ﬂex-RIM1-Zn-HA (p866)
+This study
+N/A
+pAAV-hSyn-ﬂex-RIM1-DZn-HA (p865)
+This study
+N/A
+pAAV-hSyn-ﬂex-RIM1-Zn-HA-C2B (p902)
+This study
+N/A
+pAAV-hSyn-ﬂex-RIM1-Zn-HA- Zn-C2BKE (p903)
+This study
+N/A
+pAAV-hSyn-ﬂex-RIM1-Zn-HA-PCP (p968)
+This study
+N/A
+pAAV-hSyn-ﬂex-oChIEF-citrine (p901)
+Addgene, (Lin et al., 2009)
+Plasmid# 50973; RRID:Addgene_50973
+pAAV-hSyn-ﬂex-citrine (p906)
+This study
+N/A
+Oligonucleotides
+Munc13-1 genotyping: 50-CTCTATGGCTTCTGAGGCGGAAA-30
+This study
+LabID:27121
+Munc13-1 genotyping: 50-AGTTTTCATCTTGTAGCCCGAT-30
+This study
+LabID:27122
+Munc13-1 genotyping: 50-CAACTGGCCAAGAACTAGAGGA-30
+This study
+LabID:27123
+Munc13-1 genotyping: 50-GCACGGAATGTTGAATGGTCTT 30
+This study
+LabID:27124
+Munc13-1 splice variants, exon 20; sense:
+50-CCATCCGGCTTCACATCAGT-30
+This study
+LabID:24609
+Munc13-1 splice variants, exon 23; antisense:
+50-CGATCCGCAGAGAATTGTGTAGC-30
+This study
+LabID:34504
+Munc13-1 splice variants, exon 25; antisense:
+50-TACTCCCGGCCATAGAGCTCA-30
+This study
+LabID:34505
+Software and algorithms
+Custom machine learning code for TH morphology
+This study
+https://doi.org/10.5281/zenodo.5576622
+Custom MATLAB code
+(Liu et al., 2018)
+https://doi.org/10.5281/zenodo.5576635
+DNASTAR Lasergene 13
+DNASTAR
+RRID:SCR_011854; https://www.dnastar.
+com/software/lasergene/
+GraphPad Prism
+GraphPad
+RRID:SCR_002798; https://www.
+graphpad.com/
+Fiji
+(Schindelin et al., 2012)
+RRID:SCR_002285; https://imagej.net/
+software/ﬁji/downloads
+DeltaVision OMX imaging system
+GE Healthcare
+RRID: SCR_019956; https://scicrunch.org/
+resources/Tools/record/nlx_144509-1/
+SCR_019956/resolver?q=SCR_019956&l=
+SCR_019956
+Olympus Fluoview FV10-ASW
+Olympus Fluoview
+RRID:SCR_014215; https://www.photonics.
+com/Product.aspx?PRID=47380
+pClamp
+Molecular Devices
+RRID:SCR_011323;
+https://www.moleculardevices.com/
+products/software/pclamp.html
+Imaris 9.0.2
+Oxford Instruments
+RRID:SCR_007370; https://imaris.oxinst.
+com/packages
+ll
+Article
+Neuron 110, 248–265.e1–e9, January 19, 2022
+e2
+Data and code availability
+The original code has been deposited to Zenodo and is publicly available as listed in the key resources table. Data reported in this
+paper are available from the lead contact upon reasonable request. Any additional information required to reanalyze the data re-
+ported in this paper is available from the lead contact upon request.
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+All animal experiments were done in accordance with approved protocols of either the Harvard University Animal Care and Use Com-
+mittee, or the Nieders€achsisches Landesamt f€ur Verbraucherschutz und Lebensmittelsicherheit (LAVES; 33.19.42502-04-15/1817)
+and according to the European Union Directive 63/2010/EU and ETS 123. Conditional deletion of active zone proteins in dopamine
+neurons was performed using DATIRES-cre mice (JAX: 006660, B6.SJL-Slc6a3tm1.1(cre)Bkmm/J, B€ackman et al., 2006). Unless noted
+otherwise, cKODA mice are mice that have two ﬂoxed alleles for active zone genes and one DATIRES-cre allele, and corresponding
+control mice are either siblings or age-matched mice from the same breeding colony with one ﬂoxed allele per gene and one
+DATIRES-cre allele. Given that dopamine release in control mice across experiments in various mutants is similar, we conclude that
+heterozygosity in any of these alleles has no strong effects on dopamine release.
+RIM cKODA mice were generated previously (Liu et al., 2018) by breeding DATIRES-cre mice to RIM1ab (JAX:015832, Rims1tm3Sud/J,
+Kaeser et al., 2008) and RIM2abg (JAX:015833, Rims2tm1.1Sud/J, Kaeser et al., 2011) ﬂoxed mice. RIM cKODA were born in numbers
+following approximately Mendelian ratios (assessed in breeding pairs with 12.5% expected RIM cKODA mice: 38 of 407 pups, 9.3%),
+did not display any obvious developmental phenotypes, and their body weight was normal at the time of stereotaxic surgery (18 RIM
+cKODA mice, 19.0 ± 0.6 g; 18 unrelated control mice, 19.5 ± 1.0 g, p = 0.6, Mann-Whitney test).
+Munc13 cKODA mice were produced with newly generated ﬂoxed Munc13-1 mice (after crossing to ﬂp deleter mice, Farley et al.,
+2000) that were crossed to constitutive knockout mice for Munc13-2 (Unc13btm1Rmnd, RRID_MGI:2449706, Varoqueaux et al., 2002)
+and Munc13-3 (Unc13ctm1Bros, RRID_MGI:2449467, Augustin et al., 2001) and DATIRES-cre mice. Munc13 cKODA were Munc13-1f/f x
+Munc13-2/ x Munc13-3/ x DATIRES-cre +/cre. Munc13 control mice were littermate mice with Munc13-1+/f x Munc13-2+/ x
+Munc13-3/ x DATIRES-cre +/cre. The Munc13-3 allele was maintained at homozygosity in breeding pairs to enable the generation
+of Munc13 control and Munc13 cKODA siblings from the same litters/breedings. Munc13 cKODA mice were born in numbers following
+approximately expected numbers from Mendelian ratios (assessed in breeding pairs with 12.5% expected Munc13 cKODA mice: 26
+of 179 pups, 14.5%), but were smaller than Munc13 control mice at the time of stereotaxic surgery (21 Munc13 cKODA mice, 14.0 ±
+1.0 g; 21 Munc13 control mice, 22.1 ± 1.4 g, p < 0.001, Mann-Whitney test), likely due to constitutive double knockout of Munc13-2
+and Munc13-3. For assessment of protein content and autaptic phenotypes, Munc13-1 ﬂoxed mice were cre-recombined in the
+germline using EIIa-cre mice (Lakso et al., 1996), and protein content was compared to two previously established Munc13-1
+knockout mouse lines (Augustin et al., 1999; Rhee et al., 2002).
+RIM-BP cKODA mice were generated by crossing RIM-BP1f/f x RIM-BP2f/f mice (RIM-BP1: JAX: 023643; Tspoap1tm1Sud, RIM-BP2:
+JAX: 023644; Rimbp2tm1Sud/J, Acuna et al., 2015), obtained from Dr. T. C. S€udhof, to DATIRES-cre mice. RIM-BP cKODA mice were
+born in numbers following approximately expected numbers from Mendelian ratios (assessed in breeding pairs with 12.5% expected
+RIM-BP cKODA mice: 36 of 257 pups, 14.0%), did not display any obvious developmental phenotypes and their body weight was
+normal at the time of stereotaxic surgery (15 RIM-BP cKODA mice, 19.6 ± 1.0 g; 15 RIM-BP control mice, 20.1 ± 0.9 g, p = 0.7,
+Mann-Whitney test).
+Liprin-a cKODA mice were produced by crossing recently generated Liprin-a2f/f mice (Emperador-Melero et al., 2021a) to consti-
+tutive Liprin-a3 knockout mice (Wong et al., 2018) and DATIRES-cre mice. Liprin-a cKODA were Liprin-a2f/f x Liprin-a3/ x
+DATIRES-cre +/cre, and Liprin-a control mice were littermates with Liprin-a2+/f x Liprin-a3+/ x DATIRES-cre +/cre. Liprin-a cKODA mice
+were born in numbers following approximately expected numbers from Mendelian ratios (assessed in breeding pairs with 12.5% ex-
+pected Liprin-a cKODA mice: 15 of 168 pups, 8.9%), did not display any obvious developmental phenotypes and their body weight
+was normal at the time of stereotaxic surgery (25 Liprin-a cKODA mice, 20.5 ± 1.0 g; 25 Liprin-a control mice, 22.0 ± 1.1 g, p = 0.2,
+Mann-Whitney test).
+Munc13-1-EYFP mice were previously described (RRID_MGI:3695486; Unc13atm3Bros, Kalla et al., 2006), and homozygote
+Munc13-1-EYFP mice and unrelated age-matched control mice were used for all experiments.
+All mice were group housed in a 12 h light-dark cycle with free access to water and food. All experiments with genotype compar-
+isons were done in male and female mice, and the experimenter was blind to genotype throughout data acquisition and analysis.
+METHOD DETAILS
+Rescue constructs and production of AAV viruses
+AAVs were used to either deliver domains of active zone proteins to dopamine neurons or to stimulate dopamine neurons by
+inducing expression of the fast channelrhodopsin oChIEF. The RIM rescue AAVs contained the following residues (residue
+numbering according to Uniprot ID Q9JIR4, all clones missing splice inserts 83NI.DW105, 1084HS.TR1169, 1207AS.QT1378, iden-
+tical to previous RIM expression and rescue experiments (Deng et al., 2011; de Jong et al., 2018; Kaeser et al., 2011; Tang et al.,
+2016): AAV5-hSyn-FLEX-RIM1-Zn-HA/p866 1MS..QD213 (HA-tag inserted at C terminus), AAV5-hSyn-ﬂex-RIM1-DZn-HA/p865
+ll
+Article
+e3
+Neuron 110, 248–265.e1–e9, January 19, 2022
+MSSAVAG-597HP..RS1615 (HA-tag inserted between residues 1379E-S1380), and AAV5-hSyn-ﬂex-RIM1-Zn-HA-C2B/p902 1MS
+..SS596 -AAAGYPYDVPDYAAGAP-1379SG.. RS1615 (HA-tag inserted in the linker between SS596 and 1379SG as indicated in italic),
+AAV5-hSyn-ﬂex-RIM1-Zn-HA-C2BKE/p903 (identical to AAV5-hSyn-ﬂex-RIM1-Zn-HA-C2B/p902 except for E1513K and E1515K
+point mutations), AAV5-hSyn-ﬂex-RIM1-Zn-HA-PCP/p968 1MS ..QD213 -AAAGYPYDVPDYAAGAP597HP..EQ1256 (HA-tag in-
+serted in the linker between QD213 and 597HP as indicated in italic). AAV5-hSyn-ﬂex-citrine/p906 was used as a control. For opto-
+genetic activation of striatal dopamine ﬁbers, AAV5-hSyn-ﬂex-oChIEF-citrine/p901 was used to drive cre-dependent expression of
+oChIEF-citrine (RRID:Addgene_50973, Lin et al., 2009). All AAVs were generated using Ca2+-phosphate transfection in HEK293T
+cells (mycoplasma free cell line from ATCC, Cat#: CRL-3216, RRID:CVCL_0063) as AAV2/5 serotypes. 72 h after transfection, cells
+were collected, lysed, and viral particles were extracted and puriﬁed from the 40% layer after iodixanol gradient ultracentrifugation.
+Quantitative rtPCR was used to estimate the viral genomic titers (1012 to 1014 viral genome copies/ml).
+Stereotaxic surgery
+Mice (P24-P54) were anesthetized using 5% isoﬂurane and mounted on a stereotaxic frame. Stable anesthesia was maintained dur-
+ing surgery with 1.5%–2% isoﬂurane. 1 ml of AAV viral solution was injected unilaterally into the right substantia nigra pars compacta
+(SNc – 0.6 mm anterior, 1.3 mm lateral of Lambda and 4.2 mm below pia) using a microinjector (PHD ULTRA syringe pump, Harvard
+Apparatus) at 100 nl/min. Mice were treated with post-surgical analgesia and were allowed to recover for at least 21 d prior to elec-
+trophysiology. Stereotaxic procedures were performed according to protocols approved by the Harvard University Animal Care and
+Use Committee.
+Electrophysiology in brain slices
+Recordings in acute brain slices were performed in the dorsolateral striatum as described before (Banerjee et al., 2020; Liu et al.,
+2018). Male and female mice at 42-191 d of age were anesthetized with isoﬂurane and decapitated. 250 mm thick sagittal brain sec-
+tions containing dorsal striatum were cut on a vibratome (Leica, VT1200s) using ice-cold sucrose-based cutting solution with (in mM):
+75 sucrose, 75 NaCl, 26.2 NaHCO3, 1 NaH2PO4, 1 sodium ascorbate, 2.5 KCl, 7.5 MgSO4, 12 glucose, 1 myo-inositol, 3 sodium py-
+ruvate, pH 7.4, 300–310 mOsm. Slices were incubated in incubation solution bubbled with 95% O2 and 5% CO2 containing (in mM):
+126 NaCl, 26.2 NaHCO3, 1 NaH2PO4, 2.5 KCl, 1 sodium ascorbate, 3 sodium pyruvate, 1.3 MgSO4, 2 CaCl2, 12 glucose, 1 myo-
+inositol (pH 7.4, 305–310 mOsm) at room temperature for 1 h. All recordings were done at 34–36C, and slices were continuously
+perfused with artiﬁcial cerebrospinal ﬂuid (ACSF) at 3–4 ml/min bubbled with 95% O2 and 5% CO2. ACSF contained (in mM): 126
+NaCl, 26.2 NaHCO3, 2.5 KCl, 2 CaCl2 (unless noted otherwise), 1.3 MgSO4, 1 NaH2PO4, 12 glucose, pH 7.4, 300–310 mOsm. Re-
+cordings were completed within 5 h of slicing. The experimenter was blind to genotype throughout recording and data analyses.
+All data acquisition and analyses for electrophysiology were done using pClamp10 (Clampex, Axon Instruments).
+For carbon ﬁber amperometry, carbon ﬁber microelectrodes (CFEs, 7 mm diameter, 200–350 mm long) were custom-made by in-
+serting carbon ﬁber ﬁlaments (Goodfellow) into glass capillaries. On the day of recording, each new CFE was calibrated before use by
+pufﬁng freshly made dopamine solutions of increasing concentrations (0, 1, 5, 10, 20 mM) in ACSF for 10 s. The currents for each
+concentration of dopamine were plotted against the dopamine concentration and only CFEs with a linear relationship were used.
+For all genotype comparisons, each control and cKODA littermate pair was recorded in an interleafed manner on the same day using
+the same carbon ﬁber. For RIM cKODA rescue experiments, an uninjected, unrelated control mouse was ﬁrst recorded to establish
+stable carbon ﬁber recordings followed by inter-leafed recordings from two injected littermate RIM cKODA mice. CFEs were slowly
+inserted at 20–60 mm below the slice surface in the dorsolateral striatum and were held at 600 mV to record dopamine release. Signals
+were sampled at 10 kHz and low-pass ﬁltered at 400 Hz. Dopamine release was evoked by electrical or optogenetic stimulation every
+2 min. Dopamine release phenotypes in Munc13 cKODA, Liprin-a cKODA and RIM-BP cKODA mice were performed with electrical
+stimulation, optogenetic stimulation after expression of oChIEF, or KCl stimulation. All rescue experiments were performed with elec-
+trical or KCl stimulation only because efﬁcient co-expression of optogenetic actuators and rescue cDNAs was not possible due to
+packaging limits of the AAV system.
+Electrical stimulation was applied through an ACSF-ﬁlled glass pipette (tip diameter 3–5 mm) connected to a linear stimulus isolator
+(A395, World Precision Instruments) and was used to deliver a monopolar electrical stimulus (10–90 mA) to striatal slices. The stim-
+ulation pipette was kept at 20–30 mm below the slice surface in dorsolateral striatum and 100–120 mm away from the tip of CFE. A
+biphasic wave (0.25 ms in each phase) was applied to evoke dopamine release. Electrical stimulation was delivered either as a single
+stimulus or 10 Hz trains of 90 mA or single stimuli of increasing intensities (10-90 mA). To assess the magnitude of cholinergically trig-
+gered dopamine release, the response to a single electrical pulse at 90 mA before and after application of 1 mM DHbE (Tocris, Cata-
+logue No.# 2349) to block b2-containing nAChRs was measured.
+Optogenetic stimulation was used to evoke dopamine release in areas in the dorsolateral striatum with uniform citrine ﬂuores-
+cence. Optogenetic stimulation was applied as ten pulses of 470 nm light (each of 1 ms duration) as a 10 Hz train at the recording
+site through a 60 x objective by a light-emitting diode (Cool LED pE4000). PPRs (peak amplitude evoked by 2nd stimulus/peak ampli-
+tude evoked by 1st stimulus) were calculated from an average of 4 sweeps and only for dopamine responses > 25 pA. Optogenetic
+stimulation was applied every 2 min for all dopamine release measurements or every 10 s for extracellular ﬁeld recordings. The 1st
+peak of the 1st response evoked by a 10 Hz train of optogenetic stimulation was used to calculate 20%–80% rise times, and only
+amplitudes > 25 pA were used for rise time measurements. For extracellular ﬁeld recordings, optogenetic stimulation was either
+ll
+Article
+Neuron 110, 248–265.e1–e9, January 19, 2022
+e4
+applied as 10 pulses of 470 nm light at 10 Hz or as 40 pulses at 40 Hz. 1 mM TTX (Tocris, Catalogue No.# 1078) was used to inhibit
+sodium channels and action potential ﬁring.
+KCl stimulation was done using a solution containing (in mM) 100 KCl, 1.3 MgSO4, 50 NaCl, 2 CaCl2 (unless mentioned otherwise),
+12 glucose, 10 HEPES (pH 7.3, 300–310 mOsm). KCl was puffed onto the dorsolateral striatum for 10 s at 9 ml/s using a syringe pump
+(World Precision Instruments) and recordings were done in ACSF (unless mentioned otherwise). The peak amplitude of the dopamine
+response was quantiﬁed, and the area under the curve was measured from the start of the KCl puff for 50 s. Only one KCl puff was
+applied per slice except for Figures S1I and S1J. For assessing the Ca2+-dependence of KCl-evoked dopamine release (Figures S1I
+and S1J), the 0 mM Ca2+ KCl puff solution contained (in mM): 100 KCl, 3.3 MgSO4, 50 NaCl, 1 mM EGTA, 12 glucose, 10 HEPES (pH
+7.3, 300–310 mOsm), and was puffed onto the recording site. Slices were perfused with 0 mM Ca2+ ACSF containing (in mM): 126
+NaCl, 3.3 MgSO4, 26.2 NaHCO3, 2.5 KCl, 1 EGTA, 1 NaH2PO4, 12 glucose, (pH 7.4, 300–310 mOsm) during recording. Slices were
+either incubated in 2 mM Ca2+ (regular) ACSF or 0 mM Ca2+ ACSF for at least 1 h prior to the start of the recordings. Slices incubated
+in 2 mM Ca2+ containing ACSF received two 2 KCl puffs separated by an interval of 15 min, and both KCl puff solutions contained
+2 mM Ca2+ and no EGTA. Slices incubated in 0 mM Ca2+ ACSF, the ﬁrst KCl puff was done with 0 mM Ca2+ KCl puff and recording
+was done in 0 mM Ca2+ ACSF. Slices were then perfused for 15 min with 2 mM Ca2+ ACSF and a second KCl puff with 2 mM Ca2+
+followed. To assess whether cholinergic triggering contributes to KCl-induced release, the response to a single puff of 100 mM KCl in
+slices incubated in ACSF, slices incubated with 1 mM DHbE, or slices incubated with 1 mM DHbE + 1 mM TTX (Tocris, Catalogue No.#
+1078) for at least 15 min was measured.
+Extracellular ﬁeld potential recordings were used to record dopamine axon action potential ﬁring as described before (Banerjee
+et al., 2020; Liu et al., 2018) and were performed with ACSF ﬁlled glass pipettes (2–3 mm tip diameter) placed 20–60 mm below
+the slice surface in areas of dorsolateral striatum with uniform citrine ﬂuorescence. Optogenetic stimulation was applied as a
+10 Hz train or a 40 Hz train every 10 s and 100 sweeps were averaged for quantiﬁcation. Sodium channels were blocked using
+1 mM TTX (Tocris, Catalogue No.# 1078) and extracellular potentials evoked by 10 Hz trains were recorded before and after TTX.
+To quantify the reduction by TTX, the amplitude evoked by the ﬁrst stimulus of the 10 Hz train before and after TTX was analyzed.
+Immunostaining of brain sections
+Male and female mice (104–205 d old) were deeply anesthetized with 5% isoﬂurane. Transcardial perfusion was performed with ice-
+cold 30–50 mL phosphate buffer saline (PBS) and brains were ﬁxed by perfusion with 50 mL of 4% paraformaldehyde in PBS (4%
+PFA) at 4C. Brains were dissected out and incubated in 4% PFA for 12–16 h followed by dehydration in 30% sucrose + 0.1% sodium
+azide in PBS overnight or until they sank to the bottom of the tube. 20 mm thick coronal striatal sections were cut using a vibratome
+(Leica, VT1000s) in ice-cold PBS. Next, antigen retrieval was performed by incubating slices overnight at 60C in 150 mM NaCl,
+0.05% Tween 20, 1 mM EDTA, 10 mM Tris Base, pH 9.0. Slices were washed in PBS for 10 min and incubated in PBS containing
+10% goat serum and 0.25% Triton X-100 (PBST) for 1 h at room temperature. For ELKS2 staining only, coronal striatal sections
+were incubated in Image-iT FX Signal Enhancer (Thermo Fisher Scientiﬁc, Catalogue No. I36933) for 30 min at room temperature,
+followed by washing twice with PBST (each for 10 min) before blocking. Slices were incubated with primary antibodies for 8-12 h
+at 4C, and the following primary antibodies were used in PBST: mouse monoclonal IgG2a anti-Bassoon (1:500, A85, RRID:
+AB_11181058), guinea pig polyclonal anti-TH (1:1000, A111, RRID:AB_2619897), rabbit polyclonal anti-TH (1:1,000, A66, RRID:
+AB_390204), rabbit polyclonal anti-ELKS2a (1:50, A136, custom made, bleed 5 of serum E3-1029, Held et al., 2016) and rabbit mono-
+clonal anti-GFP (1:2,000, A195, RRID:AB_2536526). Slices were washed thrice in PBST each for 10 min and incubated in secondary
+antibodies for 2 h at room temperature in PBST. Secondary antibodies used were goat anti-mouse IgG2a Alexa 488 (1:500, S8,
+RRID:AB_2535771), goat-anti guinea pig Alexa 568 (1:500, S27, RRID:AB_2534119) and goat anti-rabbit Alexa 488 (1:500, S5,
+RRID:AB_2576217). Sections were washed thrice in PBST each for 10 min to wash off excess secondary antibodies and mounted
+on Poly-D-lysine coated #1.5 cover glasses (GG-18–1.5-pdl, neuVitro) with H-1000 mounting medium (Vectashield). At all times dur-
+ing perfusion, staining and mounting, the experimenter was blind to the genotype of the mice.
+3D-SIM image acquisition and analysis
+Image acquisition and analyses were done essentially as described before (Banerjee et al., 2020; Liu et al., 2018; Gustafsson et al.,
+2008) using a DeltaVision OMX V4 Blaze structured illumination microscope (GE Healthcare) with a 60X oil immersion objective (PLAN
+APO, NA 1.42) and Edge 5.5 sCMOS cameras (PCO) for each channel. 488 nm and 568 nm lasers were used for sequential imaging
+where each laser was controlled with high-speed galvo shutters (200 ms switching time). The ﬁlter sets used were: 477 ± 2 nm exci-
+tation (bandwidth 32 ± 2 nm)/528 ± 2 nm emission (bandwidth 48 ± 2 nm); 571 ± 2 nm excitation (bandwidth 19 ± 2 nm)/609 ± 2 nm
+emission (bandwidth 37 ± 2 nm) ﬁlters. The DeltaVision OMX software was used for image acquisition. Z stacks were acquired in the
+dorsolateral striatum with a 125 nm step size and 15 raw images were obtained per plane (ﬁve phases, three angles). Immersion oil
+matching was used to minimize spherical aberration. A control slide with TH axonal staining in red and green ﬂuorophores was used
+to measure lateral shift between green and red channels. A calibration image was generated from this control slide and all images
+were reconstructed using this calibration to reduce lateral shifts between ﬂuorophores. All 3D-SIM raw images were aligned and re-
+constructed to obtain superresolved images. Image volumes (40 3 40 3 6 mm3) were acquired from 7 to 8 regions within the dorso-
+lateral striatum in 4-5 coronal sections for each animal. For detection of Munc13-1 within TH axons, anti-GFP antibodies were used to
+visualize Munc13-1 in homozygote mice in which Munc13-1 is endogenously tagged with EYFP mice (Kalla et al., 2006), and
+ll
+Article
+e5
+Neuron 110, 248–265.e1–e9, January 19, 2022
+age-matched wild-type mice were used as negative controls. The intensity range for Munc13-1 puncta was determined from recon-
+structed images, and multiple intensity thresholds within this range were used to generate masks of Munc13-1 puncta, and settings in
+which Munc13-1 masks best matched original images irrespective of their relationship to TH were chosen for quantiﬁcation by an
+investigator blind to the genotype of the mice, and the same thresholds were then used for the full dataset. For image analyses, re-
+gions of interest (ROIs) ranging from 20 3 20 3 2.5 mm3 to 36 3 36 3 3.6 mm3 were selected manually in each z stack of Munc13-1-
+EYFP and wild-type images. To characterize TH and Munc13-1 signals, size thresholds (0.04–20 mm3 for TH axons, 0.003–0.04 mm3
+for Munc13-1) were applied. For detection of Bassoon and ELKS2 within TH axons in Munc13 control and Munc13 cKODA mice and
+detection of Bassoon within TH axons in Liprin-a control and Liprin-a cKODA mice, ROIs were generated using Otsu intensity and size
+thresholding parameters (0.04–20 mm3 for TH axons, 0.003–0.04 mm3 for Bassoon and ELKS2). The overlap of Munc13-1, Bassoon
+and ELKS2 with TH axon was quantiﬁed using a custom written MATLAB code (Liu et al., 2018), available at https://zenodo.org/
+record/5576635. The volume occupied by TH for each image was quantiﬁed and divided by the total image volume. This was followed
+by skeletonization of TH signals using 3D Gaussian ﬁltering and a homotypic thinning algorithm to calculate TH axon length. Munc13-
+1, Bassoon and ELKS2 objects were considered to be within TH when there was > 40% overlap, as established before (Liu et al.,
+2018). For quantiﬁcation of Munc13-1 clusters, density and volume occupied by Munc13-1 objects per image volume were calcu-
+lated. Density and volume of Munc13-1 objects within TH was quantiﬁed, and compared to the average of the same parameters after
+shufﬂing each object within 1 3 1 x 1 mm3 for 1000 times. For quantitative assessment of TH axon shape, a custom code was gener-
+ated (available at https://zenodo.org/record/5576622). A machine learning model was trained with annotation of 15 images per ge-
+notype for detection of TH positive objects versus background. All images were next processed in a 3D-smoothing operation fol-
+lowed by thresholding on blurred probability maps. The central axis, the radius and total surface area for each axonal segment
+was computed. The proportion of surface area at a speciﬁc distance from the central axis, in 0.04 mm increments, were compared
+between Munc13 control and Munc13 cKODA, and Liprin-a control and Liprin-a cKODA mice. Sample images were generated using
+Imaris 9.0.2 (Oxford Instruments) from masked images obtained from the custom analysis code. Adjustments of contrast, intensity
+and surface rendering were done identically for each condition for illustration, but after quantiﬁcation. For all 3D-SIM data acquisition
+and analyses, the experimenter was blind to the genotype of the mice.
+Generation of conditional Munc13-1 knockout mice
+Mice with a ﬂoxed exon 21 of the Munc13-1 gene were generated by homologous recombination in 129/Ola embryonic stem (ES)
+cells according to standard protocols. The targeting vector was generated by recombineering and subcloning from a bacterial arti-
+ﬁcial chromosome (BAC; BMQ-441L13) of a 129SV ES cell DNA BAC library, and a Herpes Simplex Virus Thymidine kinase (HSV-TK)
+and a neomycin resistance cassette were used as negative and positive selection markers, respectively. ES cell clones were
+analyzed by Southern blotting of HindIII-digested genomic DNA, and positive ES cell clones were injected into blastocysts to obtain
+chimeric mice. Flp deleter-mice (Farley et al., 2000) were used to generate the Munc13-1 ﬂoxed mice. Genotyping was performed by
+PCR using the following reactions: Munc13-1 wild type allele with 27123 + 27122 yielding a 149 bp band; Munc13-1 knock-in allele
+(ki) after homologous recombination with 27121 + 27122 yielding a 196 bp band; Munc13-1 ﬂoxed allele after ﬂp-mediated excision of
+the neomycin resistance cassette with 27123 + 27122 yielding a 253 bp band; Munc13-1 cKO allele after cre-mediated recombina-
+tion with 27124 + 27122 yielding a 209 bp band. For whole brain western blotting and electrophysiological assessment of synaptic
+transmission in autaptic neurons, Munc13-1 ﬂoxed mice were crossed to Ella-cre mice for germline recombination (Lakso et al., 1996)
+to produce constitutive Munc13-1 cKOgl mice. For rtPCR, total RNA was isolated from wild-type and Munc13-1 cKOgl P0 mouse
+brains using the Direct-zol RNA Miniprep Kit and reverse transcribed into double-stranded-cDNA by the SuperScript Double-
+Stranded cDNA Synthesis Kit. PCR reactions were performed using the proofreading VELOCITY DNA polymerase and the primer
+pairs 24609/34504 (exon 20-23: wt: 450 bp; De21: 286 bp; De21+22: 135 bp) and 24609/34505 (exon 20-25: wt: 679 bp; De21:
+515 bp; De21+22: 364 bp). The sequences of the PCR products obtained from the different splice variants were veriﬁed by directly
+sequencing the puriﬁed PCR products and after cloning them into a TOPO TA cloning vector.
+Immunoblotting
+To estimate Munc13-1 levels after gene targeting of Munc13-1, western blots were performed from whole brain homogenates of P0
+Munc13-1 wild-type Munc13-1f/f littermates, and 5 mg from each sample were loaded onto a 3%–8% Tris-acetate gradient gel. To
+compare Munc13 expression in whole brain homogenates of different Munc13 mouse mutants, 20 mg protein per sample was sepa-
+rated on a 7.5% gel. Residual Munc13-1 expression was estimated in whole brain homogenates from Munc13-1 cKOgl animals and
+Munc13-1 wild-type littermates. 20 mg of total protein from Munc13-1 cKOgl and varying amounts (0.7 mg, 1.3 mg, 2 mg) from Munc13-
+1 wild-type homogenates were loaded into separate lanes of a 3%–8% Tris-acetate gel. After the transfer, protein bound to nitrocel-
+lulose membranes was visualized with MemCode. Membranes were destained and then washed with TBS buffer (10 mM Tris-HCl,
+150 mM NaCl, pH 7.5), incubated with blocking buffer (TBS, 5% (w/v) milk powder, 5% (v/v) goat serum, 0.1% (v/v) Tween-20) for
+30 min, incubated with primary antibodies for 1 h at room temperature, washed in TBST buffer (Tris-Buffered Saline with 0.1% v/v
+Tween 20), and incubated with secondary antibodies conjugated to horseradish peroxidase (goat anti-Mouse IgG (H+L), Jackson
+ImmunoResearch, Cat#115-035-146, RRID:AB_2307392; goat anti-Rabbit IgG (H+L), Jackson ImmunoResearch, Cat#111-035-
+144, RRID: AB_2307391). After several washing steps in TBST and TBS, immunoreactive bands were visualized with an enhanced
+chemiluminescence (ECL) detection system on ﬁlm. The following primary antibodies were used: rabbit polyclonal anti-Munc13-1
+ll
+Article
+Neuron 110, 248–265.e1–e9, January 19, 2022
+e6
+(1:1000, N-terminal #40, Cooper et al., 2012; Varoqueaux et al., 2005); rabbit polyclonal anti-Munc13-1 (1:250, C-terminal #N395,
+Betz et al., 1997); rabbit polyclonal anti-Munc13-1 (1:1,000, SySy #126103, N-terminal RRID:AB_887733), mouse monoclonal
+anti-b-Tubulin (1:5,000, Sigma-Aldrich #T4026, RRID:AB_477577). For estimation of protein amounts, ﬁlms and stained nitrocellulose
+membranes were scanned and analyzed using ImageJ (Schindelin et al., 2012). Protein levels were normalized to the total protein
+amount in the sample as measured by the MemCode stain using the tracing tool. Protein bands from ﬁlms were manually outlined
+and the signal intensity was measured. The signal intensity of the band was normalized to the total protein in the respective lane. For
+experiments estimating residual Munc13-1 expression, the normalized averages of the 0.7 mg/lane and 1.3 mg/lane Munc13-1 wild-
+type samples were compared to 20 mg/lane Munc13-1 cKOgl samples.
+For assessment of expression of RIM1 rescue constructs, a separate cohort of 18 RIM cKODA mice (postnatal d 33-54) were bilat-
+erally injected with AAV5 expressing RIM1-Zn, RIM1-DZn, RIM1-Zn + RIM1-DZn, RIM1-ZnC2B, RIM1-ZnC2BKE or RIM1-ZnPCP in the
+SNc midbrain. 3 RIM cKODA mice were bilaterally injected for each RIM1 rescue condition and 3 uninjected littermate RIM cKODA were
+used as controls. 35-66 d after surgery, mice were deeply anesthetized with isoﬂurane, decapitated, and both striata of each mouse
+were dissected in ice cold phosphate-buffered saline (PBS). After dissection, the striata were ﬂash-frozen in dry ice and ethanol and
+stored in 80C. For each condition, the 6 dissected striata were pooled and homogenized with a glass-Teﬂon homogenizer in 1 mL of
+homogenizing buffer (50 mM HEPES, 150 mM NaCl, 1 mM EDTA + mammalian protease inhibitor cocktail (Sigma CAT# P8340)) with 30
+slow strokes on ice. The homogenized tissue was incubated in lysis buffer (0.2% SDS, 1% Triton X-100, 1% deoxycholate) at 4C for
+1 h and then sonicated twice at 4C (each for 10 s). Next, sonicated samples were centrifuged at 15,000 x g for 15 min at 4C and af-
+terward the clear supernatant was collected into open-top polycarbonate tubes (Beckman Catalogue# 343778). Each supernatant
+was further ultracentrifuged at 55,000 rpm for 1 h (Beckman rotor), followed by addition of SDS to a ﬁnal concentration of 1% and
+a ﬁnal volume of 1.5 ml. The lysate was then boiled at 95C for 5 min, allowed to cool to room temperature and later run on 10%
+SDS-PAGE gels using standard protocols. Equal volumes of each sample were loaded (65 ml) for HA staining. For synaptophysin, a
+separate gel was run with 6.5 times less material (10 ml). Proteins were transferred to nitrocellulose membranes at 80 V for 6.5 h
+and checked for transfer efﬁciency using Ponceau staining. Membranes were blocked for 1 h at room temperature in ﬁltered blocking
+solution containing 10% non-fat milk/5% goat serum in TBST. Primary antibodies were dissolved in TBST containing 5% non-fat milk/
+2.5% goat serum. Membranes were incubated with primary antibody overnight at 4C. The following primary antibodies were used:
+mouse monoclonal anti-HA (1:500, AB_10691311, A250) to visualize HA-tag within RIM1 rescue constructs and mouse anti-synapto-
+physin 1 (1:5,000, A100, RRID: AB_887824) as a loading control. Next, membranes were washed with TBST (5 washes, each wash for
+5 min) and then incubated for 2 h at room temperature with anti-mouse HRP-conjugated secondary antibodies (1:10,000 in TBST con-
+taining 5% non-fat milk/2.5% goat serum). After secondary antibody incubation, membranes were washed with TBST (5 washes, each
+wash for 5 min), and protein bands were visualized using a standard chemiluminescent reagent and exposure to ﬁlm. Scans of ﬁlms
+were adjusted for brightness and contrast with the same settings applied to the entire scan of a given protein of interest for display.
+Generation of autaptic mouse hippocampal neuron cultures
+Astroglial feeder monolayer cell cultures were generated from wild-type (C57/N) postnatal day (P0) mouse cortices according to a
+previously published protocol (Burgalossi et al., 2012). Primary neuron cultures were prepared from neonatal mouse brains that
+were dissected at P0 in ice-cold Hank’s Balanced Salt Solution (HBSS). Both hippocampi were removed and transferred into
+500 ml of prewarmed Papain solution (DMEM supplemented with 20 units/ml papain; 0.2 mg/ml cysteine; 1 mM CaCl2; 0.5 mM
+EDTA) and incubated for 60 min at 37C. The digestion of the hippocampi was terminated by incubating the tissue for 15 min
+in inactivation solution (DMEM supplemented with 2.5 mg/ml BSA; 2.5 mg/ml trypsin inhibitor; and 10% (v/v) FBS). After two medium
+washes, neurons were dissociated and seeded onto microdot astrocyte feeder islands on glass coverslips (4,000 cells/6 well for elec-
+trophysiology, S2E-M). Neurons were maintained in culture medium (Neurobasal-A medium supplemented with 1x B27, 2 mM Glu-
+tamax, and 100 units/ml penicillin/streptomycin) at 37C and 5% CO2.
+Electrophysiology on neurons in autaptic hippocampal cultures
+Autaptic hippocampal neurons from Munc13-1 wild-type and Munc13-1 cKOgl littermate mice were whole-cell voltage clamped at
+d in vitro (DIV) 13-16. Neurons were recorded at room temperature in an external bath solution containing (in mM): 140 mM NaCl,
+2.4 mM KCl, 10 mM HEPES, 10 mM glucose, 4 mM CaCl2, and 4 mM MgCl2 (320 mOsm/l) pH 7.4. Patch pipettes (2.5-3.8 MU)
+were ﬁlled with internal solution containing (in mM): 136 mM KCl, 17.8 mM HEPES, 1 mM EGTA, 4.6 mM MgCl2, 4 mM NaATP,
+0.3 mM Na2GTP, 15 mM creatine phosphate, and 5 U/ml phosphocreatine kinase, pH 7.4, 315–320 mOsm. Excitatory postsynaptic
+currents (EPSCs) were evoked in patched neurons by a 2 ms depolarization to 0 mV. The peak amplitudes for all responses recorded
+in 10 Hz train across both genotypes was normalized to the mean initial EPSC amplitude of Munc13-1 control. Miniature EPSCs
+(mEPSCs) were recorded in presence of 300 nM TTX to inhibit action potential ﬁring. 500 mM sucrose was puffed for 7 s to estimate
+the readily-releasable pool of synaptic vesicles.
+Microdialysis
+Microdialysis was performed as described before (Banerjee et al., 2020; Liu et al., 2018). The microdialysis probes (6 kDa MW cut-off,
+CMA 11, Harvard Apparatus, Catalogue# CMA8309581) were calibrated with freshly made dopamine solutions (0, 100 and 200 nM)
+dissolved in ACSF before each experiment. After probe calibration, male and female Munc13 control and cKODA mice (55–96 d old)
+ll
+Article
+e7
+Neuron 110, 248–265.e1–e9, January 19, 2022
+were anesthetized using 1.5% isoﬂurane and the probe was inserted into dorsal striatum (coordinates: 1.0 mm anterior, 2.0 mm
+lateral of bregma, and 3.3 mm below pia) using stereotaxy. A fresh probe was used for each Munc13 control and cKODA mouse.
+The microdialysis probe was continuously perfused with ACSF containing (in mM): 155 NaCl, 1.2 CaCl2 1.2 MgCl2, 2.5 KCl and 5
+glucose at a speed of 1 ml/min. Dialysates were collected every 15 min and the extracellular dopamine concentration was measured
+using HPLC (HTEC-510, Amuza Inc) connected to an electrochemical detector (Eicom). Data during the ﬁrst 75 min were not plotted
+because during this time window dopamine levels stabilize after surgery. Average dopamine levels from the 76th - 120th min of
+Munc13 control mice were used to normalize all dopamine values for both genotypes. 10 mM TTX dissolved in ACSF was applied
+using reverse dialysis starting at 121 min to inhibit ﬁring of dopamine axons as described before (Banerjee et al., 2020; Liu et al.,
+2018). For all microdialysis data acquisition and analyses, the experimenter was blind to the genotype of the mice, and experiments
+were performed according to approved protocols of the Harvard University Animal Care and Use Committee.
+Striatal synaptosome preparation and immunostaining
+Striatal synaptosome preparations were performed as previously described (Banerjee et al., 2020; Liu et al., 2018). Munc13 control
+and cKODA mice (P42-73) were deeply anesthetized using isoﬂurane, decapitated, and the brains were harvested into ice-cold PBS.
+Dorsal striata were dissected out and placed into a pre-cooled, detergent-free glass-Teﬂon homogenizer ﬁlled with 1 mL of ice-cold
+homogenizing buffer containing (in mM): 4 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES), 320 sucrose, pH 7.4, and 1x
+of a mammalian protease inhibitor cocktail. The tissue was homogenized with 12 strokes with a detergent-free ice-cold glass-teﬂon
+homogenizer. Next, 1 mL of homogenizing buffer was added to the striatal homogenate and it was centrifuged at 1,000 x g for 10 min
+at 4C. The supernatant (S1) was collected and centrifuged at 12,500 x g for 15 min at 4C. The supernatant (S2) was removed and the
+pellet (P2) was re-homogenized in 1 mL homogenizing buffer with 6 strokes. A sucrose density gradient was prepared with 5 mL of
+0.8 M and 1.2 M sucrose in thin wall ultracentrifugation tubes (Beckman Coulter, Cat # 344059). The P2 homogenate was mixed with
+1 mL of homogenizing buffer, and 1.5 mL of this was added to the top of the sucrose gradient and was centrifuged at 69,150 x g for
+70 min at 4C (SW 41 Ti Swinging-Bucket Rotor, Beckman Coulter, Cat. # 331362). 1–1.5 mL of the synaptosome layer was collected
+from the interface of the two sucrose layers. Synaptosomes were diluted 20–30 times in homogenizing buffer and spun (4,000 x g,
+10 min) onto Poly-D-lysine coated #1.5 coverslips at 4C. Excess homogenizing buffer was pipetted out and synaptosomes were
+ﬁxed using 4% PFA in PBS for 20 min at 4C. Coverslips were incubated in 3% bovine serum albumin + 0.1% Triton X-100 in
+PBS at room temperature for 45 min to block non-speciﬁc binding and allow for permeabilization. Primary antibody staining was
+done for 12 h at 4C, followed by three washes for 15 min each. The primary antibodies used were: mouse monoclonal IgG2a
+anti-Bassoon (1:1,000, A85, RRID:AB_11181058), mouse monoclonal IgG1 anti-synaptophysin-1 (1:500, A100, RRID:AB_887824),
+rabbit polyclonal anti-RIM1 (1:500, A58, RRID:AB_887774) and guinea pig polyclonal anti-TH (1:1,000, A111, RRID:AB_2619897).
+Secondary antibody staining was done for 2 h at room temperature in blocking solution followed by three washes each for
+15 min. The secondary antibodies were: goat anti-mouse IgG2a Alexa 488 (1:500, S8, RRID:AB_2535771), goat anti-rabbit Alexa
+555 (1:500, S22, RRID:AB_2535849), and goat anti-guinea pig Alexa 633 (1:500, S34, RRID:AB_2535757).
+Confocal microscopy and image analysis of striatal synaptosomes
+Single optical sections of striatal synaptosomes plated on coverslips (105 3 105 mm2) stained for Bassoon (detected via Alexa 488),
+RIM1 (detected via Alexa 488 secondaries), synaptophysin-1 (detected via Alexa-555 secondaries) and TH (detected via Alexa 633
+secondaries) were imaged with an oil immersion 60X objective and 1.5X optical zoom using an Olympus FV1000
+confocal microscope equipped with 488 nm, 559 nm and 635 nm lasers. The ﬁlter sets used for confocal imaging were: 488 nm exci-
+tation/500-525 nm emission, 561 nm excitation/560-620 nm emission and 635 nm long pass excitation/650 nm emission. Signals
+were acquired using PMT detectors and Olympus FV-ASW software. For quantiﬁcation, raw confocal images were analyzed in a
+custom MATLAB program (Liu et al., 2018) available at https://doi.org/10.5281/zenodo.5576635. A total of 300-700 synaptosomes
+were detected per image using Otsu intensity thresholds and size thresholds (0.2 - 1 mm2 for TH and 0.15 - 2 mm2 for synaptic
+markers). These threshold settings were identical for each image across Munc13 control and cKODA for detection of synaptophy-
+sin-positive (Syp+) and TH-positive (TH+) ROIs in each image, which was used to generate single and double positive ROIs (Syp+TH+).
+For synaptophysin-positive TH-negative ROIs (Syp+TH-), synaptophysin+ ROIs which had a TH signal less than the average intensity
+of all pixels in the image were designated as TH-negative (TH-) and were marked as (Syp+TH-) ROIs. Bassoon intensities within Syp+-
+TH-, Syp+TH+ ROIs or within all TH+ ROIs, and RIM1 intensities within all TH+ ROIs were quantiﬁed and frequency distribution histo-
+grams were plotted, and synaptophysin intensity within all TH+ ROIs was quantiﬁed. Sample images were generated in Fiji with iden-
+tical adjustments of brightness and contrast for Munc13 control and cKODA, but image quantiﬁcation was performed before these
+adjustments. Image acquisition and quantiﬁcation were performed by an experimenter blind to the genotype.
+QUANTIFICATION AND STATISTICAL ANALYSIS
+Data are shown as mean ± SEM (except for mean ± SD in Figures 5J and 7E) and all statistics were performed in Graphpad Prism 9.
+Sample sizes, numerical values of means, medians (where appropriate) and errors, statistical tests, F-ratios of ANOVAs, and exact
+p values are provided for each experiment in Tables S1–S8, and key information is also included in the ﬁgure legends. The number of
+recorded slices was used as sample size for all slice amperometry data. For electrophysiology in autaptic hippocampal cultures,
+ll
+Article
+Neuron 110, 248–265.e1–e9, January 19, 2022
+e8
+sample size was number of recorded cells. For all image data, sample size was the number of images except for frequency histo-
+grams in Figures 5E, S5C, and S5F, where sample size was the number of analyzed ROIs. Image data are presented as violin plots
+with superimposed mean ± SEM throughout, except for datasets with % 40 images. Wild-type controls in Figures 2C, 2D, and 2G (in
+which all values are close to 0) are shown as scatterplots because violin plots would be non-informative. For microdialysis data, sam-
+ple size was the number of mice. Datasets with sample size R 30 were analyzed using parametric statistical tests. For datasets with
+sample size < 30, normality was determined with Anderson-Darling, D’Agostino-Pearson, Shapiro-Wilk, or one sample Kolmogorov-
+Smirnov tests and statistics were performed using non-parametric tests for datasets that did not follow a normal distribution. In all
+ﬁgures, statistical signiﬁcance is presented as * p < 0.05, ** p < 0.01, *** p < 0.001.
+ll
+Article
+e9
+Neuron 110, 248–265.e1–e9, January 19, 2022
+

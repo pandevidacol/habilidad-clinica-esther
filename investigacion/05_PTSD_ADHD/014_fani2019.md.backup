@@ -1,0 +1,358 @@
+---
+# fani2019
+**Autores**: Not specified
+**Año**: 2019
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Abstract 
+Background: Attentional disruptions are common in PTSD, but findings across 
+neuropsychological and neuroimaging studies have been variable. Few PTSD studies have 
+investigated abnormalities in attention networks using a multi-modal imaging approach and 
+attentional tasks that include emotionally-salient images. This study combined a behavioral task 
+that included these images (emotional Stroop) with functional and structural neuroimaging 
+(fMRI and diffusion tensor imaging; DTI)
+
+## Key Findings
+Discussion 
+ 
+We administered an attentional control task with variable attentional demands and both 
+neutral and emotionally-salient distractor stimuli to examine the precise nature of attentional 
+control abnormalities in PTSD. We investigated potential differences in performance and neural 
+response, as well as white matter connectivity. Together, our data indicate abnormalities in 
+fronto-parietal fronto-limbic networks in participants with PTSD. As compared to traumatized 
+controls, we found that participants with PTSD demonstrated similar task performance in the 
+context of neutral stimuli, but performed more poorly in the context of emotional AS distractor 
+stimuli, as we had predicted. Specifically, those with PTSD made more errors on positive AS 
+distractor trials and demonstrated lower activation in cognitive control (fronto-parietal) networks 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+10 
+in the context of higher AS task demands. Further, task performance on these AS positiv... (Extracted from Discussion)
+
+## Methodology
+methods to comprehensively investigate attentional 
+control abnormalities in a highly-traumatized civilian sample.  
+ 
+Methods: 48 traumatized women with and without PTSD received clinical assessments, fMRI 
+and DTI. During fMRI, the Affective Stroop (AS), an attentional control task that includes 
+emotionally-salient distractor images (trauma-relevant, positive, neutral) and variable task 
+demands, was administered.
+
+## Results
+Results: In response to more difficult AS trials, participants with PTSD demonstrated lower 
+activation in the dorsal and rostral anterior cingulate cortex and greater activation in the insula. 
+This group also showed comparatively poorer performance on positive AS distractor trials, even 
+after adjusting for trauma exposure. Performance on these trials inversely correlated with 
+structural integrity of the cingulum bundle and uncinate fasciculus.
+
+## Clinical Significance
+Conclusions: Even after adjusting for trauma exposure, participants with PTSD showed worse 
+performance on an attentional control task in the context of emotional stimuli. They also showed 
+relatively lower cognitive control network activation and greater salience network activation. 
+Fronto-parietal and fronto-limbic white matter connectivity corresponded with AS performance. 
+Our findings indicate that attentional control impairments in PTSD are most evident in the 
+context of emotional cues, and are related to decrements in function and structure of cognitive 
+control and salience networks. 
+ 
+ 
+ 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+4
+Introduction 
+ 
+Attentional disruptions are frequently experienced by traumatized people, and are 
+reflected in several posttraumatic stress disorder (PTSD) symptoms: intrusive recollections or 
+flashbacks of the trauma, an impaired ability to concentrate on desired tasks, and hypervigilance 
+for trauma-related cues. Attention comprises three different processes: alerting, orienting, and 
+executive control (Petersen and Posner, 2012). Among these, executive or attentional control 
+may be the most amenable to modification; it functions under conscious awareness, making it a 
+frequent target of treatments (Badura-Brack et al., 2015). Attentional control includes the ability 
+to maintain focus on a given task and disregard irrelevant information, a process that is critical to 
+many daily life activities.  
+Evidence for diminished attentional control in PTSD has emerged from studies that used 
+neuropsychological tasks, including the Stroop paradigm (Scott et al., 2015, Stroop, 1935). The 
+existing PTSD neuropsychological studies employing the Stroop task show some evidence for 
+diminished attentional control in PTSD populations (Lagarde et al., 2010) via poorer task 
+performance, as indicated by a recent meta-analysis (Cisler et al., 2011). However, effect sizes 
+have been relatively small (d~.2)(Cisler et al., 2011), and some studies have not found between-
+group effects at all (Kanagaratnam and Asbjornsen, 2007, Lagarde et al., 2010, Vasterling et al., 
+2002). One potential reason relates to variations in PTSD symptom clusters between the different 
+samples in these studies—there is evidence that these symptom clusters are differentially related 
+to attentional control deficits (Grisanzio et al., 2018), with fearful arousal symptoms 
+corresponding most with cognitive control problems.  
+Problems with attentional control in the context of emotion are likely to be related to 
+dysfunction in two distinct neural circuits (Petersen and Posner, 2012, Posner and Petersen, 
+1990). The cingulo-opercular network includes the anterior cingulate cortex (ACC) and insula as 
+well as the amygdala, and supports error monitoring and salience detection (frequently termed 
+―salience network‖). The fronto-parietal network, which includes the dorsal ACC, dorsolateral 
+prefrontal (DLPFC) and inferior parietal cortex, supports the implementation of executive 
+control and adjustment of attentional strategy. Increased cingulo-opercular and decreased fronto-
+parietal network function appears to characterize anxious populations in general (Sylvester et al., 
+2012). 
+However, neuroimaging studies of attention in traumatized populations indicate more 
+mixed findings, both in terms of neural network response and behavior (Block and Liberzon, 
+2016). This may, in part, reflect methodological differences, including the types of stimuli 
+employed in attentional control tasks (i.e., images vs words, trauma-relevant vs generally 
+aversive stimuli), as well as heterogeneous samples. Studies using affective versions of the 
+Stroop have indicated differential fronto-parietal and cingulo-opercular network activation in 
+PTSD in response to emotional stimuli. One study of women with complex PTSD indicated 
+higher dACC, dorsolateral prefrontal cortex (DLPFC), ventromedial prefrontal cortex (vmPFC) 
+and anterior insula response to trauma-related words in civilians with complex PTSD on an 
+emotional Stroop task, compared to both traumatized and healthy controls (Herzog et al., 2017). 
+Participants with PTSD demonstrated poorer Stroop task performance, particularly when 
+presented with trauma words. Using an image-based Affective Stroop (AS), Blair and colleagues 
+(2007) observed decreased DLPFC activation in patients with PTSD in response to heightened 
+task demands (Blair et al 2007), but no significant differences in task performance were 
+observed; aversive images used in the task were not trauma-specific. Building upon this work by 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+5
+examining the functional connectivity during this same task, White and colleagues (2015) 
+observed that PTSD symptoms positively correlated with amygdala connectivity to the DLPFC 
+and dACC in veterans in response to emotionally-valenced vs neutral images, particularly to 
+trials with positive image distractors (White et al., 2015). The authors also found that PTSD 
+symptoms correlated with increased functional connectivity between the amygdala, dACC and 
+anterior insula (White et al., 2015). However, no group differences were observed in task 
+performance, and their population did not meet clinical criteria for PTSD. Studies using other 
+word or number-based emotional Stroop tasks have indicated higher dACC response (Bremner et 
+al., 2004) but lower response in the rostral ACC (Bremner et al., 2004, Shin et al., 2001) in 
+participants with PTSD versus controls; in these two studies, significant differences in task 
+performance were not observed. These data indicate that salience network activation appears to 
+be more consistently related to attentional control disruptions in PTSD, whereas the direction of 
+fronto-parietal circuit involvement has been more variable. Only one such study observed 
+significant differences in task performance (Herzog et al., 2017). 
+Decrements in the structural integrity of these neural pathways may contribute to the 
+altered responses previously observed. In studies of depression, poorer microstructure of the 
+cingulum bundle has been associated with increased interference on a Stroop task (Keedwell et 
+al., 2016). This white matter tract connects brain regions in the attentional control network (ACC 
+and parietal cortex) and is also a primary route of communication between prefrontal and 
+entorhinal cortices. Similar findings with respect to cingulum integrity and Stroop task 
+performance have been observed in schizophrenia (Kubicki et al., 2009). Our earlier studies 
+suggest that the cingulum as well as the uncinate fasciculus, a fronto-limbic tract that connects 
+the amgydala and vmPFC, are specifically compromised in PTSD (Daniels et al., 2013, Fani et 
+al., 2015, Fani et al., 2012a, Fani et al., 2016). These tracts have been associated with treatment 
+outcome as well (Kennis et al., 2015). However, little is known about how the structure of these 
+pathways affects attentional control in PTSD. 
+To our knowledge, no studies to date have used a multi-modal approach, combining 
+behavioral data (Affective Stroop task performance) with structural and functional MRI data to 
+comprehensively investigate the nature of attentional control abnormalities in PTSD. We 
+measured responses of traumatized participants with and without PTSD on the affective Stroop 
+(administered during fMRI) to examine differences in attentional performance during neutral and 
+emotional conditions, including both positive and trauma-relevant distractors in this task. We 
+predicted that a PTSD diagnosis would be associated with poorer performance on the Affective 
+Stroop (error rates and response times were used to assess attentional control), particularly in the 
+presence of emotional stimuli. We expected decreased activation in the fronto-parietal/cognitive 
+control network and increased cingulo-opercular/salience network activation in response to 
+increased task demands. We hypothesized that poorer integrity of cingulum bundle (CB) and 
+uncinate fasciculus (UF) pathways would be associated with poorer AS task performance in the 
+presence of emotionally-valenced distractors. To assess for specificity of findings with respect to 
+white matter, we included a third pathway, the medial forebrain bundle, in analyses. We 
+conducted exploratory analyses to examine the relationships between task performance, neural 
+response patterns and PTSD symptom dimensions.  
+ 
+Methods 
+ 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+6
+Participants. A sample of 48 African-American women aged 22-61 (M=38.7, SD=11.2) 
+was recruited from an NIH-funded study of attentional control in PTSD (MH092576) and 
+received MRI. Individuals were approached in general medical clinics of a publicly-funded 
+hospital serving low income individuals in inner-city Atlanta, Georgia. On average, nearly half 
+of all participants had completed up to 12 years of schooling or the equivalent (GED), and had 
+monthly incomes of less than $1000. Only 39% of the sample was employed. Participant 
+characteristics are further detailed in Table 1.  
+The eligibility criterion for participation in the current study included the ability to 
+understand English (assessed by a study researcher) and willingness to provide informed 
+consent. Participants were excluded if they had current neurological conditions or psychosis, as 
+well as current psychotropic medication use. Participants were excluded from MRI on the basis 
+of: claustrophobia; contra-indications to MRI scanning (e.g., metal implants); current bipolar 
+disorder (as assessed with the MINI interview (Sheehan et al., 1998); current substance or 
+alcohol dependence or intoxication. Participants were given a urine drug test on the day of the 
+scan and tested negative. Although handedness was not used as an inclusion/exclusion factor, a 
+majority of participants were right handed (n=42; 88%). After being enrolled in the study, one 
+participant reported starting on psychotropic medications. Participants receiving MRI were asked 
+to refrain from caffeine consumption on the day of the scan, given possible effects on BOLD 
+signal and cognition, as shown previously (Koppelstaetter et al., 2010, Laurienti et al., 2002). 
+The Institutional Review Board of Emory University and Grady Hospital Research Oversight 
+Committee approved all study procedures. 
+ 
+MRI acquisition, image processing. Scanning was conducted on a research-dedicated 
+Siemens 3-Tesla TIM-Trio scanner (12 channel head coil) at Emory University Hospital. 
+Acquisition parameters and image pre-processing details are provided in the Supplement.  
+ 
+Clinical Assessments. We administered the following assessments, detailed further in the 
+Supplement. The Traumatic Events Inventory (TEI) was administered to measure lifetime trauma 
+exposure. Given that the two diagnostic groups demonstrated significant differences in trauma 
+exposure (see Table 1), overall TEI scores were submitted as covariates in statistical analyses. 
+The Clinician Administered PTSD Scale (CAPS; DSMIV; administered to18 participants) and 
+DSM5 (administered to 30 participants; Blake et al., 1995, Weathers et al., 2017) was 
+administered to determine presence or absence of PTSD. Based on the CAPS, 26 participants 
+met criteria for PTSD, whereas 22 did not meet PTSD criteria (Controls); all had experienced 
+trauma. The PTSD Symptom Scale (PSS; (Foa et al., 1993) was administered on the day of the 
+MRI scan, and subscale scores (re-experiencing, avoidance, hyperarousal, anhedonia) were used 
+for correlational analyses with MRI data, given their similar time of administration. Participants 
+in the control group had low PSS scores, with a mode of 0, a median score of 2 and mean=3.4 
+(SD=4). As expected, participants in the PTSD group had clinically significant PSS scores, with 
+a mode of 25, a median score of 25 and mean=25.4 (SD=11.3) and scores were had a relatively 
+even distribution across the symptom clusters. 
+ 
+fMRI task: Affective Stroop. The Affective Stroop (AS) is a measure of attentional control 
+that has been detailed in earlier studies (Blair et al., 2007, Blair et al., 2012b, White et al., 2015), 
+further described in the Supplement. Participants rapidly identify, via button-press, the number 
+of numbers in a given display (3, 4, 5, or 6) while ignoring distractor images (trauma-relevant, 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+7
+positive, and neutral scenes) that appear prior to and following each number stimulus (Figure 1a 
+and 1b). The distractor images are identical. In some of these trials, the number of numbers is 
+inconsistent with the actual number displayed, posing a heightened cognitive challenge. In 
+addition, the task includes trials with no cognitive demands (―view only‖ trials). Error rates and 
+response times were recorded and analyzed.  
+fMRI data analysis. To examine blood-oxygen-level dependent (BOLD) signal change to 
+task stimuli, a first-level, fixed-effects analysis was conducted.  Onset times for each task 
+condition were entered into a general linear model, convolved with a hemodynamic response 
+function and linear contrasts between conditions were estimated. Subject-specific motion 
+parameters were also included in the model as effects of non-interest. Given our interest in 
+examining neural response and task performance under high vs low attentional demands, and in 
+accordance with earlier studies using this task (Blair et al., 2012b, White et al., 2015), our 
+primary analysis involved contrasting number incongruent versus number congruent trials. 
+Events included the distractor and number stimuli. Since our primary objective was to examine 
+differences in performance between PTSD and traumatized controls, between-group analyses 
+were conducted at a whole brain, voxel-wise level, for this contrast. Where between-group 
+differences in task performance were observed, we performed correlational analyses including all 
+participants; PSS subscale scores were entered as subject-level regressors. Regions of interest 
+included the ACC (dorsal and rostral), DLPFC, superior parietal cortex, insula, and amygdala, 
+similar to prior studies (White et al., 2018). Results were considered significant at a whole brain 
+statistical threshold of p<.001, with cluster-level FWE correction at a threshold of p<.05 
+conducted with these a priori specified regions of interest, as recommended to account for error 
+inflation due to multiple comparisons (Woo et al., 2014).  Contrast parameters were extracted 
+from clusters showing significant between-group differences and were used in analyses with 
+behavioral data. To confirm that findings were within established networks of interest, we used 
+Neurosynth (www.neurosynth.org; Yarkoni et al., 2011) to conduct a meta-analysis using 
+cognitive control and salience network terms to identify regions consistently related to these 
+networks.  
+DTI Data Processing and Probabilistic Tractography  
+To examine structural connectivity, probabilistic fiber tracking was conducted with 
+PROBTRACKX implemented in FSL, detailed further in the Supplement. Masks of the CB and 
+UF were created using the JHU White Matter Tractography Atlas (Mori et al., 2005) and used as 
+an anatomical waypoint for these paths; a separate exclusion mask was created to eliminate the 
+likelihood of pathways in irrelevant white matter tracts, gray matter regions and CSF. The medial 
+forebrain bundle (MFB) was included in analyses to assess for specificity of findings. To create 
+probabilistic streamlines for MFB pathways, we selected the nucleus accumbens and 
+orbitofrontal cortex as seed regions using the Harvard-Oxford Subcortical Structural Atlas 
+(http://www.cma.mgh.harvard.edu/fsl_atlas.html. Example probabilistic paths for the UF and CB 
+are provided in Figures 3c and 3d. Fractional anisotropy (FA) was used as our measure of tract 
+integrity, given that earlier studies have indicated it to be a reliable assessment of microstructural 
+integrity of white matter fibers (Fox et al., 2011). Data from 8 participants were discarded due to 
+motion artifacts or unusable tracts (included anatomically unfeasible, deviated projections), 
+leaving a sample size of 40; this sample of participants was used in all Affective Stroop and DTI 
+data analyses. This sub-group of participants was also similar to the overall sample in terms of 
+age (M=38.4, SD=11.3), PTSD symptoms (PSS total: M=16.1, SD=14.1), and trauma exposure 
+(TEI lifetime trauma: M=4.7, SD=2.6).  
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+8
+ 
+Affective Number Stroop Data Analysis 
+Multivariate analyses of covariance were conducted to examine between-group 
+differences in performance on cognitive measures (AS: error rate and response time) after 
+accounting for the effects of trauma exposure (TEI), given between-group differences and 
+associations found previously with test performance (Palmer et al., 1997); data were analyzed for 
+the 40 participants with both fMRI and DTI data. PTSD diagnosis was the grouping variable, 
+outcome variables included performance on the AS. Where group differences were observed, we 
+also examined associations between PTSD symptom clusters and AS task performance in the 
+entire sample. Finally, we examined correlations of task performance with structural connectivity 
+of cingulum, uncinate fasciculus, and medial forebrain bundle pathways; using IBM SPSS 
+version 24, partial correlations were conducted with mean FA values of all tracts and AS 
+performance variables, controlling for trauma exposure (TEI), given its possible effects on white 
+matter integrity (Fani et al., 2012a, Lebel et al., 2012, Ly et al., 2013, Wang et al., 2010). A 
+threshold of p<.05, two-tailed, was used to define statistical significance; Sidak correction was 
+applied to adjust for error due to multiple comparisons (p<.006). 
+ 
+Results 
+ 
+Affective Stroop Task Performance.  
+PTSD vs Controls. We examined effects of emotion and task condition on differences in 
+accuracy and response time in the sample using two 3 (emotion: positive, trauma-relevant, 
+neutral) x 2 (task condition: number congruent, number incongruent) repeated measures 
+ANCOVAs, with trauma exposure as a covariate. We observed a significant task condition by 
+emotion by trauma interaction (F1,37=3.6), p=.04), a significant emotion by diagnostic group 
+interaction (F1,37=5, p=.01), as well as a significant task condition by diagnostic group interaction 
+(F1,37=4.1, p=.02). Participants with PTSD demonstrated significantly poorer performance (more 
+errors) on positive number congruent AS distractor trials, (F1,37=4.1, p=.02). Cohen’s d=.65). 
+Controls had average error rates of approximately 4%, whereas participants with PTSD 
+demonstrated average error rates of 9% (see Table 2). No other main effects or interactions were 
+observed. With respect to response time, a main effect of task condition was observed (F1,37=23, 
+p<.001), with slower response times observed in response to number incongruent trials. 
+However, no other main effects or interactions were observed with respect to response time.  
+PTSD Symptom Clusters. In the group as a whole, a significant correlation was observed 
+between PTSD hyperarousal symptoms and performance on neutral number incongruent 
+distractor trials (r=.36, p=.03), with a marginally significant correlation observed with trauma-
+relevant number congruent trials (r=.32, p=.05). Anhedonic PTSD symptoms also correlated with 
+performance on neutral number incongruent distractor trials (r=.34, p=.03) and trauma-relevant 
+number congruent distractor trials (r=.32, p=.05).  
+Response times for all conditions were normally distributed in the sample, as indicated by 
+Shapiro-Wilk tests (all ps>.25).  Hyperarousal was significantly associated with longer response 
+times on trauma-relevant number congruent (r=.39, p=.02), positive number congruent (r=.34, 
+p=.04), trauma-relevant number incongruent (r=.42, p=.01), positive number incongruent (r=.38, 
+p=.02) and neutral number incongruent (r=.45, p<.01) distractor trials. Anhedonic PTSD 
+symptoms correlated with response time on trauma-relevant number congruent (r=.37, p=.02), 
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+ 
+9
+trauma-relevant number incongruent (r=.43, p<.01), positive number incongruent (r=.35, p=.03) 
+and neutral number incongruent (r=.42, p<.01) distractor trials.   
+fMRI Analyses.  
+PTSD vs Controls. In response to AS number incongruent vs number congruent trials 
+(increased attentional demands), PTSD participants demonstrated lesser activation in the dorsal 
+ACC (Brodmann Area; BA 32, MNIx,y,z=9,23,34; Table 3) and rostral ACC (BA 24, 
+MNIx,y,z=9,35,7)  as compared to controls; the dACC cluster fell within the cognitive control 
+network as defined by Neurosynth. For this contrast, participants with PTSD demonstrated 
+heightened response in the insula (BA 13, MNIx,y,z=-39,-37,22).  No other significant between-
+group differences in activation were found at the p<.001 statistical threshold between groups for 
+all contrast conditions.  
+PTSD Symptom Clusters. As planned, regression analyses were conducted with the AS 
+condition that had yielded between-group performance differences: positive versus neutral 
+images. In response to positive vs neutral images, re-experiencing symptoms were associated 
+with greater dACC activation (Brodmann area 24; MNIx,y,z=0,23,22; Figure 2a), whereas 
+avoidance was positively correlated with activation in the parahippocampal gyrus (MNIx,y,z=9,-
+10,-23; Figure 2b). Hyperarousal symptoms were not significantly correlated with activation in 
+specified ROIs, but were positively correlated with activation in the uncus (BA 34, MNIx,y,z=15,-
+7,-23) and middle cingulate gyrus (BA 24, MNIx,y,z=0,-19,34; Figure 2c). No significant patterns 
+of activation were observed for correlations with anhedonic symptoms for this condition. 
+White Matter Analyses. After accounting for trauma exposure, uncinate fasciculus FA 
+was negatively associated with errors on positive number congruent trials (r=-.44, p=.005) and 
+trauma-relevant number incongruent trials (r=-.46, p=.002). These relationships remained 
+significant after removing trauma covariates (r=-.44, p=.004 for positive number congruent trials 
+and r=-.46, p=.002 for trauma-relevant number incongruent trials). Right cingulum FA was also 
+negatively correlated with performance on positive number congruent trials (r=-.42, p=.01) and 
+neutral number incongruent trials (r=-.33, p=.04); however, these findings did not survive Sidak 
+correction. After removing trauma covariates, right cingulum FA remained negatively correlated 
+with performance on positive number congruent trials (r=-.39, p=.01) and trauma-relevant 
+number incongruent trials (r=-.35, p=.03). After controlling for depression symptoms (BDI total 
+score), all ps<.05 but were not less than the Sidak corrected threshold. No other significant 
+associations were observed between white matter integrity and task performance. Participants 
+with PTSD showed lower right cingulum FA as compared to controls (F1,41=6.6, p=.01), 
+replicating our earlier findings (Fani et al., 2012a, Fani et al., 2016).
+
+## References
+References 
+ 
+Allen, M., Dietz, M., Blair, K. S., van Beek, M., Rees, G., Vestergaard-Poulsen, P., Lutz, A. & 
+Roepstorff, A. (2012). Cognitive-affective neural plasticity following active-controlled 
+mindfulness intervention. J Neurosci 32, 15601-10. 
+Badura-Brack, A. S., Naim, R., Ryan, T. J., Levy, O., Abend, R., Khanna, M. M., McDermott, T. 
+J., Pine, D. S. & Bar-Haim, Y. (2015). Effect of Attention Training on Attention Bias Variability 
+and PTSD Symptoms: Randomized Controlled Trials in Is...
+---

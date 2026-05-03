@@ -1,0 +1,919 @@
+# Mechanisms and regulation of dopamine release
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2019
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: liu2019.pdf
+
+## Abstract / Summary
+Mechanisms and regulation of dopamine release
+Changliang Liu and Pascal S Kaeser
+Dopamine controls motor functions, motivation, and reward-
+related learning through G-protein coupled receptor signaling.
+The current working model is that upon release, dopamine
+diffuses to inﬂuence many target cells via wide-spread
+receptors. Recent studies, however, suggest that dopamine
+release is fast and generates small signaling hotspots. In this
+review, we summarize progress on the understanding of the
+dopam... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Mechanisms and regulation of dopamine release. 2019.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Mechanisms and regulation of dopamine release
+Changliang Liu and Pascal S Kaeser
+Dopamine controls motor functions, motivation, and reward-
+related learning through G-protein coupled receptor signaling.
+The current working model is that upon release, dopamine
+diffuses to inﬂuence many target cells via wide-spread
+receptors. Recent studies, however, suggest that dopamine
+release is fast and generates small signaling hotspots. In this
+review, we summarize progress on the understanding of the
+dopamine release apparatus and evaluate how its properties
+may shape dopamine signaling during ﬁring. We discuss how
+mechanisms of regulation may act through this machinery and
+propose that striatal architecture for dopamine signaling may
+have evolved to support rapid dopamine coding.
+Address
+Department of Neurobiology, Harvard Medical School, United States
+Corresponding author: Kaeser, Pascal S ()
+Current Opinion in Neurobiology 2019, 57:46–53
+This review comes from a themed issue on Molecular neuroscience
+Edited by Yishi Jin and Tim Ryan
+https://doi.org/10.1016/j.conb.2019.01.001
+0959-4388/ã 2019 Elsevier Ltd. All rights reserved.
+Introduction
+The midbrain dopamine system is composed of two major
+pathways with distinct functions [1–3]. The nigrostriatal
+pathway originates from dopamine neurons in the sub-
+stantia nigra pars compacta (SNc), projects to the dorsal
+striatum, and is mostly associated with motor control. The
+mesolimbic pathway consists of dopamine neuron somata
+in the ventral tegmental area and projects to the ventral
+striatum, also known as the nucleus accumbens, for the
+control of reward processing. Functions of these pathways
+are affected in many brain disorders including Parkinson’s
+disease, schizophrenia and addiction. Most midbrain
+dopamine neurons have spontaneous pacemaker ﬁring
+at 0.2–10 Hz and can switch to synchronous burst ﬁring,
+which is important in each pathway for controlling respec-
+tive behaviors. Detailed and speciﬁc insight into the
+molecular machinery for dopamine release is sparse,
+and mechanisms are often assumed from studies of fast
+synaptic vesicle exocytosis or of neuroendocrine secre-
+tion. We here review recent progress on the dopamine
+secretory apparatus and discuss how axonal mechanisms
+shape and regulate dopamine signaling with spatial and
+temporal precision. Dopamine is also released in the
+midbrain from somata and dendrites. While we focus
+on axonal dopamine release and compare its mechanisms
+to release of fast synaptic neurotransmitters, we include
+important recent advances in the understanding of soma-
+todendritic release for comparison.
+Exocytotic release of dopamine
+At fast synapses, the force for fusion of synaptic vesicles
+with the presynaptic plasma membrane is provided by
+formation of the SNARE complex between the vesicular
+SNARE Synaptobrevin-2/VAMP-2 and the plasma mem-
+brane SNARE proteins Syntaxin-1 and SNAP-25 [4].
+Synaptic vesicle release is restricted to release sites called
+active zones, which precisely align neurotransmitter
+secretion with postsynaptic sensing mechanisms. This
+architecture warrants rapid and efﬁcient exchange of
+information [5]. The active zone consists of protein scaf-
+folds that dock and prime a small portion of neurotrans-
+mitter-ﬁlled vesicles close to voltage-gated Ca2+ channels
+[6]. When an action potential depolarizes the presynaptic
+plasma membrane, Ca2+ enters through these channels
+and rapidly triggers vesicle fusion via the Ca2+ sensors
+Synaptotagmin 1, 2 or 9 [4,7]. Neurotransmitters are then
+released and diffuse across the synaptic cleft to activate
+postsynaptic receptors.
+Compared to fast synapses, the secretory biology of
+dopamine neurons exhibits unique properties. Instead
+of forming classical point-to-point synapses, vesicle ﬁlled
+en-passant boutons of dopamine axons, called varicosi-
+ties, are typically not associated with postsynaptic densi-
+ties [8] (but see Ref. [9]). Dopamine receptors, which
+are G-protein coupled receptors (GPCRs) [10], are nor-
+mally encountered outside of synaptic areas [9,11,12].
+In addition to axonal release, dopamine neurons also
+secrete dopamine from their cell bodies and dendrites,
+referred to as somatodendritic release [13–15]. Together,
+these distinct morphological features indicate that dopa-
+mine transmission is different from classical synaptic
+transmission. A prominent model is that dopamine func-
+tions through volume transmission, in which neurotrans-
+mitters diffuse in tissue to activate relatively distant
+receptors for signaling [16,17]. It has remained unclear
+whether dopamine release is mediated by the same
+protein machinery that is employed at fast synapses.
+Alternative hypotheses are that dopamine release is more
+similar to slower forms of secretion, for example those
+employed by neuroendocrine cells for hormone secretion
+or those for neuropeptide secretion. Although much less
+is known about the molecular architecture and functions
+Available online at www.sciencedirect.com
+ScienceDirect
+Current Opinion in Neurobiology 2019, 57:46–53 
+www.sciencedirect.com
+of these secretory machines, they have at least partially
+distinct SNARE and active zone protein requirements
+[18–20]. Finally, non-vesicular forms of release, for exam-
+ple through reversal of the dopamine transporter, may
+further contribute to dopamine transmission [21].
+A convincing body of literature has established that most
+dopamine transmission is mediated by vesicular exocyto-
+sis. First, electron microscopy showed that axonal dopa-
+mine varicosities are densely packed with clusters of
+small, clear vesicles [9,11,12]. Somatodendritic dopa-
+mine release may also originate from specialized secretory
+organelles, as dopamine is mainly stored in tubulo-vesic-
+ular structures resembling the smooth endoplasmic retic-
+ulum in the soma or dendrites [22]. Second, quantal
+events, reminiscent of individual vesicular packets of
+dopamine, can be recorded using amperometry or whole
+cell voltage clamp (see Box 1 for dopamine release
+measurements) from dopamine axons or cell bodies
+[14,23–25]. Third, dopamine transmission is eliminated
+by blockade or knockout of the vesicular monoamine
+transporter type 2 (VMAT2) [26,27].
+Vesicular release relies on SNARE proteins to mediate
+membrane fusion. Dopamine release is partially sensitive
+to botulinum toxins A and B, which cleave SNAP-25 or
+Synaptobrevin-2, respectively [28,29], and Synaptobre-
+vin-2 is localized to dopamine varicosities [30]. It
+appears, however, that release is resistant to tetanus toxin,
+which also cleaves Synaptobrevin-2 [29]. These experi-
+ments may be confounded by indirect effects of the toxins
+on dopamine release via inhibiting the release of dopa-
+mine secretion modulators (for example acetylcholine
+[31,32]), or dopamine secretion could be resistant to
+toxins because dopamine neurons may lack machinery
+for toxin uptake. Hence, while these data generally
+support that dopamine release is vesicular (Figure 1),
+future studies will have to conclusively identify relevant
+SNAREs.
+Dopamine release is triggered by Ca2+ and is steeply
+dependent on extracellular Ca2+, with potential differences
+between axonal release and somatodendritic release [33].
+Several early studies assessed the dependence of dopamine
+release onspeciﬁcvoltage-gatedCa2+channels,butsome of
+the effects may have been indirect because the manipula-
+tions may have impaired the triggering of axonal dopamine
+release via inhibiting cholinergic interneurons [31,32]. A
+recent important study re-evaluated this point by either
+activating dopamine neurons optogenetically, or by block-
+ing nicotinic acetylcholine receptors (nAChRs) during
+electrical stimulation, and found that CaV2 (N-type and
+P/Q-type), CaV3 (T-type) and CaV1 (L-type) channels
+contribute to dopamine release [34]. This is different from
+classical synapses, which nearly exclusively rely on
+CaV2 channels [4,35]. The dependence of dopamine
+release on CaV1 channels is particularly interesting,
+Mechanisms and regulation of dopamine release Liu and Kaeser 
+47
+Box 1 Measurements of dopamine release.
+Electrochemical detection
+Fast-scan cyclic voltammetry (FSCV) is widely used for detecting
+dopamine release (see Ref. [34] for an example). A small carbon
+fiber electrode is placed into the tissue in vivo or in vitro and a
+triangular wave (typically 0.6 to 1 V) is applied at a fast scan rate
+(>400 V/s). Different compounds generate oxidation and reduction
+currents at different voltages during the scan, with the peak current
+for dopamine appearing at 0.6 V. The acquisition rate is usually set
+at 10 Hz but can be as high as 100 Hz. FSCV requires subtraction of a
+baseline current and is, therefore, only suitable to report changes in
+dopamine, and the scan rate is slow compared to the speed of
+exocytosis.
+Amperometry is similar, but a constant potential (0.6 V for dopa-
+mine) is applied to the electrode (see Refs. [25,30] for examples). Its
+advantage is the high temporal resolution, which is limited only by
+the sampling rate. The specificity for dopamine is limited and
+amperometry can only be used when dopamine is the major elec-
+troactive substance. Oxidation consumes dopamine, which may
+contribute to the decay of the signal.
+Microdialysis followed by high performance liquid chromatography
+is used to measure absolute dopamine levels in vivo (see Refs.
+[30,48] for examples). Its advantage is that it is sufficiently sensitive
+to determine basal dopamine levels of the brain of a living animal, but
+the low temporal resolution makes it unsuited to assess fast dopa-
+mine transients, and tissue damage by the probe may influence the
+measurements.
+Whole-cell recording
+D2 IPSC recordings report the activation of dopamine D2 receptors.
+In midbrain dopamine neurons, D2 receptors are coupled to G-
+protein activated inwardly rectifying potassium channels (GIRK) to
+produce an inhibitory postsynaptic current (IPSC) upon activation by
+dopamine [13]. In the striatum, endogenous D2-coupled GIRKs are
+not present, but GIRKs can be virally expressed to report D2 acti-
+vation [52,53]. D2 IPSCs do not report all dopamine release, but only
+release that activates D2 receptors. The method relies on GPCR
+signal transduction, which produces a delay of 50–100 ms between
+dopamine release and detection.
+LGC-53 is a dopamine sensitive chloride channel expressed in C.
+elegans. When medium spiny neurons are transduced with viruses
+for striatal expression of LGC-53, a fast chloride current with good
+sensitivity and specificity for dopamine is measured [24]. It is unclear
+how the localization of virally expressed LGC-53 compares to that of
+dopamine receptors and how its activation relates to the activation of
+endogenous receptors.
+Imaging
+VMAT-pHluorin is a pH-sensitive fluorophore that is attached
+intraluminally to the vesicular monoamine transporter 2 (VMAT2).
+When VMAT-pHluorin labelled vesicles fuse with the plasma mem-
+brane, the fluorescent signal increases because the acidic vesicle
+lumen is neutralized. This method permits measurements of fusion of
+single vesicles from individual varicosities (see Ref. [40] for an
+example). Since dopamine neurons co-release other neurotransmit-
+ters, and transfected or transduced VMAT-pHluorin may not exactly
+reproduce the localization of endogenous VMAT2, this method may
+not always precisely report exocytosis of endogenous dopamine
+vesicles.
+Fluorescent false neurotransmitters (FFNs) are VMAT2 substrates
+that are selectively loaded into monoamine-containing vesicles.
+When vesicles are released, FFN diffusion leads to a decrease in
+fluorescence detected in varicosities, which serves as a readout for
+release (see Ref. [43] for an example). The method permits analyses
+of single varicosities, but the sensitivity is limited because only a
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2019, 57:46–53
+because inhibiting these channels may help dopamine
+neuron survival [36].
+The Ca2+ sensors for triggering axonal dopamine release
+remain unknown (Figure 1). At fast synapses, Synapto-
+tagmin 1, 2 or 9 trigger rapid exocytosis, and Synapto-
+tagmin 7 and Doc2 mediate Ca2+ sensitivity of asynchro-
+nous and spontaneous release, and of facilitation [4,7,37].
+Conclusive studies of Ca2+ sensors in striatal dopamine
+axons have not been conducted, and loss of function
+studies to test for necessity of speciﬁc Ca2+ sensor
+proteins will be necessary. Synaptotagmin 7 is necessary
+for efﬁcient somatodendritic dopamine release [38], but
+it remains to be tested whether Synaptotagmin 7 func-
+tions as a Ca2+ sensing protein for dopamine release.
+Non-Ca2+-binding Synaptotagmins were also implicated
+in dopamine release. A recent study evaluated exocytotic
+and endocytotic roles of Synaptotagmin 11 in dopamine
+neurons [39], and Synaptotagmin 4 was shown to medi-
+ate somatodendritic release [38]. Because Synaptotag-
+min 4 and 11 do not bind Ca2+ [7], their roles in dopa-
+mine release are not as Ca2+ sensors.
+Active zone-like sites are essential for
+dopamine release
+Hallmarks of synaptic transmission are its speed and its
+spatial precision: synaptic vesicles fuse within less than a
+millisecond upon arrival of an action potential and their
+exocytosis is restricted to release sites precisely opposed
+to postsynaptic receptors [5]. This spatial and temporal
+precision is mediated by the active zone, a protein net-
+work that consists of the molecular scaffolds RIM, ELKS,
+Bassoon, Munc13, Liprin-a and RIM-BP [6]. The active
+zone tethers primed, release ready vesicles to the pre-
+synaptic plasma membrane close to Ca2+ channels. Given
+the dogma of volume transmission, it remained unclear
+until recently whether dopamine release necessitates
+such machinery.
+Work over the past two years has established that axonal
+dopamine release requires active zone-like release sites.
+First, dopamine release is rapid, it occurs within milli-
+seconds of an action potential, and it has a high initial
+release probability when assessed in acute striatal brain
+slices [30]. This indicates that release-ready vesicles
+must be tethered close to Ca2+ channels, which is a
+functional deﬁnition of an active zone [4,6]. Notably,
+release probability is more variable in cultured dopamine
+neurons [40,41], and it is uncertain what the release
+probability is in an intact brain of a behaving animal.
+48 
+Molecular neuroscience
+small portion of vesicles from a terminal are released even under
+strong stimulation.
+Genetically encoded dopamine sensors (dLight [61] and GrabDA
+[62]) are fluorescent indicators obtained by engineering of dopa-
+mine receptors tagged with circularly permuted GFP. These recently
+developed probes have great potential because they exhibit high
+sensitivity and spatiotemporal resolution in vitro and in vivo. It is
+currently uncertain whether the sensors are localized like the
+respective dopamine receptors.
+Nanotube sensors are near-infrared fluorescent single-walled car-
+bon nanotubes conjugated with single strand oligonucleotides that
+are directly placed into tissue in vivo or in vitro (see Ref. [60] for an
+example). Upon dopamine binding, a large increase in fluorescence
+is observed. These sensors respond rapidly and are highly sensitive,
+making them well suited to study spatial and temporal properties of
+dopamine release. Specificity is limited because they detect other
+catecholamines and ascorbic acid.
+Figure 1
+fast vesicular
+Synaptotamins?
+Synapto-
+tagmin 7?
+CaV1 
+CaV2
+CaV3
+Synaptobrevin-2
+SNAP-25
+other SNAREs?
+Ca2+ source and sensors
+SNARE proteins
+dopamine varicosity
+(a) 
+(b) 
+(c) 
+(d)
+active zone proteins
+Munc13-1
+RIM
+Bassoon
+ELKS2
+established function 
+established localization
+ 
+established function and localization
+active zone-like
+release site
+dopamine
+vesicles 
+Current Opinion in Neurobiology
+Molecular machinery for axonal dopamine secretion.
+(a) Schematic of a dopamine varicosity with an active zone-like release site in green. Dotted rectangle represents the area shown in (b)–(d).
+(b) SNARE proteins have been implicated in dopamine release [28,29] and Synaptobrevin-2 has been localized to varicosities [30], but their
+cleavage has only partial effects on release.
+(c) While Ca2+ sensors for axonal dopamine release are not known, Synaptotagmin 7 may partially mediate somatodendritic release [39]. CaV1-3
+family Ca2+ channels all contribute to axonal dopamine secretion [34].
+(d) The active zone proteins RIM, ELKS2, Munc13-1 and Bassoon are clustered in dopamine axons [9,30,41], and RIM is essential for action
+potential triggered dopamine release [30].
+Adapted in part from Ref. [4].
+Current Opinion in Neurobiology 2019, 57:46–53 
+www.sciencedirect.com
+Second, dopamine axons contain active zone-like protein
+scaffolds with co-clustering of RIM, ELKS2, Bassoon,
+and likely Munc13-1 (Figure 1), fulﬁlling a morphological
+deﬁnition of an active zone-like site [30]. This is sup-
+ported by independent studies showing that Bassoon [41]
+and ELKS [9] are present in striatal dopamine axons,
+and is further supported by a recent report that Caenor-
+habditis elegans dopaminergic neurons also contain clus-
+tered active zone proteins [42]. Third, conditional knock-
+out 
+of 
+RIM 
+abolished 
+action 
+potential-triggered
+dopamine release nearly completely, and partially dis-
+rupted the active zone-like scaffold, establishing the
+necessity of these sites for release [30]. Together, these
+ﬁndings establish that dopamine release is fast and is
+restricted to active zone-like sites.
+A recent study found that only 20% of dopamine
+varicosities are active in response to depolarization
+[43], as established with ﬂuorescent false neurotransmit-
+ters (FFNs) that mimic dopamine uptake and release
+(Box 1). This ﬁnding indicates that many varicosities may
+be silent. The secretory architecture of dopamine axons
+supports this model (Figure 2), because only 30% of
+dopamine varicosities contain active zone-like release
+sites with RIM, and RIM is essential for action poten-
+tial-triggered dopamine release [30]. Given that 30% of
+dopamine varicosities contain postsynaptic densities [12],
+and some form GABAergic synaptic structures with the
+presence of presynaptic neurexin and postsynaptic neu-
+roligin-2 [9], one model that may arise is that dopamine
+is only released at synapses, which is further discussed in
+the section ‘Implications for dopamine signaling’.
+These ﬁndings raise additional questions: are dopamine
+neuron active zones identical to those at classical, fast
+synapses, or are there major differences? What is the precise
+molecular composition of dopamine release sites and how is
+Ca2+ source-sensor coupling organized? How does each
+molecular component of a dopamine release site participate
+indopaminevesicleexocytosis?Doessomatodendriticdopa-
+mine release rely on similar active zone machinery? We are
+only at the beginning of understanding the dopamine secre-
+tory machine. There are several hints, however, that dopa-
+mine axons and their release sites are not identical to
+‘average’ conventional axons and active zones. First, the
+release sites in dopamine axons are unusually sparse, differ-
+ent from most neurons [30,43]. Second, dopamine release
+has differential protein requirements at active zone-like
+sites, with RIM being more important and ELKS less
+important than at fast synapse [30,44,45]. Third, the active
+zone-like protein clusters have a different morphological
+appearance [30]. Together, these observations indicate that
+the active zone-like structure in dopamine neurons is func-
+tionally specialized, and systematic experimentation will be
+necessary to provide detailed answers for these questions.
+Regulation of dopamine release
+Dopamine neuron Ca2+ signals or somatic action potential
+ﬁring are often used as a proxy for dopamine signaling in
+behavioral experiments. However, axonal dopamine
+release is not scaling linearly with these parameters.
+Instead, the amount of extracellular dopamine that is
+sensed by receptors may be regulated at many stages
+including action potential propagation, dopamine produc-
+tion and vesicular loading, control of the number and
+Mechanisms and regulation of dopamine release Liu and Kaeser 
+49
+Figure 2
+failure of action
+potential propagation?
+addition of new
+active zone-like
+release sites?
+nAChR triggering
+of dopamine release
+potential regulatory mechanisms
+established regulatory mechanisms
+GPCR modulation
+of release site function?
+D2 receptor
+modulation of release
+dopamine neuron axon
+dopamine vesicle
+acetylcholine vesicle
+acetylcholine neuron axon
+active zone-like dopamine release site
+dopamine release
+silent varicosity
+Current Opinion in Neurobiology
+Active zone-centric model for the regulation of dopamine release.
+Established (blue) and potential (red) mechanisms that are involved in the control of dopamine release. Adapted in part from Ref. [30].
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2019, 57:46–53
+efﬁciency of vesicular release sites, and regulation of
+dopamine reuptake. We will here focus on recent progress
+of key regulators of dopamine release (Figure 2): the
+dependence on action potential ﬁring, striatal acetylcho-
+line, and dopamine D2 autoreceptors. A common feature
+of these factors is that they strongly modulate efﬁciency
+of the dopamine vesicle fusion step, but the underlying
+molecular mechanisms have remained elusive.
+Action potentials are a strong driving force for dopamine
+release. During microdialysis, reverse dialysis of tetrodo-
+toxin into the striatum to block action potential ﬁring
+reduces extracellular dopamine levels by 70% [30].
+However, not every action potential drives the same
+amount of dopamine release. An important example for
+this is short-term plasticity: because of the high initial
+release probability, release from dopamine neurons
+depresses strongly during a short action potential train,
+and the depression persists for tens of seconds after ﬁring
+[30,46]. Given the tonic ﬁring of dopamine neurons at
+0.2–10 Hz, it is likely that dopamine neurons are in a state
+of depletion, and extended quiescence before action
+potential ﬁring is likely positively correlated with the
+amount of dopamine released by an action potential.
+In some cases, dopamine release is independent of
+somatic action potential ﬁring. Dopamine release is pow-
+erfully triggered by activation of b2-containing nAChRs
+localized on dopamine axons, independent of ascending
+action potentials from midbrain dopamine neuron somata
+[31,32]. Because the striatal cholinergic interneurons are
+ﬁring tonically [47], they may strongly inﬂuence dopa-
+mine signaling. Another perhaps related example is
+reward expectation, during which striatal dopamine levels
+gradually increase without enhanced dopamine neuron
+ﬁring [48]. Hence, local striatal mechanisms can lead to
+increases in extracellular dopamine independent of
+somatic dopamine neuron action potentials, and it will
+be important to identify these mechanisms and assess
+their roles in dopamine signaling.
+It is also possible that not all somatic dopamine neuron
+action potentials reach the dopamine varicosities. Dopa-
+mine axons are unmyelinated and extensively arborized
+[49]. Therefore, action potential propagation is costly as it
+requires activation of membrane conductances over large
+axonal surfaces, and modeling supports that propagation
+failures may be common in these complex axons [50]. A
+recent study further showed that local opening of potas-
+sium conductances can inhibit action potential propaga-
+tion through shunting [51].
+Dopamine axons express Gi-coupled D2 autoreceptors
+that are sensitive to tonic and phasic dopamine [52,53].
+Activation of these autoreceptors inhibits dopamine syn-
+thesis, enhances dopamine uptake and regulates VMAT2
+expression [3]. At the soma, D2 receptors are coupled to
+GIRK potassium channels and their activation inhibits
+dopamine neuron ﬁring [13]. An interesting question is
+whether D2 receptor activation, and activation of other
+axonal GPCRs, can directly regulate components of the
+active zone-like dopamine release sites. Given that dopa-
+mine release requires these sites and several active zone
+proteins are regulated by GPCR signaling, for example
+via protein kinase A [6], these sites would be predestined
+as molecular substrates for regulation. Alternatively, or
+complementary to regulating individual sites, the overall
+number of axonal release sites could also be regulated.
+This may be a particularly powerful way of modulating
+dopamine release, because at baseline, only 30% of
+dopamine vesicle clusters are associated with secretory
+sites [30].
+Implications for dopamine signaling
+Dopamine has long been considered a volume transmitter
+that diffuses upon release to mediate effects in many cells
+over a large area, and on a slow time scale [8,16,17].
+Recent progress, however, has started to paint a more
+complex picture, with evidence for both fast and slow
+coding mechanisms for dopamine [1,2]. Recording and
+imaging studies found that dopamine codes events on the
+order of hundreds of milliseconds [54], and that dopamine
+neuron activity is regulated on similarly rapid time scales
+[55–57,58]. These studies establish subsecond coding
+roles for dopamine, but it has remained unclear how the
+striatal organization of dopamine release and reception
+could account for such rapid coding functions.
+The ﬁring of dopamine axons elicits dopamine release
+with very fast kinetics, and this release activates dopa-
+mine receptors with a signaling speed of tens of milli-
+seconds [30,52,53]. An interesting working model is that
+action potential-driven dopamine release may preferably
+or exclusively happen at active zone-like sites, and most
+dopamine varicosities are silent because they do not
+contain such sites [30,43]. Hence, extracellular dopa-
+mine levels are highly spatially and temporally variable,
+with hotspots of short-lived peaks of dopamine. A better
+understanding of the spatial organization of dopamine
+receptors relative to these dopamine hot spots will be
+essential for understanding how the structural organiza-
+tion of the striatum supports the time scales of dopamine
+coding. Receptors could be evenly distributed on target
+cells, only ‘synaptically’ clustered, or be organized in any
+way between these two extremes. Electron microscopic
+studies indeed found that 30% of dopamine varicosities
+are associated with postsynaptic specializations [8,11],
+and it is possible that these specializations exactly align
+with the sparse active zone-like dopamine release sites.
+Dopamine neurons corelease GABA [27], and GABAergic
+receptors are precisely opposed to dopaminergic presyn-
+aptic structures containing ELKS2/CAST [9]. The pre-
+cise distribution of the two major dopamine receptor
+families (D1 Gs- and D2 Gi-GPCRs) relative to the
+50 
+Molecular neuroscience
+Current Opinion in Neurobiology 2019, 57:46–53 
+www.sciencedirect.com
+secretory sites remains to be elucidated. Although dopa-
+mine 
+receptors 
+are 
+often 
+found 
+extrasynaptically
+[9,11,12], a recent study found that D2 receptors tagged
+with GFP by knockin are present in small clusters in the
+midbrain [59]. In addition, dopamine is detected in hot-
+spots upon release, diffusion is conﬁned [60] and striatal
+D2-receptors are activated rapidly [52,53]. It is thus
+possible that dopamine is only released at synaptic sites
+and sensed at nearby, possibly clustered receptors. A
+synapse-like organization with postsynaptic GABA recep-
+tors and nearby synaptic or perisynaptic dopamine recep-
+tor clusters could be one way to support rapid dopamine
+coding.
+We have here summarized recent progress on the striatal
+secretory machine for dopamine and have hypothesized
+how this secretory machine could be embedded in local
+striatal release triggering and dopamine sensing mecha-
+nisms to support fast dopamine functions. Future work
+will need to assess these hypotheses and will rely on new
+tools. Recent progress in the development of microscopic
+methods, 
+including 
+ﬂuorescent 
+dopamine 
+sensors
+[61,62] and super-resolution microscopy will help to
+better assess the microarchitecture and function of striatal
+dopamine signaling.
+Conﬂict of interest statement
+Nothing declared.
+Acknowledgements
+This work was supported by the National Institutes of Health
+(R01NS083898, R01NS103484 and R01MH113349, all to P.S.K.), by the
+Dean’s Initiative Award for Innovation (to P.S.K.), by a Harvard-MIT Joint
+Research Grant (to P.S.K.), and by a Gordon postdoctoral fellowship (to C.
+L.).
+References and recommended reading
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+ 
+of special interest
+ of outstanding interest
+1. 
+Berke JD: What does dopamine mean? Nat Neurosci 2018,
+21:787-793.
+2. 
+Schultz W: Multiple dopamine functions at different time
+courses. Annu Rev Neurosci 2007, 30:259-288.
+3. 
+Sulzer D, Cragg SJ, Rice ME: Striatal dopamine
+neurotransmission: regulation of release and uptake. Basal
+Ganglia 2016, 6:123-148.
+4. 
+Kaeser PS, Regehr WG: Molecular mechanisms for
+synchronous, asynchronous, and spontaneous
+neurotransmitter release. Annu Rev Physiol 2014, 76:333-363.
+5. 
+Biederer T, Kaeser PS, Blanpied TA: Transcellular
+nanoalignment of synaptic function. Neuron 2017, 96:680-696.
+6. 
+Su¨ dhof TC: The presynaptic active zone. Neuron 2012, 75:11-25.
+7. 
+Pang ZP, Sudhof TC: Cell biology of Ca2+-triggered exocytosis.
+Curr Opin Cell Biol 2010, 22:496-505.
+8. 
+Descarries L, Watkins KC, Garcia S, Bosler O, Doucet G: Dual
+character, asynaptic and synaptic, of the dopamine
+innervation in adult rat neostriatum: a quantitative
+autoradiographic and immunocytochemical analysis. J Comp
+Neurol 1996, 375:167-186.
+9.
+
+Uchigashima M, Ohtsuka T, Kobayashi K, Watanabe M:
+Dopamine synapse is a neuroligin-2-mediated contact
+between dopaminergic presynaptic and GABAergic
+postsynaptic structures. Proc Natl Acad Sci U S A 2016,
+113:201514074.
+This study examines the association of dopamine varicosities with post-
+synaptic specializations using immuno-electron microscopy and ﬂuor-
+escent imaging in striatal slices. It establishes that dopamine varicosities
+synapse onto GABA-ergic postsynaptic structures that contain neuroligin
+2, and that ELKS2/CAST and neurexin are present in the presynapse.
+10. Missale C, Nash SRS, Robinson SW, Jaber M, Caron MG:
+Dopamine receptors: from structure to function. Physiol Rev
+1998, 78:189-225.
+11. Yung KK, Bolam JP, Smith AD, Hersch SM, Ciliax BJ, Levey AI:
+Immunocytochemical localization of D1 and D2 dopamine
+receptors in the basal ganglia of the rat: light and electron
+microscopy. Neuroscience 1995, 65:709-730.
+12. Cailld I, Dumartin B, Bloch B: Ultrastructural localization of D
+1 dopamine receptor immunoreactivity in rat striatonigral
+neurons and its relation with dopaminergic innervation. Brain
+Res 1996, 730:17-31.
+13. Beckstead MJ, Grandy DK, Wickman K, Williams JT: Vesicular
+dopamine release elicits an inhibitory postsynaptic current in
+midbrain dopamine neurons. Neuron 2004, 42:939-946.
+14. Gantz SC, Bunzow JR, Williams JT: Spontaneous inhibitory
+synaptic currents mediated by a G protein-coupled receptor.
+Neuron 2013, 78:807-812.
+15. Li H, Waites CL, Staal RG, Dobryy Y, Park J, Sulzer DL,
+Edwards RH: Sorting of vesicular monoamine transporter 2 to
+the regulated secretory pathway confers the somatodendritic
+exocytosis of monoamines. Neuron 2005, 48:619-633.
+16. Agnati LF, Zoli M, Stro¨ mberg I, Fuxe K: Intercellular
+communication in the brain: wiring versus volume
+transmission. Neuroscience 1995, 69:711-726.
+17. Rice ME, Cragg SJ: Dopamine spillover after quantal release:
+rethinking dopamine transmission in the nigrostriatal
+pathway. Brain Res Rev 2008, 58:303-313.
+18. Borisovska M, Zhao Y, Tsytsyura Y, Glyvuk N, Takamori S, Matti U,
+Rettig J, Sudhof T, Bruns D: v-SNAREs control exocytosis of
+vesicles from priming to fusion. EMBO J 2005, 24:2114-2126.
+19. Shimojo M, Courchet J, Pieraut S, Torabi-Rander N, Sando R,
+Polleux F, Maximov A: SNAREs controlling vesicular release of
+BDNF and development of callosal axons. Cell Rep 2015,
+11:1054-1066.
+20. van de Bospoort R, Farina M, Schmitz SK, de Jong A, de Wit H,
+Verhage M, Toonen RF: Munc13 controls the location and
+efﬁciency of dense-core vesicle release in neurons. J Cell Biol
+2012, 199:883-891.
+21. Falkenburger BH, Barstow KL, Mintz IM: Dendrodendritic
+inhibition through reversal of dopamine transport. Science
+2001, 293:2465-2470.
+22. Nirenberg MJ, Chan J, Liu Y, Edwards RH, Pickel VM:
+Ultrastructural localization of the vesicular monoamine
+transporter-2 in midbrain dopaminergic neurons: potential
+sites for somatodendritic storage and release of dopamine. J
+Neurosci 1996, 16:4135-4145.
+23. Borisovska M, Bensen AL, Chong G, Westbrook GL: Distinct
+modes of dopamine and GABA release in a dual transmitter
+neuron. J Neurosci 2013, 33:1790-1796.
+24. Kress GJ, Shu H-J, Yu A, Taylor A, Benz A, Harmon S,
+Mennerick S: Fast phasic release properties of dopamine
+studied with a channel biosensor. J Neurosci 2014, 34:11792-
+11802.
+25. Staal RG, Mosharov EV, Sulzer D: Dopamine neurons release
+transmitter via a ﬂickering fusion pore. Nat Neurosci 2004,
+7:341-346.
+Mechanisms and regulation of dopamine release Liu and Kaeser 
+51
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2019, 57:46–53
+26. Fon EA, Pothos EN, Sun B-CC, Killeen N, Sulzer D, Edwards RH:
+Vesicular transport regulates monoamine storage and release
+but is not essential for amphetamine action. Neuron 1997,
+19:1271-1283.
+27. Tritsch NX, Ding JB, Sabatini BL: Dopaminergic neurons inhibit
+striatal output through non-canonical release of GABA. Nature
+2012, 490:262-266.
+28. Fortin GD, Desrosiers CC, Yamaguchi N, Trudeau LE: Basal
+somatodendritic dopamine release requires snare proteins. J
+Neurochem 2006, 96:1740-1749.
+29. Bergquist F, Niazi HS, Nissbrandt H: Evidence for different
+exocytosis pathways in dendritic and terminal dopamine
+release in vivo. Brain Res 2002, 950:245-253.
+30.
+
+Liu C, Kershberg L, Wang J, Schneeberger S, Kaeser PS:
+Dopamine secretion is mediated by sparse active zone-like
+release sites. Cell 2018, 172:706-718.
+This study describes the molecular composition and function of active-
+zone-like release sites in dopamine varicosities. It is demonstrated that
+action potential triggered dopamine release is rapid and requires the
+release site scaffold RIM, but not ELKS. Remarkably, active zone like-
+sites are only present in approximately one third of the dopamine
+varicosities.
+31. Zhou F-MM, Liang Y, Dani JA: Endogenous nicotinic cholinergic
+activity regulates dopamine release in the striatum. Nat
+Neurosci 2001, 4:1224-1229.
+32. Threlfell S, Lalic T, Platt NJ, Jennings KA, Deisseroth K, Cragg SJ:
+Striatal dopamine release is triggered by synchronized activity
+in cholinergic interneurons. Neuron 2012, 75:58-64.
+33. Chen BT, Moran KA, Avshalumov MV, Rice ME: Limited
+regulation of somatodendritic dopamine release by
+voltage-sensitive Ca2+ channels contrasted with strong
+regulation of axonal dopamine release. J Neurochem 2006,
+96:645-655.
+34.
+
+Brimblecombe KR, Gracie CJ, Platt NJ, Cragg SJ: Gating of
+dopamine transmission by calcium and axonal N-, Q-, T- and
+L-type voltage-gated calcium channels differs between
+striatal domains. J Physiol 2015, 593:929-946.
+This study examines the contribution of different voltage gated Ca2+
+channels to dopamine release without the confound of cholinergic release
+triggering. It establishes that CaV1, 2, and 3 channels contribute to
+dopamine release with some regional differences between the dorsal
+striatum and nucleus accumbens. This is different from fast synapses,
+where CaV2 channels predominate.
+35. Takahashi T, Momiyama A: Different types of calcium channels
+mediate central synaptic transmission. Nature 1993, 366:156-
+158.
+36. Kang S, Cooper G, Dunne SF, Dusel B, Luan C-H, Surmeier DJ,
+Silverman RB: CaV1.3-selective L-type calcium channel
+antagonists as potential new therapeutics for Parkinson’s
+disease. Nat Commun 2012, 3:1146.
+37. Jackman SL, Turecek J, Belinsky JE, Regehr WG: The calcium
+sensor synaptotagmin 7 is required for synaptic facilitation.
+Nature 2016, 529:88-91.
+38. Mendez JA, Bourque MJ, Fasano C, Kortleven C, Trudeau LE:
+Somatodendritic dopamine release requires synaptotagmin
+4 and 7 and the participation of voltage-gated calcium
+channels. J Biol Chem 2011, 286:23928-23937.
+39. Wang C, Kang X, Zhou L, Chai Z, Wu Q, Huang R, Xu H, Hu M,
+Sun X, Sun S et al.: Synaptotagmin-11 is a critical mediator of
+parkin-linked neurotoxicity and Parkinson’s disease-like
+pathology. Nat Commun 2018, 9:81.
+40. Pan P-YY, Ryan TA: Calbindin controls release probability in
+ventral tegmental area dopamine neurons. Nat Neurosci 2012,
+15:813-815.
+41. Daniel JA, Galbraith S, Iacovitti L, Abdipranoto A, Vissel B:
+Functional heterogeneity at dopamine release sites. J Neurosci
+2009, 29:14670-14680.
+42. Lipton DM, Maeder CI, Shen K: Rapid assembly of presynaptic
+materials behind the growth cone in dopaminergic neurons is
+mediated by precise regulation of axonal transport. Cell Rep
+2018, 24:2709-2722.
+43.
+
+Pereira DB, Schmitz Y, Me´ sza´ ros J, Merchant P, Hu G, Li S,
+Henke A, Lizardi-Ortiz JE, Karpowicz RJ, Morgenstern TJ et al.:
+Fluorescent false neurotransmitter reveals functionally silent
+dopamine vesicle clusters in the striatum. Nat Neurosci 2016,
+19:578-586.
+This study develops and uses a new ﬂuorescent false neurotransmitter,
+FFN200, which is taken up into vesicles via VMAT2. While most dopamine
+terminals exhibit depolarization induced Ca2+ entry, only 20% of them
+release FFN200 in response to action potentials, indicating that many
+dopamine varicosities are silent.
+44. Kaeser PS, Deng L, Wang Y, Dulubova I, Liu X, Rizo J, Su¨ dhof TC:
+RIM proteins tether Ca2+ channels to presynaptic active zones
+via a direct PDZ-domain interaction. Cell 2011, 144:282-295.
+45. Held RG, Liu C, Kaeser PS: ELKS controls the pool of readily
+releasable vesicles at excitatory synapses through its N-
+terminal coiled-coil domains. eLife 2016, 5.
+46. Wang L, Zhang X, Xu H, Zhou L, Jiao R, Liu W, Zhu F, Kang X, Liu B,
+Teng S et al.: Temporal components of cholinergic terminal to
+dopaminergic terminal transmission in dorsal striatum slices
+of mice. J Physiol 2014, 592:3559-3576.
+47. Morris G, Arkadir D, Nevet A, Vaadia E, Bergman H: Coincident
+but distinct messages of midbrain dopamine and striatal
+tonically active neurons. Neuron 2004, 43:133-143.
+48.
+
+Mohebi A, Pettibone J, Hamid A, Wong J-M, Kennedy R, Berke J:
+Forebrain dopamine value signals arise independently from
+midbrain dopamine cell ﬁring. bioRxiv 2018 http://dx.doi.org/
+10.1101/334060.
+This study examines dopamine levels in the nucleus accumbens and
+somatic dopamine neuron ﬁring in the ventral tegmental area during
+reward-driven learning. Remarkably, striatal dopamine increases during
+motivation without an increase in somatic ﬁring, indicating that extra-
+cellular dopamine is regulated independent of somatic ﬁring.
+49. Matsuda W, Furuta T, Nakamura KC, Hioki H, Fujiyama F, Arai R,
+Kaneko T: Single nigrostriatal dopaminergic neurons form
+widely spread and highly dense axonal arborizations in the
+neostriatum. J Neurosci 2009, 29:444-453.
+50. Pissadaki EK, Bolam JP: The energy cost of action potential
+propagation in dopamine neurons: clues to susceptibility in
+Parkinson’s disease. Front Comput Neurosci 2013, 7:1-17.
+51. Condon M, Platt N, Roberts B, Tseu M-Y, Vietti-Michelina S,
+Threlfell S, Cragg SJ: Plasticity in striatal dopamine release is
+governed by release-independent depression and the
+dopamine transporter. bioRxiv 2018 http://dx.doi.org/10.1101/
+392753.
+52. Marcott PF, Mamaligas AA, Ford CP: Phasic dopamine release
+drives rapid activation of striatal D2-receptors. Neuron 2014,
+84:164-176.
+53.
+
+Marcott PF, Gong S, Donthamsetti P, Grinnell SG, Nelson MN,
+Newman AH, Birnbaumer L, Martemyanov KA, Javitch JA,
+Ford CP: Regional heterogeneity of D2-receptor signaling in
+the dorsal striatum and nucleus accumbens. Neuron 2018,
+98:575-587.e4.
+In this and a previous study [52], the authors virally express GIRK
+channels to characterize D2 receptor activation in medium spiny neurons.
+D2 receptor signaling is remarkably fast but has regional heterogeneity.
+54. Yagishita S, Hayashi-Takagi A, Ellis-Davies GCR, Urakubo H,
+Ishii S, Kasai H: A critical time window for dopamine actions on
+the structural plasticity of dendritic spines. Science 2014,
+345:1616-1620.
+55. Parker NF, Cameron CM, Taliaferro JP, Lee J, Choi JY,
+Davidson TJ, Daw ND, Witten IB: Reward and choice encoding
+in terminals of midbrain dopamine neurons depends on
+striatal target. Nat Neurosci 2016, 19:845-854.
+56. da Silva JA, Tecuapetla F, Paixao V, Costa RM: Dopamine neuron
+activity before action initiation gates and invigorates future
+movements. Nature 2018, 554:244-248.
+57. Howe MW, Dombeck DA: Rapid signalling in distinct
+dopaminergic axons during locomotion and reward. Nature
+2016, 535:505-510.
+52 
+Molecular neuroscience
+Current Opinion in Neurobiology 2019, 57:46–53 
+www.sciencedirect.com
+58.
+
+Menegas W, Akiti K, Amo R, Uchida N, Watabe-Uchida M:
+Dopamine neurons projecting to the posterior striatum
+reinforce avoidance of threatening stimuli. Nat Neurosci 2018,
+21:1421-1430.
+This study investigates the function of a subset of midbrain dopamine
+neurons that project to the tail of the striatum. The authors ﬁnd that these
+neurons do not encode reward value, but instead are speciﬁcally involved
+in avoidance of threatening stimuli. Notably, information coding by these
+dopamine neurons exerts rapid, subsecond behavioral effects.
+59. Robinson BG, Bunzow JR, Grimm JB, Lavis LD, Dudman JT,
+Brown J, Neve KA, Williams JT: Desensitized D2 autoreceptors
+are resistant to trafﬁcking. Sci Rep 2017, 7.
+60. Beyene AG, Delevich K, ODonnell JTDB, Piekarski DJ, Lin WC,
+Thomas AW, Yang SJ, Kosillo P, Yang D, Wilbrecht L et al.:
+Imaging striatal dopamine release using a non-genetically
+encoded near-infrared ﬂuorescent catecholamine
+nanosensor. bioRxiv 2018 http://dx.doi.org/10.1101/356543.
+61.
+
+Patriarchi T, Cho JR, Merten K, Howe MW, Marley A, Xiong W-H,
+Folk RW, Broussard GJ, Liang R, Jang MJ et al.: Ultrafast
+neuronal imaging of dopamine dynamics with designed
+genetically encoded sensors. Science 2018, 360:eaat4422.
+62.
+
+Sun F, Zeng J, Jing M, Zhou J, Feng J, Owen SF, Luo Y, Li F,
+Wang H, Yamaguchi T et al.: A genetically encoded ﬂuorescent
+sensor enables rapid and speciﬁc detection of dopamine in
+ﬂies, ﬁsh, and mice. Cell 2018, 174:481-496.e19.
+References [61] and [62] present the generation of highly speciﬁc,
+genetically encoded optical sensors that detect dopamine release with
+high spatial and temporal resolution. It is expected that these new tools
+will be widely used to study dopamine secretion and function.
+Mechanisms and regulation of dopamine release Liu and Kaeser 
+53
+www.sciencedirect.com 
+Current Opinion in Neurobiology 2019, 57:46–53
+

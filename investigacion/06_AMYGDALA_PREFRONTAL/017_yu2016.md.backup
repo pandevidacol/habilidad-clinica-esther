@@ -1,0 +1,475 @@
+---
+# Integrity of Amygdala Subregion-Based Functional Networks and Emotional Lability in Drug-Naïve Boys With ADHD
+**Autores**: Not specified
+**Año**: 2016
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Abstract
+Objective: This study evaluated the functional networks of amygdala subregions (basolateral [BLA], centromedial [CMA], 
+and superficial amygdala [SFA]) in ADHD and their association with emotional lability (EL) symptoms. Method: Resting-
+state functional connectivity (RSFC) of amygdala subregions and their correlations with EL scores were evaluated in 35 
+drug-naïve boys with ADHD and 30 age-matched healthy controls (HC).
+
+## Key Findings
+Discussion
+To our knowledge, this is the first study on amygdala subre­
+gion-based connectivity and EL expression in boys with 
+ADHD. There are two key findings confirming our two pre­
+dictions. First, when compared with HC, boys with ADHD 
+showed a general pattern of widespread reduced RSFC 
+between amygdala subregions and the dorsal frontoparietal 
+cortical areas, temporal cortex, and limbic regions. More 
+specifically, the BLA network showed altered RSFC with 
+the thalamus and vermis. Altered RSFC of the CMA was 
+found with the STG/STP and insula, PCu, and cerebellum; 
+RSFC between the SFA and dorsal frontoparietal cortices 
+was reduced. Second, within-group analysis in patients with 
+ADHD showed that higher EL scores were associated with 
+weaker connectivity between the SFA and DLPFC and 
+between the SFA and IPL. These findings suggest that EL 
+expression in boys with ADHD is likely associated with 
+alterations in the hypothesized top–down (“effortful”) regu­
+lation of emotion.
+Abn... (Extracted from Discussion)
+
+## Methodology
+Not found
+
+## Results
+Results: Compared with HC, altered RSFC were 
+detected differently for each amygdala subregion in ADHD: altered RSFC of BLA with the thalamus and vermis; aberrant 
+RSFC of CMA with the superior temporal gyrus/pole and insula, precuneus and cerebellum; reduced RSFC of SFA with 
+dorsal frontoparietal cortices. Within ADHD, higher EL scores were associated with reduced negative RSFC of SFA with 
+the dorsolateral prefrontal cortex and inferior parietal lobe.
+
+## Clinical Significance
+Conclusion: Diffuse alterations of amygdala subregion-based 
+networks are associated with ADHD, and the weaker SFA–frontoparietal networks might be involved in the hypothesized 
+top–down effortful regulation of emotion. (J. of Att. Dis. XXXX; XX(X) XX-XX)
+Keywords
+ADHD, amygdala subregions, resting-state functional connectivity, emotional lability, dorsal prefrontal cortex
+ at EASTERN UNIV on August 12, 2016
+jad.sagepub.com
+Downloaded from 
+2	
+Journal of Attention Disorders ﻿
+as possible neural substrates for emotional reactivity in 
+ADHD. Another study specifically focused on EL symptoms 
+and identified its associations with abnormal amygdala–
+cortical functional connectivity in children with ADHD 
+(Hulvershorn et  al., 2014). More specifically, EL scores 
+were associated with increased positive resting-state func­
+tional connectivity (RSFC) between the amygdala and 
+medial prefrontal regions, but they were associated with less 
+positive RSFC between the amygdala and superior temporal 
+gyrus (STG)/insula. However, these studies defined the 
+amygdala as a single homogeneous unit and thereby over­
+looked the anatomical and functional distinctions of its indi­
+vidual subregions.
+Indeed, the amygdala is a complex and functionally het­
+erogeneous structure, consisting of different subregions 
+that are involved in different emotional processes, each 
+with separate pathways (Han, Lee, Kim, & Kim, 2014). 
+Based on the cytoarchitectonic assessment of human post­
+mortem brains (Amunts et al., 2005) and the neuroimag­
+ing-based modeling on probabilistic anatomical mapping 
+(Bzdok, Laird, Zilles, Fox, & Eickhoff, 2013), the amyg­
+dala can be functionally partitioned into three major subre­
+gions: the basolateral (BLA), centromedial (CMA), and 
+superficial amygdala (SFA; Amunts et al., 2005). The dif­
+ferent functions of these subregions can be extrapolated 
+from both animal and human studies. The BLA, composed 
+of lateral, basolateral, basomedial, and basoventral nuclei, 
+is related to emotional and associative learning processes 
+(Roy et al., 2009). Overall, the BLA is thought to represent 
+an integration center for coordinating inputs from the pre­
+frontal cortex (PFC), thalamus, hippocampus, and visual 
+and auditory cortices (LeDoux, 2003; Phelps & LeDoux, 
+2005). The CMA (including central and medial nuclei) has 
+been suggested to receive convergent information from 
+other amygdala subregions, thereby acting as the gateway 
+to generate motor, behavioral, and autonomic emotional 
+responses (LeDoux, 2003; Pessoa, 2011). The SFA modu­
+lates approach-avoidant behavioral expression and forms 
+specific functional connectivity with areas of the “limbic 
+lobe,” while processing olfactory, socially relevant and 
+reward-related information (Bzdok et al., 2013; Heimer & 
+Van Hoesen, 2006). In human brains, the amygdala subre­
+gions can be delineated based on the probabilistic maps of 
+the cytoarchitectonic boundaries in a quantitatively strict 
+way (Amunts et  al., 2005; Eickhoff et  al., 2005; Qin, 
+Young, Supekar, Uddin, & Menon, 2012). The feasibility 
+and validity of applying this method to functional Magnetic 
+Resonance Imaging (fMRI) data has been validated in pre­
+vious studies (Etkin, Prater, Schatzberg, Menon, & 
+Greicius, 2009; Qin et al., 2012; Roy et al., 2009). Indeed, 
+the functional heterogeneity of amygdala subregions has 
+been investigated in both healthy human volunteers and 
+patients with other emotion-related disorders (Etkin et al., 
+2009; Roy et al., 2009, 2013, 2014; Singh, Kelley, Chang, 
+& Gotlib, 2015). However, so far, comparable studies in 
+children and adolescents, particularly those with ADHD, 
+are few.
+Apart from the amygdala being involved in “bottom-up” 
+emotional processing, the PFC also plays a central role in 
+“top-down” regulation (Shaw, Stringaris, Nigg, & Leibenluft, 
+2014; Wessa & Linke, 2009). Current theories suggest two 
+separable emotional regulatory pathways: “automatic” and 
+“effortful” (Roy et  al., 2013). The ventromedial PFC 
+(VMPFC) is implicated in automatic emotional processing 
+(Roy et  al., 2013), whereas both the dorsomedial PFC 
+(DMPFC) and dorsolateral PFC (DLPFC) are implicated in 
+effortful/cognitive regulation of emotion (Phillips, Drevets, 
+Rauch, & Lane, 2003; Phillips, Ladouceur, & Drevets, 2008; 
+Roy et al., 2013). Accordingly, emotional dysregulation due 
+to a “top-down” control deficits may arise from alterations 
+in automatic or/and effortful pathways.
+To elucidate the neural networks involved in EL expres­
+sion in children with ADHD, the present study utilized 
+RSFC to investigate the integrity of amygdala subregion-
+based networks and to explore their correlations with EL 
+symptoms. More specifically, the aim was to evaluate the 
+connectivity between amygdala subregions and the hypoth­
+esized neural circuits involved in both automatic and effort­
+ful emotional processing. This study recruited drug-naïve 
+boys with ADHD with varying levels of EL expression to 
+minimize the confounding effects of pharmacological treat­
+ments. Based on prior literature, we expected that (a) boys 
+with ADHD would show alterations in amygdala subregion-
+based RSFC circuits when compared with healthy controls 
+(HC), and (b) these alterations, in particular those in RSFC 
+between the amygdala subregions and the putative PFC 
+regions involved in automatic or effortful/cognitive emo­
+tional processing, would be correlated with EL symptoms in 
+boys with ADHD.
+Method
+Participants
+Thirty-six drug-naïve (stimulants and other psychotropic 
+drugs) right-handed boys with ADHD (aged 8-14 years) 
+and full-scale IQ scores >80 were recruited from child and 
+adolescent psychiatric clinics of Peking University Sixth 
+Hospital. Exclusion criteria were as follows: (a) a diagnosis 
+or history of head trauma with loss of consciousness, (b) a 
+history of neurological illness or other severe disease, and 
+(c) a diagnosis of schizophrenia, affective disorders, anxi­
+ety, tic disorders, pervasive developmental disorders, or 
+mental retardation. In addition, one participant was excluded 
+from further analyses due to excessive head movements 
+(>2.5 mm of translation or degrees of rotation in any direc­
+tion). The clinical diagnosis of ADHD was first made by a 
+qualified child and adolescent psychiatrist, and the research 
+ at EASTERN UNIV on August 12, 2016
+jad.sagepub.com
+Downloaded from 
+Yu et al.	
+3
+standard caseness was then determined and validated using 
+the Chinese translated version of Schedule for Affective 
+Disorders and Schizophrenia for School-Age Children-
+Present and Lifetime Version (K-SADS-PL; Kaufman et al., 
+1997) based on Diagnostic and Statistical Manual of Mental 
+Disorders (4th ed.; DSM-IV; American Psychiatric 
+Association, 1994) criteria by one of the senior child and 
+adolescent psychiatrists (L.S. and Q-J.C.). The interrater 
+reliability for K-SADS-PL definite DSM diagnoses were 
+high with kappas ranging from 0.80 to 1.00. The ADHD 
+Rating Scale-IV (ADHD RS-IV) was also completed by the 
+parents for evaluation of ADHD symptom severity. Nine 
+inattention items and nine hyperactivity-impulsivity items 
+were rated on a Likert-type scale from 0 to 3. This scale has 
+previously been translated into Chinese and demonstrated 
+good reliability and validity (Su et al., 2006). Among the 35 
+boys with ADHD selected for the final analyses, 16 (45.7%) 
+met the criteria for combined subtype (ADHD-C), 18 
+(51.4%) for inattentive subtype (ADHD-I), and 1 (2.9%) for 
+hyperactive/impulsive subtype (ADHD-HI). In addition, 11 
+(31.4%) patients had a comorbid diagnosis of oppositional 
+defiant disorder (ODD).
+Thirty age- and sex-matched HCs were recruited from 
+local primary schools. In the HC group, individuals with 
+ADHD, ODD, conduct disorder (CD), or other Axis I psy­
+chiatric disorders were excluded using the K-SADS-PL 
+interview. The detailed recruitment procedure is given in a 
+flowchart (see Figure S1, available online).
+This study was approved by the Research Ethics Review 
+Board of Peking University Sixth Hospital. Written 
+informed consent was obtained from the parents of partici­
+pants, and all of the children also gave assent to 
+participate.
+EL
+EL symptoms were quantified using designated subscale 
+items in the Conners’ Parent Rating Scale, which has been 
+used in several previous studies (Hulvershorn et al., 2014; 
+Liu et  al., 2016; Merwood et  al., 2014; Sobanski et  al., 
+2010). These included the following: (a) “Mood changes 
+quickly and drastically,” (b) “demands must be met imme­
+diately—easily frustrated in effort,” (c) “cries often and 
+easily,” and (d) “temper outbursts, explosive and unpredict­
+able behavior” (Liu et  al., 2016; Merwood et  al., 2014). 
+These items were rated on a 4-point Likert-type scale (i.e., 
+0 = never, 1 = sometimes, 2 = often, and 3 = always). The 
+unidimensionality of the EL subscale has been reviewed 
+(Conners, 1997) and further validated by recent studies (Liu 
+et al., 2016; Merwood et al., 2014; Westerlund, Ek, Holmerg, 
+Näswall, & Fernell, 2009). The Chinese version was trans­
+lated by Xu (1999). An “EL score” was calculated by sum­
+ming across the four items as conducted in recent published 
+studies (Liu et al., 2016; Merwood et al., 2014).
+MRI Data Acquisition
+MRI data were acquired using a Siemens Trio 3T scanner 
+(Siemens, Erlangen, Germany) at the Imaging Center for 
+Brain Research, Beijing Normal University. During 
+RS-fMRI scanning, participants lay supine and were 
+instructed to remain still and relaxed with their eyes closed 
+and to keep their mind vacant but without falling asleep. A 
+head strap and foam pads were used to minimize head 
+movements. Immediately after the 8-min RS-fMRI scan, 
+we asked the children whether they had fallen asleep. All 
+children reported that they had not fallen asleep. Functional 
+images were acquired using an echo-planar imaging 
+sequence with the following parameters: repetition time 
+(TR) = 2,000 ms, echo time (TE) = 30 ms, flip angle = 90°, 
+thickness/skip = 3.5/0.7 mm, matrix = 64 × 64, field of view 
+(FOV) = 200 × 200 mm, 33 axial slices, 240 volumes. High-
+resolution T1-weighted anatomical images were acquired 
+with the following parameters: TR = 2,530 ms, TE = 3.39 
+ms, inversion time = 1,100 ms, flip angle = 7°, 128 slices, 
+slice thickness = 1.33 mm, FOV = 256 × 256 mm, matrix = 
+256 × 256.
+Data Preprocessing
+The data analysis was performed using the Data Processing 
+Assist for Resting-State fMRI (DPARSF; Yan & Zang, 
+2010) and the Resting-State fMRI Data Analysis Toolkit 
+(REST; http://www.restfmri.net; Song et  al., 2011). The 
+data preprocessing consisted of excluding the first 10 func­
+tional images of each participant, slice timing, head motion 
+correction, co-registration of individual T1 images to func­
+tional images, spatial normalization to the Montreal 
+Neurological Institute (MNI) space (resampled voxel size = 
+3 × 3 × 3 mm3), spatial smoothing (Gaussian kernel full-
+width at half-maximum = 6 mm), linear detrending, and 
+band-pass filtering (0.01-0.08 Hz). To model and remove 
+the confounding artifacts of head motion and physiological 
+noise (i.e., cardiac and respiratory fluctuations) during the 
+resting state, nuisance signals (including six motion param­
+eters, global mean and signals from white matter and cere­
+brospinal fluid) were regressed from the data.
+RSFC
+Mean time series of three subamygdala regions of interest 
+(ROIs; Roy et al., 2009, 2013) were extracted based on prob­
+abilistic anatomical maps (Amunts et al., 2005) using Jülich 
+histological atlas in FSL (http://www.fmrib.ox.ac.uk/fsl). 
+Accordingly, the left and right amygdala subregions (BLA, 
+CMA and SFA) were modeled into MNI space. Detailed 
+information about the definition of amygdala subregions is 
+available in the supporting information (see Supplement 2, 
+Figure S2, available online). For each hemisphere, individual 
+ at EASTERN UNIV on August 12, 2016
+jad.sagepub.com
+Downloaded from 
+4	
+Journal of Attention Disorders ﻿
+RSFC maps of amygdala subregions were generated by cal­
+culating Pearson’s correlation coefficients between the mean 
+time series of ROIs and the time series of each voxel in the 
+whole brain in a voxel-wise manner. Subject-level correla­
+tion maps were then converted to z-value maps using Fisher’s 
+transformation.
+Statistical Analysis
+Group-level analyses were performed using REST and 
+SPSS 19.0. First, one-sample t tests were conducted on 
+z-maps of each ROI to generated maps of all voxels show­
+ing significant positive or negative RSFC with each amyg­
+dala subregion. Second, to compare between-group 
+differences of each subregion-based RSFC pattern, inde­
+pendent sample t tests between ADHD and HC groups were 
+implemented in a whole-brain voxel-wise manner using 
+REST. Although no significant group differences were 
+observed in mean frame-wise displacement (FD; Power, 
+Barnes, Snyder, Schlaggar, & Petersen, 2012) between two 
+groups, the mean FD together with age were entered as 
+covariates in between-group analyses to control for motion 
+artifacts. To correct for multiple statistical comparisons, a 
+threshold of p < .01 with a cluster size ≥ 45 voxels, which 
+corresponds to a whole-brain cluster level corrected to p < 
+.017 (.05/3, three amygdala subregions), was set by 
+AlphaSim to detect significant between-group differences 
+(Ledberg, Akerman, & Roland, 1998). Finally, Pearson’s 
+correlation analyses were performed between RSFC z-val­
+ues of brain regions showing significant group differences 
+and EL scores in ADHD and HC groups. The statistical 
+level of significance was set at p < .05.
+Validation: Controlling for Potential Confounders
+Head movements.  The artifacts of head micromovements on 
+RSFC have raised particular concern, and recent studies have 
+proposed different strategies to address this issue (Kong et al., 
+2014; Power et  al., 2012; Zeng et  al., 2014). Here, 
+we reconducted our data processing using the “scrubbing” 
+technique (Power et al., 2012). Briefly, volumes with a FD > 
+0.5 mm were scrubbed, and one volume before and two vol­
+umes after the target volume were removed for each partici­
+pant (Power et al., 2012; Wang et al., 2015). Residual images 
+were then used to recompute the RSFC maps for amygdala 
+subregions and subsequently for between-group comparisons.
+Covarying IQ.  To adjust for the effects of lower IQ scores 
+among ADHD participants than among HC, we tested the 
+reproducibility by reconducting the comparison analyses 
+with IQ as a covariate.
+Correlations with EL covarying potential confounders.  To 
+account for the effects of potential confounders, we recon­
+ducted correlation analyses between EL scores and the 
+RSFC z-values of brain regions (showing significant 
+between-group differences) while covarying age, FD, IQ, 
+ODD diagnosis, and hyperactivity/impulsivity symptoms 
+(as well as additional inattentive symptoms) as covariates. 
+The detailed reasons for including these factors as covari­
+ates are given in the supporting information (see Supple­
+ment 3(3), available online).
+Results
+The demographics and clinical characteristics of ADHD 
+and HC groups are given in Table 1. Briefly, boys with 
+ADHD showed lower IQ scores and higher clinical symp­
+toms levels than HC. No differences in age and FD were 
+detected between the two groups.
+Amygdala Subregion-Based RSFC
+RSFC maps of amygdala subregions for each hemisphere were 
+derived from voxel-wise analyses of our participants (ADHD 
+and HC groups). In the HC group, spontaneous activity in 
+amygdala subregions correlated with activity in the temporal 
+and limbic lobes, pre and postcentral gyrus (PreCG/PoCG) and 
+Table 1.  Demographic and Clinical Information.
+Variables
+HC (n = 30)
+ADHD (n = 35)
+t value
+p value
+(M ± SD)
+(M ± SD)
+Age (years)
+10.30 ± 1.68
+10.31 ± 1.79
+−0.03
+.974
+Mean FD (mm)
+0.18 ± 0.08
+0.16 ± 0.07
+1.08
+.286
+Full-scale IQ score
+121 ± 14
+106 ± 16
+4.08
+<.001
+ADHD symptoms
+  Inattention
+16.86 ± 3.89
+27.42 ± 4.12
+−10.48
+<.001
+  Hyperactivity/impulsivity
+15.45 ± 3.85
+23.71 ± 9.29
+−4.48
+<.001
+  Total scores
+32.31 ± 6.71
+51.14 ± 9.98
+−8.66
+<.001
+  EL scores
+1.37 ± 1.16
+4.17 ± 2.29
+−6.06
+<.001
+Note. HC = healthy controls; FD = frame-wise displacement; EL = emotional lability.
+ at EASTERN UNIV on August 12, 2016
+jad.sagepub.com
+Downloaded from 
+Yu et al.	
+5
+medial frontal lobe. Significant negative RSFC of amygdala 
+subregions was also found with the cerebellum, precuneus 
+(PCu), occipital cortex, parietal, and dorsal prefrontal cortices 
+(see Figure 1). Compared with HC, boys with ADHD showed 
+an overall pattern of widespread weaker RSFC (positive or 
+negative) between amygdala subregions and other brain 
+regions, especially the cerebellum, thalamus, parahippocam­
+palgyrus (PHG), insula, STG, PCu, inferior parietal lobe (IPL) 
+and dorsal PFC. More specific findings of each amygdala sub­
+region are given in the following subsections.
+BLA.  Compared with HC, boys with ADHD showed reduced 
+RSFC of the right BLA with the vermis and thalamus bilat­
+erally and reduced RSFC of the left BLA with the vermis 
+and left PoCG. For these circuits, HC showed positive 
+RSFC, whereas patients with ADHD showed no significant 
+connectivity (see Figure 2, Table 2).
+CMA.  Compared with HC, patients with ADHD showed 
+reduced positive RSFC of the CMA bilaterally with the 
+STG bilaterally extending to the superior temporal pole and 
+insula. In addition, there was reduced positive RSFC 
+between the left CMA and right PoCG as well as reduced 
+negative RSFC between the right CMA and right PCu. Fur­
+thermore, the two groups displayed different CMA-based 
+connectivity with the cerebellum and inferior occipital 
+gyrus (IOG). Specifically, HC showed negative RSFC 
+between the left CMA and cerebellum, and patients with 
+ADHD showed no significant RSFC between these two 
+regions. In the occipital lobe, HC showed positive RSFC 
+with the right CMA, whereas patients displayed the oppo­
+site association (see Figure 3, Table 2).
+SFA.  Between-group comparisons indicated that patients 
+with ADHD showed reduced negative RSFC of the right 
+SFA with the IPL bilaterally, left DMPFC and DLPFC bilat­
+erally (including the dorsal superior and middle frontal gyri 
+[SFG and MFG]), as well as reduced negative RSFC of the 
+left SFA with the DMPFC bilaterally and right SFG. Fur­
+thermore, positive RSFC between the left SFA and left 
+PoCG was found in HC, whereas higher negative RSFC 
+was found in patients with ADHD. Positive RSFC between 
+the right SFA and lingual gyrus bilaterally was detected in 
+HC, whereas no significant RSFC was found in these 
+regions in patients with ADHD (see Figure 4A, B, Table 2).
+The above-mentioned results from the between-group 
+comparisons were largely preserved after adjusting for head 
+motion (see Supplement 3(1), Figure S3, available online) 
+and IQ (see Supplement 3(2), Figure S4, available online).
+Correlation With EL
+RSFC z-values of brain regions showing significant group 
+differences were used for further correlation analyses with 
+EL symptoms. Within the ADHD group, EL scores were 
+positively correlated with reduced negative RSFC of the 
+right SFA with the DLPFC and IPL. Specifically, higher EL 
+scores were associated with weaker negative RSFC of right 
+SFA–right dorsal SFG (r = .491, p = .003) and of right SFA–
+left and right IPL (left: r = .335, p = .049; right: r = .412, 
+p = .014; see Figure 4C). The correlation between EL and 
+RSFC of SFA–DLPFC still existed with a tendency (p = 
+.066) after strict Bonferroni corrections for the 22 regions 
+analyzed, which showed significant group differences. In 
+contrast, no correlations between EL scores and RSFC pat­
+terns were found in the HC group with or without post hoc 
+adjustments.
+After controlling for age, FD, IQ, hyperactivity/impul­
+sivity symptoms, and ODD diagnosis, the correlations 
+between EL and RSFC between the right SFA and right 
+DLPFC (r = .417, p = .022) and RSFC between the right 
+SFA and right IPL (r = .422, p = .02) within the ADHD 
+group remained significant. These correlations (former cor­
+relation: r = .404, p = .033; latter one: r = .403, p = .033) 
+survived further adjustment for the overall ADHD symp­
+toms (instead of hyperactive-impulsive symptoms).
+
+## References
+References
+Alarcon, G., Cservenka, A., Rudolph, M. D., Fair, D. A., & 
+Nagel, B. J. (2015). Developmental sex differences in rest­
+ing state functional connectivity of amygdala sub-regions. 
+Neuroimage, 115, 235-244.
+Alexander, G. E., Crutcher, M. D., & DeLong, M. R. (1990). Basal 
+ganglia-thalamocortical circuits: Parallel substrates for motor, 
+oculomotor, “prefrontal” and “limbic” functions. Progress in 
+Brain Research, 85, 119-146.
+American Psychiatric Association. (1994). Diagnostic and sta...
+---

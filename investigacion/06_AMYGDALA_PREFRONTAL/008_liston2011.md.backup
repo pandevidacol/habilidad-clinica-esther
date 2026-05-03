@@ -1,0 +1,887 @@
+---
+# liston2011
+**Autores**: Not specified
+**Año**: Not specified
+**Journal**: Scientific Paper
+**DOI/Link**: N/A
+
+## Abstract
+Not found
+
+## Key Findings
+discussion that follows iden-
+tify some important interpretive caveats, including varying meth-
+odologies and differences in the ages and comorbid diagnoses of
+the patients studied).
+At least in some cases, it seems that these structural connectivity
+deﬁcits might persist into adulthood: two studies have reported
+reduced FA in the SLF in adults with ADHD (21,27), with frontostria-
+tal projections persistently affected in the second one (21). It is also
+worth noting that subjects in the second study were medication-
+naive, discounting the possibility that these changes are solely a
+consequence of treatment rather than a marker of disease. Trends
+suggestive of an association between connectivity deﬁcits and
+measures of inattention and impulsivity were also observed, al-
+though these might be difﬁcult to assess with smaller sample sizes.
+More recently, investigators have begun to evaluate the func-
+tional signiﬁcance of connectivity changes by combining DTI with
+fMRI and by applying ﬁber ... (Extracted from Discussion)
+
+## Methodology
+methodology—so it is difﬁcult to draw deﬁnitive
+
+## Results
+results described in the preceding text must
+be regarded as preliminary. Despite these limitations, however,
+some clear patterns have emerged implicating disrupted structural
+connectivity in ADHD: alterations in the SLF and frontostriatal white
+matter seem to be the most consistent ﬁndings, among other
+promisingresults.Inthefuture,asanalytictechniquesandoutcome
+measures become standardized, it will be important to verify these
+results in meta-analysis.
+Functional Connectivity Deﬁcits in ADHD: Resting-State
+fMRI and Task-Based Correlations
+Hebbian theory asserts that “neurons that ﬁre together, wire
+together,” meaning that when activity in one cell repeatedly elicits
+action potentials in a second cell, synaptic strength is potentiated
+(32). Functional connectivity analysis exploits this principle in re-
+verse, estimating the strength of long-range connections by quan-
+tifying correlated activity in two areas of cortex. Functional connec-
+tivity analysis complements DTI studies, the latter estimating the
+structural integrity of white matter tracts traversing two areas of
+cortex and the former inferring the aggregate strength of func-
+tional connections between them. Importantly, the presence of a
+white matter tract connecting two areas, A and B, does not neces-
+sarily imply anything about the strength or directionality of func-
+tional monosynaptic connections between A and B and vice versa.
+Correlated activity might also arise from multi-synaptic relays tra-
+versing multiple intermediate areas of cortex or when a third area C
+stronglydrivesactivityinareasAandB,eventhoughAandBarenot
+directly connected. Despite these caveats, it seems that estimates
+of structural connectivity correlate well with functional connectiv-
+ity data (33).
+Figure1.Tract-speciﬁcwhitematterintegritycorrelatedwithfrontostriatalactivityandperformanceduringago/no-gotask.(A)Thisaxialimagedepictsareas
+of the inferior frontal gyrus (IFG) and caudate nucleus that were active during no-go trials and where activity correlated with performance. (B) Frontostriatal
+white matter ﬁbers were identiﬁed with an automated ﬁber tractography algorithm. (C) Frontostriatal white matter integrity (fractional anisotropy [FA])
+correlated with activity in the inferior frontal area depicted in panel A in attention-deﬁcit/hyperactivity disorder (ADHD) youths (r  .76, p  .007) but not in
+control subjects (r  .24, p  .51). (D) A similar effect was observed for activity in the caudate nucleus area depicted in panel A, with FA predicting activity
+forbothgroups.(E)PrefrontalFApredictedgo/no-goperformance,and(F)prefrontalFAwassigniﬁcantlycorrelatedinADHDyouthsandtheirparentsbutnot
+in control subjects, suggesting a heritable component to white matter irregularities in ADHD. Reprinted with permission from the American Journal of
+Psychiatry, (Copyright © 2007). American Psychiatric Association (19).
+1170
+BIOL PSYCHIATRY 2011;69:1168–1177
+C. Liston et al.
+www.sobp.org/journal
+There are two general approaches to assessing functional con-
+nectivity. The task-based fMRI approach measures correlated activ-
+ity that arises when cortical areas are coactivated in the service of
+performing some function, such as inhibiting a prepotent response
+in a go/no-go paradigm. In resting state fMRI, subjects are imaged
+“at rest,” meaning they are not asked to perform any task concur-
+rently. The resting brain spontaneously generates large-amplitude,
+low-frequency blood oxygen level dependent signal oscillations.
+These oscillations are correlated within functionally plausible
+networks and are assumed to reﬂect a history of coactivation
+leading to synaptic potentiation (34). Both approaches have
+been applied to the study of ADHD. Again, the technique is
+rapidly evolving, and to date, very few studies of ADHD have
+applied the same
+
+## Clinical Significance
+conclusions from this literature, and meta-analysis is impossible at
+present. An excellent, comprehensive review (11) encapsulates the
+heterogeneity of these studies and the complexity of their results,
+which we summarize brieﬂy in Tables 2 and 3. We focus our discus-
+sion here on ﬁndings that might inform two key questions concern-
+ing the DTI results described in the preceding text. First, do struc-
+tural connectivity deﬁcits have any impact on functional properties
+of frontostriatal networks? And second, do connectivity changes
+correlate with clinical symptoms?
+The Default Mode Network in ADHD
+For years, most fMRI studies assessed changes in brain activity
+that occur while performing some task of interest relative to a
+baseline condition, such as visual ﬁxation. More recently, investiga-
+tors have recognized that a distinct set of structures tend to be
+active at baseline—and relatively deactivated during task perfor-
+mance—reﬂecting a default mode of spontaneous activity in the
+brain at rest. This default mode network (DMN) comprises midline
+structures including the precuneus and posterior cingulate cortex
+and the ventromedial PFC (35). Spontaneous low-frequency oscil-
+lationsinthesestructuresarehighlycorrelated(36),andthisactivity
+has been linked to non–goal-directed, introspective, self-referen-
+tial processes akin to “mind wandering” (37) as well as to processes
+mediating alertness to changes in the external and internal envi-
+ronment (38). Interestingly, DMN activity is anticorrelated with lat-
+eral PFC activity during executive function and attentional tasks
+(36), raising the possibility that executive function deﬁcits might
+arise from a failure to suppress DMN activity during task perfor-
+mance.
+Castellanos et al. (39) tested this hypothesis by acquiring resting
+state fMRI scans in 20 adults meeting lifetime criteria for combined
+type ADHD and 20 healthy control subjects. As expected, in both
+control subjects and ADHD patients, DMN activity was anticorre-
+lated with activity in the dorsal ACC, which plays an important role
+in regulating attention and cognitive control (see following). How-
+ever, this relationship was much weaker in the ADHD group, con-
+sistent with a failure to suppress non–goal-directed DMN activity in
+ADHD during tasks requiring cognitive control. They also observed
+reduced functional connectivity among precuneus, ventromedial
+PFC, and other DMN structures in the ADHD group. Five other
+studies have reported similar results (24,40–43), but a sixth did not
+(44). Several other resting state fMRI studies (24,45–50) have re-
+ported ﬁndings that are generally consistent with these but use
+varied analytic methods that complicate direct comparisons be-
+tween reports. These are described in more detail in Tables 2 and 3.
+However, these results provide preliminary evidence to suggest
+that ADHD is associated with functional as well as structural con-
+nectivity changes, although it remains unclear whether alterations
+in these two domains are related.
+Table 2. Summary of Task-Based Functional Connectivity Studies in ADHD
+Study
+ADHD/Ctrl, n
+Ages
+Task
+Analysis
+Regions Affected
+Vloet (52)
+14/14
+8–15
+Combined interference
+and time
+discrimination task
+PPI analysis
+ADHD youths exhibited reduced fronto-cerebellar coupling
+during the time discrimination task and reduced fronto-
+parietal coupling during the interference task
+Peterson (41)
+16/20 [80%]
+7–18
+Stroop
+Mixed-models and
+Granger causality
+Psychostimulants in youth with ADHD improved
+suppression of DMN activity in the ventral ACC and
+posterior cingulate. Ventral ACC inﬂuence on the lateral
+PFC was reduced in ADHD youths when off medication
+and normalized when they were on medication
+Rubia (51)
+13/13
+10–16
+Rewarded continuous
+performance task
+ROI based functional
+connectivity
+analysis
+During the attention contrast, ADHD youths exhibited
+decreased correlated activity in inferior frontostriatal and
+fronto-cerebellar networks that was normalized by MPH
+Wolf (53)
+12/12
+18–34
+Working memory
+ICA
+In comparison with control subjects, ADHD adults
+exhibited decreased connectivity among the vlPFC, ACC,
+superior parietal cortex, and the cerebellum and
+increased connectivity among the IFG, dACC, SFG and
+cuneus
+Helps (40)
+13/15
+13–16
+2-choice reaction time
+task  rest
+DC-EEG (DMN)
+Decreased VLF power within the DMN and decreased rest-
+task attenuation of VLF power within the DMN.
+Decreased rest-task attenuation in VLF power tended to
+be associated with greater errors on task
+Studies of functional connectivity in ADHD are rapidly evolving. Two general approaches have been taken: task-based and resting state. Task-based
+methods generally examine group differences in correlation strength between regions with a seed-based approach or through a psycho-physiological
+interaction (PPI) analysis, a method for quantifying correlated activity between two brain areas and its modulation by task context. Datasets in the table
+consisted of all male subjects unless otherwise noted by percentage in brackets. All studies used functional magnetic resonance imaging (fMRI) except Helps
+et al. (40) as noted.
+dACC, dorsal anterior cingulate cortex; DC-EEG, direct current electroencephalograph; DMN, default mode network; ICA, independent components
+analysis; IFG, inferior frontal gyrus; MPH, methylphenidate; SFG, superior frontal gyrus; VLF, very low frequency; vlPFC, ventrolateral prefrontal cortex; other
+abbreviations as in Table 1.
+C. Liston et al.
+BIOL PSYCHIATRY 2011;69:1168–1177
+1171
+www.sobp.org/journal
+Functional Correlates of Frontostriatal Connectivity
+Deﬁcits in ADHD
+Anotherimportantquestionraisedbytheaforementionedstud-
+ies is whether functional connectivity deﬁcits have any direct im-
+pact on symptoms. Establishing causation is a major challenge in
+imaging studies of human subjects. One way to tackle this problem
+is by asking whether medications that treat symptoms also amelio-
+rate connectivity deﬁcits. Rubia et al. (51) examined methylpheni-
+date effects on PFC function and attention by combining functional
+connectivity analysis and task-based fMRI during a rewarded con-
+tinuous performance task, assessing the effects of reward process-
+ing on attentional control. Previously unmedicated ADHD patients
+made more errors and showed reduced frontostriatal connectivity
+and task-related activity in ventrolateral prefrontal structures,
+among others. They also showed enhanced reward-related activity
+in orbitofrontal cortex, implicating both frontostriatal and meso-
+corticolimbic circuits in the deﬁcits they observed. Methylpheni-
+date ameliorated many of these deﬁcits, increasing frontostriatal
+connectivity and normalizing reward processing and performance.
+Similarly, Peterson et al. (41) found that methylphenidate normal-
+ized the deﬁcits of ADHD patients in suppressing DMN activity
+during performance of a Stroop task by normalizing the diminished
+inﬂuenceofventralanteriorcingulatecortexonlateralPFC.Aspects
+of this interaction predicted methylphenidate effects on ADHD
+symptoms scales. Three other studies in children (40,51,52) and one
+in adults (53) have reported functional connectivity deﬁcits in
+ADHD subjects during performance of varied tasks requiring cogni-
+tive control (see Table 2 for details). Together, these studies show
+that at least some functional connectivity deﬁcits in ADHD are not
+ﬁxed and can be mitigated acutely by stimulant treatment. They
+also lend indirect support to the hypothesis that connectivity deﬁ-
+cits might contribute to symptoms of inattention and altered re-
+ward processing. Of course, correlated changes need not reﬂect
+causation. Are connectivity deﬁcits in ADHD a cause of symptoms
+or just another end point of a common etiologic mechanism? We
+conclude by considering these two possibilities.
+Causes and Consequences of Connectivity Deﬁcits in
+ADHD
+Several lines of evidence support the hypothesis that connectiv-
+ity deﬁcits might contribute directly to inattention, impulsivity, and
+other ADHD symptoms. Attention-deﬁcit/hyperactivity disorder
+Table 3. Summary of Resting State Functional Connectivity Studies in ADHD
+Study
+ADHD/Ctrl, n
+Ages
+Task
+Analysis
+Regions Affected
+Fair (43)
+23/23 [70%]
+7–16
+Rest
+Graph theory (DMN)
+Examined correlation strength of signal among 14 paired-regions,
+with ROIs selected on the basis of earlier work. In general,
+superior frontal regions were less connected to parietal regions
+and temporal regions (hippocampus)
+Qiu (24)
+15/15
+10–15
+Rest
+ICA (DMN)
+Decreased DMN connectivity in ACC, PCC, lateral PFC, precuneus,
+and thalamus; increased DMN connectivity in posterior MFG
+Wang (48)a
+19/20
+11–16
+Rest
+Small world network
+analysis
+Nodal efﬁciency decreases in frontal (OFC, rectus gyrus) and
+occipital (lingual gyrus, calcarine cortex) regions. Nodal
+efﬁciency increases in IFG and pallidum
+Castellanos (39)
+20/20 [80%]
+20–50
+Rest
+SB (dACC and PreC/PCC)
+When examining correlated activity between the precuneus/PCC
+and other regions, positive (vmPFC and anterior PCC) and
+negative (dACC, MFG and STG) relationships were weaker in
+the ADHD group
+Tian (45)
+12/12
+11–15
+Rest
+RSAIb
+Increased resting-state brain activity in visual cortex,
+somatosensory cortex, and auditory cortex
+Uddin (42)c
+20/20 [80%]
+20–50
+Rest
+SB (DMN)
+Created network homogeneity scores for each voxel within a
+subject-speciﬁc DMN mask that reﬂected the strength with
+which that voxel acted in concert with others within the mask.
+Decreased network homogeneity was observed in the
+precuneus
+Cao (50)
+23/21
+11–16.5
+Rest
+SB, “regional
+homogeneity”d
+“Regional homogeneity”d decreased in ADHD in frontostriatal/
+cerebellar networks and increased in occipital cortex
+Zang (49)
+13/12
+10–16
+Rest
+ALFFe
+Decreased ALFF in ADHD in right IFG, left sensorimotor cortex,
+bilateral brainstem
+Tian (44)
+8/8
+11–15
+Rest
+SB (dACC)
+Increases in correlated activity among dorsal ACC and bilateral
+thalamus, cerebellum, insula, and pons
+Studies of the brain at rest have taken a number of different approaches, including independent components analysis (ICA), small-world network analysis
+(measuring network inclusiveness of nodes and efﬁciency of the network as a whole), graph theory approaches (quantifying correlated activity between sets
+of ROIs simultaneously), and the aforementioned seed-based approach. Datasets consisted of all male subjects unless otherwise noted by percentage in
+brackets. All studies used functional magnetic resonance imaging.
+ACC, anterior cingulate cortex; dACC, dorsal anterior cingulate cortex; DMN, default mode network; IFG, inferior frontal gyrus; MFG, middle frontal gyrus;
+OFC, orbitofrontal cortex; PCC, posterior cingulate cortex; PFC, prefrontal cortex; PreC, precuneus; SB, seed-based; STG, superior temporal gyrus; vmPFC,
+ventromedial prefrontal cortex.
+aIt is unclear to what extent results from Wang (48), Tian (45), Cao (50), Zang (49), and Tian (44) derive from overlapping datasets.
+bRSAI refers to “resting state activity index,” a novel measure that is unique to this study in the ADHD literature and is deﬁned as a combination of a voxel’s
+regional homogeneity (see following) and the standard variance of its low-frequency ﬂuctuations.
+cDataset is same as in Castellanos et al. (39).
+dRegional homogeneity is a novel measure, unique to this study in the ADHD literature, assessing temporal synchrony of the regional blood oxygen level
+dependent signal.
+eALFF refers to amplitude of low-frequency ﬂuctuations ( .08 Hz) and might be suggestive of local spontaneous neuronal activity.
+1172
+BIOL PSYCHIATRY 2011;69:1168–1177
+C. Liston et al.
+www.sobp.org/journal
+has been conceptualized as a disease of impaired executive func-
+tion and of deﬁcient inhibitory control in particular (4), processes
+subservedbyafrontostriatal network including lateral PFC, anterior
+cingulate cortex, and posterior parietal cortex, with inputs from the
+dorsal striatum and cerebellum (Figure 2). Lateral PFC has been
+implicated in regulating task-relevant representations of stimulus
+information and striatal stimulus-response mappings (54,55), pos-
+sibly in response to signals from anterior cingulate and posterior
+parietal areas that signal the need for top-down control by detect-
+ing processing conﬂicts in various forms (56–58). Inputs from the
+striatum and cerebellum have also been implicated in regulating
+behavior on the basis of information about the frequency and tim-
+ing of events, respectively (10). Other work has emphasized the
+importance of catecholaminergic projections to the ventral stria-
+tum, PFC, and limbic structures, including the hippocampus,
+amygdala, and orbitofrontal cortex. Dysfunction in this mesocorti-
+colimbic network has been linked to so-called “hot” executive func-
+tiondeﬁcits(6),including emotional dysregulation, impulsivity, and
+the processing of reward and salience (59,60).
+Reﬁned connectivity is associated with and might be an impor-
+tant cause of enhanced cognitive control in typically developing
+children. Diffusion tensor imaging studies have shown that diffu-
+sion becomes more restricted with age in frontostriatal white mat-
+ter tracts throughout the teen years (61,62). Prefrontal white matter
+integrity, in turn, was associated with improved cognitive skills,
+including enhanced reading scores (63) and increased working
+memory with age in adolescence (64). Importantly, DTI measures of
+structural connectivity also predicted performance on a go/no-go
+cognitivecontroltaskindependentlyofage(Figure3)(62),suggest-
+ing that individual connectivity differences have important func-
+tional correlates. Likewise, white matter maturation is associated
+with increasingly focused recruitment of prefrontal structures dur-
+ing inhibitory tasks (65–68). Together, these results suggest that
+functional disconnections within frontostriatal and mesocortico-
+limbic networks might represent a signiﬁcant pathway to disease
+symptoms in ADHD. They might disrupt control mechanisms by
+interfering with the detection of different forms of conﬂict, the
+recruitment of top-down bias signals, or the processing of reward
+and salience. These unique but not mutually exclusive possibilities
+warrant further investigation.
+Alternatively, disrupted connectivity and symptoms might arise
+incidentally from common etiologic mechanisms. Structural con-
+Figure 2. Brain networks implicated in attention-deﬁcit/hyperactivity disorder (ADHD). A network of structures, each with projections to and from prefrontal
+cortical areas mediates the cognitive control of attention and behavior, and dysfunction in this network has been implicated in ADHD, particularly in the core
+symptoms of the inattention subtype. Anterior cingulate (ACC) and posterior parietal cortex (PPC) detect conﬂicts in information processing, recruiting
+prefrontal cortex (PFC) to provide top-down bias signals, resolving conﬂicts and enhancing control. Cortico-subcortical signals originating in the basal ganglia
+and cerebellum convey critical information about violations in the expected frequency and timing of events, respectively.
+Figure 3. Frontostriatal white matter integrity is correlated with performance in typically developing children. Frontostriatal white matter tracts identiﬁed by
+automated ﬁber tractography (A) connect functionally relevant areas depicted in (B), and the microstructural integrity of these tracts (radial diffusivity) is
+closely coupled with speed of performance on a go/no-go task (C) in typically developing children (squares), adolescents (triangles), and adults (circles). It is
+unclear whether differences in structural connectivity are a cause of performance deﬁcits or a consequence of another common, etiologic mechanism.
+Adapted with permission from Liston et al. (62). RT, reaction time.
+C. Liston et al.
+BIOL PSYCHIATRY 2011;69:1168–1177
+1173
+www.sobp.org/journal
+nectivity changes, in particular, might be a marker of a history of
+dysregulated plasticity. Maturation of axonal white matter tracts is
+understood to be intimately linked to a co-occurring, progressive,
+experience-dependent synaptic pruning process that continues
+throughout adolescence in the human PFC (69–72). Even in the
+adult brain, experience-dependent structural remodeling contin-
+ues: in vivo imaging studies indicate that dendritic spines—the
+postsynaptic sites of most excitatory inputs—undergo continuous
+remodeling (73–75), and some studies suggest that these changes
+might be associated with axonal remodeling (76).
+Importantly, known environmental risk factors for ADHD might
+lead independently to many of the same structural connectivity
+deﬁcits, even in subjects without ADHD. Childhood lead exposure,
+even at levels signiﬁcantly lower than those considered safe by the
+Centers for Disease Control, has not only been linked to ADHD risk
+(77,78)butalsotowidespreadirregularitiesindiffusionmeasuresof
+white matter integrity that persist into adulthood, affecting fronto-
+striatal tracts diffusely, regardless of ADHD diagnosis (79). Likewise,
+low birth weight confers a signiﬁcantly elevated risk for developing
+ADHD (80) and is independently associated with disruptions in
+white matter tracts, occurring even in subjects who did not go on to
+develop ADHD (28).
+These changes might occur through a direct effect on oligoden-
+drocytes or indirectly, by altering plasticity mechanisms. Lead ex-
+posure is a relatively well-studied cause of ADHD-like symptoms
+that illustrates this point well. In rats, lead exposure causes a 15%–
+20% decrease in the expression of myelin associated glycoproteins
+and myelin oligodendrocyte glycoproteins, disrupts the axonal
+sheath, and delays differentiation of rat oligodendrocyte progeni-
+tor cells in vitro (81,82). At the molecular level, lead interferes with
+neuronal plasticity mechanisms, possibly by disrupting glutamate
+release, N-methyl-D-aspartate receptor functioning, and long-term
+potentiation (83). Toxic lead exposures might cause dendritic spine
+loss by mimicking calcium and excessively activating protein kinase
+C (84), an important molecular mediator of synaptic plasticity, lead-
+ing to actin destabilization and spine elimination in vitro (85). In
+support of this hypothesis, a protein kinase C inhibitor was shown
+to prevent chronic stress-related spine loss in PFC (86). Importantly,
+overlapping structural connectivity deﬁcits have been reported in
+DTI studies of other conditions that involve dysregulated synaptic
+plasticity, including pediatric bipolar disorder (22), schizophrenia
+(20), and epilepsy (31), indicating that these white matter irregular-
+ities are not speciﬁc to ADHD and do not necessarily lead to ADHD
+symptoms.
+Finally, it is worth noting that genetic factors that have been
+implicated in the etiology of ADHD might also lead independently
+to white matter irregularities by disrupting synaptic plasticity. As
+discussed in more detail in a recent review (87), three genome-wide
+association studies of ADHD failed to provide consistent evidence
+of overlapping regions of linkage. However, multiple ADHD candi-
+date-gene studies have implicated polymorphisms in genes regu-
+lating dopaminergic transmission, including those coding for the
+dopamine transporter (88–90) and the D4 dopamine receptor
+(91,92) as well as other dopamine receptor subtypes and enzymes
+involved in dopamine synthesis and breakdown, including dopa-
+mine beta hydroxylase, tyrosine hydroxylase, catechol-O-methyl-
+transferase, and monoamine oxidase A (87). Although genes regu-
+latingotherneuromodulatorysystemshavealsobeenimplicatedin
+candidate gene studies (87), the dopaminergic system warrants
+special consideration here.
+Dopamine is believed to play a critical role in regulating synaptic
+plasticity during development (93–95). Altered dopaminergic sig-
+naling has been linked to deﬁcits in DTI measures of white matter
+integrity, especially in frontostriatal tracts. Prenatal cocaine expo-
+sure, for example, has been linked to reduced prefrontal white
+matter anisotropy (96), and a catechol-O-methyltransferase poly-
+morphism that might increase synaptic dopamine availability has
+been associated with similar white matter irregularities (97). Al-
+though molecular, genetic, and pharmacological studies have fre-
+quently linked ADHD to a hypodopaminergic state, others suggest
+the opposite: striatal dopamine transporter availability, for exam-
+ple, was reported to be increased (98), decreased (99,100), or unaf-
+fected (101) in various studies of ADHD patients. The study by
+Thomason et al. (97) serves to emphasize that alterations in dopa-
+minergic signaling—leading either to excess or deﬁciency—might
+disrupt physiological plasticity mechanisms and prefrontal white
+matter integrity, independent of ADHD diagnosis. This interpreta-
+tion is consistent with evidence from rodent and nonhuman pri-
+mate models highlighting the importance of an optimal, moderate
+level of catecholaminergic signaling for performance in prefrontal
+cortical learning and memory paradigms (102,103).
+Collectively, these studies indicate that white matter micro-
+structural abnormalities are not speciﬁc to ADHD, do not necessar-
+ily lead to ADHD symptoms, and might arise from multiple etiolo-
+gies that have been implicated in disrupting synaptic plasticity.
+Thus, structural connectivity deﬁcits in ADHD might be better-
+viewed as a nonspeciﬁc marker of a history of dysregulated plastic-
+ity arising secondary to a common etiologic mechanism than as a
+pathophysiological pathway that leads necessarily and speciﬁcally
+to ADHD.
+Summary and Conclusions
+This review highlights several important ﬁndings from DTI and
+functional connectivity studies of ADHD as well as the difﬁculties
+inherentindrawingﬁrmconclusionsfromthisrapidlyevolvingﬁeld
+of study. Replication and cross-study comparisons have been com-
+plicated by the multitude of analytic techniques and measure-
+ments employed in various studies. Despite this heterogeneity,
+some consistent results are emerging. Diffusion tensor imaging
+studies indicate that ADHD is signiﬁcantly associated with struc-
+tural connectivity deﬁcits in functionally relevant white matter
+tracts, especially the SLF and the anterior corona radiata that carry
+frontostriatal projections. Functional connectivity and resting state
+fMRI studies are more difﬁcult to compare, but they have also be-
+gun to yield plausible pathophysiological mechanisms by which
+altered connectivity might lead to symptoms of inattention and
+impulsivity, possibly by altering interactions between frontostriatal
+attentional networks and a DMN active during non–goal-oriented,
+introspective processes. Both performance deﬁcits and functional
+connectivity changes in relevant networks are ameliorated acutely
+by stimulants, suggesting that functional connectivity deﬁcits
+might play an important role in generating symptoms. In contrast,
+structural connectivity deﬁcits are persistent and might arise be-
+cause of one or more core deﬁcits leading to dysregulated modula-
+tion of cortical plasticity in the developing brain. This hypothesis
+highlights potential avenues for novel treatments aimed at restor-
+ing physiological patterns of synaptic plasticity that are already a
+subject of interest in other areas of psychiatry.
+Interestingly, functional connectivity deﬁcits might also prove
+useful for diagnosis. Multiple studies have shown that patterns of
+functional connectivity identiﬁed by resting state fMRI are highly
+consistent and replicable in different groups of subjects and as-
+sessed by different investigators (38,104,105). A recent study of
+over 1400 subjects at 35 international sites revealed a highly con-
+sistent architecture of connectivity as well as consistent sites of
+1174
+BIOL PSYCHIATRY 2011;69:1168–1177
+C. Liston et al.
+www.sobp.org/journal
+intersubject variability (106), indicating that it might be possible to
+establish “normative” patterns of functional connectivity in the hu-
+man brain. If so, this type of database might in turn serve as an
+essential reference for identifying outliers and, eventually, diagnos-
+ing disease.
+The authors report no biomedical ﬁnancial interests or potential
+conﬂicts of interest.
+1. APA (1994): Diagnostic and Statistical Manual of Mental Disorders, 4th
+ed. Washington, DC: APA.
+2. Lahey BB, Pelham WE, Loney J, Lee SS, Willcutt E (2005): Instability of
+the DSM-IV subtypes of ADHD from preschool through elementary
+school. Arch Gen Psychiatry 62:896–902.
+3. Lahey BB, Willcutt EG (2010): Predictive validity of a continuous alter-
+native to nominal subtypes of attention-deﬁcit/hyperactivity disorder
+for DSM-V. J Clin Child Adolesc Psychol 39:761–775.
+4. Barkley RA (1997): Behavioral inhibition, sustained attention, and ex-
+ecutive functions: constructing a unifying theory of ADHD. Psychol Bull
+121:65–94.
+5. Casey BJ, Nigg JT, Durston S (2007): New potential leads in the biology
+and treatment of attention deﬁcit-hyperactivity disorder. Curr Opin
+Neurol 20:119–124.
+6. Castellanos FX, Sonuga-Barke EJS, Milham MP, Tannock R (2006): Char-
+acterizing cognition in ADHD: Beyond executive dysfunction. Trends
+Cogn Sci 10:117–123.
+7. GalvanA,HareTA,ParraCE,PennJ,VossH,GloverG,etal.(2006):Earlier
+development of the accumbens relative to orbitofrontal cortex might
+underlie risk-taking behavior in adolescents. J Neurosci 26:6885–6892.
+8. Dickstein SG, Bannon K, Castellanos FX, Milham MP (2006): The neural
+correlates of attention deﬁcit hyperactivity disorder: An ALE meta-
+analysis. J Child Psychol Psychiatry 47:1051–1062.
+9. Nigg JT, Casey BJ (2005): An integrative theory of attention-deﬁcit/
+hyperactivity disorder based on the cognitive and affective neurosci-
+ences. Dev Psychopathol 17:785–806.
+10. Casey BJ, Durston S (2006): From behavior to cognition to the brain
+and back: What have we learned from functional imaging studies of
+attention deﬁcit hyperactivity disorder? Am J Psychiatry 163:957–960.
+11. Konrad K, Eickhoff SB (2010): Is the ADHD brain wired differently? A
+review on structural and functional connectivity in attention deﬁcit
+hyperactivity disorder. Hum Brain Mapp 31:904–916.
+12. Le Bihan D (2003): Looking into the functional architecture of the brain
+with diffusion MRI. Nat Rev Neurosci 4:469–480.
+13. Pierpaoli C, Jezzard P, Basser PJ, Barnett A, DiChiro G (1996): Diffusion
+tensor MR imaging of the human brain. Radiology 201:637–648.
+14. Song SK, Sun SW, Ju WK, Lin SJ, Cross AH, Neufeld AH, et al. (2003):
+Diffusion tensor imaging detects and differentiates axon and myelin
+degeneration in mouse optic nerve after retinal ischemia. Neuroimage
+20:1714–1722.
+15. Ashtari M, Kumra S, Bhaskar SL, Clarke T, Thaden E, Cervellione KL, et al.
+(2005): Attention-deﬁcit/hyperactivity disorder: A preliminary diffu-
+sion tensor imaging study. Biol Psychiatry 57:448–455.
+16. Alexander GE, DeLong MR, Strick PL (1986): Parallel organization of
+functionally segregated circuits linking basal ganglia and cortex. Annu
+Rev Neurosci 9:357–381.
+17. Stuss DT, Knight RT (2002): Principles of Frontal Lobe Function, 1st ed.
+New York: Oxford University Press.
+18. Shaw P, Lerch J, Greenstein D, Sharp W, Clasen L, Evans A, et al. (2006):
+Longitudinal mapping of cortical thickness and clinical outcome in
+children and adolescents with attention-deﬁcit/hyperactivity disor-
+der. Arch Gen Psychiatry 63:540–549.
+19. Casey BJ, Epstein JN, Buhle J, Liston C, Davidson MC, Tonev ST, et al.
+(2007): Frontostriatal connectivity and its role in cognitive control in
+parent–child dyads with ADHD. Am J Psychiatry 164:1729–1736.
+20. Davenport ND, Karatekin C, White T, Lim KO (2010): Differential frac-
+tional anisotropy abnormalities in adolescents with ADHD or schizo-
+phrenia. Psychiatry Res Neuroimaging 181:193–198.
+21. Konrad A, Dielentheis TF, El Masri D, Bayerl M, Fehr C, Gesierich T, et al.
+(2010): Disturbed structural connectivity is related to inattention and
+impulsivity in adult attention deﬁcit hyperactivity disorder. Eur J Neu-
+rosci 31:912–919.
+22. Pavuluri MN, Yang S, Kamineni K, Passarotti AM, Srinivasan G, Harral
+EM, et al. (2009): Diffusion tensor imaging study of white matter ﬁber
+tracts in pediatric bipolar disorder and attention-deﬁcit/hyperactivity
+disorder. Biol Psychiatry 65:586–593.
+23. Rusch N, Weber M, Il’yasov KA, Lieb K, Ebert D, Hennig J, et al (2007):
+Inferior frontal white matter microstructure and patterns of psychopa-
+thology in women with borderline personality disorder and comorbid
+attention-deﬁcit hyperactivity disorder. Neuroimage 35:738–747.
+24. Qiu MG, Ye Z, Li QY, Liu GJ, Xie B, Wang J (2010): Changes of brain
+structure and function in ADHD children [published online ahead of
+print December 30]. Brain Topogr.
+25. Silk TJ, Vance A, Rinehart N, Bradshaw JL, Cunnington R (2009): White-
+matter abnormalities in attention deﬁcit hyperactivity disorder: A dif-
+fusion tensor imaging study. Hum Brain Mapp 30:2757–2765.
+26. Hamilton LS, Levitt JG, O’Neill J, Alger JR, Luders E, Phillips OR, et al.
+(2008): Reduced white matter integrity in attention-deﬁcit hyperactiv-
+ity disorder. Neuroreport 19:1705–1708.
+27. Makris N, Buka SL, Biederman J, Papadimitriou GM, Hodge SM, Valera
+EM, et al. (2008): Attention and executive systems abnormalities in
+adults with childhood ADHD: A DT-MRI study of connections. Cereb
+Cortex 18:1210–1220.
+28. Skranes J, Vangberg TR, Kulseng S, Indredavik MS, Evensen KAI, Marti-
+nussen M, et al. (2007): Clinical ﬁndings and white matter abnormali-
+ties seen on diffusion tensor imaging in adolescents with very low
+birth weight. Brain 130:654–666.
+29. Basser PJ, Pierpaoli C (1996): Microstructural and physiological fea-
+tures of tissues elucidated by quantitative-diffusion-tensor MRI. J
+Magn Reson B 111:209–219.
+30. Conturo TE, Lori NF, Cull TS, Akbudak E, Snyder AZ, Shimony JS, et al.
+(1999): Tracking neuronal ﬁber pathways in the living human brain.
+Proc Natl Acad Sci U S A 96:10422–10427.
+31. Bechtel N, Kobel M, Penner IK, Klarhofer M, Schefﬂer K, Opwis K, et al.
+(2009): Decreased fractional anisotropy in the middle cerebellar pe-
+duncle in children with epilepsy and/or attention deﬁcit/hyperactivity
+disorder: A preliminary study. Epilepsy Behav 15:294–298.
+32. Hebb DO (1949): The Organization of Behavior. New York: Wiley.
+33. Damoiseaux JS, Greicius MD (2009): Greater than the sum of its parts: A
+review of studies combining structural connectivity and resting-state
+functional connectivity. Brain Struct Funct 213:525–533.
+34. DosenbachNUF,FairDA,MiezinFM,CohenAL,WengerKK,Dosenbach
+RAT, et al. (2007): Distinct brain networks for adaptive and stable task
+control in humans. Proc Natl Acad Sci U S A 104:11073–11078.
+35. Raichle ME, MacLeod AM, Snyder AZ, Powers WJ, Gusnard DA, Shul-
+man GL, et al. (2001): A default mode of brain function. Proc Natl Acad
+Sci U S A 98:676–682.
+36. Greicius MD, Krasnow B, Reiss AL, Menon V (2003): Functional connec-
+tivity in the resting brain: A network analysis of the default mode
+hypothesis. Proc Natl Acad Sci U S A 100:253–258.
+37. Gusnard DA, Akbudak E, Shulman GL, Raichle ME (2001): Medial pre-
+frontal cortex and self-referential mental activity: Relation to a default
+mode of brain function. Proc Natl Acad Sci U S A 98:4259–4264.
+38. Fransson P (2005): Spontaneous low-frequency BOLD signal ﬂuctua-
+tions: An fMRI investigation of the resting-state default mode of brain
+function hypothesis. Hum Brain Mapp 26:15–29.
+39. Castellanos FX, Margulies DS, Kelly C, Uddin LQ, Ghaffari M, Kirsch A, et
+al. (2008): Cingulate-precuneus interactions: A new locus of dysfunc-
+tion in adult attention-deﬁcit/hyperactivity disorder. Biol Psychiatry
+63:332–337.
+40. Helps SK, Broyd SJ, James CJ, Karl A, Chen W, Sonuga-Barke EJS (2008):
+Altered spontaneous low frequency brain activity in attention deﬁcit/
+hyperactivity disorder. Brain Res 1322:134–143.
+41. Peterson BS, Potenza MN, Wang ZS, Zhu HT, Martin A, Marsh R, et al.
+(2009): An fMRI study of the effects of psychostimulants on default-
+mode processing during Stroop task performance in youths with
+ADHD. Am J Psychiatry 166:1286–1294.
+42. Uddin LQ, Kelly AMC, Biswal BB, Margulies DS, Shehzad Z, Shaw D, et al.
+(2008): Network homogeneity reveals decreased integrity of default-
+mode network in ADHD. J Neurosci Methods 169:249–254.
+43. Fair DA, Posner J, Nagel BJ, Bathula D, Dias TGC, Mills KL, et al. (2010):
+Atypical default network connectivity in youth with attention-deﬁcit/
+hyperactivity disorder. Biol Psychiatry 68:1084–1091.
+44. Tian LX, Jiang TZ, Wang YF, Zang YF, He Y, Liang M, et al. (2006): Altered
+resting-state functional connectivity patterns of anterior cingulate
+C. Liston et al.
+BIOL PSYCHIATRY 2011;69:1168–1177
+1175
+www.sobp.org/journal
+cortex in adolescents with attention deﬁcit hyperactivity disorder.
+Neurosci Lett 400:39–43.
+45. Tian LX, Jiang TZ, Liang M, Zang YF, He Y, Sui MQ, et al. (2008): En-
+hanced resting-state brain activities in ADHD patients: A fMRI study.
+Brain Dev 30:342–348.
+46. Silk TJ, Vance A, Rinehart N, Bradshaw JL, Cunnington R (2009): Structural
+development of the basal ganglia in attention deﬁcit hyperactivity disor-
+der: A diffusion tensor imaging study. Psychiatry Res 172:220–225.
+47. CaoQ,SunL,GongG,LvY,CaoX,ShuaiL,etal.(2010):Themacrostructural
+and microstructural abnormalities of corpus callosum in children with
+attention deﬁcit/hyperactivity disorder: A combined morphometric and
+diffusion tensor MRI study. Brain Res 1310:172–180.
+48. Wang L, Zhu CZ, He Y, Zang YF, Cao QJ, Zhang H, et al. (2009): Altered
+small-world brain functional networks in children with attention-deﬁ-
+cit/hyperactivity disorder. Hum Brain Mapp 30:638–649.
+49. Zang YF, He Y, Zhu CZ, Cao QJ, Sui MQ, Liang M, et al. (2007): Altered
+baseline brain activity in children with ADHD revealed by resting-state
+functional MRI. Brain Dev 29:83–91.
+50. Cao QJ, Zang YF, Sun L, Sui MQ, Long XY, Zou QH, et al. (2006): Abnor-
+mal neural activity in children with attention deﬁcit hyperactivity dis-
+order: A resting-state functional magnetic resonance imaging study.
+Neuroreport 17:1033–1036.
+51. Rubia K, Smith AB, Halari R, Matsukura F, Mohammad M, Taylor E, et al.
+(2009): Disorder-speciﬁc dissociation of orbitofrontal dysfunction in
+boys with pure conduct disorder during reward and ventrolateral pre-
+frontal dysfunction in boys with pure ADHD during sustained atten-
+tion. Am J Psychiatry 166:83–94.
+52. VloetTD,GilsbachS,NeufangS,FinkGR,Herpertz-DahlmannB,Konrad
+K, et al. (2010): Neural mechanisms of interference control and time
+discrimination in attention-deﬁcit/hyperactivity disorder. J Am Acad
+Child Adolesc Psychiatry 49:356–367.
+53. WolfRC,PlichtaMM,SambataroF,FallgatterAJ,JacobC,LeschKP,etal.
+(2009): Regional brain activation changes and abnormal functional
+connectivity of the ventrolateral prefrontal cortex during working
+memory processing in adults with attention-deﬁcit/hyperactivity dis-
+order. Hum Brain Mapp 30:2252–2266.
+54. Desimone R, Duncan J (1995): Neural mechanisms of selective visual
+attention. Annu Rev Neurosci 18:193–222.
+55. Miller EK, Cohen JD (2001): An integrative theory of prefrontal cortex
+function. Annu Rev Neurosci 24:167–202.
+56. BotvinickMM,BraverTS,BarchDM,CarterCS,CohenJD(2001):Conﬂict
+monitoring and cognitive control. Psychol Rev 108:624–652.
+57. Kerns JG, Cohen JD, MacDonald AW, Cho RY, Stenger VA, Carter CS, et
+al. (2004): Anterior cingulate conﬂict monitoring and adjustments in
+control. Science 303:1023–1026.
+58. Liston C, Matalon S, Hare TA, Davidson MC, Casey BJ (2006): Anterior
+cingulate and posterior parietal cortices are sensitive to dissociable
+forms of conﬂict in a task-switching paradigm. Neuron 50:643–653.
+59. Hariri AR, Mattay VS, Tessitore A, Kolachana B, Fera F, Goldman D, et al.
+(2002):Serotonintransportergeneticvariationandtheresponseofthe
+human amygdala. Science 297:400–403.
+60. Meyer-Lindenberg A, Buckholtz JW, Kolachana B, Hariri AR, Pezawas L,
+Blasi G, et al. (2006): Neural mechanisms of genetic risk for impulsivity
+and violence in humans. Proc Natl Acad Sci U S A 103:6269–6274.
+61. Klingberg T, Vaidya CJ, Gabrieli JDE, Moseley ME, Hedehus M (1999):
+Myelination and organization of the frontal white matter in children: A
+diffusion tensor MRI study. Neuroreport 10:2817–2821.
+62. Liston C, Watts R, Tottenham N, Davidson MC, Niogi S, Ulug AM, et al.
+(2006): Frontostriatal microstructure modulates efﬁcient recruitment
+of cognitive control. Cereb Cortex 16:553–560.
+63. Klingberg T, Hedehus M, Temple E, Salz T, Gabrieli JDE, Moseley ME, et
+al. (2000): Microstructure of temporo-parietal white matter as a basis
+for reading ability: Evidence from diffusion tensor magnetic resonance
+imaging. Neuron 25:493–500.
+64. Nagy Z, Westerberg H, Klingberg T (2004): Maturation of white matter
+is associated with the development of cognitive functions during
+childhood. J Cogn Neurosci 16:1227–1233.
+65. CaseyBJ,TrainorRJ,OrendiJL,SchubertAB,NystromLE,GieddJN,etal.
+(1997): A developmental functional MRI study of prefrontal activation
+during performance of a Go-No-Go task. J Cogn Neurosci 9:835–847.
+66. Bunge SA, Dudukovic NM, Thomason ME, Vaidya CJ, Gabrieli JD (2002):
+Immature frontal lobe contributions to cognitive control in children:
+Evidence from fMRI. Neuron 33:301–311.
+67. Durston S, Davidson MC, Tottenham N, Galvan A, Spicer J, Fossella JA,
+et al. (2006): A shift from diffuse to focal cortical activity with develop-
+ment. Dev Sci 9:1–8.
+68. Rubia K, Smith AB, Woolley J, Nosarti C, Heyman I, Taylor E, et al. (2006):
+Progressive increase of frontostriatal brain activation from childhood
+to adulthood during event-related tasks of cognitive control. Hum
+Brain Mapp 27:973–993.
+69. Huttenlocher PR (1979): Synaptic density in human frontal-cortex—
+developmental changes and effects of aging. Brain Res 163:195–205.
+70. Changeux JP, Danchin A (1976): Selective stabilization of developing
+synapses as a mechanism for speciﬁcation of neuronal networks. Na-
+ture 264:705–712.
+71. Rakic P, Bourgeois JP, Eckenhoff MF, Zecevic N, Goldman-Rakic PS
+(1986): Concurrent overproduction of synapses in diverse regions of
+the primate cerebral-cortex. Science 232:232–235.
+72. Paus T, Collins DL, Evans AC, Leonard G, Pike B, Zijdenbos A, et al.
+(2001): Maturation of white matter in the human brain: A review of
+magnetic resonance studies. Brain Res Bull 54:255–266.
+73. Grutzendler J, Kasthuri N, Gan WB (2002): Long-term dendritic spine
+stability in the adult cortex. Nature 420:812–816.
+74. Trachtenberg JT, Chen BE, Knott GW, Feng GP, Sanes JR, Welker E, et al.
+(2002): Long-term in vivo imaging of experience-dependent synaptic
+plasticity in adult cortex. Nature 420:788–794.
+75. Yang G, Pan F, Gan WB (2009): Stably maintained dendritic spines are
+associated with lifelong memories. Nature 462:920–924.
+76. Barnes SJ, Finnerty GT (2010): Sensory experience and cortical rewir-
+ing. Neuroscientist 16:186–198.
+77. Nigg JT, Knottnerus GM, Martel MM, Nikolas M, Cavanagh K, Karmaus
+W, et al. (2008): Low blood lead levels associated with clinically diag-
+nosed attention-deﬁcit/hyperactivity disorder and mediated by weak
+cognitive control. Biol Psychiatry 63:325–331.
+78. Nigg JT, Nikolas M, Knottnerus GM, Cavanagh K, Friderici K (2010):
+Conﬁrmation and extension of association of blood lead with atten-
+tion-deﬁcit/hyperactivity disorder (ADHD) and ADHD symptom do-
+mains at population-typical exposure levels. J Child Psychol Psychiatry
+51:58–65.
+79. Brubaker CJ, Schmithorst VJ, Haynes EN, Dietrich KN, Egelhoff JC,
+Lindquist DM, et al. (2009): Altered myelination and axonal integrity in
+adultswithchildhoodleadexposure:Adiffusiontensorimagingstudy.
+Neurotoxicology 30:867–875.
+80. Bhutta AT, Cleves MA, Casey PH, Cradock MM, Anand KJS (2002): Cog-
+nitive and behavioral outcomes of school-aged children who were
+born preterm: A meta-analysis. JAMA 288:728–737.
+81. Dabrowska-Bouta B, Struzynska L, Walski M, Rafalowska U (2008): My-
+elin glycoproteins targeted by lead in the rodent model of prolonged
+exposure. Food Chem Toxicol 46:961–966.
+82. Deng W, Poretz RD (2002): Protein kinase C activation is required for
+the lead-induced inhibition of proliferation and differentiation of cul-
+tured oligodendroglial progenitor cells. Brain Res 929:87–95.
+83. White LD, Cory-Slechta DA, Gilbert ME, Tiffany-Castiglioni E, Zawia NH,
+Virgolini M, et al. (2007): New and evolving concepts in the neurotoxi-
+cology of lead. Toxicol Appl Pharmacol 225:1–27.
+84. Goldstein GW (1993): Evidence that lead acts as a calcium substitute in
+second messenger metabolism. Neurotoxicology 14:97–101.
+85. Calabrese DR, Halpain S (2005): An essential role for the PKC target
+MARCKS in maintaining dendritic spine morphology. Neuron 48:77–90.
+86. Hains AB, Vu MAT, Maciejewski PK, van Dyck CH, Gottron M, Arnsten AFT,
+et al. (2009): Inhibition of protein kinase C signaling protects prefrontal
+cortex dendritic spines and cognition from the effects of chronic stress.
+ProcNatlAcadSciUSA106:17957–17962.
+87. Faraone SV, Perlis RH, Doyle AE, Smoller JW, Goralnick JJ, Holmgren
+MA, et al. (2005): Molecular genetics of attention-deﬁcit/hyperactivity
+disorder. Biol Psychiatry 57:1313–1323.
+88. Brookes K, Xu X, Chen W, Zhou K, Neale B, Lowe N, et al. (2006): The
+analysis of 51 genes in DSM-IV combined type attention deﬁcit hyper-
+activity disorder: Association signals in DRD4, DAT1 and 16 other
+genes. Mol Psychiatry 11:934–953.
+89. Brookes KJ, Mill J, Guindalini C, Curran S, Xu XH, Knight J, et al. (2006): A
+commonhaplotypeofthedopaminetransportergeneassociatedwith
+attention-deﬁcit/hyperactivity disorder and interacting with maternal
+use of alcohol during pregnancy. Arch Gen Psychiatry 63:74–81.
+1176
+BIOL PSYCHIATRY 2011;69:1168–1177
+C. Liston et al.
+www.sobp.org/journal
+90. Cook EH Jr, Stein MA, Krasowski MD, Cox NJ, Olkon DM, Kieffer JE, et al.
+(1995): Association of attention-deﬁcit disorder and the dopamine
+transporter gene. Am J Hum Genet 56:993–998.
+91. Ebstein RP, Novick O, Umansky R, Priel B, Osher Y, Blaine D, et al. (1996):
+Dopamine D4 receptor (D4DR) exon III polymorphism associated with
+the human personality trait of novelty seeking. Nat Genet 12:78–80.
+92. Li DW, Sham PC, Owen MJ, He L (2006): Meta-analysis shows signiﬁcant
+association between dopamine system genes and attention deﬁcit
+hyperactivity disorder (ADHD). Hum Mol Genet 15:2276–2284.
+93. Bongarzone ER, Howard SG, Schonmann V, Campagnoni AT (1998):
+IdentiﬁcationofthedopamineD3receptorinoligodendrocyteprecur-
+sors: Potential role in regulating differentiation and myelin formation.
+J Neurosci 18:5344–5353.
+94. Tang KC, Low MJ, Grandy DK, Lovinger DM (2001): Dopamine-depen-
+dent synaptic plasticity in striatum during in vivo development. Proc
+Natl Acad Sci U S A 98:1255–1260.
+95. Gerdeman GL, Partridge JG, Lupica CR, Lovinger DM (2003): It could be
+habit forming: Drugs of abuse and striatal synaptic plasticity. Trends
+Neurosci 26:184–192.
+96. Warner TD, Behnke M, Eyler FD, Padgett K, Leonard C, Hou W, et al.
+(2006): Diffusion tensor imaging of frontal white matter and executive
+functioning in cocaine-exposed children. Pediatrics 118:2014–2024.
+97. Thomason ME, Dougherty RF, Colich NL, Perry LM, Rykhlevskaia EI,
+LouroHM,etal.(2010):COMTgenotypeaffectsprefrontalwhitematter
+pathways in children and adolescents. Neuroimage 53:926–934.
+98. Spencer TJ, Biederman J, Madras BK, Dougherty DD, Bonab AA, Livni E,
+et al. (2007): Further evidence of dopamine transporter dysregulation
+in ADHD: A controlled PET imaging study using altropane. Biol
+Psychiatry 62:1059–1061.
+99. Volkow ND, Wang GJ, Kollins SH, Wigal TL, Newcorn JH, Telang F, et al.
+(2009): Evaluating dopamine reward pathway in ADHD clinical impli-
+cations. JAMA 302:1084–1091.
+100. Volkow ND, Wang GJ, Newcorn J, Fowler JS, Telang F, Solanto MV, et al.
+(2007): Brain dopamine transporter levels in treatment and drug naive
+adults with ADHD. Neuroimage 34:1182–1190.
+101. van Dyck CH, Quinlan DM, Cretella LM, Staley JK, Malison RT, Bald-
+win RM, et al. (2002): Unaltered dopamine transporter availability in
+adult attention deﬁcit hyperactivity disorder. Am J Psychiatry 159:
+309–312.
+102. Arnsten AF, Li BM (2005): Neurobiology of executive functions: Cate-
+cholamine inﬂuences on prefrontal cortical functions. Biol Psychiatry
+57:1377–1384.
+103. Arnsten AFT (1998): Catecholamine modulation of prefrontal cortical
+cognitive function. Trends Cogn Sci 2:436–447.
+104. DamoiseauxJS,RomboutsS,BarkhofF,ScheltensP,StamCJ,SmithSM,
+et al. (2006): Consistent resting-state networks across healthy subjects.
+Proc Natl Acad Sci U S A 103:13848–13853.
+105. Greicius MD, Menon V (2004): Default-mode activity during a passive
+sensory task: Uncoupled from deactivation but impacting activation. J
+Cogn Neurosci 16:1484–1492.
+106. Biswal BB, Mennes M, Zuo XN, Gohel S, Kelly C, Smith SM, et al. (2010):
+Toward discovery science of human brain function. Proc Natl Acad Sci
+U S A 107:4734–4739.
+C. Liston et al.
+BIOL PSYCHIATRY 2011;69:1168–1177
+1177
+www.sobp.org/journal
+
+## References
+Not found...
+---

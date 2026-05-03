@@ -1,39 +1,62 @@
-# 📚 Research Database - The Calm Brain Protocol
-**Total Papers**: 130
-**Categorías**: 8
-**Última actualización**: 2026-05-01
+# The Calm Brain Protocol - Research Foundation
+## Complete ADHD + GLP-1 + Microbiota Research Library
 
-## Índice por Categoría
+**Status**: ✅ Active / Updated May 2026  
+**Total Papers**: 143  
+**Categories**: 5  
+**Purpose**: Citation source for Dr. Esther Madrid brand + video scripts + book development
 
-### 1. Magnesium & ADHD
-- Total papers: 12
-- [Ir a carpeta →](01_MAGNESIUM_ADHD/INDEX.md)
+---
 
-### 2. Executive Function
-- Total papers: 17
-- [Ir a carpeta →](02_DAWSON_GUARE_EXECUTIVE/INDEX.md)
+## 📚 Research Categories
 
-### 3. Sleep Architecture
-- Total papers: 11
-- [Ir a carpeta →](03_ADHD_SLEEP/INDEX.md)
+### Intestinal Permeability & ADHD
+**Folder**: `/intestinal_permeability/`  
+**Papers**: 19  
+[Link to INDEX.md](./intestinal_permeability/INDEX.md)
 
-### 4. Omega-3 & ADHD
-- Total papers: 13
-- [Ir a carpeta →](04_EPA_DHA_ADHD/INDEX.md)
+### Microbiota & ADHD
+**Folder**: `/microbiota_adhd/`  
+**Papers**: 14  
+[Link to INDEX.md](./microbiota_adhd/INDEX.md)
 
-### 5. Trauma-ADHD
-- Total papers: 31
-- [Ir a carpeta →](05_PTSD_ADHD/INDEX.md)
+### Nutrients & ADHD
+**Folder**: `/nutrientes_adhd/`  
+**Papers**: 21  
+[Link to INDEX.md](./nutrientes_adhd/INDEX.md)
 
-### 6. Neurobiology
-- Total papers: 18
-- [Ir a carpeta →](06_AMYGDALA_PREFRONTAL/INDEX.md)
+### Gut-Brain Axis
+**Folder**: `/gut_brain_axis/`  
+**Papers**: 19  
+[Link to INDEX.md](./gut_brain_axis/INDEX.md)
 
-### 7. Exercise & Dopamine
-- Total papers: 13
-- [Ir a carpeta →](07_AEROBIC_EXERCISE/INDEX.md)
+### GLP-1 & Cognitive Function
+**Folder**: `/glp1_cognition/`  
+**Papers**: 70  
+[Link to INDEX.md](./glp1_cognition/INDEX.md)
 
-### 8. Couples Therapy
-- Total papers: 15
-- [Ir a carpeta →](08_COUPLE_THERAPY/INDEX.md)
+---
 
+## 🎯 How to Use This Library
+
+### For Video Scripts:
+1. Search relevant category
+2. Read paper summaries
+3. Extract specific findings + citations
+
+### For Book Citations:
+1. Each paper has metadata sections
+2. Reference section ready to copy
+
+---
+
+## 📊 Research Statistics
+
+| Category | Papers |
+|----------|--------|
+| Intestinal Permeability & ADHD | 19 |
+| Microbiota & ADHD | 14 |
+| Nutrients & ADHD | 21 |
+| Gut-Brain Axis | 19 |
+| GLP-1 & Cognitive Function | 70 |
+| **TOTAL** | **143** |

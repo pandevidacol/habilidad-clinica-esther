@@ -1,0 +1,286 @@
+============================================================
+MARKDOWN REMEDIATION SCRIPT
+============================================================
+
+Found 273 markdown files to remediate
+
+⚠️  No PDF text found in 001_effatpanah2019.md
+⚠️  No PDF text found in 002_elbaza2016.md
+⚠️  No PDF text found in 003_firouzkouhimoghaddam2017.md
+⚠️  No PDF text found in 004_hemamy2021.md
+⚠️  No PDF text found in 005_huang2019.md
+⚠️  No PDF text found in 006_magnesium_status_in_children_with_attention_defici.md
+⚠️  No PDF text found in 007_mahmoud2011.md
+⚠️  No PDF text found in 008_nonstimulant_treatments_for_adhd.md
+⚠️  No PDF text found in 009_patterson2017.md
+⚠️  No PDF text found in 010_robberecht2020.md
+⚠️  No PDF text found in 011_terrazas2017.md
+⚠️  No PDF text found in 012_villagomez2014.md
+⚠️  No PDF text found in 001_akbarebrahimi2016.md
+⚠️  No PDF text found in 002_chan2021.md
+⚠️  No PDF text found in 003_diamond2013.md
+⚠️  No PDF text found in 004_duggan2016.md
+⚠️  No PDF text found in 005_executive_functions.md
+⚠️  No PDF text found in 006_green2005.md
+⚠️  No PDF text found in 007_indebraek2012.md
+⚠️  No PDF text found in 008_lacount2015.md
+⚠️  No PDF text found in 009_nakashima2021.md
+⚠️  No PDF text found in 010_nguyen2019.md
+⚠️  No PDF text found in 011_paul2013.md
+⚠️  No PDF text found in 012_pritchard2011.md
+⚠️  No PDF text found in 013_solanto2020.md
+⚠️  No PDF text found in 014_sriram2006.md
+⚠️  No PDF text found in 015_stamenova2018.md
+⚠️  No PDF text found in 016_vanhooren2007.md
+⚠️  No PDF text found in 017_wasserman2013.md
+⚠️  No PDF text found in 001_10_1016_j_psychres_2019_06_012.md
+⚠️  No PDF text found in 002_10_1203_01_pdr_0000072333_11711_9a.md
+⚠️  No PDF text found in 003_10_5664_jcsm_5810.md
+⚠️  No PDF text found in 004_akinci2015.md
+⚠️  No PDF text found in 005_biancardi2021.md
+⚠️  No PDF text found in 006_features_of_the_organization_of_sleep_in_children_.md
+⚠️  No PDF text found in 007_goraya2009.md
+⚠️  No PDF text found in 008_gruber2009.md
+⚠️  No PDF text found in 009_kirov2004.md
+⚠️  No PDF text found in 010_prihodova2010.md
+⚠️  No PDF text found in 011_sadeh2006.md
+⚠️  No PDF text found in 001_10_1016_j_plefa_2014_04_004.md
+⚠️  No PDF text found in 002_10_2147_ndt_s206020.md
+⚠️  No PDF text found in 003_assareh2016.md
+⚠️  No PDF text found in 004_chang2017.md
+⚠️  No PDF text found in 005_chang2019.md
+⚠️  No PDF text found in 006_hawkey2014.md
+⚠️  No PDF text found in 007_matsudaira2015.md
+⚠️  No PDF text found in 008_milte2012.md
+⚠️  No PDF text found in 009_milte2013.md
+⚠️  No PDF text found in 010_omega_3_6_supplementation_for_mild_to_moderate_ina.md
+⚠️  No PDF text found in 011_puri2014.md
+⚠️  No PDF text found in 012_raz2009.md
+⚠️  No PDF text found in 013_voigt2001.md
+⚠️  No PDF text found in 001_10_1038_s41398_019_0565_8.md
+⚠️  No PDF text found in 002_a_multimodal_neuroimaging_meta_analysis_of_functio.md
+⚠️  No PDF text found in 003_a_potential_role_for_neuroinflammation_in_adhd.md
+⚠️  No PDF text found in 004_akiki2017.md
+⚠️  No PDF text found in 005_attention_deficit_hyperactivity_disorder__1.md
+⚠️  No PDF text found in 006_attention_deficit_hyperactivity_disorder__2.md
+⚠️  No PDF text found in 007_attention_deficit_hyperactivity_disorder.md
+⚠️  No PDF text found in 008_biederman2012.md
+⚠️  No PDF text found in 009_block2016.md
+⚠️  No PDF text found in 010_clancy2020.md
+⚠️  No PDF text found in 011_daniels2010.md
+⚠️  No PDF text found in 012_distinctively_different_human_neurobiological_resp.md
+⚠️  No PDF text found in 013_extended_functional_connectivity_of_convergent_str.md
+⚠️  No PDF text found in 014_fani2019.md
+⚠️  No PDF text found in 015_functional_connectivity_of_amygdala_subnuclei_in_p.md
+⚠️  No PDF text found in 016_genetics_of_attention_deficit_hyperactivity_disord.md
+⚠️  No PDF text found in 017_genome_wide_association_analyses_identify_95_risk_.md
+⚠️  No PDF text found in 018_harrington2012.md
+⚠️  No PDF text found in 019_herz2016.md
+⚠️  No PDF text found in 020_mapping_the_cortico_striatal_transcriptome_in_atte.md
+⚠️  No PDF text found in 021_mccall2021.md
+⚠️  No PDF text found in 022_morey2017.md
+⚠️  No PDF text found in 023_neurobiology_of_attention_deficit_hyperactivity_di.md
+⚠️  No PDF text found in 024_neurobiology_of_attention_deficit_hyperactivity_di.md
+⚠️  No PDF text found in 025_neurobiology_of_attention_deficit_hyperactivity_di.md
+⚠️  No PDF text found in 026_patel2012.md
+⚠️  No PDF text found in 027_simmons2012.md
+⚠️  No PDF text found in 028_structural_neuroimaging_of_hippocampus_and_amygdal.md
+⚠️  No PDF text found in 029_structural_neuroimaging_of_hippocampus_and_amygdal.md
+⚠️  No PDF text found in 030_the_relationship_of_attention_deficit_hyperactivit.md
+⚠️  No PDF text found in 031_torrisi2019.md
+⚠️  No PDF text found in 001_bejerot2017.md
+⚠️  No PDF text found in 002_berboth2021.md
+⚠️  No PDF text found in 003_cortese2021.md
+⚠️  No PDF text found in 004_goetschius2019.md
+⚠️  No PDF text found in 005_gray_matter_volume_associations_in_youth_with_scp_.md
+⚠️  No PDF text found in 006_ho2015.md
+⚠️  No PDF text found in 007_hulvershorn2014.md
+⚠️  No PDF text found in 008_liston2011.md
+⚠️  No PDF text found in 009_neurobiology_of_attention_deficit_hyperactivity_di.md
+⚠️  No PDF text found in 010_nickel2017.md
+⚠️  No PDF text found in 011_nigg2005.md
+⚠️  No PDF text found in 012_plessen2006.md
+⚠️  No PDF text found in 013_samea2019.md
+⚠️  No PDF text found in 014_shaw2014.md
+⚠️  No PDF text found in 015_valera2007.md
+⚠️  No PDF text found in 016_viering2021.md
+⚠️  No PDF text found in 017_yu2016.md
+⚠️  No PDF text found in 018_zuberer2022.md
+⚠️  No PDF text found in 001_chang2012.md
+⚠️  No PDF text found in 002_delcampo2011.md
+⚠️  No PDF text found in 003_diverse_multi_week_physical_activity_programs_redu.md
+⚠️  No PDF text found in 004_dougherty1999.md
+⚠️  No PDF text found in 005_impact_of_exercise_on_brain_neurochemicals_a_compr.md
+⚠️  No PDF text found in 006_kamp2014.md
+⚠️  No PDF text found in 007_lenz2012.md
+⚠️  No PDF text found in 008_mehren2019__1.md
+⚠️  No PDF text found in 009_mehren2019.md
+⚠️  No PDF text found in 010_mind_body_exercise_affects_attention_switching_and.md
+⚠️  No PDF text found in 011_neurobiology_of_attention_deficit_hyperactivity_di.md
+⚠️  No PDF text found in 012_pontifex2013.md
+⚠️  No PDF text found in 013_rassovsky2019.md
+⚠️  No PDF text found in 001_betchen2003.md
+⚠️  No PDF text found in 002_canu2013.md
+⚠️  No PDF text found in 003_effects_of_adult_adhd_on_intimate_partnerships__1.md
+⚠️  No PDF text found in 004_effects_of_adult_adhd_on_intimate_partnerships.md
+⚠️  No PDF text found in 005_parker2021.md
+⚠️  No PDF text found in 006_philipsen2012.md
+⚠️  No PDF text found in 007_robbins2005.md
+⚠️  No PDF text found in 008_steele2020__1.md
+⚠️  No PDF text found in 009_steele2020.md
+⚠️  No PDF text found in 010_vanderdrift2017__1.md
+⚠️  No PDF text found in 011_vanderdrift2017.md
+⚠️  No PDF text found in 012_wittenborn2018.md
+⚠️  No PDF text found in 013_wymbs2015.md
+⚠️  No PDF text found in 014_wymbs2018.md
+⚠️  No PDF text found in 015_wymbs2021.md
+✅ Fixed: 101016jjalz201312009.md
+✅ Fixed: A-metabolic-balance-of-GLP-1-and-NMDA-receptors-in-the-brain.md
+✅ Fixed: A-metabolic-balance-of-GLP-1-and-NMDA-receptors-in-the-brain_1.md
+✅ Fixed: A-metabolic-balance-of-GLP-1-and-NMDA-receptors-in-the-brain_2.md
+✅ Fixed: Activation-of-AMPK-by-GLP-1R-agonists-mitigates-Alzheimer-related-phenotypes-in-transgenic.md
+✅ Fixed: Activation-of-AMPK-by-GLP-1R-agonists-mitigates-Alzheimer-related-phenotypes-in-transgenic_1.md
+✅ Fixed: adriaenssens2020.md
+✅ Fixed: athauda2016.md
+✅ Fixed: athauda2018.md
+✅ Fixed: Attention-deficit-hyperactivity-disorder.md
+✅ Fixed: Attention-deficit-hyperactivity-disorder_1.md
+✅ Fixed: ballard2020.md
+✅ Fixed: cukierman-yaffe2020.md
+✅ Fixed: dickson2012.md
+✅ Fixed: Dissociable-control-of-motivation-and-reinforcement-by-distinct-ventral-striatal-dopamine.md
+✅ Fixed: dixon2020.md
+✅ Fixed: dumbrill2018.md
+✅ Fixed: dumbrill2018_1.md
+✅ Fixed: dumbrill2018_2.md
+✅ Fixed: Effects-of-liraglutide-on-depressive-behavior-in-a-mouse-depression-model-and-cognition-in.md
+✅ Fixed: elbassuoni2019.md
+✅ Fixed: erbil2019.md
+✅ Fixed: farkas2020.md
+✅ Fixed: farr2016.md
+✅ Fixed: farr2016_1.md
+✅ Fixed: figueiredo2010.md
+✅ Fixed: gault2018.md
+✅ Fixed: gejl2016.md
+✅ Fixed: gejl2016_1.md
+✅ Fixed: GLP-1-programs-the-neurovascular-landscape.md
+✅ Fixed: GLP-1-programs-the-neurovascular-landscape_1.md
+✅ Fixed: GLP-1-receptor-agonists-for-Parkinson-s-disease-An-updated-meta-analysis.md
+✅ Fixed: GLP-1-weight-loss-drugs-could-help-people-with-impulse-control-and-addiction-disorders-say.md
+✅ Fixed: GLP-1R-agonists-protect-against-Alzheimer-s-disease-by-rewiring-energy-regulation.md
+✅ Fixed: Glucagon-like-peptide-1-receptor-agonists-for-major-neurocognitive-disorders.md
+✅ Fixed: grieco2019.md
+✅ Fixed: harkavyi2008.md
+✅ Fixed: hernandez2019.md
+✅ Fixed: Interaction-of-serotonin-GLP-1-circuitry-in-a-dual-preclinical-model-for-psychiatric-disorders.md
+✅ Fixed: Investigating-the-Glucagon-like-Peptide-1-and-Its-Receptor-in-Human-Brain-Distribution-of.md
+✅ Fixed: jensen2020.md
+✅ Fixed: jerlhag2018.md
+✅ Fixed: ko2012.md
+✅ Fixed: li2021.md
+✅ Fixed: liu2019.md
+✅ Fixed: mansur2017.md
+✅ Fixed: mansur2017_1.md
+✅ Fixed: Molecular-and-functional-architecture-of-striatal-dopamine-release-sites.md
+✅ Fixed: muscogiuri2017.md
+✅ Fixed: Negative-affectivity-drivers-of-impulsivity-in-opioid-use-disorder.md
+✅ Fixed: Offering-a-putative-neurobiological-dopamine-homeostatic-solution-to-overcome-the-perils.md
+✅ Fixed: ohshima2015.md
+✅ Fixed: palleria2017.md
+✅ Fixed: reddy2014.md
+✅ Fixed: reddy2014_1.md
+✅ Fixed: richard2015.md
+✅ Fixed: Semaglutide-Attenuates-Anxious-and-Depressive-Like-Behaviors-and-Reverses-the-Cognitive-Impairment.md
+✅ Fixed: Semaglutide-Attenuates-Anxious-and-Depressive-Like-Behaviors-and-Reverses-the-Cognitive-Impairment_1.md
+✅ Fixed: skibicka2013.md
+✅ Fixed: stouffer2015.md
+✅ Fixed: The-mechanism-and-efficacy-of-GLP-1-receptor-agonists-in-the-treatment-of-Alzheimer-s-disease.md
+✅ Fixed: Unlocking-the-Potential-Semaglutide-s-Impact-on-Alzheimer-s-and-Parkinson-s-Disease-in-Animal.md
+✅ Fixed: What-the-SELECT-trial-of-semaglutide-means-for-clinicians.md
+✅ Fixed: yapicieser2017.md
+✅ Fixed: yaribeygi2021.md
+✅ Fixed: yaribeygi2021_1.md
+✅ Fixed: yaribeygi2021_2.md
+✅ Fixed: yu2020.md
+✅ Fixed: yuan2017.md
+✅ Fixed: zhang2021.md
+✅ Fixed: Alleviating-effect-of-vagus-nerve-cutting-in-Salmonella-induced-gut-infections-and-anxiety.md
+✅ Fixed: Assessment-of-probiotic-strain-Lactobacillus-acidophilus-LB-supplementation-as-adjunctive.md
+✅ Fixed: bundgaard-nielsen2020.md
+✅ Fixed: dam2019.md
+✅ Fixed: Electro-microbial-interplay-in-the-gut-brain-axis-An-emerging-paradigm-for-gut-microbiota.md
+✅ Fixed: From_Dietary_Fiber_to_Host_Physiology.md
+✅ Fixed: Gut-brain-crosstalk-the-vagus-nerve-and-the-microbiota-gut-brain-axis-in-depression-A-narrative.md
+✅ Fixed: Gut-microbiota-modulates-neurotransmitter-and-gut-brain-signaling.md
+✅ Fixed: Gut-microbiota-regulate-insomnia-like-behaviors-via-gut-brain-metabolic-axis.md
+✅ Fixed: Internal-senses-of-the-vagus-nerve.md
+✅ Fixed: kalenik2021.md
+✅ Fixed: mally2004.md
+✅ Fixed: Pharmacotherapy-of-emotional-dysregulation-in-adults-with-ADHD-A-systematic-review-and-meta.md
+✅ Fixed: Plasma-Metabolic-Analysis-Reveals-the-Dysregulation-of-Short-Chain-Fatty-Acid-Metabolism.md
+✅ Fixed: sandgren2018.md
+✅ Fixed: Serotonin_tryptophan_metabolism_and_the_brain-gut-microbiome.md
+✅ Fixed: The-gut-brain-axis-and-cognitive-control-A-role-for-the-vagus-nerve.md
+✅ Fixed: Vagus-Nerve-and-Underlying-Impact-on-the-Gut-Microbiota-Brain-Axis-in-Behavior-and-Neurodegenerative.md
+✅ Fixed: yu2020.md
+✅ Fixed: A-Potential-Role-for-Neuroinflammation-in-ADHD.md
+✅ Fixed: anand2017.md
+✅ Fixed: A_Review_on_the_Role_of_Inflammation_in.md
+✅ Fixed: Current_Evidence_on_the_Role_of_the_Gut_Microbiome_in_ADHD.md
+✅ Fixed: Gut_microbiota_profiles_of_autism_spectrum.md
+✅ Fixed: Impaired-gut-barrier-affects-microglia-health.md
+✅ Fixed: Investigating_the_Gut_Microbiota_Composition_of.md
+✅ Fixed: jiang2018.md
+✅ Fixed: leaky_gut_ADHD_intestinal_permeability.md
+✅ Fixed: Lipopolysaccharide-induced_blood-brain.md
+✅ Fixed: Paracellular-permeability-and-tight-junction-regulation-in-gut-health-and-disease.md
+✅ Fixed: Role_of_Oxidative_Stress_and_Neuroinflammation_in.md
+✅ Fixed: sandgren2018.md
+✅ Fixed: Serum_zonulin_and_claudin-5_levels_in_children_with.md
+✅ Fixed: Systematic_review_of_gut_microbiota.md
+✅ Fixed: The_Role_of_the_Gut-Brain.md
+✅ Fixed: wan2020.md
+✅ Fixed: ZonulinDependent_Intestinal_Permeability.md
+✅ Fixed: Zonulin_and_Its_Regulation_of_Intestinal_Barrier_Function.md
+✅ Fixed: Bacterial-gut-microbiome-differences-in-adults-with-ADHD-and-in-children-with-ADHD-on-psychostimulant.md
+✅ Fixed: Case-Control_Study_of_the_Effects_of_Gut_Microbiota_Composition_on_Neurotransmitter_Metabolic_P.md
+✅ Fixed: Gut-microbiota-modulates-neurotransmitter-and-gut-brain-signaling.md
+✅ Fixed: Gut_microbiome_in_ADHD_and_its_relation_to.md
+✅ Fixed: Gut_microbiota_and_probiotic_therapy_in_ADHD_A_review_of.md
+✅ Fixed: Gut_microbiota_from_persons_with.md
+✅ Fixed: Gut_Microbiota_Profiles_in_Treatment-naïve_Children_with.md
+✅ Fixed: Gut_microbiota_profiles_of_autism_spectrum.md
+✅ Fixed: Gut_microbiota_signature_in_treatment-naïve_attention-deficit.md
+✅ Fixed: Investigating_the_Gut_Microbiota_Composition_of.md
+✅ Fixed: Reduced_microbiome_alpha_diversity_in_young.md
+✅ Fixed: sandgren2018.md
+✅ Fixed: Systematic_review_of_gut_microbiota.md
+✅ Fixed: The_Role_of_the_Gut-Brain.md
+✅ Fixed: cooper2015.md
+✅ Fixed: Double-blind_placebo-controlled_study_of_zinc_sulfate.md
+✅ Fixed: homocysteine-pyridoxine-folate-and-vitamin-b12-levels-in-childre-2018.md
+✅ Fixed: Iron_Magnesium_Vitamin_D_and_Zinc_Deficiencies.md
+✅ Fixed: Magnesium_status_and_attention_deficit_hyperactivity_disorder_ADHD.md
+✅ Fixed: Magnesium_supplementation_in_children.md
+✅ Fixed: Nonstimulant-Treatments-for-ADHD.md
+✅ Fixed: Omega-3-6-supplementation-for-mild-to-moderate-inattentive-ADHD-a-randomised-double-blind.md
+✅ Fixed: Omega-3_Polyunsaturated_Fatty_Acids_in_Youths_with_Attention.md
+✅ Fixed: Polyunsaturated_Fatty_Acids_Are.md
+✅ Fixed: serum_levels_of_vitamin_A.md
+✅ Fixed: Significantly_lower_serum_and_hair_magnesium_levels_in_children_with.md
+✅ Fixed: The_effect_of_vitamin_D_and_magnesium.md
+✅ Fixed: The_effect_of_zinc_supplementation_in_children.md
+✅ Fixed: The_efficacy_of_zinc_augmentation_in_children_with_attention_deficit.md
+✅ Fixed: The_Impact_of_Vitamin_D_Supplementation.md
+✅ Fixed: Vitamin_B-12_and_Cognition_in_Children.md
+✅ Fixed: Vitamin_levels_in_adults_with_ADHD.md
+✅ Fixed: Zinc_for_Attention-Deficit_Hyperactivity_Disorder.md
+✅ Fixed: Zinc_in_Attention-Deficit_Hyperactivity_Disorder.md
+✅ Fixed: Zinc_sulfate_as_an_adjunct_to_methylphenidate_for.md
+
+============================================================
+REMEDIATION SUMMARY
+============================================================
+✅ Fixed: 143
+❌ Errors: 0
+📝 Log saved to: C:\Users\DAVID\Projects\habilidad-clinica-esther\investigacion\REMEDIATION_LOG.txt

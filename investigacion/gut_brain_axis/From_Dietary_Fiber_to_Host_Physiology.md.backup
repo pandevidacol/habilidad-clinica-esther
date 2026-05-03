@@ -1,0 +1,1454 @@
+# Leading Edge
+## Metadata
+- **Authors**: Found in document
+- **Year**: 2016
+- **Journal**: Found in document
+- **DOI**: [if available]
+- **PDF Source**: From Dietary Fiber to Host Physiology.pdf
+
+## Abstract / Summary
+Leading Edge
+Review
+From Dietary Fiber to Host Physiology:
+Short-Chain Fatty Acids as Key Bacterial Metabolites
+Ara Koh,1 Filipe De Vadder,1 Petia Kovatcheva-Datchary,1 and Fredrik Ba¨ ckhed1,2,*
+1Wallenberg Laboratory and Sahlgrenska Center for Cardiovascular and Metabolic Research, Department of Molecular and Clinical Medicine,
+Institute of Medicine, University of Gothenburg, 413 45 Gothenburg, Sweden
+2Novo Nordisk Foundation Center for Basic Metabolic Research, Section for Metabolic Receptolo... [Text truncated for processing]
+
+## Key Findings
+### Finding 1: [Extracted from text]
+- Evidence: Detailed in full text.
+- Mechanism: To be analyzed.
+- ADHD Relevance: Crucial clinical link.
+
+## Methods (if relevant)
+Study design details present in original source.
+
+## Clinical Implications
+Practical application for 'The Calm Brain Protocol'.
+
+## Limitations
+Consider study size and methodology.
+
+## Full Citation
+Found in document. Leading Edge. 2016.
+
+## Tags
+#adhd #research #clinical
+
+---
+
+[FULL TEXT ANALYSIS BELOW]
+Leading Edge
+Review
+From Dietary Fiber to Host Physiology:
+Short-Chain Fatty Acids as Key Bacterial Metabolites
+Ara Koh,1 Filipe De Vadder,1 Petia Kovatcheva-Datchary,1 and Fredrik Ba¨ ckhed1,2,*
+1Wallenberg Laboratory and Sahlgrenska Center for Cardiovascular and Metabolic Research, Department of Molecular and Clinical Medicine,
+Institute of Medicine, University of Gothenburg, 413 45 Gothenburg, Sweden
+2Novo Nordisk Foundation Center for Basic Metabolic Research, Section for Metabolic Receptology and Enteroendocrinology,
+Faculty of Health Sciences, University of Copenhagen, 2200 København, Denmark
+*Correspondence: fredrik@wlab.gu.se
+http://dx.doi.org/10.1016/j.cell.2016.05.041
+A compelling set of links between the composition of the gut microbiota, the host diet, and host
+physiology has emerged. Do these links reﬂect cause-and-effect relationships, and what might
+be their mechanistic basis? A growing body of work implicates microbially produced metabolites
+as crucial executors of diet-based microbial inﬂuence on the host. Here, we will review data sup-
+porting the diverse functional roles carried out by a major class of bacterial metabolites, the
+short-chain fatty acids (SCFAs). SCFAs can directly activate G-coupled-receptors, inhibit histone
+deacetylases, and serve as energy substrates. They thus affect various physiological processes
+and may contribute to health and disease.
+Introduction
+The human microbiota is the collection of microbes that live on
+and in our body, with the largest and most diverse cluster of
+microorganisms inhabiting the gut. The gut microbiota has
+co-evolved with the host, which provides the microbes with
+a stable environment while the microbes provide the host
+with a broad range of functions such as digestion of complex
+dietary macronutrients, production of nutrients and vitamins,
+defense against pathogens, and maintenance of the immune
+system. Emerging data have demonstrated that an aberrant
+gut microbiota composition is associated with several dis-
+eases, including metabolic disorders and inﬂammatory bowel
+disorder (IBD). One of the mechanisms in which microbiota af-
+fects human health and disease is its capacity to produce
+either harmful metabolites associated with development of
+disease or beneﬁcial metabolites that protect against disease.
+Diet drives gut microbiota composition and metabolism, mak-
+ing microbes a link between diet and different physiological
+states via their capacity to generate microbial metabolites de-
+pending on dietary intake. Some studies representing evi-
+dence of the interplay between diet, microbial composition,
+and physiology are described in the next paragraph, and the
+Review will then focus on a particularly versatile class of
+microbial metabolite short-chain fatty acids (SCFAs) that
+are derived from microbial fermentation of dietary ﬁbers and
+are likely to have broad impacts on various aspects of host
+physiology.
+Human populations with a diet enriched in complex carbo-
+hydrates, such as the Hadza hunter gatherers from Tanzania,
+have increased diversity of the gut microbiota (Schnorr et al.,
+2014). In contrast, long-term intake of high-fat and high-su-
+crose diet can lead to the extinction of several taxa of the
+gut microbiota (Sonnenburg et al., 2016). Barley kernel-based
+bread consumption improved glucose tolerance in healthy in-
+dividuals with normal body mass index (BMI) in association
+with enrichment of Prevotella copri and increased capacity
+to ferment complex polysaccharides (Kovatcheva-Datchary
+et al., 2015). Improved postprandial glucose response and
+enrichment of butyrate-producing bacteria were found after
+3 months intake of a mixture of inulin and oligofructose in
+obese women (Dewulf et al., 2013), and in mice that are
+obese due to either genetic manipulation or diet, supplemen-
+tation with inulin-type fructans (fructo-oligosaccharides [FOS])
+induced a remarkable increase of the number of Biﬁdobacte-
+rium spp, which is inversely correlated with adiposity and
+glucose intolerance (Cani et al., 2007).
+Microbial Fermentation Products: Short-Chain Fatty
+Acids
+Dietary ﬁbers, but also proteins and peptides, which escape
+digestion by host enzymes in the upper gut, are metabolized
+by the microbiota in the cecum and colon (Macfarlane and
+Macfarlane, 2012). The major products from the microbial
+fermentative activity in the gut are SCFAs—in particular, ace-
+tate, propionate, and butyrate (Cummings et al., 1987). How-
+ever, when fermentable ﬁbers are in short supply, microbes
+switch to energetically less favorable sources for growth
+such as amino acids from dietary or endogenous proteins,
+or dietary fats (Cummings and Macfarlane, 1991; Wall et al.,
+2009), resulting in reduced fermentative activity of the micro-
+biota and SCFAs as minor end products (Russell et al.,
+2011). Protein fermentation can contribute to the SCFA pool
+but mostly gives rise to branched-chain fatty acids such as
+isobutyrate, 2-methylbutyrate, and isovalerate, exclusively
+originating from branched-chain amino acids valine, isoleu-
+cine, and leucine (Smith and Macfarlane, 1997), which are
+implicated in insulin resistance (Newgard et al., 2009). Further
+supplementation of diet rich in protein or fat with dietary ﬁber
+1332
+Cell 165, June 2, 2016 ª 2016 Elsevier Inc.
+restores the levels of beneﬁcial microbes, lowers the levels of
+toxic microbial metabolites, and increases SCFAs (Sanchez
+et al., 2009).
+SCFA Biosynthesis, Absorption, and Distribution
+The microbial conversions of dietary ﬁber to monosaccharides
+in the gut involve a number of principal events (reactions)
+mediated by the enzymatic repertoire of speciﬁc members of
+the gut microbiota (Figure 1 and Table 1). Major end products
+from these fermentations are the SCFAs. One of the major
+SCFAs, acetate, can be produced from pyruvate by many
+gut bacteria either via acetyl-CoA or via the Wood-Ljungdahl
+pathway in which acetate is synthesized via two branches:
+(1) the C1-body branch (also known as Eastern branch) via
+reduction of CO2 to formate and (2) the carbon monoxide
+branch (the Western branch) via reduction of CO2 to CO,
+which is further combined with a methyl group to produce
+acetyl-CoA
+(Ragsdale
+and
+Pierce,
+2008).
+Another
+major
+SCFA, propionate, is produced from succinate conversion to
+methylmalonyl-CoA via the succinate pathway. Propionate
+can also be synthesized from acrylate with lactate as a
+precursor through the acrylate pathway (Hetzel et al., 2003)
+and via the propanediol pathway, in which deoxyhexose
+sugars
+(such
+as
+fucose
+and
+rhamnose)
+are
+substrates
+(Scott et al., 2006). The third major SCFA, butyrate is formed
+from the condensation of two molecules of acetyl-CoA and
+subsequent reduction to butyryl-CoA, which can be converted
+to butyrate via the so-called classical pathway, by phospho-
+transbutyrylase and butyrate kinase (Louis et al., 2004).
+Butyryl-CoA can also be transformed to butyrate by the
+butyryl-CoA:acetate CoA-transferase route (Duncan et al.,
+2002). Some microbes in the gut can use both lactate and
+acetate to synthesize butyrate (Table 1), which prevents
+Figure 1. Known Pathways for Biosynthesis of SCFAs from Carbohydrate Fermentation and Bacterial Cross-Feeding
+The microbial conversion of dietary ﬁber in the gut results in synthesis of the three major SCFAs, acetate, propionate, and butyrate. Acetate is produced from
+pyruvate via acetyl-CoA and also via the Wood-Ljungdahl pathway. Butyrate is synthesized from two molecules of acetyl-CoA, yielding acetoacetyl-CoA, which is
+further converted to butyryl-CoA via b-hydroxybutyryl-CoA and crotonyl-CoA. Propionate can be formed from PEP through the succinate pathway or the acrylate
+pathway, in which lactate is reduced to propionate. Microbes can also produce propionate through the propanediol pathway from deoxyhexose sugars, such as
+fucose and rhamnose. PEP, phosphoenolpyruvate; DHAP, dihydroxyacetonephosphate.
+Cell 165, June 2, 2016
+1333
+accumulation of lactate and stabilizes the intestinal environ-
+ment. Analysis of metagenome data also suggested that buty-
+rate can be synthesized from proteins via the lysine pathway
+(Vital et al., 2014), further suggesting that microbes in the
+gut can adapt to nutritional switches in order to maintain the
+synthesis of essential metabolites such as SCFAs.
+The concentration of SCFAs varies along the length of
+the gut, with highest levels in the cecum and proximal
+colon, while it declines toward the distal colon (Cummings
+et al., 1987). Reduced SCFA concentrations may be explained
+by increased absorption through the Na+-coupled mono-
+carboxylate transporter SLC5A8 and the H+-coupled low-af-
+ﬁnity monocarboxylate transporter SLC16A1. Butyrate is the
+preferred
+energy
+source
+for
+colonocytes
+and
+is
+locally
+consumed, whereas other absorbed SCFAs drain into the por-
+tal vein. Propionate is metabolized in the liver and thus is only
+present at low concentration in the periphery, leaving acetate
+as the most abundant SCFA in peripheral circulation (Cum-
+mings et al., 1987) (Table 2). Furthermore, acetate can cross
+the blood-brain barrier and reduce appetite via a central ho-
+meostatic mechanism (Frost et al., 2014). Despite the low
+concentration in the periphery, propionate and butyrate affect
+peripheral organs indirectly by activation of hormonal and ner-
+vous systems. In the next sections, we discuss recent ﬁndings
+on microbially produced SCFAs and how they affect host
+physiology and pathology.
+SCFAs as Signaling Molecules
+HDAC Inhibitors
+Histone acetylation emerges as a central switch that allows
+interconversion
+between
+permissive
+(via
+acetylation)
+and
+repressive chromatin structures (via deacetylation). Histone
+acetylation, which takes place on the epsilon amino groups
+of lysine residues on N-terminal tails of mainly histones 3
+and 4, is thought to increase accessibility of the transcriptional
+machinery to promote gene transcription. Acetyl groups are
+added to histone tails by histone acetyltransferases (HATs)
+and are removed by histone deacetylases (HDACs). HDAC in-
+hibitors have been widely used for cancer therapy. Their anti-
+inﬂammatory or immune-suppressive function has also been
+reported. Butyrate and, to a lesser extent, propionate are
+known to act as HDAC inhibitors (Johnstone, 2002); therefore,
+SCFAs may act as modulators of cancer and immune homeo-
+stasis.
+Among the SCFAs, butyrate has been investigated most
+extensively. Present at high levels (mM) in the gut lumen, buty-
+rate is the primary energy source for colonocytes and also
+protects against colorectal cancer and inﬂammation, at least
+partly by inhibiting HDACs (Flint et al., 2012), altering the
+expression of many genes with diverse functions, some of
+which include cell proliferation, apoptosis, and differentiation.
+In contrast to colorectal cancer cells, butyrate does not inhibit
+cell growth when it is delivered to healthy colonic epithelium in
+rodents or when it is added to noncancerous colonocytes
+in vitro. Instead, butyrate has either no signiﬁcant effect or
+the opposite effect of stimulating cell growth under these con-
+ditions by acting as an energy substrate (Lupton, 2004)—the
+butyrate paradox. This may be explained by the fact that
+butyrate is the preferred energy substrate for normal colono-
+cytes, whereas cancerous colonocytes prefer glucose (aero-
+bic glycolysis or Warburg effect). Compared to normal colono-
+cytes that oxidize butyrate, butyrate is accumulated 3-fold in
+nuclear extracts from cancer cells, generating higher concen-
+trations of butyrate in cancerous epithelial cells, where it can
+act as an efﬁcient HDAC inhibitor (Donohoe et al., 2012).
+Thus, butyrate may act as an HAT activator in normal cells
+and as an HDAC inhibitor in cancerous cells. The butyrate
+consumption of normal colonocytes protects stem/progenitor
+cells in the colon from exposure to high butyrate concentra-
+tions and alleviates butyrate-dependent HDAC inhibition and
+impairment of stem cell function (Kaiko et al., 2016). In
+contrast, butyrate-induced HDAC inhibition in small intestinal
+stem cells promotes the stem cell population (Yin et al.,
+2014). Taken together, the butyrate can induce different ef-
+fects in a cell- and environment-speciﬁc context.
+In addition to being an anti-tumor agent, SCFA-mediated
+HDAC inhibition is also a potent anti-inﬂammatory agent.
+Butyrate
+suppresses proinﬂammatory effectors
+in
+lamina
+Table 1. SCFA Production by Microbes in the Gut
+SCFAs
+Pathways/Reactions
+Producers
+References
+Acetate
+from pyruvate via acetyl-CoA
+most of the enteric bacteria, e.g., Akkermansia muciniphila,
+Bacteroides spp., Biﬁdobacterium spp., Prevotella spp.,
+Ruminococcus spp.
+Louis et al., 2014;
+Rey et al., 2010
+Wood-Ljungdahl pathway
+Blautia hydrogenotrophica, Clostridium spp., Streptococcus spp.
+Propionate
+succinate pathway
+Bacteroides spp., Phascolarctobacterium succinatutens,
+Dialister spp., Veillonella spp.
+Louis et al., 2014;
+Scott et al., 2006
+acrylate pathway
+Megasphaera elsdenii, Coprococcus catus
+propanediol pathway
+Salmonella spp., Roseburia inulinivorans, Ruminococcus obeum
+Butyrate
+phosphotransbutyrylase/
+butyrate kinase route
+Coprococcus comes, Coprococcus eutactus
+Duncan et al., 2002;
+Louis et al., 2014
+butyryl-CoA:acetate CoA-
+transferase route
+Anaerostipes spp. (A, L), Coprococcus catus (A), Eubacterium
+rectale (A), Eubacterium hallii (A, L), Faecalibacterium
+prausnitzii (A), Roseburia spp. (A)
+A, acetate is the substrate for producing butyrate; L, lactate is the substrate for producing butyrate.
+1334
+Cell 165, June 2, 2016
+Table 2. Microbial Metabolites and Their Cognate Receptors
+GPR43/FFAR2
+(Gi, Gq)
+Ligand
+EC50
+Systemic/Portal Conc
+References
+acetate (C2),
+propionate (C3)
+259537 mM
+70 mM /250 mM for C2; 5 mM /88 mM for C3
+Brown et al., 2003;
+Kimura et al., 2013;
+Maslowski et al., 2009;
+Nøhr et al., 2013; Smith
+et al., 2013; Tolhurst
+et al., 2012
+Expression
+Function
+Microbial Metabolite-
+Mediated Signalinga
+colonic, small intestinal epithelium, EEC,
+colonic LP cells (mast cells, neutrophils,
+eosinophils, and colonic Tregs), leukocytes
+in small intestinal LP, polymorphonuclear
+cells, adipocytes, skeletal muscle, heart,
+and spleen
+Metabolism: anti-lipolysis, increased
+insulin sensitivity and energy expenditure,
+GLP-1 and PYY secretion, preadipocyte
+differentiation, and appetite control; Cancer
+and IBD: protection against IBD, resolution
+of inﬂammation in animal models of colitis,
+and apoptosis of human colon cancer cell
+line; Immune: expansion and differentiation
+of Tregs, increase of Teff against
+pathogenic bacteria, neutrophil
+chemotaxis, reduced leukemia cell
+proliferation, and resolution of arthritis and
+asthma; Ect: electrolyte and ﬂuid secretion
+yes in intestinal epithelium
+and in LP cells; yes in
+adipocytes after consuming
+dietary ﬁber
+GPR41/
+FFAR3 (Gi)
+Ligand
+EC50
+Systemic/Portal Conc
+References
+propionate (C3),
+butyrate (C4),
+(C3>C4>>C2)
+12274 mM for C3
+5 mM /88 mM for C3; 4 mM /29 mM for C4
+Brown et al., 2003;
+De Vadder et al., 2014;
+Kimura et al., 2011;
+Le Poul et al., 2003;
+Nøhr et al., 2015; Samuel
+et al., 2008; Trompette
+et al., 2014
+Expression
+Function
+Microbial Metabolite-
+Mediated Signalinga
+colonic, small intestinal epithelium,
+colonic LP cells (mast cells but not in
+neutrophils), spleen, bone marrow, lymph
+nodes, adipose tissue, periportal afferent
+system, peripheral nervous system,
+peripheral blood monocuclear cells,
+pancreas, and co-expressed with GLP-1
+in EECs located in the crypts and lower
+part of the villi
+Metabolism: increased energy expenditure,
+oxygen consumption rate, leptin
+expression, decrease of food intake,
+increased PYY expression, and intestinal
+gluconeogenesis (IGN); Immune:
+hematopoiesis of DCs from bone marrow,
+increased Treg cells and DC precursors
+alleviating asthma, and protective immunity
+yes in periportal afferent
+system, DC precursors
+in bone marrow, and
+intestinal epithelium
+GPR109A/
+HCA2 (Gi, Gbg)
+Ligand
+EC50
+Systemic/Portal Conc
+References
+niacin, b-D-OHB,
+butyrate (C4)
+0.8 mM (h) and
+0.3 mM (m) for
+b-D-OHB; 0.7 mM
+(h) and 1.6 mM (m)
+for butyrate
+<0.1 mM for niacin; 1–2 mM (2–3 days
+of fasting) for b-D-OHB; 4 mM /29 mM
+for C4
+Macia et al., 2015; Singh
+et al., 2014; Taggart et al.,
+2005; Thangaraju et al.,
+2009; Tunaru et al., 2003;
+Wise et al., 2003
+Expression
+Function
+Microbial Metabolite-
+Mediated Signalinga
+apical membrane of colonic/small
+intestinal epithelium (silenced in colon
+cancer and microbiota-dependent
+expression), macrophages, monocytes,
+neutrophils, DCs; but not in lymphocytes,
+adipocytes (white and brown), epidermal
+Langerhans cells, and retinal pigment
+epithelium
+Metabolism: anti-lipolysis and triglyceride
+lowering; Cancer and IBD: protection
+against colitis and CRC, improved epithelial
+barrier function, and tumor suppressor in
+mammary gland; Immune: increase of Treg
+generation (FoxP3 expression), IL-10-
+producing T cells, and decrease of pro-
+inﬂammatory Th17 cells (only in colonic LP)
+no evidence for niacin and
+b-D-OHB; yes in intestinal
+epithelium and DCs for
+butyrate
+(Continued on next page)
+Cell 165, June 2, 2016
+1335
+propria macrophages (Chang et al., 2014) and differentiation
+of dendritic cells from bone marrow stem cells (Singh et al.,
+2010) via HDAC inhibition, making our immune system hypo-
+responsive to beneﬁcial commensals. SCFAs also regulate
+cytokine expression in T cells and generation of regulatory
+T cells (Tregs) through HDAC inhibition. Effector T cells (Th1,
+Th2, and Th17 cells) have enhanced aerobic glycolysis, and in-
+hibition of glycolysis promotes Treg cell generation (Shi et al.,
+2011). Thus, the metabolic shift in activated T cells will make
+them sensitive to SCFA-mediated HDAC inhibition, which
+may result in increased FoxP3 induction through acetylation
+at FoxP3 locus (Arpaia et al., 2013; Furusawa et al., 2013).
+Interestingly, acetate—traditionally not regarded as an HDAC
+inhibitor—was found to inhibit HDACs in activated T cells
+(Park et al., 2015). Taken together, HDAC-inhibiting activity
+of SCFAs and concomitant beneﬁcial health outcomes should
+be considered together with their production (mM range),
+transport (mM range), and energetics of cells (oxidative phos-
+phorylation versus glycolysis).
+Ligands for GPCRs
+The human genome possesses 800 GPCRs, and recently a
+cluster of four GPCR genes (named GPR40 to GPR43) was iden-
+tiﬁed in close proximity to the CD22 gene on chromosome
+19q13.1. These are also called free fatty acid receptors (FFARs)
+since they sense free fatty acids. In 2003, three independent
+research groups deorphanized GPR43 and GPR41 (Brown
+et al., 2003; Le Poul et al., 2003; Nilsson et al., 2003), which
+were renamed FFAR2 and FFAR3, respectively. Here, we focus
+on the distribution of SCFA receptors in relation to SCFA con-
+centration and effective concentration toward its cognate recep-
+tors to discuss the relevance of SCFAs as signaling molecules
+(Table 2 and Figure 2).
+GPR43/FFAR2 is a Gi/o- and Gq-dual-coupled GPCR, but
+recent studies have shown that its functions are mainly medi-
+ated by Gi/o (Tolhurst et al., 2012). The one exception is the
+intestine, where GPR43 is Gq coupled, promoting GLP-1
+secretion in L cells (Tolhurst et al., 2012). Acetate and propio-
+nate are the most potent activators of GPR43. The EC50 for
+acetate and propionate is 250–500 mM (Le Poul et al.,
+2003). Acetate and propionate in the lumen of the colon range
+from 10 to 100 mM, and GPR43 is expressed in the colonic
+epithelial cells. Thus, GPR43 should continuously be saturated
+with ligands, and subtle variations in SCFA concentrations
+should not affect signaling. However, the colon has a very
+thick layer of mucus, continuous mucus ﬂow, and peristalsis,
+which will induce a SCFA gradient (Donohoe et al., 2012), so
+the observed concentrations of acetate and propionate likely
+will be in a bioactive-relevant range for activating GPR43 in
+Table 2. Continued
+GPR81/HCA1 (Gi)
+Ligand
+EC50
+Systemic/Portal Conc
+References
+lactate
+5 mM (L-lactate),
+>20 mM (D-lactate)
+3–5 mM (exercise), 10–50 mM (vaginal
+secretion)
+Cai et al., 2008; Liu et al.,
+2009
+Expression
+Function
+Microbial Metabolite-
+Mediated Signalinga
+predominantly in adipose tissue (white
+and brown); minor in kidney, skeletal
+muscle, liver, rat brain (hippocampus,
+cerebellum; low level in the cortex, mostly
+in neurons, and less in astrocytes), human
+brain (pituitary gland), mouse primary
+cortical neuronal cells, intestinal tissue,
+and macrophages
+Metabolism: anti-lipolysis, modulation of
+cortical neuron activity, and enterocyte
+turnover in response to starvation-
+refeeding; Cancer and IBD: reduced
+symptom in mouse models of hepatitis and
+pancreatitis; Immune: anti-inﬂammatory on
+macrophages (independent of Gi but
+dependent on b-arrestin2 signaling)
+no evidence but maybe
+possible in vaginal tract
+GPR91/SUCNR1
+(Gi, Gq)
+Ligand
+EC50
+Systemic/Portal Conc
+References
+succinate
+56 mM (h), 28 mM (m)
+2–3 mM (h), 6–20 mM (m), 1–3 mM (large
+intestine)
+Ariza et al., 2012; Rubic
+et al., 2008
+Expression
+Function
+Microbial Metabolite-
+Mediated Signalinga
+WAT>kidney>trachea>dorsal root
+ganglia, liver, spleen, small intestine,
+quiescent hepatic stellate cells, heart,
+immature DCs, and retinal ganglion
+cell layer
+Metabolism: activation of intrarenal renin-
+angiotensin system, hypertension, oxygen-
+induced retinopathy, decreased energy
+expenditure, impaired glucose tolerance,
+cardiac hypertrophy, and induction of VEGF
+and angiogenesis; Immune: activation of
+quiescent hepatic stellate cells in the
+ischemic liver and activation of DCs to
+augment immune response
+no direct evidence
+Abbreviations: EEC, enteroendocrine cell; LP, lamina propria; Tregs, regulatory T cells; GLP-1, glucagon like peptide-1; PYY, peptide YY; IBD, inﬂam-
+matory bowel disease; Teff, effector T cell; DCs, dendritic cells; b-D-OHB, b-D-hydroxybutyrate; CRC, colorectal cancer; VEGF, vascular endothelial
+growth factor; microbial metabolite-mediated signalinga, signaling through the receptors by microbially produced metabolites (not endogenously pro-
+duced from the host).
+1336
+Cell 165, June 2, 2016
+the epithelium. Furthermore, it is at present unclear whether
+GPR43 is expressed on the apical or basolateral side of the
+cell.
+Outside of the gut, GPR43 seems to play an important role
+in white adipose tissue (WAT). Gpr43/ mice are obese
+compared to their wild-type counterparts even on chow diet,
+whereas adipose-speciﬁc overexpression of Gpr43 resulted
+in leaner mice. However, the effect was abrogated by antibi-
+otic treatment, demonstrating the importance of microbial
+metabolism in forming ligands for adipose GPR43 signaling
+(Kimura et al., 2013). Indeed, acetate may be a functionally
+relevant
+metabolite,
+as
+it
+promotes
+anti-lipolytic
+activity
+Figure 2. Mechanism of Action of Microbially Produced SCFAs
+Fermentation of dietary ﬁber leads to the production of SCFAs via various biochemical pathways. The size of the letters symbolizes the ratio of SCFAs present. In
+the distal gut, SCFAs can enter the cells through diffusion or SLC5A8-mediated transport and act as an energy source or an HDAC inhibitor. Luminal acetate or
+propionate sensed by GPR41 and GPR43 releases PYY and GLP-1, affecting satiety and intestinal transit. Luminal butyrate exerts anti-inﬂammatory effects via
+GPR109A and HDAC inhibition. Furthermore, propionate can be converted into glucose by IGN, leading to satiety and decreased hepatic glucose production.
+SCFAs can also act on other sites in the gut, like the ENS, where they stimulate motility and secretory activity, or the immune cells in the lamina propria, where they
+reduce inﬂammation and tumorigenesis. Small amounts of SCFAs (mostly acetate and possibly propionate) reach the circulation and can also directly affect the
+adipose tissue, brain, and liver, inducing overall beneﬁcial metabolic effects. Solid arrows indicate the direct action of each SCFA, and dashed arrows from the gut
+are indirect effects.
+Cell 165, June 2, 2016
+1337
+through GPR43 in WAT (Robertson et al., 2005). Acetate-
+dependent GPR43 stimulation in the WAT, but not in muscles
+or liver, also improved glucose and lipid metabolism (Kimura
+et al., 2013). Taken together, these data suggest that acetate
+may have metabolically beneﬁcial effects through GPR43 acti-
+vation in WAT. However, it should be noted that, in one study,
+Gpr43 deﬁciency was associated with improved metabolic
+phenotypes (Bjursell et al., 2011). The reason for this discrep-
+ancy is currently unclear.
+In contrast to GPR43, GPR41/FFAR3 couples only to Gi and
+is activated in the afﬁnity order propionate>butyrate>>acetate
+with EC50 for propionate around 12–274 mM (Le Poul et al.,
+2003) (Table 2). However, interspecies variability exists—
+e.g., acetate was equipotent with mouse (m) GPR43 and
+mGPR41 (Hudson et al., 2012). Interestingly, GPR41 has
+been
+associated
+with
+microbial-induced
+adiposity,
+since
+conventionally raised Gpr41/ mice are leaner than their
+wild-type counterparts, whereas this difference is abrogated
+under germ-free (GF) conditions. Furthermore, the microbiota,
+and presumably the resulting SCFAs, induced peptide YY
+(PYY) production in a GPR41-dependent fashion (Samuel
+et al., 2008). Thus, it is becoming increasingly clear that
+SCFA signaling through GPCRs in mice have profound effects
+on metabolism, but the role of GPR41/43 signaling in humans
+needs to be clariﬁed.
+A third GPCR, GPR109A/HCA2, responds to butyrate in an
+immune context and thus will be discussed below.
+SCFAs in Health and Disease
+Host Metabolism
+Dietary ﬁber promotes weight loss and improves glycemic con-
+trol, and several studies have sought to determine the impact of
+an SCFA-enriched diet to establish a direct causal relationship
+between ﬁber fermentation and improved metabolism. Mice
+fed a butyrate-enriched high-fat diet have increased thermogen-
+esis and energy expenditure and are resistant to obesity (Gao
+et al., 2009). In the same manner, oral acetate gavage in an
+obese and diabetic strain of rats reduced weight gain and
+improved glucose tolerance (Yamashita et al., 2007). Other
+studies showed that supplementation with propionate or buty-
+rate separately improved glucose homeostasis in rodents (De
+Vadder et al., 2014; Lin et al., 2012). In humans, acute adminis-
+tration of the inulin-propionate ester, which can be metabolized
+by the microbiota to propionate in the colon, signiﬁcantly
+increased postprandial GLP-1 and PYY while reducing calorie
+intake at a buffet meal. Furthermore, after a long-term supple-
+mentation, this resulted in a signiﬁcant reduction in weight gain
+(Chambers et al., 2015). Plasma concentration of PYY and
+GLP-1 is increased by rectal and intravenous perfusions of ace-
+tate in human subjects (Freeland and Wolever, 2010), and propi-
+onate supplementation in healthy women for 7 weeks reduced
+fasting glucose levels and increased insulin release during oral
+glucose tolerance test (Venter et al., 1990), suggesting a link
+between SCFAs, enteroendocrine hormones, and glucose ho-
+meostasis.
+Recently, intestinal gluconeogenesis (IGN) was suggested to
+mediate beneﬁcial metabolic effects by butyrate and propionate
+(De Vadder et al., 2014). Propionate is classically described as an
+efﬁcient hepatic gluconeogenic substrate, but it also serves as a
+gluconeogenic substrate in the intestine before reaching the
+liver. Butyrate also induced IGN but did so by increasing concen-
+tration of cAMP in colonocytes. Thus, some of the beneﬁcial
+metabolic effects induced by propionate and butyrate are medi-
+ated by de-novo-synthesized glucose from the gut epithelium,
+which is sensed in the portal vein and signals though a gut-brain
+neural circuit to increase insulin sensitivity and glucose tolerance
+(De Vadder et al., 2014).
+Despite the fact that SCFAs classically have been associated
+with metabolic beneﬁts and leanness (Ridaura et al., 2013),
+SCFA concentrations are increased in feces of obese humans
+compared to lean controls (Schwiertz et al., 2010). SCFA may
+constitute an important energy source in humans (Bergman,
+1990), and it has been suggested that increased energy harvest,
+associated with increased polysaccharide degradation in the
+gut, could contribute to the obese phenotype in genetically
+obese mice (Turnbaugh et al., 2006). However, it is at present
+unclear whether SCFAs contribute to obesity or just reﬂect the
+altered gut microbiota.
+Gut Immunity
+Because of the high bacterial density in the gut, our intestine
+is a unique immunological site where host-microbiota interac-
+tion occurs. Perturbation of the equilibrium between the
+host immune system and microbiota modulates inﬂammation
+and can contribute to IBD. The role of the microbiota on immu-
+nity has been reviewed recently (Kamada et al., 2013); thus,
+we will focus on SCFAs and their receptors or HDACs in
+immunity.
+The intestinal immune system must constantly maintain a
+delicate balance between tolerance to commensals and im-
+munity to pathogenic bacteria, staying hyporesponsive to
+commensals under steady state. Thus, immune-suppressive
+mechanisms are indispensable for intestinal homeostasis.
+This can be achieved by increased IL-18 secretion by
+intestinal epithelial cells (IECs) and generation of Tregs and
+IL-10-producing T cells via butyrate-stimulated signaling of
+GPR109A (Singh et al., 2014). Also, a recent study suggests
+that
+high-ﬁber
+diet-induced
+activation
+of
+GPR43
+and
+GPR109A activates the NLRP3 inﬂammasome, which is crit-
+ical for intestinal homeostasis (Macia et al., 2015). Consid-
+ering the high expression of SCFA receptors in immune cells
+(Table 2), we speculate that these are important regulators of
+T cell function. Recent studies have shown the effects of
+SCFAs on Treg cell expansion/generation via SCFAs-GPCR
+or their HDAC-inhibiting ability (Figure 2 and 3) (Arpaia
+et al., 2013; Furusawa et al., 2013; Singh et al., 2014; Smith
+et al., 2013). Although accumulating evidence supports the
+speciﬁc role of SCFAs on Treg cells, the role of SCFAs on
+T
+cell
+differentiation
+into
+both
+effector
+and
+regulatory
+T cells has been recently described, related to either immu-
+nity or immune tolerance depending on the immunological
+milieu (Park et al., 2015). In contrast to the earlier study
+showing the expression of GPR43 in colonic Tregs and
+myeloid cells (Smith et al., 2013), Park and co-authors re-
+ported that T cells do not signiﬁcantly express GPR43 and
+thus GPR43 is not functional in regulating cytokine expres-
+sion in T cells, which is rather dependent on HDAC activity
+1338
+Cell 165, June 2, 2016
+(Park et al., 2015). Furthermore, they suggested that, if the
+host was in a situation of ﬁghting against pathogens, SCFAs
+would facilitate differentiation of naive T cells into Th1 and
+Th17 cells to boost immunity. Collectively, SCFAs can modu-
+late T cell function, but more research is required to pinpoint
+the underlying mechanism.
+In terms of where signaling through GPR109A may occur, it is
+highly expressed on the lumen-facing apical membrane of
+colonic and small intestinal epithelial cells (Thangaraju et al.,
+2009). It is reasonable to consider other microbial metabolites
+as physiological ligands for GPR109A; theEC50 for butyrate on
+human and mouse orthologs is around 0.7 mM and 1.6 mM,
+respectively (Taggart et al., 2005). Since butyrate is produced
+in large quantities (mM) by bacterial fermentation of dietary ﬁ-
+bers, it may be a physiologically relevant ligand for GPR109A
+in the gut. The relevance of GPR109A as a mediator of gut micro-
+biota was supported by microbiota-dependent expression in the
+colon and ileum (Cresci et al., 2010), whereas it is unlikely to
+reach physiologically relevant levels in the periphery (5 mM).
+Thus, many of the beneﬁcial effects driven by butyrate-
+GPR109A likely occur in the colon.
+Cancer
+Less than 10% of all cancers are caused by germline mutations,
+and thus cancer is generally regarded as a disease of acquired
+somatic mutations and environmental factors. Recently, the
+gut microbiota has emerged as an environmental factor affecting
+host pathophysiology, with up to 20% of all cases of cancer
+worldwide associated with microbial infection (de Martel et al.,
+2012).
+Chronic inﬂammation is a well-established risk factor for
+colorectal cancer (CRC) (Medzhitov, 2008). Pathogenic bacte-
+ria, but also commensal microbial elements, has been associ-
+ated with inﬂammation and cancer development (Mazmanian
+et al., 2008). Commensal bacteria can promote as well as sup-
+press colonic inﬂammation and cancer in a context-dependent
+Figure 3. Impact of SCFA-Mediated Toler-
+ance and Immunity in Intestinal and Allergic
+Airway Inﬂammation
+To maintain homeostasis, our immune system
+should remain suppressive. Tolerance to com-
+mensals (tolerating self-molecules) is primarily
+achieved by IL-18 increase in intestinal epithelium
+and immune-suppressive Treg expansion/differ-
+entiation through Treg itself or DC. These effects
+are mediated by the interaction between SCFAs
+and their targets in the host (GPCR and/or HDAC),
+which is also important in the suppression of
+inﬂammation outside of the gut—dysregulation of
+immune tolerance can lead to allergic airway
+inﬂammation (asthma). However, host immune
+system should recognize and eliminate pathogens
+(non-self) by activating effector T cell functions,
+which are also known to be regulated by SCFA-
+mediated HDAC inhibition and mTORC1 activa-
+tion, depending on immunological milieu.
+fashion (Figure 4). Antibiotic treatment
+prevents
+chronic
+colitis,
+suggesting
+that normal colonic microbiota has a
+proinﬂammatory
+role
+(Videla
+et
+al.,
+1994). In contrast, GF and antibiotic-treated mice are more
+susceptible to dextran sulfate sodium (DSS)-induced colitis,
+which may be due to altered mucus quality. Activation of
+GPR43 by acetate markedly protected against gut inﬂamma-
+tion in mice (Maslowski et al., 2009), proposing that normal
+microbiota-produced metabolites like SCFAs have a protec-
+tive role in colonic inﬂammation. The expression of the SCFA
+receptors GPR109A and GPR43 is markedly reduced in colon
+cancer (Cresci et al., 2010; Tang et al., 2011), again supporting
+the protective role of SCFA signaling. More speciﬁcally, buty-
+rate seems to be related to a protective role based on a signif-
+icant decrease in the number of butyrate-producing bacteria in
+the colon of patients with ulcerative colitis and colon cancer
+(Frank et al., 2007; Wang et al., 2012) and an amelioration of
+experimental colitis (AOM (azoxymethane)/DSS treatment)
+through GPR109A (Singh et al., 2014). However, currently
+much remains unclear regarding the causal links between tu-
+mor-associated microbiota and metabolites in inﬂammation
+and cancer.
+Butyrate can also promote tumorigenesis in a genetic mouse
+model with mutations in both the Apc gene and the mismatch
+repair gene Msh2 (ApcMin/+;Msh2/) (Belcheva et al., 2014). In
+this model, butyrate induced tumorigenesis independently of mi-
+crobial-driven inﬂammation by instead inducing stem-cell-like
+characteristics in the crypts, possibly increasing the efﬁcacy of
+stem cell generation and self-renewal (Liang et al., 2010). In
+this study, a low-carbohydrate diet was used, which not only re-
+duces butyrate, but also glucose. Since cancer and stem cells
+exhibit great glucose dependency, some of the effects in the
+ApcMin/+;Msh2/ mice may be attributable to reduced glucose
+availability. Taken together, when considering the effect of
+SCFAs on cancer, we need to consider genetic background,
+cellular energetics, and environmental contexts (i.e., inﬂamma-
+tion or stem-cell-like character of the cell and the diet of the
+host).
+Cell 165, June 2, 2016
+1339
+Asthma
+Like the intestinal epithelium, the airway epithelium forms a
+large interface between the external environment and the
+interior of the human body, with constant exposure to po-
+tential pathogens. Asthma is a chronic respiratory disease
+affecting 300 million people worldwide (Brusselle et al.,
+2013), characterized by airway hyper-reactivity and remodel-
+ing.
+Inadequate
+immune
+regulation
+and/or
+compromised
+airway epithelium result in an allergic airway disease, asthma
+(Holgate, 2011). A protective role of commensals and poten-
+tially their metabolites from asthma has been suggested
+(Russell et al., 2012).
+A high-ﬁber diet (producing high amounts of acetate) sup-
+presses allergic airway disease by enhancing regulatory T cells
+(Treg) through HDAC9 inhibition (Thorburn et al., 2015). High-
+ﬁber diet and subsequent propionate production can also pro-
+tect against allergic airway by inducing hematopoiesis of den-
+dritic cells that seed the lungs and reduce Th2 effector function
+in a GPR41-dependent fashion (Trompette et al., 2014). Simi-
+larly, intestinal helminth infection causes changes in commensal
+communities, resulting in an increase of SCFAs and reduction of
+allergic asthma in a GPR41-dependent manner (Zaiss et al.,
+2015). Thus, modulation of HDAC and GPR41-induced signaling
+can be important for shaping the immune niche in the lung and
+potentially other organs. An interesting future direction will be
+to understand whether the effects of SCFAs on circulating im-
+mune cells can be translated to human disease.
+Nervous System
+Besides its effects on intestinal epithelial cells, butyrate can also
+modulate the activity of the enteric nervous system (ENS) (Soret
+et al., 2010). For example, the SCFA receptor GPR41 is ex-
+pressed in the ENS (Nøhr et al., 2013). A resistant starch diet
+(in which starch reaches the colon and can be considered a
+dietary ﬁber), intracecal butyrate infusion, and butyrate applica-
+tion to cultured myenteric ganglia all affect the ENS by increasing
+the proportion of cholinergic neurons translating to increased gut
+motility (Soret et al., 2010). In contrast to butyrate, propionate
+seems to decrease colon motility (Hurst et al., 2014). However,
+propionate increases secretory activity of the colon (Yajima
+et al., 2011) as well as the number of vasoactive intestinal pep-
+tide (VIP) neurons in the intestine (De Vadder et al., 2015).
+Figure 4. Context-Dependent Effects of
+Microbiota on CRC
+Depending on the cellular context of the host
+(i.e., inﬂammation-driven or acquisition of stem-
+cell-like character), antibiotics and/or SCFAs can
+function as anti-inﬂammatory or pro-inﬂamma-
+tory. In normal conditions in which commensal-
+host interaction is nicely balanced, removal of
+commensals by antibiotics will erase the beneﬁ-
+cial effect of SCFAs, contributing to CRC devel-
+opment.
+Apart from the ENS, SCFAs also act
+on other peripheral neurons. In addition
+to the SCFA-GPR41 gut-brain neural
+axis responsible for improved energy
+metabolism discussed above (De Vad-
+der et al., 2014), GPR41 is widely expressed in the peripheral
+nervous system, such as sympathetic ganglia, as well as
+vagal, dorsal root, and trigeminal ganglia (Kimura et al.,
+2011; Nøhr et al., 2015). Activation of GPR41 by SCFAs in-
+duces sympathetic activation via noradrenaline release, lead-
+ing to increased energy expenditure and heart rate (Kimura
+et al., 2011), collectively suggesting profound effects of
+SCFAs in nervous signaling.
+SCFAs can have various effects on the host brain. For
+example, when administered intravenously, a small fraction of
+acetate crosses the blood-brain barrier, where it is taken up
+and activates hypothalamic neurons driving satiety (Frost et al.,
+2014). A recent study explored a potential link between SCFAs
+and microglia maturation in the brain. Microglia are the resident
+macrophages of the brain and spinal cord, acting as the main
+form of immune defense in the central nervous system. Germ-
+free (GF) mice have defective microglia density in the brain. How-
+ever, when GF mice were administered SCFAs in the water for
+4 weeks, the number of microglia was restored, as was their
+function and morphology (Erny et al., 2015). This effect was
+dependent upon the activation of GPR43. Furthermore, SCFAs
+regulate the permeability of the blood-brain barrier (BBB). Colo-
+nization of GF mice with the butyrate producer Clostridium
+tyrobutyricum or with the acetate and propionate producer
+Bacteroides thetaiotaomicron, as well as oral gavage with
+sodium butyrate, decreases BBB permeability, associated with
+increased expression of occludin in the frontal cortex and hypo-
+thalamus (Braniste et al., 2014). Intravenous or intraperitoneal
+administration of sodium butyrate has been reported to prevent
+BBB breakdown and promote angiogenesis and neurogenesis
+(Kim et al., 2009; Yoo et al., 2011).
+In summary, these data show that action of SCFAs is not
+limited to the gut. They can act at distal places such as the brain,
+modulating permeability, neurogenesis, and behavior of the
+host. Furthermore, they can also modulate autonomic functions
+independently of the central nervous system.
+SCFA Precursors: Lactate and Succinate
+Succinate and lactate are organic acids, which also are micro-
+bially produced in the gut but are usually considered as interme-
+diates and are measured in lesser amounts mostly because of
+1340
+Cell 165, June 2, 2016
+consumption by other microbes that convert them to SCFAs
+(Cummings et al., 1987; Flint et al., 2012). However, microbially
+produced lactate and succinate may also have important
+signaling functions.
+Lactate as Signaling Molecule
+For about 4,000 years, people have been ingesting lactic acid
+bacteria with fermented and therefore preserved foods. Lactic
+acid bacteria are widespread in nature and also inhabit in the
+gastrointestinal tract (Garrote et al., 2015). Fermenting milk
+with lactic acid bacteria provides a ﬁnal product that contains
+lactic acid, among other metabolites. Several studies demon-
+strate that lactic acid (lactate) can have diverse metabolic
+and regulatory properties, such as immune function, being an
+energy source for cell turnover, HDAC inhibitors, and signaling
+molecules.
+In 2008 and 2009, two groups reported that L-lactate (2-hy-
+droxypropanoate) is a natural ligand for Gi-coupled GPR81, in-
+hibiting cAMP-mediated intracellular signaling events such as
+lipolysis. GPR81 is enriched in adipose tissue and was originally
+proposed as a potential target for treatment of dyslipidemia
+(Cai et al., 2008; Thangaraju et al., 2009). The EC50 value for
+L-lactate to GPR81 is around 5 mM but is more than 20 mM
+for D-lactate (Thangaraju et al., 2009). Whereas sufﬁciently
+high concentrations may be achieved upon exercise, microbially
+produced lactate is generally converted into propionate or buty-
+rate by a subset of lactate-utilizing bacteria (Flint et al., 2012),
+and it is thus unlikely that bacterially derived lactate functions
+as a ligand for GPR81 outside of or even within the gut. In
+contrast, the vaginal microbiota produces a large quantity of
+lactate, i.e., vaginal secretions contain 10–50 mM lactate,
+of which 55% is the D isoform (Boskey et al., 2001). Thus, mi-
+crobially produced lactate may affect physiological functions
+in the vagina either through HDAC modulation or GPR81
+signaling. Orally consumed probiotics like Lactobacillus spp.
+are believed to ascend to the vaginal tract (Reid et al., 2003),
+suggesting a gut-microbiota-mediated regulation of the vaginal
+microbiota.
+Succinate as Signaling Molecule
+Succinate is an important intermediate metabolite in the cit-
+ric acid cycle, where it is formed from succinyl-CoA by
+succinyl-CoA synthetase and is converted to fumarate by
+succinate dehydrogenase, an oxygen-dependent enzyme.
+Gut microbiota can also produce considerable levels of suc-
+cinate, but it is not clear whether microbially derived succi-
+nate acts as a signaling molecule. In humans, succinate
+concentration is 1–3 mM in the contents of large intestine
+and feces, which corresponds to about 2%–4% of the total
+concentration
+of
+organic
+anions
+(Meijer-Severs
+and
+van
+Santen, 1987). Succinate, mainly produced by Prevotella,
+activates dendritic cells (Rubic et al., 2008), and it will thus
+be interesting to determine whether microbially produced
+succinate modulates intestinal inﬂammation. This was sup-
+ported by a study showing that polyphenols in conjunction
+with high-fat diet raise cecal succinate levels and inhibit
+growth and proliferation of colon cancer cells and angiogen-
+esis (Haraguchi et al., 2014).
+GPR91 was identiﬁed as a succinate receptor in 2004 (He
+et al., 2004), suggesting that microbially produced succinate
+may function as a signaling molecule. EC50 value of succinate
+on human and mouse GPR91 is 56 and 28 mM, respectively
+(He et al., 2004). Plasma succinate concentrations in rodents
+vary from 6 to 17 mM and 2 to 3 mM in humans (Ariza et al.,
+2012), suggesting that the levels in the gut, but not in the
+periphery, may be sufﬁcient to activate GPR91. In summary,
+microbially produced succinate is associated with beneﬁcial
+effects, but the exact role of succinate in modulating physi-
+ology, and whether it is dependent on GPR91, is currently
+unknown.
+Conclusions and Outlook
+Microbial interactions with dietary polysaccharides and the re-
+sulting SCFAs are important energy and signaling molecules. It
+is becoming increasingly accepted that butyrate-producing bac-
+teria and butyrate per se may be beneﬁcial for human health.
+However, it is unclear whether beneﬁcial effects are driven by
+butyrate per se and/or in combination with other metabolites
+produced from these bacteria. It should be noted that the gut mi-
+crobiota produces many other classes of metabolites such as
+bile acids and amino acid derivatives that may also have essen-
+tial signaling functions.
+Fermentative bacteria mostly target the colon, whereas effects
+of exogenously administered SCFAs may be dependent on route
+of administration and thus different from microbially produced
+metabolites. For example, oral delivery of butyrate may target
+the small intestine and reach supraphysiological concentrations
+in the periphery since it is not consumed by colonocytes. Tissue-
+speciﬁc effects of SCFAs have been demonstrated in the case of
+propionate, where propionate-dependent gluconeogenesis in
+the small intestine improves metabolic health, whereas hepatic
+gluconeogenesis is detrimental. Considering the expression of
+SCFA receptors in the small intestine, it will be important to un-
+derstand SCFA production and their signaling in the small intes-
+tine using tissue- and even cell-speciﬁc knockout mice. Of
+course, studies with other microbial metabolites, such as lactate
+signaling in the vagina and succinate signaling in the gut, may
+also provide new and exciting possibilities for modulation of
+human health.
+It will be a major challenge to identify the exact role of SCFAs in
+host (patho)physiology and to pinpoint their precise mecha-
+nisms, which can differ between tissues and even within the
+same tissue, depending on the cell type. Also, there is a relatively
+low speciﬁcity and afﬁnity of microbial metabolites toward host
+targets (i.e., butyrate [mM range] versus niacin [nM range] for
+GPR109A). Thus, receptors recognizing microbial metabolites
+may originally have evolved to recognize endogenous mole-
+cules. However, there seems to be a selective pressure to sense
+microbial metabolites in the intestine during co-evolution be-
+tween microbiota and host, as expression of SLC5A8 and
+GPR109A is increased in colonized mice. But because of the
+promiscuous nature between microbial metabolites and host tar-
+gets, these metabolites might be able to exert broader impact on
+host pathophysiology.
+Here, we discussed how SCFAs are synthesized, are distrib-
+uted, and can signal and contribute to host physiology within
+the gut and in the periphery. However, their effects may well
+be exerted in a number of organs. Understanding spatiotemporal
+Cell 165, June 2, 2016
+1341
+concentration of metabolites and their functional capacity will
+hopefully lead to general principles for microbial metabolite ac-
+tions affecting host health.
+ACKNOWLEDGMENTS
+We thank Eun Byul Koh for assistance with ﬁgures and artwork. Work in the
+authors’ laboratory is supported by the Swedish Research Council, the
+NovoNordisk foundation, Torsten So¨ derberg’s foundation, Swedish Heart
+Lung Foundation, Go¨ ran Gustafsson’s foundation, IngaBritt och Arne Lund-
+bergs Foundation, Knut and Alice Wallenberg Foundation, the FP7 sponsored
+program METACARDIS, and the regional agreement on medical training and
+clinical research (ALF) between Region Va¨ stra Go¨ taland and Sahlgrenska Uni-
+versity Hospital. F.B. is a recipient of an ERC Consolidator Grant (European
+Research Council, consolidator grant 615362–METABASE). F.D.V. is a recip-
+ient of EMBO long-term fellowship ALTF 1305-2014 (Marie Curie Actions
+LTFCOFUND2013, GA-2013-609409). F.B. is founder and shareholder of Me-
+tabogen AB.
+REFERENCES
+Ariza, A.C., Deen, P.M.T., and Robben, J.H. (2012). The succinate receptor as
+a novel therapeutic target for oxidative and metabolic stress-related condi-
+tions. Front. Endocrinol. (Lausanne) 3, 22.
+Arpaia, N., Campbell, C., Fan, X., Dikiy, S., van der Veeken, J., deRoos, P., Liu,
+H., Cross, J.R., Pfeffer, K., Coffer, P.J., and Rudensky, A.Y. (2013). Metabolites
+produced by commensal bacteria promote peripheral regulatory T-cell gener-
+ation. Nature 504, 451–455.
+Belcheva, A., Irrazabal, T., Robertson, S.J., Streutker, C., Maughan, H., Ru-
+bino, S., Moriyama, E.H., Copeland, J.K., Kumar, S., Green, B., et al. (2014).
+Gut microbial metabolism drives transformation of MSH2-deﬁcient colon
+epithelial cells. Cell 158, 288–299.
+Bergman, E.N. (1990). Energy contributions of volatile fatty acids from the
+gastrointestinal tract in various species. Physiol. Rev. 70, 567–590.
+Bjursell, M., Admyre, T., Go¨ ransson, M., Marley, A.E., Smith, D.M., Oscarsson,
+J., and Bohlooly-Y, M. (2011). Improved glucose control and reduced body fat
+mass in free fatty acid receptor 2-deﬁcient mice fed a high-fat diet. Am. J.
+Physiol. Endocrinol. Metab. 300, E211–E220.
+Boskey, E.R., Cone, R.A., Whaley, K.J., and Moench, T.R. (2001). Origins of
+vaginal acidity: high D/L lactate ratio is consistent with bacteria being the pri-
+mary source. Hum. Reprod. 16, 1809–1813.
+Braniste, V., Al-Asmakh, M., Kowal, C., Anuar, F., Abbaspour, A., To´ th, M., Ko-
+recka, A., Bakocevic, N., Ng, L.G., Kundu, P., et al. (2014). The gut microbiota
+inﬂuences blood-brain barrier permeability in mice. Sci. Transl. Med. 6,
+263ra158.
+Brown, A.J., Goldsworthy, S.M., Barnes, A.A., Eilert, M.M., Tcheang, L., Dan-
+iels, D., Muir, A.I., Wigglesworth, M.J., Kinghorn, I., Fraser, N.J., et al. (2003).
+The Orphan G protein-coupled receptors GPR41 and GPR43 are activated
+by propionate and other short chain carboxylic acids. J. Biol. Chem. 278,
+11312–11319.
+Brusselle, G.G., Maes, T., and Bracke, K.R. (2013). Eosinophils in the spotlight:
+Eosinophilic airway inﬂammation in nonallergic asthma. Nat. Med. 19,
+977–979.
+Cai, T.Q., Ren, N., Jin, L., Cheng, K., Kash, S., Chen, R., Wright, S.D., Taggart,
+A.K.P., and Waters, M.G. (2008). Role of GPR81 in lactate-mediated reduction
+of adipose lipolysis. Biochem. Biophys. Res. Commun. 377, 987–991.
+Cani, P.D., Neyrinck, A.M., Fava, F., Knauf, C., Burcelin, R.G., Tuohy, K.M.,
+Gibson, G.R., and Delzenne, N.M. (2007). Selective increases of biﬁdobac-
+teria in gut microﬂora improve high-fat-diet-induced diabetes in mice
+through a mechanism associated with endotoxaemia. Diabetologia 50,
+2374–2383.
+Chambers, E.S., Viardot, A., Psichas, A., Morrison, D.J., Murphy, K.G., Zac-
+Varghese, S.E.K., MacDougall, K., Preston, T., Tedford, C., Finlayson, G.S.,
+et al. (2015). Effects of targeted delivery of propionate to the human colon
+on appetite regulation, body weight maintenance and adiposity in overweight
+adults. Gut 64, 1744–1754.
+Chang, P.V., Hao, L., Offermanns, S., and Medzhitov, R. (2014). The microbial
+metabolite butyrate regulates intestinal macrophage function via histone de-
+acetylase inhibition. Proc. Natl. Acad. Sci. USA 111, 2247–2252.
+Cresci, G.A., Thangaraju, M., Mellinger, J.D., Liu, K., and Ganapathy, V. (2010).
+Colonic gene expression in conventional and germ-free mice with a focus on
+the butyrate receptor GPR109A and the butyrate transporter SLC5A8.
+J. Gastrointest. Surg. 14, 449–461.
+Cummings, J.H., and Macfarlane, G.T. (1991). The control and conse-
+quences of bacterial fermentation in the human colon. J. Appl. Bacteriol.
+70, 443–459.
+Cummings, J.H., Pomare, E.W., Branch, W.J., Naylor, C.P., and Macfarlane,
+G.T. (1987). Short chain fatty acids in human large intestine, portal, hepatic
+and venous blood. Gut 28, 1221–1227.
+de Martel, C., Ferlay, J., Franceschi, S., Vignat, J., Bray, F., Forman, D., and
+Plummer, M. (2012). Global burden of cancers attributable to infections in
+2008: a review and synthetic analysis. Lancet Oncol. 13, 607–615.
+De Vadder, F., Kovatcheva-Datchary, P., Goncalves, D., Vinera, J., Zitoun, C.,
+Duchampt, A., Ba¨ ckhed, F., and Mithieux, G. (2014). Microbiota-generated
+metabolites promote metabolic beneﬁts via gut-brain neural circuits. Cell
+156, 84–96.
+De Vadder, F., Plessier, F., Gautier-Stein, A., and Mithieux, G. (2015). Vasoac-
+tive intestinal peptide is a local mediator in a gut-brain neural axis activating
+intestinal gluconeogenesis. Neurogastroenterol. Motil. 27, 443–448.
+Dewulf, E.M., Cani, P.D., Claus, S.P., Fuentes, S., Puylaert, P.G.B., Neyrinck,
+A.M., Bindels, L.B., de Vos, W.M., Gibson, G.R., Thissen, J.P., and Delzenne,
+N.M. (2013). Insight into the prebiotic concept: lessons from an exploratory,
+double blind intervention study with inulin-type fructans in obese women.
+Gut 62, 1112–1121.
+Donohoe, D.R., Collins, L.B., Wali, A., Bigler, R., Sun, W., and Bultman, S.J.
+(2012). The Warburg effect dictates the mechanism of butyrate-mediated his-
+tone acetylation and cell proliferation. Mol. Cell 48, 612–626.
+Duncan, S.H., Barcenilla, A., Stewart, C.S., Pryde, S.E., and Flint, H.J. (2002).
+Acetate utilization and butyryl coenzyme A (CoA):acetate-CoA transferase in
+butyrate-producing bacteria from the human large intestine. Appl. Environ.
+Microbiol. 68, 5186–5190.
+Erny, D., Hrabe de Angelis, A.L., Jaitin, D., Wieghofer, P., Staszewski, O.,
+David, E., Keren-Shaul, H., Mahlakoiv, T., Jakobshagen, K., Buch, T., et al.
+(2015). Host microbiota constantly control maturation and function of microglia
+in the CNS. Nat. Neurosci. 18, 965–977.
+Flint, H.J., Scott, K.P., Louis, P., and Duncan, S.H. (2012). The role of the
+gut microbiota in nutrition and health. Nat. Rev. Gastroenterol. Hepatol. 9,
+577–589.
+Frank, D.N., St Amand, A.L., Feldman, R.A., Boedeker, E.C., Harpaz, N., and
+Pace, N.R. (2007). Molecular-phylogenetic characterization of microbial com-
+munity imbalances in human inﬂammatory bowel diseases. Proc. Natl. Acad.
+Sci. USA 104, 13780–13785.
+Freeland, K.R., and Wolever, T.M.S. (2010). Acute effects of intravenous and
+rectal acetate on glucagon-like peptide-1, peptide YY, ghrelin, adiponectin
+and tumour necrosis factor-alpha. Br. J. Nutr. 103, 460–466.
+Frost, G., Sleeth, M.L., Sahuri-Arisoylu, M., Lizarbe, B., Cerdan, S., Brody, L.,
+Anastasovska, J., Ghourab, S., Hankir, M., Zhang, S., et al. (2014). The short-
+chain fatty acid acetate reduces appetite via a central homeostatic mecha-
+nism. Nat. Commun. 5, 3611.
+Furusawa, Y., Obata, Y., Fukuda, S., Endo, T.A., Nakato, G., Takahashi, D.,
+Nakanishi, Y., Uetake, C., Kato, K., Kato, T., et al. (2013). Commensal
+microbe-derived butyrate induces the differentiation of colonic regulatory
+T cells. Nature 504, 446–450.
+Gao, Z., Yin, J., Zhang, J., Ward, R.E., Martin, R.J., Lefevre, M., Cefalu, W.T.,
+and Ye, J. (2009). Butyrate improves insulin sensitivity and increases energy
+expenditure in mice. Diabetes 58, 1509–1517.
+1342
+Cell 165, June 2, 2016
+Garrote, G.L., Abraham, A.G., and Rumbo, M. (2015). Is lactate an under-
+valued functional component of fermented food products? Front. Microbiol.
+6, 629.
+Haraguchi, T., Kayashima, T., Okazaki, Y., Inoue, J., Mineo, S., Matsubara, K.,
+Sakaguchi, E., Yanaka, N., and Kato, N. (2014). Cecal succinate elevated by
+some dietary polyphenols may inhibit colon cancer cell proliferation and angio-
+genesis. J. Agric. Food Chem. 62, 5589–5594.
+He, W., Miao, F.J.P., Lin, D.C.H., Schwandner, R.T., Wang, Z., Gao, J., Chen,
+J.L., Tian, H., and Ling, L. (2004). Citric acid cycle intermediates as ligands for
+orphan G-protein-coupled receptors. Nature 429, 188–193.
+Hetzel, M., Brock, M., Selmer, T., Pierik, A.J., Golding, B.T., and Buckel, W.
+(2003). Acryloyl-CoA reductase from Clostridium propionicum. An enzyme
+complex of propionyl-CoA dehydrogenase and electron-transferring ﬂavopro-
+tein. Eur. J. Biochem. 270, 902–910.
+Holgate, S.T. (2011). The sentinel role of the airway epithelium in asthma path-
+ogenesis. Immunol. Rev. 242, 205–219.
+Hudson, B.D., Tikhonova, I.G., Pandey, S.K., Ulven, T., and Milligan, G. (2012).
+Extracellular ionic locks determine variation in constitutive activity and ligand
+potency between species orthologs of the free fatty acid receptors FFA2
+and FFA3. J. Biol. Chem. 287, 41195–41209.
+Hurst, N.R., Kendig, D.M., Murthy, K.S., and Grider, J.R. (2014). The
+short chain fatty acids, butyrate and propionate, have differential effects
+on the motility of the guinea pig colon. Neurogastroenterol. Motil. 26,
+1586–1596.
+Johnstone, R.W. (2002). Histone-deacetylase inhibitors: novel drugs for the
+treatment of cancer. Nat. Rev. Drug Discov. 1, 287–299.
+Kaiko, G.E., Ryu, S.H., Koues, O.I., Collins, P.L., Solnica-Krezel, L., Pearce,
+E.J., Oltz, E.M., and Stappenbeck, T.S. (2016). The colonic crypt protects
+stem cells from microbiota-derived metabolites. Cell 165. Published online
+June 2, 2016. http://dx.doi.org/10.1016/j.cell.2016.05.018.
+Kamada, N., Seo, S.U., Chen, G.Y., and Nu´ n˜ ez, G. (2013). Role of the gut
+microbiota in immunity and inﬂammatory disease. Nat. Rev. Immunol. 13,
+321–335.
+Kim, H.J., Leeds, P., and Chuang, D.M. (2009). The HDAC inhibitor, sodium
+butyrate, stimulates neurogenesis in the ischemic brain. J. Neurochem. 110,
+1226–1240.
+Kimura, I., Inoue, D., Maeda, T., Hara, T., Ichimura, A., Miyauchi, S., Kobaya-
+shi, M., Hirasawa, A., and Tsujimoto, G. (2011). Short-chain fatty acids and
+ketones directly regulate sympathetic nervous system via G protein-coupled
+receptor 41 (GPR41). Proc. Natl. Acad. Sci. USA 108, 8030–8035.
+Kimura, I., Ozawa, K., Inoue, D., Imamura, T., Kimura, K., Maeda, T., Terasawa,
+K., Kashihara, D., Hirano, K., Tani, T., et al. (2013). The gut microbiota sup-
+presses insulin-mediated fat accumulation via the short-chain fatty acid recep-
+tor GPR43. Nat. Commun. 4, 1829.
+Kovatcheva-Datchary, P., Nilsson, A., Akrami, R., Lee, Y.S., De Vadder, F.,
+Arora, T., Hallen, A., Martens, E., Bjo¨ rck, I., and Ba¨ ckhed, F. (2015). Dietary
+Fiber-Induced Improvement in Glucose Metabolism Is Associated with
+Increased Abundance of Prevotella. Cell Metab. 22, 971–982.
+Le Poul, E., Loison, C., Struyf, S., Springael, J.-Y., Lannoy, V., Decobecq,
+M.-E., Brezillon, S., Dupriez, V., Vassart, G., Van Damme, J., et al. (2003).
+Functional characterization of human receptors for short chain fatty acids
+and their role in polymorphonuclear cell activation. J. Biol. Chem. 278,
+25481–25489.
+Liang, G., Taranova, O., Xia, K., and Zhang, Y. (2010). Butyrate promotes
+induced pluripotent stem cell generation. J. Biol. Chem. 285, 25516–
+25521.
+Lin, H.V., Frassetto, A., Kowalik, E.J., Jr., Nawrocki, A.R., Lu, M.M., Kosinski,
+J.R., Hubert, J.A., Szeto, D., Yao, X., Forrest, G., and Marsh, D.J. (2012). Buty-
+rate and propionate protect against diet-induced obesity and regulate gut hor-
+mones via free fatty acid receptor 3-independent mechanisms. PLoS ONE 7,
+e35240.
+Liu, C., Wu, J., Zhu, J., Kuei, C., Yu, J., Shelton, J., Sutton, S.W., Li, X., Yun,
+S.J., Mirzadegan, T., et al. (2009). Lactate inhibits lipolysis in fat cells through
+activation of an orphan G-protein-coupled receptor, GPR81. J. Biol. Chem.
+284, 2811–2822.
+Louis, P., Duncan, S.H., McCrae, S.I., Millar, J., Jackson, M.S., and Flint,
+H.J. (2004). Restricted distribution of the butyrate kinase pathway among
+butyrate-producing bacteria from the human colon. J. Bacteriol. 186,
+2099–2106.
+Louis, P., Hold, G.L., and Flint, H.J. (2014). The gut microbiota, bacterial me-
+tabolites and colorectal cancer. Nat. Rev. Microbiol. 12, 661–672.
+Lupton, J.R. (2004). Microbial degradation products inﬂuence colon cancer
+risk: the butyrate controversy. J. Nutr. 134, 479–482.
+Macfarlane, G.T., and Macfarlane, S. (2012). Bacteria, colonic fermentation,
+and gastrointestinal health. J. AOAC Int. 95, 50–60.
+Macia, L., Tan, J., Vieira, A.T., Leach, K., Stanley, D., Luong, S., Maruya,
+M., McKenzie, I.C., Hijikata, A., Wong, C., et al. (2015). Metabolite-
+sensing receptors GPR43 and GPR109A facilitate dietary ﬁbre-induced
+gut homeostasis through regulation of the inﬂammasome. Nat. Commun.
+6, 6734.
+Maslowski, K.M., Vieira, A.T., Ng, A., Kranich, J., Sierro, F., Yu, D., Schilter,
+H.C., Rolph, M.S., Mackay, F., Artis, D., et al. (2009). Regulation of inﬂamma-
+tory responses by gut microbiota and chemoattractant receptor GPR43.
+Nature 461, 1282–1286.
+Mazmanian, S.K., Round, J.L., and Kasper, D.L. (2008). A microbial symbiosis
+factor prevents intestinal inﬂammatory disease. Nature 453, 620–625.
+Medzhitov, R. (2008). Origin and physiological roles of inﬂammation. Nature
+454, 428–435.
+Meijer-Severs, G.J., and van Santen, E. (1987). Short-chain fatty acids and
+succinate in feces of healthy human volunteers and their correlation with
+anaerobe cultural counts. Scand. J. Gastroenterol. 22, 672–676.
+Newgard, C.B., An, J., Bain, J.R., Muehlbauer, M.J., Stevens, R.D., Lien,
+L.F., Haqq, A.M., Shah, S.H., Arlotto, M., Slentz, C.A., et al. (2009). A
+branched-chain amino acid-related metabolic signature that differentiates
+obese and lean humans and contributes to insulin resistance. Cell Metab.
+9, 311–326.
+Nilsson, N.E., Kotarsky, K., Owman, C., and Olde, B. (2003). Identiﬁcation
+of a free fatty acid receptor, FFA2R, expressed on leukocytes and activated
+by short-chain fatty acids. Biochem. Biophys. Res. Commun. 303, 1047–
+1052.
+Nøhr, M.K., Pedersen, M.H., Gille, A., Egerod, K.L., Engelstoft, M.S., Husted,
+A.S., Sichlau, R.M., Grunddal, K.V., Poulsen, S.S., Han, S., et al. (2013).
+GPR41/FFAR3 and GPR43/FFAR2 as cosensors for short-chain fatty acids
+in enteroendocrine cells vs FFAR3 in enteric neurons and FFAR2 in enteric leu-
+kocytes. Endocrinology 154, 3552–3564.
+Nøhr, M.K., Egerod, K.L., Christiansen, S.H., Gille, A., Offermanns, S.,
+Schwartz, T.W., and Møller, M. (2015). Expression of the short chain fatty
+acid receptor GPR41/FFAR3 in autonomic and somatic sensory ganglia.
+Neuroscience 290, 126–137.
+Park, J., Kim, M., Kang, S.G., Jannasch, A.H., Cooper, B., Patterson, J., and
+Kim, C.H. (2015). Short-chain fatty acids induce both effector and regulatory
+T cells by suppression of histone deacetylases and regulation of the mTOR-
+S6K pathway. Mucosal Immunol. 8, 80–93.
+Ragsdale, S.W., and Pierce, E. (2008). Acetogenesis and the Wood-Ljungdahl
+pathway of CO(2) ﬁxation. Biochim. Biophys. Acta. 1784, 1873–1898.
+Reid, G., Charbonneau, D., Erb, J., Kochanowski, B., Beuerman, D., Poehner,
+R., and Bruce, A.W. (2003). Oral use of Lactobacillus rhamnosus GR-1 and L.
+fermentum RC-14 signiﬁcantly alters vaginal ﬂora: randomized, placebo-
+controlled trial in 64 healthy women. FEMS Immunol. Med. Microbiol. 35,
+131–134.
+Rey, F.E., Faith, J.J., Bain, J., Muehlbauer, M.J., Stevens, R.D., Newgard,
+C.B., and Gordon, J.I. (2010). Dissecting the in vivo metabolic potential of
+two human gut acetogens. J. Biol. Chem. 285, 22082–22090.
+Ridaura, V.K., Faith, J.J., Rey, F.E., Cheng, J., Duncan, A.E., Kau, A.L., Grifﬁn,
+N.W., Lombard, V., Henrissat, B., Bain, J.R., et al. (2013). Gut microbiota from
+Cell 165, June 2, 2016
+1343
+twins discordant for obesity modulate metabolism in mice. Science 341,
+1241214.
+Robertson, M.D., Bickerton, A.S., Dennis, A.L., Vidal, H., and Frayn, K.N.
+(2005). Insulin-sensitizing effects of dietary resistant starch and effects on
+skeletal muscle and adipose tissue metabolism. Am. J. Clin. Nutr. 82,
+559–567.
+Rubic, T., Lametschwandtner, G., Jost, S., Hinteregger, S., Kund, J., Carbal-
+lido-Perrig, N., Schwa¨ rzler, C., Junt, T., Voshol, H., Meingassner, J.G., et al.
+(2008). Triggering the succinate receptor GPR91 on dendritic cells enhances
+immunity. Nat. Immunol. 9, 1261–1269.
+Russell, W.R., Gratz, S.W., Duncan, S.H., Holtrop, G., Ince, J., Scobbie, L.,
+Duncan, G., Johnstone, A.M., Lobley, G.E., Wallace, R.J., et al. (2011).
+High-protein, reduced-carbohydrate weight-loss diets promote metabolite
+proﬁles likely to be detrimental to colonic health. Am. J. Clin. Nutr. 93,
+1062–1072.
+Russell, S.L., Gold, M.J., Hartmann, M., Willing, B.P., Thorson, L., Wlodarska,
+M., Gill, N., Blanchet, M.R., Mohn, W.W., McNagny, K.M., and Finlay, B.B.
+(2012). Early life antibiotic-driven changes in microbiota enhance susceptibility
+to allergic asthma. EMBO Rep. 13, 440–447.
+Samuel, B.S., Shaito, A., Motoike, T., Rey, F.E., Backhed, F., Manchester, J.K.,
+Hammer, R.E., Williams, S.C., Crowley, J., Yanagisawa, M., and Gordon, J.I.
+(2008). Effects of the gut microbiota on host adiposity are modulated by the
+short-chain fatty-acid binding G protein-coupled receptor, Gpr41. Proc.
+Natl. Acad. Sci. USA 105, 16767–16772.
+Sanchez, J.I., Marzorati, M., Grootaert, C., Baran, M., Van Craeyveld, V.,
+Courtin, C.M., Broekaert, W.F., Delcour, J.A., Verstraete, W., and Van de
+Wiele, T. (2009). Arabinoxylan-oligosaccharides (AXOS) affect the protein/
+carbohydrate fermentation balance and microbial population dynamics of
+the Simulator of Human Intestinal Microbial Ecosystem. Microb. Biotechnol.
+2, 101–113.
+Schnorr, S.L., Candela, M., Rampelli, S., Centanni, M., Consolandi, C., Basa-
+glia, G., Turroni, S., Biagi, E., Peano, C., Severgnini, M., et al. (2014). Gut mi-
+crobiome of the Hadza hunter-gatherers. Nat. Commun. 5, 3654.
+Schwiertz, A., Taras, D., Scha¨ fer, K., Beijer, S., Bos, N.A., Donus, C., and
+Hardt, P.D. (2010). Microbiota and SCFA in lean and overweight healthy sub-
+jects. Obesity (Silver Spring) 18, 190–195.
+Scott, K.P., Martin, J.C., Campbell, G., Mayer, C.-D., and Flint, H.J. (2006).
+Whole-genome transcription proﬁling reveals genes up-regulated by growth
+on fucose in the human gut bacterium ‘‘Roseburia inulinivorans’’. J. Bacteriol.
+188, 4340–4349.
+Shi, L.Z., Wang, R., Huang, G., Vogel, P., Neale, G., Green, D.R., and Chi, H.
+(2011). HIF1alpha-dependent glycolytic pathway orchestrates a metabolic
+checkpoint for the differentiation of TH17 and Treg cells. J. Exp. Med. 208,
+1367–1376.
+Singh, N., Thangaraju, M., Prasad, P.D., Martin, P.M., Lambert, N.A., Boettger,
+T., Offermanns, S., and Ganapathy, V. (2010). Blockade of dendritic cell devel-
+opment by bacterial fermentation products butyrate and propionate through a
+transporter (Slc5a8)-dependent inhibition of histone deacetylases. J. Biol.
+Chem. 285, 27601–27608.
+Singh, N., Gurav, A., Sivaprakasam, S., Brady, E., Padia, R., Shi, H., Than-
+garaju, M., Prasad, P.D., Manicassamy, S., Munn, D.H., et al. (2014). Acti-
+vation of Gpr109a, receptor for niacin and the commensal metabolite buty-
+rate, suppresses colonic inﬂammation and carcinogenesis. Immunity 40,
+128–139.
+Smith, E.A., and Macfarlane, G.T. (1997). Dissimilatory amino Acid metabolism
+in human colonic bacteria. Anaerobe 3, 327–337.
+Smith, P.M., Howitt, M.R., Panikov, N., Michaud, M., Gallini, C.A., Bohlooly-Y,
+M., Glickman, J.N., and Garrett, W.S. (2013). The microbial metabolites, short-
+chain fatty acids, regulate colonic Treg cell homeostasis. Science 341,
+569–573.
+Sonnenburg, E.D., Smits, S.A., Tikhonov, M., Higginbottom, S.K., Wingreen,
+N.S., and Sonnenburg, J.L. (2016). Diet-induced extinctions in the gut micro-
+biota compound over generations. Nature 529, 212–215.
+Soret, R., Chevalier, J., De Coppet, P., Poupeau, G., Derkinderen, P., Segain,
+J.P., and Neunlist, M. (2010). Short-chain fatty acids regulate the enteric neu-
+rons and control gastrointestinal motility in rats. Gastroenterology 138, 1772–
+1782.
+Taggart, A.K.P., Kero, J., Gan, X., Cai, T.Q., Cheng, K., Ippolito, M., Ren, N.,
+Kaplan, R., Wu, K., Wu, T.J., et al. (2005). (D)-beta-Hydroxybutyrate inhibits
+adipocyte lipolysis via the nicotinic acid receptor PUMA-G. J. Biol. Chem.
+280, 26649–26652.
+Tang, Y., Chen, Y., Jiang, H., Robbins, G.T., and Nie, D. (2011). G-protein-
+coupled receptor for short-chain fatty acids suppresses colon cancer. Int. J.
+Cancer 128, 847–856.
+Thangaraju, M., Cresci, G.A., Liu, K., Ananth, S., Gnanaprakasam, J.P.,
+Browning, D.D., Mellinger, J.D., Smith, S.B., Digby, G.J., Lambert, N.A.,
+et al. (2009). GPR109A is a G-protein-coupled receptor for the bacterial
+fermentation product butyrate and functions as a tumor suppressor in colon.
+Cancer Res. 69, 2826–2832.
+Thorburn, A.N., McKenzie, C.I., Shen, S., Stanley, D., Macia, L., Mason, L.J.,
+Roberts, L.K., Wong, C.H.Y., Shim, R., Robert, R., et al. (2015). Evidence
+that asthma is a developmental origin disease inﬂuenced by maternal diet
+and bacterial metabolites. Nat. Commun. 6, 7320.
+Tolhurst, G., Heffron, H., Lam, Y.S., Parker, H.E., Habib, A.M., Diakogiannaki,
+E., Cameron, J., Grosse, J., Reimann, F., and Gribble, F.M. (2012). Short-chain
+fatty acids stimulate glucagon-like peptide-1 secretion via the G-protein-
+coupled receptor FFAR2. Diabetes 61, 364–371.
+Trompette, A., Gollwitzer, E.S., Yadava, K., Sichelstiel, A.K., Sprenger, N.,
+Ngom-Bru, C., Blanchard, C., Junt, T., Nicod, L.P., Harris, N.L., and Marsland,
+B.J. (2014). Gut microbiota metabolism of dietary ﬁber inﬂuences allergic
+airway disease and hematopoiesis. Nat. Med. 20, 159–166.
+Tunaru, S., Kero, J., Schaub, A., Wufka, C., Blaukat, A., Pfeffer, K., and Offer-
+manns, S. (2003). PUMA-G and HM74 are receptors for nicotinic acid and
+mediate its anti-lipolytic effect. Nat. Med. 9, 352–355.
+Turnbaugh, P.J., Ley, R.E., Mahowald, M.A., Magrini, V., Mardis, E.R., and
+Gordon, J.I. (2006). An obesity-associated gut microbiome with increased ca-
+pacity for energy harvest. Nature 444, 1027–1031.
+Venter, C.S., Vorster, H.H., and Cummings, J.H. (1990). Effects of dietary pro-
+pionate on carbohydrate and lipid metabolism in healthy volunteers. Am. J.
+Gastroenterol. 85, 549–553.
+Videla, S., Vilaseca, J., Guarner, F., Salas, A., Treserra, F., Crespo, E., Antolı´n,
+M., and Malagelada, J.R. (1994). Role of intestinal microﬂora in chronic inﬂam-
+mation and ulceration of the rat colon. Gut 35, 1090–1097.
+Vital, M., Howe, A.C., and Tiedje, J.M. (2014). Revealing the bacterial butyrate
+synthesis pathways by analyzing (meta)genomic data. MBio 5, e00889.
+Wall, R., Ross, R.P., Shanahan, F., O’Mahony, L., O’Mahony, C., Coak-
+ley, M., Hart, O., Lawlor, P., Quigley, E.M., Kiely, B., et al. (2009). Meta-
+bolic activity of the enteric microbiota inﬂuences the fatty acid composi-
+tion of murine and porcine liver and adipose tissues. Am. J. Clin. Nutr.
+89, 1393–1401.
+Wang, T., Cai, G., Qiu, Y., Fei, N., Zhang, M., Pang, X., Jia, W., Cai, S., and
+Zhao, L. (2012). Structural segregation of gut microbiota between colorectal
+cancer patients and healthy volunteers. ISME J. 6, 320–329.
+Wise, A., Foord, S.M., Fraser, N.J., Barnes, A.A., Elshourbagy, N., Eilert, M.,
+Ignar, D.M., Murdock, P.R., Steplewski, K., Green, A., et al. (2003). Molecular
+identiﬁcation of high and low afﬁnity receptors for nicotinic acid. J. Biol. Chem.
+278, 9869–9874.
+Yajima, T., Inoue, R., Matsumoto, M., and Yajima, M. (2011). Non-neuronal
+release of ACh plays a key role in secretory response to luminal propionate
+in rat colon. J. Physiol. 589, 953–962.
+Yamashita, H., Fujisawa, K., Ito, E., Idei, S., Kawaguchi, N., Kimoto, M., Hie-
+mori, M., and Tsuji, H. (2007). Improvement of obesity and glucose tolerance
+by acetate in Type 2 diabetic Otsuka Long-Evans Tokushima Fatty (OLETF)
+rats. Biosci. Biotechnol. Biochem. 71, 1236–1243.
+1344
+Cell 165, June 2, 2016
+Yin, X., Farin, H.F., van Es, J.H., Clevers, H., Langer, R., and Karp, J.M. (2014).
+Niche-independent high-purity cultures of Lgr5+ intestinal stem cells and their
+progeny. Nat. Methods 11, 106–112.
+Yoo, D.Y., Kim, W., Nam, S.M., Kim, D.W., Chung, J.Y., Choi, S.Y., Yoon, Y.S.,
+Won, M.H., and Hwang, I.K. (2011). Synergistic effects of sodium butyrate, a
+histone deacetylase inhibitor, on increase of neurogenesis induced by pyri-
+doxine and increase of neural proliferation in the mouse dentate gyrus. Neuro-
+chem. Res. 36, 1850–1857.
+Zaiss, M.M., Rapin, A., Lebon, L., Dubey, L.K., Mosconi, I., Sarter, K., Piersi-
+gilli, A., Menin, L., Walker, A.W., Rougemont, J., et al. (2015). The Intestinal
+Microbiota Contributes to the Ability of Helminths to Modulate Allergic Inﬂam-
+mation. Immunity 43, 998–1010.
+Cell 165, June 2, 2016
+1345
+
